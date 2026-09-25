@@ -50,6 +50,10 @@ And Marek wrote it down and then stopped, with the pen on the paper, because she
 
 He went and looked. He went round nine yards' worth of Tallow Ward with her and then he wrote the piles out on the back of the list in his own hand, which is a thing he has never in his life done and which is the only way he has ever changed his mind.
 
+The list had been sixty-one when she walked in at the second bell. It was a hundred and thirty at the fourth and it was still going, and neither of them put a total at the head of it, because a total said out loud in a yard is a number somebody repeats in a room with the yard left off it.
+
+And sitting there in the wet with a wet sleeve and a hundred and thirty names on a piece of paper, he understood the thing that had been sitting under all four of his hours, and it was this: a record had never been the territory. He had spent four years learning that a thing written down is a thing that happened, and he had built a document out of a yard in an afternoon, and it was a document about a ward, and not one line of it could be read out in a room to a person who was not a clerk. The record was only ever the one place the territory was allowed to stand still long enough to be looked at, and everything he had ever hoarded had been him trying to keep it still.
+
 *The Silt's years.* Nobody's instrument. Nine days of a flood, a ward that was drawing two and three-quarter times its schedule on carried water and boiled pans and no sleep, and a room full of people whose bodies are paying a fortnight of the fourteenth and the fifteenth now and will go on paying for years. They are not owed by anybody. They are owed by the river.
 
 *The vigor clauses.* Forty-one names so far, form numbers, dates, witnesses. Lawful, witnessed, informed, and the form reads as reasonably as any hire contract a man has ever signed. Twelve of them are already showing a season's scar. Nine of the twelve are fuel-yard or bridge hands, which is not a coincidence and is not anybody's fault.
@@ -110,11 +114,11 @@ He was aware of the shape of it exactly, because he had built the same shape in 
 
 "Yes," said Neris Kade. "It is. And that is the argument, and you have made it, and you did not make it as a clerk. Get your mother in, and the fuel yard, and the school, and anybody in this ward who has a body and a reason. A man who is owed has to be able to point at something. Ask them what they would put at the head of the column, write down every answer, and do not write your own down at all."
 
-They did that until it was dark, and forty-one people came past that table in the wet and said a sentence about a column heading, and the sentence that appeared eleven times was *the sixth to the fourteenth*, and the sentence that appeared nine times was *the day the clerk took it up*, and four people said something much worse and one of those four was a woman of fifty in a Warden's coat who had been two nights at a sluice with a bucket.
+They did that until it was dark, and forty-one people came past that table in the wet and said a sentence about a column heading, and the sentence that appeared eleven times was *the sixth to the fourteenth*, and the sentence that appeared nine times was *the day the clerk took it up*, and four people said something much worse, each of them in her own words, and one of those four was a woman of fifty in a Warden's coat who had been two nights at a sluice with a bucket, and the other seventeen gave one of the two that had already been said twice as often, and were written down anyway.
 
-Neither of them got what they wanted. He did not get a description he could defend. She did not get a list of names. They got a form, four sheets on the table, and a column heading written four different ways in forty-one hands with a blank space left at the top of it, and Neris Kade folded the pen and said, in a voice with nothing in it at all:
+Neither of them got what they wanted. He did not get a description he could defend. She did not get a list of names. They got a form, four sheets on the table, and a column heading written in four ways in forty-one hands — the two sentences that kept coming back, and the two worse ones, which between them made the four — with a blank space left at the top of it, and Neris Kade folded the pen and said, in a voice with nothing in it at all:
 
-"You are the first clerk I have worked with who has made himself worse on the record on purpose. Do not thank me for it. I have not forgiven you for Thursday and I am not going to, and we are going to have a great deal more Thursdays, and I would like that on your list too."
+"You are the first clerk I have worked with who has made himself worse on the record on purpose. Do not thank me for it. I have not forgiven you for Tuesday and I am not going to, and we are going to have a great deal more Tuesdays, and I would like that on your list too."
 
 "Noted," said Marek, and wrote it down, and it was the only entry he made that week that he did not have to go back and correct.
 

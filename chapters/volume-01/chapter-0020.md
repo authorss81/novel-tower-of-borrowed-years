@@ -72,7 +72,7 @@ He watched Skar add up a column with a pencil, and watched the column agree with
 
 And then, at the fifth bell, when Skar had signed and gone, and Hesper had entered the hour in the desk's book and the clerk's name and the cause, and the recount was a completed, lawful, properly executed act by a supervisor with a third-grade clerk present, Marek got his own book out of his coat.
 
-The back page had a footnote and a margin in it, in his own hand, made in a cold vault on the twelfth of the rains in breach of a standing order of the Yearspire Trust, and under that a labour schedule he had written out from memory three times. He turned to the last half of the page and pulled the ink stopper out of his own pen and wrote a third document.
+The back page had a footnote and a margin in it, in his own hand, made in a cold vault on the twelfth of the rains in breach of a standing order of the Yearspire Trust, and under that a labour schedule he had made three times over — once off the original in that same vault, once off his own head on a stair at four in the morning on the night of the fourteenth, and once off Kelb's copy on the night of the sixteenth. He turned to the last half of the page and pulled the ink stopper out of his own pen and wrote a third document.
 
 Nine words. In the levy office's hand. In the box at the top of a form that was not the form and had no box.
 
@@ -88,7 +88,7 @@ Hesper watched him do it. He did not ask what he had written, and Marek understo
 
 "Mr Rann."
 
-"Two things and then I have a train of appointments." Hesper had the form in a drawer and shut it. "The first is that I have known for six days that you would not take the schedule and I have let it stand in that room until this morning because I am a man who offers a thing twice. I do not think you are a coward and I do not think you are a fool and I have watched you for six days and I would have told you to take it, and I am telling you again now, and it is still on the paper."
+"Two things and then I have a train of appointments." Hesper had the form in a drawer and shut it. "The first is that I have known for four days that you would not take the schedule and I have let it stand in that room until this morning because I am a man who offers a thing twice. I do not think you are a coward and I do not think you are a fool and I have watched you for six days and I would have told you to take it, and I am telling you again now, and it is still on the paper."
 
 Marek said nothing.
 
@@ -98,7 +98,7 @@ That was the whole of Hesper Rann's kindness, and it was delivered in a supervis
 
 ---
 
-He was still in the building at the last of the light with the copy room empty and the lamps along the north wall going about their business, and he took out the four sheets and laid them on the desk side by side, because there are four accounts of Tallow Ward's water in the city tonight and none of them agree and the reason they do not agree is that each of them is right.
+He was still in the building at the last of the light with the copy room empty and the lamps along the north wall going about their business, and he took out the four sheets and laid them on the desk side by side, because there are four hands in the city tonight with a figure of Tallow Ward's water in each of them, and none of them agree, and the reason they do not agree is that each of them is right.
 
 The file's, under a Deputy Settlement Steward's seal: the junction delivered six hundred and forty hundreds of pints, and the ward's lawful requirement was one hundred and sixty, and the excess was a lawful settlement standing.
 
@@ -108,7 +108,7 @@ The copy that the Fund's board now carried in a case of its own, off the foot of
 
 The examiner's, on the back of a complaint sheet, in a hand that had been counting people and not litres since the fourteenth: four hundred and forty-one, because she counted the Ropewalk standpipe by the hour and the yards counted it by the day, and a hundred more over a fortnight of flood is a thing that has a name, and the yard men would say it is her arithmetic and she would say it is theirs, and neither of them is lying, and there is no document in the tower that will ever close it.
 
-Four hands. Six hundred and forty, four hundred and forty, two hundred and seventy-nine and forty, four hundred and forty-one, and one hundred and sixty that only the Trust is allowed to know about.
+Four hands. Six hundred and forty, four hundred and forty, two hundred and seventy-nine and forty, four hundred and forty-one — and then one hundred and sixty, which is not a hand's at all and which only the Trust is allowed to know about.
 
 None of them agreed. Every one of them had been made by somebody who was doing their best, and the best available in Morrowfen on the twenty-first of the rains was a set of numbers that did not close, and a hold, and a boy in a low bed, and a man in a stair with a piece of paper he could not produce and would not be able to produce for the rest of his life.
 

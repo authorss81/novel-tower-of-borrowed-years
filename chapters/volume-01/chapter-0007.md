@@ -1,6 +1,6 @@
 # Chapter 7 — Two More Days
 
-The certification came up to his bench at the first light of the thirteenth day of the rains, and Marek read it twice, and then he did not sign it, and then he spent the day in a hole in the ground on the Tallow line with a Warden crew and four of Aldis Kern's men, which was not what a third-grade clerk did on a Wednesday, and which he had already decided to do before he had decided to do it.
+The certification came up to his bench at the first light of the thirteenth day of the rains, and Marek read it twice, and then he did not sign it, and then he spent the day in a hole in the ground on the Tallow line with a Warden crew and four of Aldis Kern's men, which was not what a third-grade clerk did on a Sunday, and which he had already decided to do before he had decided to do it.
 
 The certification was a single sheet headed *Delivery schedule, Tallow Ward, season 412, day of peak* and it certified, for the fourteenth, the ward's lawful requirement at the standing schedule, and the standing schedule was forty pints a head for a worker and thirty for a person who does not work, and a child at the mother's discretion, and it certified that requirement as the whole of what the ward would be entitled to on the night of the highest water in nine years.
 

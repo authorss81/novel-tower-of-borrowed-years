@@ -94,7 +94,7 @@ Marek said, "Mrs Kelb, I would—"
 
 "Nineteenth?"
 
-"The nineteenth," said Milena Kelb. "That's a Saturday. The school closes its books on Friday the twenty-third and I'll have to be in that room on the Friday anyway. So that's the nineteenth, and I have written it in the book, and you can put it wherever you put things."
+"The nineteenth," said Milena Kelb. "That's a Saturday. The school closes its books on the twenty-third and I'll have to be in that room on the twenty-third anyway. So that's the nineteenth, and I have written it in the book, and you can put it wherever you put things."
 
 Then she picked up the sheet she had brought for the folding, unfolded it, and began to fold it again, and Marek understood that the conversation was over and had been over for some minutes.
 

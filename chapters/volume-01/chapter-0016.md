@@ -32,7 +32,7 @@ He turned a file round on the desk and pushed it two inches towards the end wher
 
 Marek did not touch it.
 
-He was aware of the ache starting up behind the right eye, of the hall going hard-edged at the corners, and of the fact that the file was lying open on a desk with the cause line facing up, and of the arithmetic he had been doing all week without admitting he was doing it: five times in ten days, and a parcel in his coat he had eaten and could not remember, and a quarter of an hour of the twelfth night, and an hour on the night of the fourteenth with a man's voice in it that was gone for good. He had begun, on the seventeenth, to budget for the fee. That was the horror of it, and it was so ordinary that he had told nobody: he was a third-grade clerk with a good eye for mismatched ink, and he was working out what he could afford to spend on the thing that let him stop using it.
+He was aware of the ache starting up behind the right eye, of the hall going hard-edged at the corners, and of the fact that the file was lying open on a desk with the cause line facing up, and of the arithmetic he had been doing all week without admitting he was doing it: five times in five days, the tenth to the fourteenth, and a parcel in his coat he had eaten and could not remember, and a quarter of an hour of the twelfth night, and an hour on the night of the fourteenth with a man's voice in it that was gone for good. He had begun, on the seventeenth, to budget for the fee. That was the horror of it, and it was so ordinary that he had told nobody: he was a third-grade clerk with a good eye for mismatched ink, and he was working out what he could afford to spend on the thing that let him stop using it.
 
 He took his hands off the desk and put them in his lap.
 
@@ -109,5 +109,13 @@ Not of Hesper. Not of the file. Of a form with a date on it.
 He had carried it six days. Six days of not being able to say out loud in a room *I suspended a settlement that was false-witnessed and a boy lost his hand*, and every hour of it had been building toward a thing he had mistaken for courage, and it turned out that what he had actually wanted, since about the eleventh of the rains, was for somebody else to be the man who said it.
 
 And a supervisor in a room two doors along from the copy room had been about to give him exactly that, in exchange for a piece of paper that had been lying face down on a bench for six days.
+
+And then, after a while, without taking his hand off the rail, he worked out the other half of it, and the other half was the worse one.
+
+Not one of them had said the boy's name.
+
+Hesper had known since the ninth that a junior of the third week had put a pencil to a column, and he had gone clean over it twice in that room — once in the middle of a paragraph about a clinic that would treat nine people free for a fortnight, and once in the middle of four dead people — and had come to the offer anyway. Marek had said *I carried him down a lane* and *I know you know about the hand* and had meant both, and had not once said *Ondra*. Two men in a room with a door in it, being entirely reasonable with each other over a sheet with a date on it; and the years out of the middle of a boy's hand, which was the whole of what this had cost anyone, done to him by two careful people who were discussing a schedule.
+
+That was the part he would not be able to say out loud afterwards. It had not taken a villain. It had taken a supervisor with a schedule in a drawer and a clerk with a reason to want it, and it had taken about eleven minutes, and nobody in that room had been unkind, and the boy had been sitting one line further down than either of them was looking.
 
 Down below him, off the Basin road, the north road went up out of the ward toward the span, and the two days of hard standing in the weather had given them four days' work to do, and there would be men on it at first light, and one of them would be his brother.

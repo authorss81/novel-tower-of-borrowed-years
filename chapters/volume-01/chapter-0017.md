@@ -42,11 +42,11 @@ Then he lay on his back on the mud and looked at his own hands, which were still
 
 "It is what?"
 
-"Two weeks." He said it perfectly level, lying in the wet, looking at his hands. "I took the crew's draw on the sixteenth of the rains. Same form your brother has. The bond's the gang's and the draw's the man's, and I went down to the counter-desk on the Wednesday and signed for twenty-six months of my own recovery, scope the north-road span and the load path, two witnesses, one of them Cveta, and the settlement is eleven days a season at the ordinary wage. And the pay chest took my Tuesday's worth of the four-day draw out on the second, which is a fortnight ago, and I have been strong as a bull for a fortnight, and the body's been putting the whole of it in now, and it isn't going to put it in a piece at a time."
+"Two weeks of the hand, off the top, before I have lifted anything that counts." He said it perfectly level, lying in the wet, looking at his hands. "I took the crew's draw on the sixteenth of the rains. Same form your brother has. The bond's the gang's and the draw's the man's, and I went down to the counter-desk on the Wednesday and signed for twenty-six months of my own recovery, scope the north-road span and the load path, two witnesses, one of them Cveta, and the settlement is eleven days a season at the ordinary wage. And the pay chest takes the first four days of a draw up front, so the money came on Wednesday and there has been none since, and I have been strong as a bull since Wednesday, and the body's been putting the whole of it in now, and it isn't going to put it in a piece at a time."
 
 Nobody said anything.
 
-"So that's the answer to your question, clerk," said Ostrek, from the mud. "Ask me if I'd have signed it on the Wednesday with somebody telling me what it was going to cost. No. Not that week, not with a stop on it. Ask me if I'd have signed it on the Wednesday with nobody telling me anything, the way the form reads, which is what happened, because the form reads like a hire contract and there's a line at the top that says *you will find the terms reasonable* and I have never in my life not found terms reasonable."
+"So that's the answer to your question, clerk," said Ostrek, from the mud. "Ask me if I'd have signed it on the Wednesday with somebody telling me what it was going to cost. No. Not that morning, not with a stop on it. Ask me if I'd have signed it on the Wednesday with nobody telling me anything, the way the form reads, which is what happened, because the form reads like a hire contract and there's a line at the top that says *you will find the terms reasonable* and I have never in my life not found terms reasonable."
 
 Marek got down into the wet and knelt beside him.
 
@@ -78,7 +78,7 @@ He came down off the hill at dusk with his coat soaked and went along Sill Road 
 
 Marek stopped.
 
-"It's got four in it," said Lio, "and it's the same four as the other one, and it's lower down, and you never told me and you said last Thursday in a room that you would tell me and then you did not tell me."
+"It's got four in it," said Lio, "and it's the same four as the other one, and it's lower down, and you never told me and you said last Friday in a room that you would tell me and then you did not tell me."
 
 "You did not hear me say that."
 

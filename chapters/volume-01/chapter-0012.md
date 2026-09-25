@@ -44,7 +44,7 @@ He turned the sheet over.
 
 "Rezek's hands," somebody said.
 
-"Rezek's hands," Kern agreed. "I will come to Rezek's hands. Here's the other of it. There's a school on Sill Row and the district account pays for it and the district account is what this levy is drawn out of, at the ordinary wage, by the day. The account is overdrawn. It is three and a half times overdrawn, and at the end of the month the office draws the days up, and when the office draws days up it does not come to a yard and ask. It takes the cheapest line in the account. That's the lamp oil on the Basin road. That's the school."
+"Rezek's hands," Kern agreed. "I will come to Rezek's hands. Here's the other of it. There's a school on Sill Row and the district account pays for it and the district account is what this levy is drawn out of, at the ordinary wage, by the day. The account is overdrawn. It is two hundred and forty per cent overdrawn, and at the end of the month the office draws the days up, and when the office draws days up it does not come to a yard and ask. It takes the cheapest line in the account. That's the lamp oil on the Basin road. That's the school."
 
 The yard was very quiet.
 
@@ -84,7 +84,7 @@ Marek had been waiting for it since the fourth bell of the fourteenth and it had
 
 "And the boy at the counter," said the voice. "The one in the clinic."
 
-"The boy at the counter was given a document with a column of totals on it and a pencil, and he added the column up, and the column was right, and he signed it, and that is a fact and it is a fact in his favour, and the clerks of this building have been telling the ward for two days that he was careless with a number, and he was not. He was three weeks in the post. There were not enough third-grade clerks in Morrowfen on the ninth for anybody else to be at that desk. If you want somebody to be angry at, the honest place to be angry at is the office of the man who wrote the column, and I am not going to stand in a yard and hand you a boy of twenty to be angry at instead, because there is a room on the island this morning where the whole of it is written down, and in that room his name is the one on the instrument, and my name is on a different paper, and if somebody confuses those two papers it will be because somebody in this tower wanted them confused."
+"The boy at the counter was given a document with a column of totals on it and a pencil, and he added the column up, and the column was right, and he signed it, and that is a fact and it is a fact in his favour, and the clerks of this building have been telling the ward for two days that he was careless with a number, and he was not. He had three weeks in the post on the ninth. There were not enough third-grade clerks in Morrowfen on the ninth for anybody else to be at that desk. If you want somebody to be angry at, the honest place to be angry at is the office of the man who wrote the column, and I am not going to stand in a yard and hand you a boy of twenty to be angry at instead, because there is a room on the island this morning where the whole of it is written down, and in that room his name is the one on the instrument, and my name is on a different paper, and if somebody confuses those two papers it will be because somebody in this tower wanted them confused."
 
 Somebody said, "That's the tower's business, that."
 
