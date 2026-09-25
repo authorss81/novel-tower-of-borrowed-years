@@ -64,6 +64,10 @@ The future era from which the Last Convocation escaped. It is not another access
 
 The nine survivors who crossed backward from the Last Meridian and built the first version of the tower. Their crossing created the First Account.
 
+### One-way year seam
+
+The single pass the Last Convocation made by collapsing their own Yearwell inward, in the country that no longer exists. It is not a Yearwell use and not a door: it opens only where the collapse happened, cannot be aimed, cannot be reopened, and has never carried a living passenger twice. Its price, the lost future they pledged, is already spent and is the missing year at the head of every ledger. Every later “return” ritual in Morrowfen is a fraud worked with borrowed records.
+
 ## Contract terms
 
 ### Yearline
@@ -88,7 +92,7 @@ An independent person who understands the material terms of a loan and confirms 
 
 ### Witness quorum
 
-A finding recorded by at least three independent local witness rooms, with no two sharing an employer, surety, or certifying institution. A quorum can end an absent founding claim after the sealed record is opened, but it cannot rewrite a settled personal history or force a living person to pledge a future.
+A finding recorded by at least three independent local witness rooms, with no two sharing an employer, surety, or certifying institution. Authenticating the sealed founding copy is what makes a finding admissible; the **challenge window** that follows governs who sits. It begins when the rooms are seated to hear the claim and belongs to the parties who can still be named and served — the current First Auditor and the administrators who certified the founding records. A quorum can end an absent founding claim, but it cannot rewrite a settled personal history or force a living person to pledge a future. A successful objection removes a room and forces a replacement from an untied district; a quorum bought with one paid counter-signature is void.
 
 ### Scope
 
@@ -101,6 +105,10 @@ The moment the pledged future consequence comes due. Settlement can be paid thro
 ### Shortfall
 
 A situation in which the future named by a contract no longer contains enough capacity to pay it. The tower traces responsibility to the borrower, surety, certifying institution, or affected district in that order. After the Open Account transition, its public reserve replaces the district in that chain for a narrowly pledged living-person future; a district pays only for a present contribution it separately accepted.
+
+### Public reserve
+
+The Open Yearspire's common fund of present contributions, seized Trust assets, fines, and restitution. It is what pays when a pledged future becomes impossible, and it is deliberately too small to cover a lie. It is a floor, not a promise, and its shortfalls are published every year.
 
 ### Year scar
 
@@ -120,7 +128,7 @@ A named future consequence that balances a sequence loan. If a storm is moved aw
 
 ### Boundary Hold
 
-Marek's second power stage: briefly hold one settlement or one crossed boundary in place. It postpones rather than cancels a consequence, and the postponed cost returns to his body or to a later settlement. This ability is not the same thing as a sequence loan's counterweight.
+Marek's second power stage: briefly hold one settlement or one crossed boundary in place. It postpones rather than cancels a consequence. The delay is stored in his own yearline, and when the hold ends the collection walks the contract's responsibility chain — borrower, then surety, then the living clerk who certified the entry when the chain is false-witnessed. A Hold adds nobody to that chain: if nobody on it can pay, the shortfall still ends with the affected district, and the holder is left carrying the toll of the delay as a year scar. He chooses the settlement and the duration, never the destination, and the cost can never reach a bystander who did not borrow, guarantee, witness, or certify. This ability is not the same thing as a sequence loan's counterweight.
 
 ### Returnpath
 
@@ -142,11 +150,11 @@ A loan of practiced skill or judgment from a possible future working life. Its c
 
 ### Sequence loan
 
-A loan that favors one bounded local event over another. Its cost is a counterweight elsewhere. It is not general luck and cannot force a person to make a choice.
+A loan that favors one bounded local event over another. Its cost is a counterweight elsewhere. It is not general luck and cannot force a person to make a choice. Before the transition, a counterweight could land on people who were never asked. After it, the counterweight must be named to the people it will fall on, accepted by them as a group, and withdrawable before sealing; if nobody has accepted it, the tower records a shortfall and the public reserve pays.
 
 ### Record loan
 
-A rare loan that changes what an institution will accept as identity, testimony, or legal history. Its cost is memory, relationship, or public standing. It changes institutional recognition, not physical fact.
+A rare loan that changes what an institution will accept as identity, testimony, or legal history. Before the transition, its cost could be a witness's memory or a family's legal relationship. After it, the contractual cost falls on the borrower's own yearline and then the public reserve. The damage a changed record does to other people is still real and still recorded, but it can no longer be pledged away by someone who was not asked to pay it. It changes institutional recognition, not physical fact.
 
 ### Ledger Sight
 
@@ -169,6 +177,10 @@ The hidden reserve created during the Last Convocation's crossing. It is an aggr
 ### Founder's Clause
 
 The emergency agreement by which the nine Last Convocation survivors treated their own lost future as surety for the crossing. It was made before the current witness system existed, and no living person consented to its terms. The clause is the reason the First Account can be drawn on at all; it is also the moral and legal wound the final Open Account must resolve.
+
+### Release
+
+In the founding claim, release has one meaning and no other: the claim is **voided** and its entry is **returned to the public record** so that anyone may read what was taken and who took it. Release is disclosure and discharge, never recovery. The crossing year is not restored, no lost world is recovered, and no capacity is handed to a new chosen life. The same verb is used elsewhere for letting go of a claim or of a possible self — Marek releases the future self behind his Ledger Sight, the returnists release their claim to the remembered Last Meridian — and in those cases too nothing is recovered. Characters who speak loosely about “getting the year back” are expressing hope or a threat, and the ending corrects them.
 
 ### First Auditor
 

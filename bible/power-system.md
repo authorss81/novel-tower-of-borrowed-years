@@ -94,6 +94,24 @@ A year scar can be a season of missing harvests, a child absent from a school ro
 
 If a contract is forged, the same chain can make a powerful person, family, or office visibly responsible. The purpose is to make coercion traceable, not to guarantee that the victim is the only one who suffers.
 
+### Holds and the responsibility chain
+
+A Boundary Hold is not a new debt and it does not create one. It does not add a party to the chain either. For the length of the hold the postponed consequence is stored in the holder's own yearline; when the hold ends, the collection resumes on the original contract and walks the chain in §6.
+
+1. If the named borrower is alive and able, the borrower pays and the storage is returned to the holder undamaged.
+2. If the borrower is dead, absent, or unable, the named surety pays.
+3. If neither can pay, the certifying institution pays. In a false-witnessed contract that institution is usually a living clerk who countersigned in good faith, because a clerk's counter-signature is the institution's act and the tower holds the officer accountable for it.
+4. If no one on the chain can pay, the tower records an ordinary shortfall under §6, which still ends with the affected district. The holder is not a new terminal party and does not become the district's debtor. What the holder carries meanwhile is the toll of having held the delay in his own body, and it stays as a year scar after the shortfall is settled.
+
+This is the whole danger of a Hold, and it has hard edges:
+
+- A Hold can never reach a person who did not borrow, guarantee, witness, or certify the contract. People who merely attended a hearing, and bystanders who were present when it went wrong, are unreachable.
+- A Hold cannot be aimed. The holder chooses the settlement and the duration; the chain decides where the cost lands, and the holder finds out by watching.
+- The holder pays for the delay and not for the debt, unless the debt is the holder's own. A Hold is not cheap; it is a loan of storage that may become a gift.
+- A Hold cannot be released early by paying less. Ending it early ends the delay, not the debt.
+
+A Hold therefore punishes exactly the mistake the tower rewards in a clerk: trusting a clean file.
+
 ## 7. Cancellation and limits
 
 A loan can be:
@@ -128,7 +146,19 @@ The final Open Account can be created only by releasing that absent claim and re
 
 After the transition, an Open Account has two lawful sources: real-time present contributions and a narrow future pledge made by a living person in person. A present contribution expires when the work, care, or recovery ends. A future pledge must name the exact capacity, cannot name an unborn child or an absent ancestor, cannot use a third party as silent collateral, and may be refused before sealing. If the pledged future becomes impossible, the institution bears the shortfall; it cannot substitute another person's yearline. This is an explicit exception to the general shortfall chain: after the transition, the public institution's reserve pays first, and a district is not assigned the loss unless it has separately accepted a present contribution.
 
-Once the sealed founding copy is opened, a quorum of independent local witness rooms can record a finding that the Founder's Clause has no living consent chain. That finding ends the First Account's authority; it does not restore the crossing year or transfer its capacity to a replacement person. The quorum can be challenged, but no single auditor can overrule it.
+The transition also changes how the four forms pay, which is where the old system's cruelty was most ordinary:
+
+- **Vigor and craft** costs are the borrower's own yearline, pledged narrowly and in person.
+- **Sequence** may no longer use an uninvolved person as its counterweight. The counterweight must be a consequence the affected people were told about in the same witnessed proceeding, must be accepted by them as a group, and may be withdrawn before sealing. Where nobody has accepted it, the tower records a shortfall and the public reserve pays. A sequence loan can no longer decide that some stranger's harvest, child, or marriage is the price of a storm.
+- **Record** may no longer take a witness's memory or a family's legal relationship as its price. The contractual cost falls on the borrower's own yearline and then the reserve. What a changed record does to other people—the sibling who loses an inheritance, the household that must be told, the name that no longer matches a door—remains a consequence of the change, honestly recorded, and can no longer be pledged away by a third party who was not asked.
+
+The forms still work. What changes is that the cost is no longer somebody else's private future, and the difference is visible on the page.
+
+Once the sealed founding copy has been opened and authenticated, a quorum of independent local witness rooms can record a finding that the Founder's Clause has no living consent chain. That finding ends the First Account's authority; it does not restore the crossing year or transfer its capacity to a replacement person. The quorum can be challenged, but no single auditor can overrule it.
+
+A quorum is built, not assumed. It requires at least three rooms whose members share no employer, surety, or certifying institution, and the record must name the specific disqualifying tie when one is alleged. Authentication of the sealed founding copy is what makes a finding admissible; the window that follows governs who sits, not what the finding may say. The moment those rooms are seated to hear the claim, anyone with standing in it gets a **challenge window** of stated length—in the final volume, nine days, extendable once on a filed objection—in which to object to a room's independence. Standing belongs to the parties who can still be named and served: the current First Auditor and the administrators who certified the founding records. The founders themselves are absent, cannot be notified, and hold no standing, which is precisely why their claim is open to challenge at all.
+
+A successful objection removes that room and forces a replacement drawn from a district with no other tie to the fund. Losing the window, or filling a room with a paid counter-signature, voids the finding. This is why Edren's side fights the composition of the rooms rather than the substance of the finding: the finding is sound, and a quorum that is bought is worthless.
 
 ## 10. Marek's progression
 
@@ -137,7 +167,7 @@ Marek begins as a trained clerk and gains Ledger Sight during Volume 1. His late
 | Stage | What Marek can do | What it cannot do | Cost and practice |
 | --- | --- | --- | --- |
 | **Ledger Sight** | See a current contract's visible entries, witness chain, and immediate mismatch after physical contact with the record. | Predict a future, know intent, or produce a missing entry. | Headaches, tunnel vision, and temporary loss of a recent ordinary memory after repeated use. He learns by copying and correcting real files. |
-| **Boundary Hold** | Hold one settlement or one crossed boundary in place for a short interval, usually a few bells. | Cancel a debt permanently, reverse a completed effect, or delay many contracts at once. | The postponed cost appears in Marek's body or in a later settlement. Delays can bunch every debt into one crisis. This is Marek's ability, not a sequence loan's counterweight. |
+| **Boundary Hold** | Hold one settlement or one crossed boundary in place for a short interval, usually a few bells. | Cancel a debt permanently, reverse a completed effect, delay many contracts at once, or choose where the postponed cost lands. | The delay is stored in his own yearline. When the hold ends, the contract's chain collects: the borrower, then the surety, then the living clerk who certified the entry when the chain is false-witnessed. A Hold adds nobody to that chain, so an unpayable debt still ends with the affected district and Marek is left carrying the toll of the delay as a year scar. It can never reach an uninvolved bystander. Delays can bunch every debt into one crisis. This is Marek's ability, not a sequence loan's counterweight. |
 | **Season Hand** | Direct one already-authorized vigor, craft, or sequence effect toward a named person or object within its stated scope. | Increase the effect, invent a new power, or force a recipient to accept it. | Incompatible directions attach the debt to Marek. He must learn the actual need rather than assuming the ledger's wording is enough. |
 | **Returnpath** | Split a live obligation among consenting holders and redirect a portion of a future cost to a public pool or named surety. | Restore a lost life, erase the original debt, or transfer it to an unwilling person. | He carries the sensory and emotional echoes of each obligation and loses privacy about his own future. |
 | **Branch Auditor** | Compare several plausible contract outcomes using physical evidence, testimony, and existing records. | See every possibility, distinguish moral truth from probability, or predict what people will freely choose. | Contradictory memories and vertigo can make him temporarily distrust the wrong account. He must gather independent human accounts. |

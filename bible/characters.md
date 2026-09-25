@@ -57,7 +57,7 @@ The relationship is a slow burn built on friction, professional respect, and sha
 - They exchange a personal truth during the Hollow North expedition in Volume 8.
 - Marek withholds a record that could clear him of an old audit error but would expose Tomas's original claim and endanger Neris's district in Volume 12; the breach damages trust.
 - In Volume 14, both stop trying to protect the other from the truth and choose equal partnership.
-- In Volume 16, they sign as independent witnesses to the Open Charter, not as a romantic contract.
+- In Volume 16, they sign as independent witnesses to the districts' provisional year commons, and again in Volume 18 for the Open Charter itself, never as a romantic contract.
 - In the final volume, they choose a shared life without making either one a guarantee for the other.
 
 There is no competing romantic relationship. Their first physical affection is late, earned, and awkward around people who knew them only as coworkers.
@@ -120,7 +120,7 @@ Ilya becomes the final engine's physical anchor: he does not solve the philosoph
 **Goal:** keep Morrowfen functioning even if the official record has to bend
 **Flaw:** believes that a small lie made for a public good is a practical sacrifice
 
-Hesper falsifies a Tallow Ward water entry in Volume 1 so that a floodgate loan can be approved before the district runs dry. The lie delays a settlement, but it also sends the cost into a hidden reserve. He is not a cartoon villain: he has kept clinics open, knows every clerk's weaknesses, and believes the alternative is a corpse in a gutter.
+Hesper falsifies a Tallow Ward water entry in Volume 1 so that a floodgate loan can be approved before the district runs dry. He believes the cost is hidden, folded into a reserve that appears on no public roll and can be paid off administratively. He is wrong in a way that matters: a falsified entry is false-witnessed, so the tower keeps the responsibility chain intact and looks for a living certifier instead of a ledger line. He is not a cartoon villain: he has kept clinics open, knows every clerk's weaknesses, believes the alternative is a corpse in a gutter, and is genuinely astonished that his private arithmetic has a witness in it.
 
 Hesper is arrested after the first volume's local victory. He later becomes an unwilling witness against the Trust. He never becomes innocent; he becomes a person whose compromised choices are finally placed in public record.
 
@@ -177,6 +177,7 @@ Edren offers a clean solution: one approved timeline, no more branching, no more
 These figures recur enough to give the world ordinary faces without taking over the central mystery:
 
 - **Marda Senn**, Ilya's older sister, a Warden's ledger clerk who disappears into the Hollow Galleries during the false-witness crisis and later returns with a partial map.
+- **The Tallow counter-signer**, a junior Chamber clerk who countersigned Hesper's falsified water entry in good faith because the numbers in front of them balanced and nobody asked who had produced them. Marek's first Boundary Hold stores its delay in his own body, and when the hold ends the contract's chain finds this clerk at the end of it, which is how Volume 1 teaches him that a Hold cannot be aimed and that a false-witnessed contract still has a living person standing at the far end of it. The Volume 01 outline names them and must name them early: the injury is the volume's proof that the system's cost is a person, so it cannot be played as an anonymous entry. They live. Their recovery is slow, partly Marek's fault and partly nobody's, and they are not written to forgive him quickly.
 - **Oren Pike**, a Rainmarket grain factor who begins as Ovid's opponent and ends up testifying against the Sable Compact. In Volume 7, two-winter displacement leaves him physically alive but legally unwritten; he later chooses a new public name and works as a grain witness.
 - **Pella Rusk**, a schoolteacher who teaches children whose yearlines have been shortened by public loans. She is skeptical of Marek until he agrees to let her class review a draft charter.
 - **Tamsin Vale**, Marek's mother, a practical seamstress who signed an old body loan to keep Marek alive during childhood fever. She knows more about the first mark than she initially tells him.

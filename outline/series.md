@@ -40,12 +40,12 @@ Edren Sable, the Last Meridian's accounting officer, was copied into the tower's
 - **Volumes 5–7:** living “unwritten” people and the Hollow North suggest that the tower has removed more than names.
 - **Volume 8:** survivors claim descent from a future that no longer exists; the Last Meridian is named.
 - **Volumes 9–11:** inherited craft and the Quiet Choir show that the founders' rescue is being treated as a mandate. Volume 11 confirms the Last Convocation and Edren's copied authority, but leaves the crossing year unidentified.
-- **Volumes 12–15:** the First Account and Founder's Clause are formally identified in Volume 13; Volume 15 reveals the crossing year's mechanical role and the exact price of restoring it.
-- **Volumes 16–18:** the answer is tested in public. The mystery is fully resolved in the final volume; the origin of the natural Yearwell and the fate of a few isolated erased echoes remain intentionally open.
+- **Volumes 12–15:** the First Account and Founder's Clause are formally identified in Volume 13, which also names the crossing-year entry as the oldest debt on the books. Volume 15 owns the crossing year's *mechanism*: why that entry anchors the tower and the exact price of restoring it. It does not yet say who is standing on the anchor.
+- **Volumes 16–18:** the answer is tested in public. Volume 18's Movement A owns the crossing year's *human cost* — the living communities whose continuity is keyed to the altered history — and the climax ends the claim by disclosure rather than recovery. The mystery is fully resolved in the final volume; the origin of the natural Yearwell and the fate of a few isolated erased echoes remain intentionally open.
 
 ## Ending in brief
 
-Edren activates the First Account to close every future except one safe continuation. Marek refuses both Edren's perfect history and the usual response of destroying the tower. He gathers independent witnesses across the basin, uses the **Open Account** charter, releases the crossing year, and turns the Yearspire into a public institution that funds ordinary effects through present contributions or narrow, living-person pledges while refusing hidden extraction.
+Edren activates the First Account to close every future except one safe continuation. Marek refuses both Edren's perfect history and the usual response of destroying the tower. He gathers independent witnesses across the basin, uses the **Open Account** charter to release the absent founding claim and return the crossing year to the public record as a disclosed debt rather than a recovered world, and turns the Yearspire into a public institution that funds ordinary effects through present contributions or narrow, living-person pledges while refusing hidden extraction.
 
 The cost is real: extraordinary borrowed powers fade, Tomas loses his artificial vigor and lives a shorter ordinary life, the First Auditor is stripped of his authority and publicly accountable, the dead and the historically erased are not resurrected, and Marek loses all Ledger Sight. The world is safer but not healed. The victory is that no individual or institution can quietly spend a future without making the cost visible and contestable.
 
@@ -67,7 +67,7 @@ The ladder is a sequence of pressures and compromised institutions, not a parade
 Marek's growth is permission and practice, not a set of numerical ranks.
 
 1. **Ledger Sight:** read visible entries and immediate contradictions. Cost: headaches, tunnel vision, and temporary memory gaps.
-2. **Boundary Hold:** delay one settlement or hold one boundary briefly. Cost: postponed costs land on his body or return more violently later.
+2. **Boundary Hold:** delay one settlement or hold one boundary briefly. Cost: the delay is stored in his own yearline, and when the hold ends the contract's chain collects from the borrower, the surety, or the living clerk who certified a false-witnessed entry. A Hold adds nobody to that chain, so he carries the toll of the delay and never the debt. He cannot aim it.
 3. **Season Hand:** direct an already-authorized effect to a named target within its scope. Cost: incompatible targets attach the debt to him; consent remains necessary.
 4. **Returnpath:** split a claim among consenting holders and send part of it to a public pool. Cost: he carries other people's echoes and loses privacy.
 5. **Branch Auditor:** compare several plausible continuations using evidence. Cost: contradictory memory and the danger of mistaking a plausible outcome for a fact.
@@ -81,7 +81,7 @@ Marek's growth is permission and practice, not a set of numerical ranks.
 - **Volume 8:** the Hollow North expedition produces mutual disclosure and a private intimacy that neither mistakes for a solution.
 - **Volume 12:** Marek withholds a record that could clear him of an old audit error but expose Tomas's original claim and endanger Neris's district; the relationship breaks over secrecy, not lack of love.
 - **Volume 14:** after a failed attempt to protect one another, they choose a public, equal partnership and stop treating love as permission to overrule the other.
-- **Volume 16:** they sign as separate witnesses to the Open Charter, making consent structural rather than romantic.
+- **Volume 16:** they sign as separate witnesses to the four districts' provisional year commons, making consent structural rather than romantic. They sign again, for the Open Charter itself, in Volume 18.
 - **Volume 18:** they choose a shared life after the tower no longer promises a future. The relationship survives because neither person has to be saved first.
 
 ## Volume progression
@@ -112,7 +112,7 @@ The volumes span twenty-three Morrowfen Reckoning years. Travel, investigations,
 | 16 | 430–432 | Open Account districts |
 | 17 | 432–434 | Gathering of witnesses |
 | 18 | 434–435 | Final activation and immediate aftermath |
-| Epilogue years | 435–438 | Institutional transition and lived consequences |
+| Epilogue years | 435–438 | Institutional transition and lived consequences, allocated in `outline/ending.md` §8 |
 
 ### Volume 1 — The Unpaid Ward (Chapters 1–50)
 
@@ -122,7 +122,7 @@ The volumes span twenty-three Morrowfen Reckoning years. Travel, investigations,
 
 **Major pressure:** Hesper Rann falsifies an entry to save the district, and the hidden cost appears in a ward missing from the tower map. The oldest surviving copy bears the signature **A-0**, which the Trust forbids Marek from deleting.
 
-**Power change:** Ledger Sight appears; Marek learns the first narrow use of Boundary Hold after a practice failure injures a witness.
+**Power change:** Ledger Sight appears. Marek then attempts a practice Boundary Hold on a settlement he believes is sound, and it is not: the entry has been false-witnessed, the ward's fund cannot pay, and no surety stands behind it, so the chain walks to the last living name on the contract—the under-clerk who countersigned it in good faith. The under-clerk is injured. Marek learns the first narrow use of Boundary Hold and, in the same afternoon, that he cannot aim it and that holding a delay costs him his own body until it lands.
 
 **Resolution:** Marek exposes the falsified entry, forces a public emergency appeals board, converts the scheduled settlement of Tomas's loan into supervised road work, and brings Ilya's valve sabotage into the record. The ward is saved for this season; the old debt is not erased.
 
@@ -332,9 +332,9 @@ The volumes span twenty-three Morrowfen Reckoning years. Travel, investigations,
 
 **Major pressure:** Edren persuades frightened civic leaders that only the First Account can prevent a citywide collapse.
 
-**Power change:** Open Account becomes possible in limited sites, but Marek must surrender his personal claim to a future self before the charter can bind.
+**Power change:** four districts learn to fund real effects out of present contributions alone, and Marek must surrender his personal claim to a future self before a compact can bind him to anything. Nothing here is the Open Account: a provisional common can gather contributions and hold narrow living-person pledges, but the charter cannot be sealed until the founding claim is released.
 
-**Resolution:** four districts establish a public, voluntary year commons. Existing borrowers keep a defined transition period; no new extraction from absent, unborn, or unchosen futures occurs, while narrow living-person pledges remain possible under the new charter. Edren takes the remaining central keys.
+**Resolution:** four districts establish a public, voluntary year commons funded by present contributions, with a defined transition period for existing borrowers and no new extraction from absent, unborn, or unchosen futures. Narrow living-person pledges are permitted only where an independent witness room can hold the terms, and the whole compact is provisional. Edren takes the remaining central keys.
 
 **Next-question:** can the other regions recognize the same charter before he closes the final future?
 
@@ -346,9 +346,9 @@ The volumes span twenty-three Morrowfen Reckoning years. Travel, investigations,
 
 **Major pressure:** Edren begins treating disagreement itself as a form of shortfall.
 
-**Power change:** Marek completes the Open Account by making every affected community able to refuse, withdraw, or revise its terms before sealing.
+**Power change:** Marek makes the Open Account *possible* without completing it. Every affected community can now name independent witness rooms, agree to be bound by a finding it cannot later revise, and withdraw before sealing. The charter still cannot exist, because it can only be sealed where the founding claim is released.
 
-**Resolution:** the independent witnesses invalidate Edren's claim to choose one future and open the route to the Deep Engine. The final cost is known to everyone; no one is asked to trust Marek blindly.
+**Resolution:** the independent witnesses win standing to seat an independent quorum inside the Deep Engine and to file a quorum challenge against Edren's claim to choose one future. The authenticated founding copy they carry is the evidence; the rooms that will rule on it are the thing Edren cannot own. Edren is stripped of the settlement authority he has been exercising by default, which opens the route to the engine. The final cost is known to everyone; no one is asked to trust Marek blindly.
 
 **Next-question:** what will Marek refuse when Edren offers him a perfect life?
 
@@ -371,6 +371,7 @@ The volumes span twenty-three Morrowfen Reckoning years. Travel, investigations,
 The detailed character and institutional fates are authoritative in `outline/ending.md` and must not be invented differently during drafting. The series-level commitments are:
 
 - Ovid, Ysara, Seren, the Trust, the Crown, the Chamber, the Hollow Court, and the Saltglass Harbor Council all reach explicit, non-erasing endpoints.
+- The character and institutional endpoints listed in `outline/ending.md` §4 and §5 are *processes*, not announcements. Trials, dissolutions, restitutions, the expiry of borrowed effects, and the first years of the rotating council are carried in the MR 435–438 epilogue, planned in `outline/ending.md` §8 and written in Volume 18's last two chapters. Volume 18 may not skip those years, compress them into a speech, or invent a different set of endpoints.
 - Oren's survival after being left unwritten is not a restoration of the legal identity taken from him.
 - The Open Yearspire permits narrow living-person future pledges, but never permits absent, unborn, or unchosen futures to be spent.
 - The tower's transformation does not erase the people whose lives were built around older promises.

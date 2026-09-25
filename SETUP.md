@@ -12,6 +12,6 @@ gh workflow run novel-batch --repo <owner/repo> -f probe=true
 
 The probe does not write novel files. A successful log contains `MODEL_PROBE_OK`.
 
-After the probe succeeds, run the workflow normally. The first phases create the bible, series outline, ending outline, and the first 10-chapter batch. Later batches read the previous 20 chapters and extend to 30 when the verified context budget allows it.
+After the probe succeeds, run the workflow normally. The planning phases create the bible, series outline, ending outline, Volume 01 outline, and the first batch cards; the first batch phase then writes Chapters 1–10. Later batches read the previous 20 chapters and extend to 30 when the verified context budget allows it.
 
 This is a public repository. Do not commit API keys or other secrets.

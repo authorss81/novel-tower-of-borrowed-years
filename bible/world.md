@@ -55,7 +55,7 @@ A Yearwell cannot:
 - bring a dead person back;
 - create an effect that no possible future could support;
 - show the one exact future that will occur;
-- safely move a living person backward;
+- safely move a living person backward (the founding crossing was not a Yearwell use; see §5, *The one-way year seam*);
 - erase a settled past without changing the living people who depend on that past.
 
 The tower does not break these rules. It exploits their ambiguity.
@@ -79,6 +79,19 @@ They arrived in Morrowfen before the tower existed. To keep their arrival from c
 The crossing was supposed to be a one-time emergency. Instead, the engine treated every possible future as fungible currency. The Last Convocation's accounting officer, **Edren Sable**, was copied into the tower's continuity and later renewed through successive bodies. He became the **First Auditor**. The emergency agreement behind the crossing is called the **Founder's Clause**: it authorized the founders to pledge their own lost future, but it never obtained consent from anyone living in the present. Over centuries Edren watched the reserve shrink and concluded that the only stable world was one in which every future except a single approved continuation was closed.
 
 The same missing year appears at the beginning of every ledger because the crossing itself was the first loan. The year is not a secret individual waiting to be rescued. It is the cost of the founders' arrival. Restoring it exactly would require replacing the current lives that grew around the altered history. The oldest surviving copies bear the signature **A-0**; even clerks who do not know the name are taught never to erase it.
+
+### The one-way year seam
+
+A Yearwell cannot carry a living person backward. The founding crossing was not a Yearwell use. It was a deliberate destruction of one.
+
+The Last Convocation drove their well into itself instead of letting its pressure accumulate, and the collapse opened a pass that stayed open long enough for nine bodies and no longer. Four rules hold, and the tower has kept all four since; the one limit the Convocation broke on the way through was the Yearwell's, not the seam's.
+
+1. **It cannot be reopened.** The well that made the seam is spent, and it stands in a country that no longer exists as a country. What sits over the crossing's landing point is the Deep Engine, and nothing in the tower can make a second pass.
+2. **It cannot be aimed.** A seam is not a door between places. It opens at the point of collapse and delivers whoever is standing there into the middle of a history that is already running. The survivors did not choose their arrival year; they arrived into a plausible one and had to make staying survivable.
+3. **It cannot carry a passenger twice.** Nothing living has crossed it since. Every later “return” ritual in Morrowfen is a fraud performed with borrowed records, which is why the Hollow Court's counterfeit returns end in coercion and why the Quiet Choir's version ends in blood.
+4. **Its price is already paid.** The crossing was the first loan. The founders pledged their own lost future, witnessed by no one and consented to by no one on this side of it, and the remainder became the reserve that stopped the arrival from collapsing the history around it. The missing year at the head of every ledger is that payment. It can be disclosed, contested, and voided. It cannot be recovered.
+
+Nobody is carried backward. A hole is made where a future used to be, and the present closes around the hole. This is why the tower works at all, and why no living person can be sent home.
 
 ## 6. Factions and institutions
 
@@ -133,7 +146,7 @@ A completed loan is not automatically a tragedy. Many borrowers knowingly accept
 
 ## 8. Story-use guardrails
 
-- The first volume shows only ordinary loans, Ledger Sight, and local administrative consequences.
+- The first volume shows only ordinary loans, Ledger Sight, one narrow and failed use of Boundary Hold, and local administrative consequences. No wider borrowed power, no faction beyond the ward, and no answer about the missing year.
 - The Last Meridian and First Account are fragments, not a complete lecture.
 - The tower is never the only source of power in a region. Trade, craft, public works, and relationships remain useful without magic.
 - A future can be changed, but the story must show what is lost when a change is made.

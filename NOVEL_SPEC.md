@@ -15,4 +15,6 @@ A tower lets people borrow future years for power, changing later history one de
 The tower is transformed without erasing the people who built their lives around its promises.
 
 ## Status
-Scaffold pushed. No novel prose has been generated yet. The bootstrap phase must create the bible, series outline, ending outline, and first batch cards.
+Bootstrap phase complete: `bible/` (premise, world, characters, power-system, themes, terminology), `outline/series.md`, and `outline/ending.md` are written and authoritative. No novel prose has been generated yet.
+
+Remaining planning: `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`, including the detailed cards for Chapters 1–10. Chapter prose is written only by the batch phases in `workspace/volume-01/batch-000N`, one batch per prompt, so Chapters 1–10 have exactly one owner.
