@@ -1,7 +1,5 @@
-# Novel Fleet Scaffold
+# The Tower of Borrowed Years
 
-This repository contains a long-form novel generation pipeline.
+A tower lets people borrow future years for power, changing later history one decision at a time.
 
-Read `AGENTS.md` before writing. The primary writer is `opencode/space-bunny-free`. The workflow writes batches of 10–20 chapters, validates them, reviews them, applies concrete fixes, updates continuity state, and dispatches the next phase.
-
-The repository is intentionally separate from `llops-android`.
+This repository is an independent long-form male-led webnovel pipeline. Read `AGENTS.md` before writing.
