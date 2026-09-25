@@ -4,7 +4,7 @@ The posting desk's query came up to his bench at the first light of the eleventh
 
 *Certificate of posting, Tallow Ward water assessment. Countersignature required by the third-grade clerk of the day for the district named. Clerk of the day, Tallow: M. Vale. Note entered at desk: clerk of the day is entered as a party to the matter. Does clerk certify? Y/N.*
 
-Marek read it twice. He had been awake since the fourth bell, which was when the rain stopped for eleven minutes and then came back harder, and he had eaten nothing, and the headache from yesterday had gone and left something behind it that sat at the base of his skull like a coin in a socket.
+Marek read it twice. He had been awake since the fourth bell, which was when the rain stopped for ten minutes and then came back harder, and he had eaten at some point on the previous day and had no memory of it beyond a parcel in his hand, and the headache from yesterday had gone and left something behind it that sat at the base of his skull like a coin in a socket.
 
 He read it a third time because he wanted to be very certain there was no second question in it.
 
@@ -116,7 +116,7 @@ Then he went to the window and looked down the hill at the ward, because the rai
 
 He got his coat.
 
-The north road above Tallow was the top of a levey, and the span was out at the Tallow end where the freshet had taken the kerb in the spring and Tomas had put a temporary span across the gap on his own money and his own winter, which was the whole reason for the vigor loan, which was in every way legal, and which was now holding eleven days of a fourteenth that had already begun.
+The north road above Tallow was the top of a levee, and the span was out at the Tallow end where the freshet had taken the kerb in the spring and Tomas had put a temporary span across the gap on his own money and his own winter, which was the whole reason for the vigor loan, which was in every way legal, and which was now holding eleven days of a fourteenth that had already begun.
 
 He walked up in the rain because the buses had stopped running at the Tallow Gate.
 
@@ -126,7 +126,7 @@ Tomas had both hands on an eyebolt he was fitting, and he had it half up, and th
 
 He got it up. He got the second nut on and started the ring spanner and it went round once, and the second time the wrench came off the nut and he went to put it back and his hands would not close on it.
 
-It was not dramatic enough for a gang to notice. He put his forearm against the rail and got the wrench into his fist with his sleeve and his knee and he got it on the nut and he got it round, and the whole of it took eleven seconds, and Marek watched every one of the eleven seconds, and Tomas never once looked up.
+It was not dramatic enough for a gang to notice. He put his forearm against the rail and got the wrench into his fist with his sleeve and his knee and he got it on the nut and he got it round, and the whole of it took nine seconds, and Marek watched every one of the nine seconds, and Tomas never once looked up.
 
 "Lift, you lazy," Tomas said, to the gang, in a voice with nothing in it at all. "That is a two-inch. Take the weight."
 

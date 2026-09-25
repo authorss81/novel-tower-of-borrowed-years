@@ -1,6 +1,6 @@
 # Chapter 10 — The Last Living Name
 
-The settlement came due at the sixth bell, which was an hour and a half later than the peak, and that hour and a half was the whole of the mercy the night had in it, and Marek knew what the sound meant before it had finished, because he had spent four years learning to hear a due date.
+The settlement came due at the sixth bell, which was two hours later than the peak, and those two hours were the whole of the mercy the night had in it, and Marek knew what the sound meant before it had finished, because he had spent four years learning to hear a due date.
 
 Then he did the arithmetic, and it took about four seconds, and it was not arithmetic.
 
@@ -14,7 +14,7 @@ Then he did the arithmetic, and it took about four seconds, and it was not arith
 
 He put his hand on the entry.
 
-It was the fifth time in five days and he did it the way you scratch a dog you have already scratched, without any thought at all, and the pain came up behind the right eye and the hall went hard-edged and the page went quiet, and the entry came up out of the paper with the fair fast hand and the four clauses and the nine signatures in the chain at the foot, and the Sight gave him the whole of the walk at once, in order, the way a clerk reads a chain, four steps, and nothing at all at the end of it:
+It was the fifth time in five days and he did it the way you scratch a dog you have already scratched, without any thought at all, and the pain came up behind the right eye and the hall went hard-edged and the page went quiet, and the entry came up out of the paper with the fair fast hand and the four clauses and the nine signatures in the chain at the foot, and the four steps he had already walked without it did not change, and the page gave him one line and no more:
 
 > The file was countersigned. The countersigner is alive.
 
@@ -44,7 +44,7 @@ He went up the stair.
 
 Kelb was on the Chair.
 
-He was sitting on it in the way a man sits on a step when he has been sitting for some time and has not decided whether to get up: his back against the wall on the city side, his legs out, a board across his knees, and four and a half pages of the ward's levy in longhand held down under his left forearm, and the roll, and the schedule, and his right hand in his lap, open, palm up, in the posture of a hand that has been put down and not picked up.
+He was sitting on it as though he had been there for some time and had not decided whether to get up: his back against the wall on the city side, his legs out, a board across his knees, and four and a half pages of the ward's levy in longhand held down under his left forearm, and the roll, and the schedule, and his right hand in his lap, open, palm up, in the posture of a hand that has been put down and not picked up.
 
 The lamp beside him was turned down to a bead. The ink had gone thick in the pot. He had the roll and the entry done and the schedule written out and the certification line ready in his head, and he had begun the entry's fourth page, and the tower's rule is that a hand copy is not a copy until it carries the four words at the foot that say what it is a copy of, and the boy had begun them, and had written *Copied from the orig*, and had stopped.
 
@@ -64,7 +64,7 @@ Kelb raised it. The hand was warm and dry and it was perfectly, terribly still, 
 
 "What's your name," Marek said, which is what you do.
 
-"Ondra Kelb. Three weeks in the post, if anybody asks you, and I would rather you said it than the intake sheet." He said it clearly, and he said it the way a man says the thing he has been holding most carefully. "Mr Vale, I want to say the thing I should say and I want to say it now, while I can still feel my face, and I want you to hear it properly and not to write it down for me."
+"Ondra Kelb. Three weeks in the post, if anybody asks you, and I would rather you said it than the intake sheet." He said it clearly, and he said it as though he had been rehearsing it in a stairwell for an hour and had got it right. "Mr Vale, I want to say the thing I should say and I want to say it now, while I can still feel my face, and I want you to hear it properly and not to write it down for me."
 
 "Go on."
 
@@ -72,7 +72,7 @@ Kelb raised it. The hand was warm and dry and it was perfectly, terribly still, 
 
 "You looked," Marek said.
 
-"I looked at the column," Kelb said. "I did not look at who wrote the column. And I have been trying since the fourth bell to work out whether those are the same thing, and I have decided that they are not, and that I would rather say that out loud in a hall than have somebody say it for me. I am twenty. I am nineteen. I was three weeks in the post. And the figures in front of me balanced."
+"I looked at the column," Kelb said. "I did not look at who wrote the column. And I have been trying since the fourth bell to work out whether those are the same thing, and I have decided that they are not, and that I would rather say that out loud in a hall than have somebody say it for me. I am twenty. I was three weeks in the post on the ninth, which is the day I signed it, and the figures in front of me balanced."
 
 Marek put his hand flat on the boy's knee.
 
@@ -125,7 +125,7 @@ They got Kelb onto a bench under a lamp. Sera took the right wrist and the left 
 
 "Is it permanent."
 
-"I have had this eleven years and I will tell you what I tell the families." She held his eye. "The body pays what the file could not. That is the sentence I have, and I have never found a better one, and I would give the whole of my life to a building that understood it. The years are already gone. They went tonight. They are not in a fund and they are not in a court and they are not coming back on Thursday. And the only question left in that boy's life, for the rest of it, is whose they were."
+"I have had this twenty-six years and I will tell you what I tell the families." She held his eye. "The body pays what the file could not. That is the sentence I have, and I have never found a better one, and I would give the whole of my life to a building that understood it. The years are already gone. They went tonight. They are not in a fund and they are not in a court and they are not coming back on Thursday. And the only question left in that boy's life, for the rest of it, is whose they were."
 
 Marek said, "They were the ward's."
 
@@ -141,7 +141,7 @@ The waiting room door opened, and Neris Kade came out with her list, and stood a
 
 "Yes."
 
-"Four hundred and thirty-one names came out of the low kitchens tonight onto a list in my own hand, and I have been standing in this corridor for an hour keeping a frightened crowd out of a surgery lane, and I did that while you were carrying a clerk down a wall." She said it without any expression at all. "I am not thanking you. I want to be clear about that. And in a few hours there is going to be a hearing at which I am going to say things about a levy roll that you will find extremely unpleasant, and I intend to say every one of them."
+"Ninety-one names came out of the low kitchens tonight onto a list in my own hand, and I have been standing in this corridor for an hour keeping a frightened crowd out of a surgery lane, and I did that while you were carrying a clerk down a wall." She said it without any expression at all. "I am not thanking you. I want to be clear about that. And in a few hours there is going to be a hearing at which I am going to say things about a levy roll that you will find extremely unpleasant, and I intend to say every one of them."
 
 "I know," Marek said. "Line seven is mine and I did not know it was mine when I read it out in your aisle, and I have thought about very little else since."
 
@@ -181,17 +181,19 @@ It was a ward roll, and ward rolls are the same everywhere: a district column, a
 
 He was a clerk. He read columns. He read it the way he had read a receipt against its sealed terms, at arm's length, in bad light, looking for the two places where two inks disagreed about the same year.
 
-The entries ran from the top of the flood to the sixth. District column: a ward and a number, over and over, in the yard clerk's hand, in the same fair small writing people use when they are writing something they expect to have to read again.
+The entries ran from the top of the flood to the sixth. District column: four, and a name he had never seen, over and over, in the yard clerk's hand, in the same fair small writing people use when they are writing something they expect to have to read again.
+
+*Four. Kallow.*
 
 He did not know it.
 
 He turned the roll over and looked at the far right column, at the assignment initials and the years, and he read them, and he did it twice, and then he did it the third time the way you do a thing when you have understood that you are not going to understand it and want to be very sure that you are not stupid.
 
-He was not stupid. He was a third-grade clerk in the public audit office of the tower on Stillstep Island, which held, in eleven rooms and four floors of shelves, the complete record of every district in the city, its numbers, its rolls, its head-counts, its wards, its bounds, its first levy and its last, and the district column of a ward roll is a number and a name — four, Kallow; seven, Tallow Gate; nine, Ropewalk; eleven, the Tanner's — and every one of those is in the book on the shelf behind him, a four-hundred-page register with a spine that says DISTRICTS AND ROLLS in the stamped letters of the founding office.
+He was not stupid. He was a third-grade clerk in the public audit office of the tower on Stillstep Island, which held, in eleven rooms and four floors of shelves, the complete record of every district in the city, its numbers, its rolls, its head-counts, its wards, its bounds, its first levy and its last, and the district column of a ward roll is a number and a name — seven, Tallow Gate; nine, Ropewalk; eleven, the Tanner's; twenty-nine, the Underbank, which is a mouth and not a ward and has a number anyway — and every one of those is in the book on the shelf behind him, a four-hundred-page register with a spine that says DISTRICTS AND ROLLS in the stamped letters of the founding office.
 
 There is no code in that book for the number in the district column of this roll.
 
-He went and got the book. It is on the second shelf, it is four hundred pages, and he had copied out of it four hundred times in four years, and he went through the whole of the district column twice, the two figures and then the two figures with the letter, and he got to the end of the lettered ones and started again, and it took him eleven minutes, and there is no district numbered four called Kallow in that book, and there is no Kallow in the whole of the register, and there is no such ward, and no such roll, and no such district in the city of Morrowfen, and there are thirty-one entries in the roll in a fair small hand, and the last of them is dated the ninth day of the rains.
+He went and got the book. It is on the second shelf, it is four hundred pages, and he had copied out of it four hundred times in four years, and he went through the whole of the district column twice, the two figures and then the two figures with the letter, and he got to the end of the lettered ones and started again, and it took him the best part of twenty minutes, and there is no district numbered four in that book, and there is no Kallow in the whole of the register, and there is no such ward, and no such roll, and no such district in the city of Morrowfen, and there are thirty-one entries in the roll in a fair small hand, and the last of them is dated the ninth day of the rains.
 
 "Clerk," said the duty clerk's woman, "there's a man in the corridor who says he's the supervisor and he's asking for you by name, and he sounds like he's been up all night, and I would tell him you were in the clinic, and then he would ask you where the clinic is, and then you'd have to have this conversation twice."
 
@@ -199,13 +201,13 @@ He went and got the book. It is on the second shelf, it is four hundred pages, a
 
 The duty clerk's woman came and stood behind his shoulder and looked at the roll, and she was patient with him in a way that he was not going to deserve.
 
-"There's no name," she said. "There's the code and there's a line at the head of the district column that says 'assigned,' and then the numbers, and that's all. It's a working roll. It never got its names written in."
+"There's no yards," she said. "There's the code and the district name and a line at the head of the column that says 'assigned,' and then the numbers, and that's all. It's a working roll. It never got its yards written in."
 
 "It is a copy," Marek said.
 
 "That's what they all say." She was already turning back to her book. "It is a copy, and the map is the copy, and I have been in this room twenty-two years, and there is a thing I am not going to argue with a man about at six in the morning."
 
-"Then I'll tell you what I think it is," Marek said, "and you can do as you like with it. I think it is not a copy of anything. I think it is the only one. I think the name column was never filled in, and I do not know why, and I have never seen the like of it, and I have been in this room four years and I do not know what it is."
+"Then I'll tell you what I think it is," Marek said, "and you can do as you like with it. I think it is not a copy of anything. I think it is the only one. I think the yards were never written in, and I do not know why, and I have never seen the like of it, and I have been in this room four years and I do not know what it is."
 
 He stopped, because his voice had done something on the last clause that he had not intended.
 
@@ -221,7 +223,7 @@ Then she went, and Marek stood at the duty clerk's desk with the roll open in hi
 
 He put it inside his coat, on the left side, against the small book of promises he had made to his mother, and under the four pages in his own hand that he had made in a vault in violation of a standing order of the Yearspire Trust: the footnote, the blank line, the knife-cut initials, and the remedy.
 
-The corridor outside was full of grey light off the basin and the smell of wet stone. Below them the Tallow yards were running on a public levy and a screen that Petross was going to clear again on Thursday, the Gate tank was full, and the low kitchens would be on the basin for a week. The ward — all four hundred and thirty-one names of them, and a book of them tied to a string in a school house on Sill Row — had water, and would keep it, and the water was not going to cost them anything that anybody had written down. There was a hearing at the eighth bell on the fifteenth, in the Trust's third-floor room, with the ward's copy of the levy and the file's copy to be compared in front of them.
+The corridor outside was full of grey light off the basin and the smell of wet stone. Below them the Tallow yards were running on a public levy and a screen that Petross was going to clear again on Thursday, the Gate tank was full, and the low kitchens would be on the basin for a week. The ward — three hundred and ninety-one names of them on a list in a school house on Sill Row — had water, and would keep it, and the water was not going to cost them anything that anybody had written down. There was a hearing at the eighth bell on the fifteenth, in the Trust's third-floor room, with the ward's copy of the levy and the file's copy to be compared in front of them.
 
 Ondra Kelb was in a bed at the Morrowfen clinic, twenty years old, three weeks in the post, with a scar on his right hand that would be there when he was forty, and it had been put there by a remedy in a margin that named an office nobody held, taken by a clerk in an empty building between the last of the light and the first bell, for six bells, with nobody asked.
 

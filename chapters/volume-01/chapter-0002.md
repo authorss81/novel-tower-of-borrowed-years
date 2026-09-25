@@ -28,7 +28,7 @@ He sat with it for a long time.
 
 The thing he kept coming back to, turning it over the way you turn a stone looking for the underside, was that his mother had signed it in the plainest possible words. She had not been talked into it. Nobody had explained anything to her that she had not understood, and there was no version of this document in which Tamsin Vale did not know exactly what she was agreeing to, and the form had let her say it out loud in her own sentence, in the witness box, where it sat in the record for the rest of time: *I am signing anyway.*
 
-She was a seamstress. She could not read the marble language, and she could read that page, and she had read it, and she had signed, and she had been fifty-one and had buried a husband in the water of the seventh winter and had a grandson and a daughter and a son who could not lift after the eleventh hour.
+She was a seamstress. She could not read the marble language, and she could read that page, and she had read it, and she had signed, and she had been fifty-one and had buried a husband in the water of the seventh winter and had two sons at that table, and one of them could not lift after the eleventh hour.
 
 The file was clean. The file was, by every standard the Chamber of Accounts had ever written down, a good file. It was a file that would survive a hearing. It was a file that Hesper Rann would have looked at, put down, and said nothing about, because there was nothing in it to say.
 
@@ -52,7 +52,7 @@ Tomas was at the back of the shop with a lamp and a grindstone, working a tenon 
 
 "Tomas."
 
-"I heard you." The rasp stopped. Tomas looked at his hands, both of them, spread out on his thighs, the way a man looks at a tool that has begun to lie to him. Then he said, in a completely different voice, pleasant and empty: "It's a bad spring."
+"I heard you." The rasp stopped. Tomas looked at his hands, both of them, spread out on his thighs, the way a man looks at a tool that has started to lie to him. Then he said, in a completely different voice, pleasant and empty: "It's a bad spring."
 
 "It's the ninth day of the rains."
 

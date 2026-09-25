@@ -30,15 +30,15 @@ Then Hesper came in.
 
 He came in the way he came into everything, from his own door, and he did not turn on a lamp, and he went straight to the posting board and stood in front of it and looked at it, and Marek watched him look at it from the end of the bench, and the hall was so quiet that Marek could hear the Silt against the pilings four storeys down.
 
-The board was otherwise empty. One settlement left on it for the week and it was the Tallow line, and the Tallow line said the fourteenth, and the hour column said the peak, because Hesper Rann, when he wrote a posting, wrote the hour and not the word, and the word had been *peak* in the ward's copy and the hour had been the fourth bell in his, and the fourth bell was two hours away.
+The board was otherwise empty. One settlement left on it for the week and it was the Tallow line, and the Tallow line said the fourteenth, and the hour column said the peak, because Hesper Rann, when he wrote a posting, wrote the hour and not the word, and the word had been *peak* in the ward's copy and the hour had been the fourth bell in his, and the fourth bell was three bells off and would come up somewhere in the middle of the night.
 
-Hesper put his finger on it. He did not touch the board; he held his finger a knuckle's off the wood, in the air, over the Tallow line, the way a man does with a thing he has already decided about.
+Hesper put his finger on it. He did not touch the board; he held his finger a knuckle's off the wood, in the air, over the Tallow line, close enough to read and too far to smudge, which is a thing a supervisor does with a line he has already settled.
 
 "Sedge has gone home," he said.
 
 "He's been gone since the second."
 
-"Yes. And I have signed for the ward myself, which I have not done in eleven years, and which I would not do for a warden who put his house back on the line." He took his hand away. "The ward is a hundred and forty pints short at the peak. I have it in the ward's own count and it is in Marda Senn's count and it is in the yard counters, and every one of those three is a set of people who have no obligation to the tower and every one of those three says the same number, which is the first time in my life that the ward and the tower have agreed about anything."
+"Yes. And I have signed for the ward myself, which I have not done in nineteen years, and which I would not do for a warden who put his house back on the line." He took his hand away. "The ward is short at the peak and short by more than the yards can argue about. I have it in the ward's own count and it is in Marda Senn's count and it is in the yard counters, and every one of those three is a set of people who have no obligation to the tower and every one of those three says the same thing, which is the first time in my life that the ward and the tower have agreed about anything."
 
 Hesper turned round. In the dark of the unlit hall his face was not readable, and Marek was glad of that, and understood twenty minutes later how completely he had been relying on it.
 
@@ -57,9 +57,9 @@ He said that last part quite pleasantly, and then he said, before Marek could an
 He went out. The door came to, and Marek sat at the end of the bench with the requisition in front of him and the case on his knees and a nosebleed starting, and it had not started a moment before.
 
 
-The peak came up the river at the second bell and did not stop.
+The peak came up the river before the first bell and did not stop.
 
-That is a thing about the Silt in the ninth year of a bad decade: it does not rise and fall like a smaller river. It comes up the channel in one long shoulder and goes on standing, and the water in the low ground stops moving and starts pressing, and the Tallow Gate took the first of it at about the third bell with a bang that could be heard four storeys up in a stone hall, and then took it, and kept taking it, and the whole building felt it in the floor.
+That is a thing about the Silt in the ninth year of a bad decade: it does not rise and fall like a smaller river. It comes up the channel in one long shoulder and goes on standing, and the water in the low ground stops moving and starts pressing, and the Tallow Gate took the first of it in the small hours with a bang that could be heard four storeys up in a stone hall, and then took it, and kept taking it, and the whole building felt it in the floor.
 
 Marek put the case open on the bench.
 
@@ -70,6 +70,8 @@ He put his left hand flat on the entry, over the fourth clause, and it was the h
 > One settlement. Six bells. The delay is yours.
 
 The pain came in behind his right eye like a driven nail and he made a sound he did not choose to make, and then everything became extremely clear.
+
+Six bells was the whole of a watch. The tower kept two counts and would not mix them — eight for the day, from the first at the opening of the desks to the eighth in the morning after, and six for the night, from the last of the light to the light again — and the fourth of the night was where a river came up, and the sixth of the night was where a watch stopped being a watch. A remedy that put a settlement by the year had that one length to put it in. He had not chosen it. He had only found out what it was.
 
 The hall did not go quiet. It went *specific*. The lamps along the north wall took on a hard edge, and the Tally Stair four storeys up took on a hard edge, and the ceiling beams took on a hard edge, and the edges did not move; the edges were the only thing in the building that would not move, and he understood that this was not a punishment and not a gift, and that it was simply the arrangement he had made, and that the arrangement was that for six bells he would have to be quite clear.
 
@@ -91,7 +93,7 @@ That was the thing. That was the whole of what he had done, and he made himself 
 
 Not one pint. The Tallow Gate had shut and the low kitchens were on the basin and Ilya Senn's four men were moving water by hand and the Gate tank was filling at half the rate Petross Oleksen had promised and there was a storehouse in the Underbank that was going to be a storehouse of water by morning, and none of that was because of him. What was because of him was that at the sixth bell, in this room, a number was not going to be written on a board.
 
-He had bought six bells in an empty building. In exchange, four hundred people were going to wake up on the fifteenth of the rains having drunk water that no office had authorized, from a valve a man had broken five days earlier against a sealed order, on the strength of a remedy that had not been in use for three hundred years, applied by a third-grade clerk with no standing, no witness, and no authority of any kind, to a settlement on a piece of paper he had not been given the right to hold.
+He had bought six bells in an empty building. In exchange, four hundred people were going to wake up on the fifteenth of the rains having drunk water that no office had authorized, from a valve a man had broken seven days earlier against a sealed order, on the strength of a remedy that had not been in use for three hundred years, applied by a third-grade clerk with no standing, no witness, and no authority of any kind, to a settlement on a piece of paper he had not been given the right to hold.
 
 Somewhere in the middle of the fifth bell he found that he had stopped being able to feel his left hand, and the page had gone from not-paper to something he could not describe, and the entries in the file had stopped being entries and had become a single vertical line of marks going up the page and off the top, and the line was not asking him anything.
 
@@ -123,7 +125,7 @@ Then the stair door opened the rest of the way, and the posting desk's woman cam
 
 "I have to be at the hearing at the eighth bell tomorrow."
 
-"I know you have. I'm not asking you about tomorrow." She was already turning to go. "Kelb's on till the fourth. Kelb's the fastest hand in this building and he is twenty years old and he will do it for the honour. I'll send up for him."
+"I know you have. I'm not asking you about tomorrow." She was already turning to go. "Kelb's on till the fourth of the morning. Kelb's the fastest hand in this building and he is twenty years old and he will do it for the honour. I'll send up for him."
 
 And Marek Vale sat at the end of his bench with a tunnel round the edge of his head, and was aware, in the way you are aware of weather, that he had not been entirely present for some part of the last hour and could not have told anybody what had happened in it, and that somewhere inside that hour a woman had said a boy's name out loud in a room with a man in it.
 

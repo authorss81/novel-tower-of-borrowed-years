@@ -9,9 +9,9 @@ You are the primary novel writer for *The Tower of Borrowed Years*. This phase o
 3. `outline/series.md`, `outline/ending.md` (author level, stay hidden from the reader)
 4. `outline/volume-01.md` — **authoritative**. Read the volume guardrails, the locked instruments, the locked levy roll, the new names, the local terms, and the Movement II chapter map in full. Do not edit it.
 5. `state/current.md` (including the locked state block and the recorded deviations), `state/continuity.md` (the batch 0001 sections are the most important part), `state/open-threads.md`, `state/chapter-summaries.md`
-6. **Voice and immediate continuity: `chapters/volume-01/chapter-0009.md` and `chapters/volume-01/chapter-00010.md`, in full.** Also skim Chapters 3 and 6.
+6. **Voice and immediate continuity: `chapters/volume-01/chapter-0009.md` and `chapters/volume-01/chapter-0010.md`, in full.** Also skim Chapters 3 and 6.
 
-`outline/batches/volume-01-batch-0002.md` does not exist. Everything this batch needs is in this prompt plus `outline/volume-01.md`; do not create a new batch outline file.
+`outline/batches/volume-01-batch-0002.md` exists and is **authoritative for the per-chapter cards**: POV, location and time, immediate goal, resistance, what is revealed, the action or decision, the emotional change, the power or resource change, the continuity facts, the ending type, and the next-chapter pull for each of Chapters 11–20. Read it in full and draft from it. Where a card and this prompt disagree, this prompt wins on policy (locked instruments, panel budget, guardrails) and the card wins on scene detail. `outline/volume-01.md` remains authoritative for the volume's shape.
 
 ## Where the story is
 

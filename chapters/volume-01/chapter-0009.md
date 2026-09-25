@@ -1,6 +1,6 @@
 # Chapter 9 — The Peak
 
-After the fifth bell Marek Vale got up off the bench, and the getting up took two attempts and a hand on the desk, and he stood in the unlit copy room with blood dried on his upper lip and a tunnel round the edge of his head and a case open in front of him that he had suspended six hours earlier on the authority of a dead man's handwriting.
+After the fifth bell Marek Vale got up off the bench, and the getting up took two attempts and a hand on the desk, and he stood in the unlit copy room with blood dried on his upper lip and a tunnel round the edge of his head and a case open in front of him that he had suspended four hours earlier on the authority of a dead man's handwriting.
 
 He left the case open. He had a rule about that too, and it was the only rule he had ever invented for himself, and it was that a suspended case stays suspended and does not get quietly closed, because a closed case is a case that has been dealt with.
 
@@ -12,13 +12,13 @@ The Gate itself was doing its job. That was the first thing, and it was a strang
 
 The yards were running dry anyway.
 
-Not empty. Dry, which was a specific and worse thing. The Gate tank had a skin of sludge in it and a bucket-scraper standing upright in the middle, abandoned, and the Tanner's was a third down, and the Ropewalk standpipe was making a sound like a small animal and about nine gallons an hour was coming out of it. The mains ran. He could hear them, the same low knock in the iron that he had put his palm on on the ninth day at dusk in a dry tank, and the arithmetic of that was the whole of the emergency: the water was in the pipes and it was not in the ward, and no document in Bell Stair had ever recorded that those two things could be true at once.
+Not empty. Dry, which was a specific and worse thing. The Gate tank had a skin of sludge in it and a bucket-scraper standing upright in the middle, abandoned, and the Tanner's was a third down, and the Ropewalk standpipe was making a sound like a small animal and about seventy pints an hour was coming out of it. The mains ran. He could hear them, the same low knock in the iron that he had put his palm on on the ninth day at dusk in a dry tank, and the arithmetic of that was the whole of the emergency: the water was in the pipes and it was not in the ward, and no document in Bell Stair had ever recorded that those two things could be true at once.
 
 "Clerk."
 
 Aldis Kern was standing in the road in a coat over his night clothes with a lamp in one hand, and he had been standing there long enough for the water to have come up over the top of his boots.
 
-"Don't tell me," he said. "I know. The pipe's got the water. I've been standing in front of the pipe for two hours telling my own yard that the pipe's got the water." He put the lamp down on a stone. "Ninety-one people came out of the low kitchens tonight, and the school house at the top of Sill Row has four hundred and thirty-one in it now, because the school house is dry and it has a roof and there was nowhere else. Kade got them moved. I did not. I was on the tank until an hour ago and then I came down here to shout at a pipe."
+"Don't tell me," he said. "I know. The pipe's got the water. I've been standing in front of the pipe for two hours telling my own yard that the pipe's got the water." He put the lamp down on a stone. "Ninety-one people came out of the low kitchens tonight, and the school house at the top of Sill Row has three hundred and ninety-one in it now, because the school house is dry and it has a roof and there was nowhere else. Kade got them moved. I did not. I was on the tank until an hour ago and then I came down here to shout at a pipe."
 
 "Where is she?"
 
@@ -26,7 +26,7 @@ Aldis Kern was standing in the road in a coat over his night clothes with a lamp
 
 He turned the lamp so it lit the road.
 
-"Petross's screen is holding. The Gate tank is filling at half a rate and it is filling. If the peak stops in an hour we have water in this ward until the fifteenth and I will feed four hundred people until the seventeenth on what is in these pipes." He looked up. "And it has not stopped in an hour, and it does not look like it is going to stop, and I have been doing this for eleven years and I can tell you the difference between a river that has peaked and a river that has stopped being polite."
+"Petross's screen is holding. The Gate tank is filling at half a rate and it is filling. If the peak stops in an hour we have water in this ward until the fifteenth and I will feed four hundred people until the seventeenth on what is in these pipes." He looked up. "And it has not stopped in an hour, and it does not look like it is going to stop, and I have been doing this for sixteen years and I can tell you the difference between a river that has peaked and a river that has stopped being polite."
 
 Below them on the road the ward was moving. Four men with a hand-cart and a roller going down toward the Underbank mouth with a lamp on the cart, and a woman with a blanket over her head shouting something that the water took away. And a knot of people at the end of the Basin road, and somebody in the knot was sitting down and then not getting up.
 
@@ -42,7 +42,7 @@ The crowd came up to about ten feet of Marek and stopped, and did not stop well.
 
 "He's at the sluice—"
 
-"He is *at the sluice*, he's been at the sluice for six days—"
+"He is *at the sluice*, he has been at that sluice since the second day of the flood—"
 
 "Open order says closed, order's the seventh, that's sealed, that's got a Crown Terrace seal on it—"
 
@@ -50,7 +50,7 @@ The crowd came up to about ten feet of Marek and stopped, and did not stop well.
 
 "You'll want to hear this from a Warden and not from a Tallow—"
 
-"You'll want to hear it from me," Ilya said, over all of it, in a voice made for a platform by forty years of shouting across water, and the crowd went down by a third, "and here it is, and it is one sentence, and I am not asking anybody to like it. The order is the seventh. The sluice has been open since the second. I hold it open. I have broken the order every hour since the second day of this flood and I will go on breaking it at the sixth bell tonight if the low kitchens are still dry. I have four letters in my coat in case anybody wants to read them, and my own name on my own work order, and I have never once pretended to be anybody else.
+"You'll want to hear it from me," Ilya said, over all of it, in a voice made for a platform by forty years of shouting across water, and the crowd went down by a third, "and here it is, and it is one sentence, and I am not asking anybody to like it. The order is the seventh. The sluice has been open since the second, and that is the best part of a fortnight of feeding a ward on my own authority with nothing to show for it but a chalk mark and my word. Since the seventh the order has been broken every hour, and I have broken it every hour, and I will go on breaking it at the sixth bell tonight if the low kitchens are still dry. I have four letters in my coat in case anybody wants to read them, and my own name on my own work order, and I have never once pretended to be anybody else.
 
 "What I want said back to me, and I am asking and not telling, is this. Close that sluice at the sixth bell. Go up to the school house and count how many people are in there. Then say to me, in front of these hundred people, whether you would rather I had obeyed the order." He took the lamp out of his teeth. "That is the whole of the case and I will not make it longer. If the ward says close it, I close it, and I will not say a word about it afterwards, and the low kitchens go without at the peak and that is the cost of saying it."
 
@@ -66,7 +66,7 @@ And the crowd broke a little, the way a crowd does when it discovers it is about
 
 "I did."
 
-"You fed us since the second day, and the gate would have shut on us otherwise, and the fuel basin would have been under water on the sixth, and Rezek's eleven men would have drowned in the tar channel." She was not shouting. She had a Warden's habit of being audible in a yard. "And you broke a Crown Terrace order to do it, and a Crown Terrace water-clerk wrote you four letters about it, and the order was sealed, and I have read the four letters because he keeps them in the coat where anyone can get at them. That man is a fool if he thinks those letters are about a valve."
+"You fed us since the second day, and the gate would have shut on us otherwise, and the fuel basin would have been under water on the sixth, and Rezek's eleven men would have drowned in the tar channel." She was not shouting. She had a Warden's habit of being audible in a yard. "And you took a sealed Crown Terrace order on the seventh and kept that valve open anyway, and a Crown Terrace water-clerk wrote you four letters about it, and the order was sealed, and I have read the four letters because he keeps them in the coat where anyone can get at them. That man is a fool if he thinks those letters are about a valve."
 
 "He knows what they're about," Ilya said.
 
@@ -80,14 +80,14 @@ Nobody said it. A hundred people in the rain looked at the ground and at each ot
 
 Ilya Senn picked the bucket up off the road.
 
-"Keep your two," he said to her. "And I'll shut it at the sixth, and the ward will not be dry, and the letter of the seventh will be in a file somewhere with my name on it, and I will not have said a word about it afterwards." He looked up the leveve at the man standing above them with a lamp and blood on his face. "Clerk. You are the reason that order has not been obeyed yet and you should know that four hundred people know it. Write that down too, if you are writing."
+"Keep your two," he said to her. "And I'll shut it at the sixth, and the ward will not be dry, and the letter of the seventh will be in a file somewhere with my name on it, and I will not have said a word about it afterwards." He looked up the levee at the man standing above them with a lamp and blood on his face. "Clerk. You are the reason that order has not been obeyed yet and you should know that four hundred people know it. Write that down too, if you are writing."
 
 
 Tamsin came up the Sill Road at half past the fifth with a covered pot in one hand and Lio by the other, and she did not come up to the Gate; she came as far as the bus shelter at the head of the road, which was the highest dry ground between the ward and the span.
 
 Lio had been left at the shelter with her hood up and the pot in her lap.
 
-Marek got down off the leveve and walked up to them and his mother looked at his face for about two seconds.
+Marek got down off the levee and walked up to them and his mother looked at his face for about two seconds.
 
 "You've cut your arm," she said.
 
@@ -186,12 +186,12 @@ Some way through the fourth page a voice came up the stair from the copy room, a
 
 The lamp on the Chair landing was turned down to a bead. The tower was about to ring.
 
-Marek took the notice and put his name on it, in the small upright clerk's hand, without flourishes, and wrote the hour, and gave it back, and did not say anything at all, and the tower rang the sixth bell of the night of the fourteenth of the rains, and the delay came out of him all at once, and it did not hurt any more.
+Marek took the notice and put his name on it, in the same upright clerk's hand he had signed the certificate in five days ago, and wrote the hour after it, and gave it back, and did not say anything at all, and the tower rang the sixth bell of the night of the fourteenth of the rains, and the delay came out of him all at once, and it did not hurt any more.
 
 It simply stopped.
 
 The hand that had been on the page for six bells lifted off the bench and hung in the air, and the entry was a page, and the copy room was a room, and the case was open on a bench with a fair fast hand at the top of it and a boy's pencil at the bottom, and the settlement was due, and it was due that minute, and nobody in the building had done one thing about it.
 
-Down on the road at the top of the Sill Road a Warden shut a valve he had been told to shut, out loud, in front of a hundred people, and the water in the Crown Terrace channel came up a foot and a half, and four hundred and thirty-one people were in a school house on Sill Row with a list of their names in a book tied to an examiner's finger with string, and a man who was going to be the cause of something walked up the north road in the rain with a lamp in his teeth.
+Down on the road at the top of the Sill Road a Warden shut a valve he had been told to shut, out loud, in front of a hundred people, and the water in the Crown Terrace channel came up a foot and a half, and four hundred people were in a school house on Sill Row with a list of their names in a book tied to an examiner's finger with string, and a man who was going to be the cause of something walked up the north road in the rain with a lamp in his teeth.
 
 In the Tally Halls, a settlement became due.

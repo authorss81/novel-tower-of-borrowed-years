@@ -58,7 +58,7 @@ Someone had put them in a sack. That was the part he could not get past. A sack 
 
 He counted forty-one. He read the first nine and stopped, and then read the rest of the titles anyway, because stopping was how clerks lost a file.
 
-*Petition of the water-yard captains of Tallow Ward, that the distribution at the four shared yards be reduced to the standing schedule and not below, and that the reduction be made public before it is made.* Eleven signatures, and Aldis Kern's among them, in a hand that had been taught by a clerk and did it very well.
+*Petition of the water-yard captains of Tallow Ward, that the distribution at the four shared yards be reduced to the standing schedule and not below, and that the reduction be made public before it is made.* Four signatures, and Aldis Kern's among them, in a hand that had been taught by a clerk and did it very well.
 
 *That the low kitchens at the Tallow Gate be supplied from the trunk main at the full schedule during the coming high water.* Thirty-one signatures.
 
@@ -102,7 +102,7 @@ He put the file on Hesper's desk instead. He did not put it in Hesper's hands, w
 
 Hesper did not look up for a moment. Then he did look up, and he was not a large man and he had a way of looking at you as though he had already read the page you were about to write, and he said, "Thank you. Shut the door on your way."
 
-Marek shut the door on his way. He had been working in the hall for four years and that was the first time in eleven months Hesper Rann had thanked him.
+Marek shut the door on his way. He had been working in the hall for four years and that was the first time since the spring that Hesper Rann had thanked him.
 
 Behind the door, he stood in the corridor and listened, without meaning to, the way you listen to a door.
 
@@ -128,12 +128,12 @@ Marek went to his bench. He had left his coat on the back of his chair and he pu
 
 Then he went down.
 
-He had a rule about that, too, and it was the only one of his rules that was about the world instead of the work. He did not trust a file he had not walked. It was a clerk's rule, not a good man's rule; it had kept him from two bad arguments in four years and it had never once cost him anything he had wanted. So he went down off Bell Stair, through the Standing Market where the gutters ran like drains, and down the Sill Road with the rain going sideways off the eaves, and into Tallow Ward, and along the row of the fuel yards to the Gate yard, where the tank stood and Aldis Kern was standing in front of it with a lamp and his hands on his hips and eleven people behind him and no water in the tank at all.
+He had a rule about that, too, and it was the only one of his rules that was about the world instead of the work. He did not trust a file he had not walked. It was a clerk's rule, not a good man's rule; it had kept him from two bad arguments in four years and it had never once cost him anything he had wanted. So he went down off Bell Stair, through the Standing Market where the gutters ran like drains, and down the Sill Road with the rain going sideways off the eaves, and into Tallow Ward, and along the row of the fuel yards to the Gate yard, where the tank stood and Aldis Kern was standing in front of it with a lamp and his hands on his hips and a dozen people behind him and no water in the tank at all.
 
 "Clerk," Kern said, before Marek had got his coat open. "It went dry at the fifth bell. Not the fourth. The fifth. There's water in the main. Go and look at the main."
 
 Marek looked at the main.
 
-It was running. He could hear it, a low steady knock in the iron, the sound of a full pipe, and he put his palm on the standpipe where the frost had been painted over every winter for longer than the yard had existed, and the standpipe was cold and hard and moving, and the tank two yards away was dry to the sludge, and eleven people were standing in the rain watching a clerk decide which of those two facts was real.
+It was running. He could hear it, a low steady knock in the iron, the sound of a full pipe, and he put his palm on the standpipe where the frost had been painted over every winter for longer than the yard had existed, and the standpipe was cold and hard and moving, and the tank two yards away was dry to the sludge, and a dozen people were standing in the rain watching a clerk decide which of those two facts was real.
 
 He took out his book, and he wrote the hour, and he wrote what the tank read, and he wrote what the standpipe read, and then he stopped with the pen on the page, because he was a clerk and he knew what the two lines together said, and no file in Bell Stair had a column for it.

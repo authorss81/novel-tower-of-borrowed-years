@@ -34,13 +34,13 @@ Marek turned round. A woman of perhaps fifty, in a Warden's coat with the sleeve
 
 She put her hand on the two columns.
 
-"Read the ninth day of the rains. Nine is on the right. It is on the left. The left says the junction delivered eleven hundred and forty. The yards took seven hundred and ninety. I have chalked the difference every hour for nine days and it is never less than a third and on the sixth and the eighth it is more than a half."
+"Read the ninth day of the rains. Nine is on the right. It is on the left. The left says the junction delivered six hundred and forty. The yards took four hundred and forty. I have chalked the difference every hour for nine days and it is never less than a quarter of what the meter gave me, and on the sixth and the eighth it is more than a half."
 
 Marek looked at the two numbers for a long time.
 
-"Third and a half," he said.
+"A shade under a third," he said.
 
-"Close to forty per cent, if you like it round."
+"Closer to half than to a third, if you like it round. That is what the meter is over-reading by, set against what the four yards really took."
 
 "The meter is over-reading."
 
@@ -82,7 +82,7 @@ Ilya Senn was forty-one and looked fifty and had a lantern hooked to his belt an
 
 "Deputy Steward's order," Ilya said. "Third Sluice to be closed at the seventh bell and held through the peak for the Crown Terrace intake. Signed, sealed, dated the seventh. Read it and then tell me what your ward's water is doing."
 
-Marek read it. It was exactly what it said it was. The order was in order. The valve was open, and had been open for five days, and there was a chalk mark on the frame with a date, and the date was the seventh.
+Marek read it. It was exactly what it said it was. The order was in order. The valve was open, and somebody had put a chalk mark on the frame with a date against it, and the date was the seventh.
 
 "Your order is the seventh," Marek said.
 
@@ -108,7 +108,7 @@ On the causeway he stopped and said, "How long has the ward been fed off the bas
 
 "Since the second," said Ilya.
 
-"And the certification goes live at first light tomorrow and it will certify the ward's delivery at the standing schedule, which is a third more than the yards can take, which the file says is a third less than they are taking."
+"And the certification goes live at first light tomorrow, and it is going to certify the ward's delivery at the standing schedule. The standing schedule is a shade over a third of what your four yards are actually taking. The figure it is certifying them for is close to half again as much as that. And all three of those numbers are true, and one of them is in your file."
 
 "Yes," said Ilya. "Which is why your file is right and your ward is thirsty, and both of those are true, and the second of them is the reason the first one is available."
 
@@ -160,7 +160,7 @@ The objection he had come down to file would have gone to the posting desk and w
 
 So he copied it.
 
-He copied the footnote, and then, because he had already read it, because a footnote without the page it points at is a sentence, he copied the margin as well, in his own small hand, on the back page of his own book, and he did it standing up in a cold vault with a lamp in his teeth, and it took eleven minutes, and it is the only time in his life that he broke a written instruction of the Yearspire Trust, and he did it for the worst possible reason, which was that he could not think of anybody who would arrive in time.
+He copied the footnote, and then, because he had already read it, because a footnote without the page it points at is a sentence, he copied the margin as well, in his own small hand, on the back page of his own book, and he did it standing up in a cold vault with a lamp in his teeth, and it took the better part of a quarter of an hour, and it is the only time in his life that he broke a written instruction of the Yearspire Trust, and he did it for the worst possible reason, which was that he could not think of anybody who would arrive in time.
 
 He put the volume back. He put the case back and the hasp down and told the vault clerk he had read the reference volume, which was a permitted thing to do and the only thing he was ever going to say about it, and he went up the cold stair and out into the rain on Stillstep Island at about the eleventh bell, and the wind took the lamp out of his hand and put it out.
 
@@ -172,7 +172,7 @@ Hesper Rann was on the causeway steps with his coat open and no umbrella, in a r
 
 "I could have. I did not want to write a note about where you had been." He came up the last three steps. "Listen. There is a certification going live at first light and Vole's office wants your name on it, and I have put you down for it. Certify it, and the ward's delivery is certified at the standing schedule tomorrow, and the settlement draws the difference on the fourteenth, and the settlement is due, and it is drawn from eleven households — and there is a copy of the paper in that case which says no household named in this assessment is drawn upon for the season."
 
-He said that last part lightly. He said it the way a man says a thing he has read out before and knows to be true.
+He said that last part lightly. He said it without a doubt in it anywhere, which was worse than if he had doubted.
 
 Marek stood on the causeway steps in the rain and worked it out, because there was not enough in him any more to be angry with.
 

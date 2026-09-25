@@ -51,7 +51,7 @@ Hesper took it, read row forty, and gave it back, and said: "Good. That is very 
 "Then do what a clerk does." Hesper shut the door. "File the finding. It will be in the record in ten days. The peak is tomorrow."
 
 
-The second junction is at the bottom of a cutting off the levee, and to get to it you go down eleven steps made of three different stones laid by three different generations of Wardens, and the bottom of the cutting is about four feet across and about a foot deep in black water, and in the middle of it there is a red iron main with a screen on the elbow and a strainer box beside it and a bypass wheel four feet up on a frame, set the wrong way round.
+The second junction is at the bottom of a cutting off the levee, and to get to it you go down a dozen steps made of three different stones laid by three different generations of Wardens, and the bottom of the cutting is about four feet across and about a foot deep in black water, and in the middle of it there is a red iron main with a screen on the elbow and a strainer box beside it and a bypass wheel four feet up on a frame, set the wrong way round.
 
 It was half past the first bell and it was dark and it was raining and Ilya's crew had brought lanterns and two picks and a length of chain, and four of Aldis Kern's men had come down the cutting on their own initiative, which Marek had not asked for and could not have afforded to ask for, and which he was going to be thinking about for a long time afterwards.
 
@@ -87,7 +87,7 @@ Marda Senn was up on the levee with the slate and her hand on the top of the lef
 
 Not all at once. In ones and twos, over about an hour, the left-hand column walked down the right-hand one, and the right-hand column held, because it was what the yards actually took and it could not be argued with, and where they met the difference column went out of use, and Marda Senn ruled a line through it with a steady hand, and put the date on the line, and said nothing, and four Kern men stood about watching a chalk board which was, in the whole of the ninth to the thirteenth day of the rains, the first good news any of them had been shown.
 
-"The Gate tank fills by the fourth bell," Marda said. "It fills at half the rate it should and it fills. The Tanner's stops falling. Ropewalk gets water at the standpipe — about nine gallons an hour, which is nothing against the standing schedule and is the whole difference between a washday and no washday — and the low kitchens come off the basin by the fifteenth if Petross's screen holds."
+"The Gate tank fills by the fourth bell," Marda said. "It fills at half the rate it should and it fills. The Tanner's stops falling. Ropewalk gets water at the standpipe — about seventy pints an hour, which is nothing against the standing schedule and is the whole difference between a washday and no washday — and the low kitchens come off the basin by the fifteenth if Petross's screen holds."
 
 "Two days," Marek said.
 
@@ -95,11 +95,11 @@ Not all at once. In ones and twos, over about an hour, the left-hand column walk
 
 Kern found him at the top of the cutting.
 
-"The yard is not going to be dry tomorrow," he said. "I want to say that first, because I have been the captain of this water for eleven years and I have told this ward what was coming every day since the second, and I have been wrong every day since the second, and today I have been wrong in the direction of a man having water. I have not been wrong in that direction since the spring freshet." He put his hat in his hands. "That is yours. I have thought about it walking up the stairs, and I have decided that I am not going to thank you for it today, because I do not know yet who is paying for it, and I have a rule about thanking people in a flood."
+"The yard is not going to be dry tomorrow," he said. "I want to say that first, because I have been the captain of this water for sixteen years and I have told this ward what was coming every day since the second, and I have been wrong every day since the second, and today I have been wrong in the direction of a man having water. I have not been wrong in that direction since the spring freshet." He put his hat in his hands. "That is yours. I have thought about it walking up the stairs, and I have decided that I am not going to thank you for it today, because I do not know yet who is paying for it, and I have a rule about thanking people in a flood."
 
 "Someone is paying for it," Marek said.
 
-"I know someone is paying for it. I have been the captain of this water for eleven years. Somebody is always paying for it." He put the hat back on. "And the bill, clerk. The bill on the fourteenth. Does the fixing of your pipe change the bill on the fourteenth?"
+"I know someone is paying for it. I have been the captain of this water for sixteen years. Somebody is always paying for it." He put the hat back on. "And the bill, clerk. The bill on the fourteenth. Does the fixing of your pipe change the bill on the fourteenth?"
 
 "No," Marek said.
 

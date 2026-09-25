@@ -4,7 +4,7 @@ Bohdan Rezek came to the counter at the fourth bell with an instalment receipt i
 
 Marek took the envelope and did it properly. That was the whole of what he was good at and he had never once been tempted to do it fast.
 
-An instalment had to be read three ways: against the sealed terms in the case, against the running account of what had already been drawn, and against the drawer's body, which was not a column but was the only one of the three that could not be argued with. Rezek's bond was a labor bond with vigor attached — the ward's fuel yards had run eleven years on the same arrangement, fuel first and the body last, and the form permitted vigor as a rider where the work was weather. The sealed terms said fourteen days of endurance per instalment, scope named to the fuel line and the two basins, witness a Crown Terrace water-clerk and the fuel-yard second, settlement at the end of the season in days of work.
+An instalment had to be read three ways: against the sealed terms in the case, against the running account of what had already been drawn, and against the drawer's body, which was not a column but was the only one of the three that could not be argued with. Rezek's bond was a labor bond with vigor attached — the ward's fuel yards had run a decade on the same arrangement, fuel first and the body last, and the form permitted vigor as a rider where the work was weather. The sealed terms said fourteen days of endurance per instalment, scope named to the fuel line and the two basins, witness a Crown Terrace water-clerk and the fuel-yard second, settlement at the end of the season in days of work.
 
 The receipt said sixteen.
 
@@ -62,7 +62,7 @@ He had not put the receipt down. He was aware, in a distant and entirely unhelpf
 
 The page was not paper. That is the only honest way to put it.
 
-The lines were where they had always been and they were the same colour, and the entries were exactly what they had been an hour ago, and the running account at the foot was the same, and the sealed terms printed behind it were the same, and over the top of all of it there was something laid on the page the way a man lays his hand on a child's head, and it was not ink and it was not light.
+The lines were where they had always been and they were the same colour, and the entries were exactly what they had been an hour ago, and the running account at the foot was the same, and the sealed terms printed behind it were the same, and laid over the top of all of it there was something on the page the way a hand goes on the back of a neck, and it was not ink and it was not light.
 
 > Two names. The file names one.
 
@@ -122,15 +122,17 @@ Marek read the surety column twice, because there was something in it he was not
 
 Rezek. Rezek's forty-four days. Rezek's surety: *Rusk, P., of the ward school, Tallow Gate* — and the witness column: blank.
 
+That was the second name. The panel had said two and the file had named one, and the one it had not named was in a surety cell on the leaf folded behind the receipt, in a hand that was neither his nor Hesper's, and it had been folded there since before the receipt came across the counter.
+
 He read the whole column down. Eleven lines, eleven sureties named, eleven witness cells empty, every one of them the same shape. On the ninth day of the rains he had countersigned eleven receipts at that counter-desk, and he had read every one of the eleven totals, and not one of those totals had had a line in it like this.
 
-He had a bundle of labor schedule in his hand with eleven sureties on it and no witness anywhere on the page, and every one of those sureties had been entered by somebody as though a surety were just a thing you wrote down, and one line in particular, one of eleven, was a schoolmistress who had stood in a yard and read numbers out loud to children's mothers every day for nine years, and her name was in a cell on a page that the ward had never been given, under a word that meant *a person whose future is answerable for this*, and she had never been asked.
+He had the labour schedule in his hand with eleven sureties on it and no witness anywhere on the page, and every one of those sureties had been entered by somebody as though a surety were just a thing you wrote down, and one line in particular, one of eleven, was a schoolmistress who had stood in a yard and read numbers out loud to children's mothers every day for nine years, and her name was in a cell on a page that the ward had never been given, under a word that meant *a person whose future is answerable for this*, and she had never been asked.
 
 It came back on him in the middle of the copy room, the way a thing does. Two names, and the file had one of them.
 
 He was aware that he had stopped breathing. He started again.
 
-Eleven sureties. And there were eleven lines in the ward's roll and four yards, and every household in the assessment had exactly one surety attached to it, and not one of the eleven had been asked, and the person who had written those eleven names into a surety column without asking them had done it in a fair, fast, confident hand that was not Hesper's and was not his.
+Eleven sureties. And eleven lines in the ward's roll and four yards, and every household in the assessment had exactly one surety attached to it, and not one of them had been asked, and the person who had written those names into a surety column without asking anybody had done it in a fair, fast, confident hand that was not Hesper's and was not his.
 
 The file that contained the schedule was in the unposted rack. It had been in the unposted rack since the sixth bell on the ninth day.
 
@@ -140,7 +142,7 @@ Then he looked at the schedule for a long time, and then he copied it.
 
 Not onto Tower paper, and not into any book, and not into the petition book, which was evidence. He copied it onto the back page of his own book, in his own hand, small, with the column headings and all eleven lines, and he did it in about twenty minutes, and he checked each name against the wax stitch and did it again, and when he had it he folded the page in four and put it inside his coat, against the little book of promises, where the arithmetic from the night before was already.
 
-He did not tell Hesper. He had a document in his hand that showed his supervisor's assessment was false-witnessed on eleven lines, and the supervisor's room was eleven steps away, and he took the document home instead.
+He did not tell Hesper. He had a document in his hand that showed his supervisor's assessment was false-witnessed on eleven lines, and the supervisor's room was across one landing, and he took the document home instead.
 
 At the sixth bell, on his way out, Hesper Rann caught him at the top of the stair with his coat already buttoned and the day behind him.
 
@@ -152,7 +154,7 @@ At the sixth bell, on his way out, Hesper Rann caught him at the top of the stai
 
 "And the clinic has him. Two days over. It's a rider, Hesper, and I signed it, and if there's anything wrong with the rider I want to know tonight instead of at the hearing."
 
-"Nothing is wrong with the rider. The rider is administrative. You granted it correctly, you granted it inside your own authority, and you wrote yourself into the margin, which is more than most men do." Hesper took a folded paper out of his coat and looked at it, not urgently, the way a man looks at a thing he has already decided about. "The ward entry is complete. It wants one thing and one thing only and I want it off my desk tonight: the certificate of posting, so that the assessment is a posting instead of a draft in the morning. The certificate needs a third-grade countersignature and the clerk of the day for Tallow receipts is a party to the matter as of this morning, which the posting desk was very good about reminding me of at the fourth bell."
+"Nothing is wrong with the rider. The rider is administrative. You granted it correctly, you granted it inside your own authority, and you wrote yourself into the margin, which is more than most men do." Hesper took a folded paper out of his coat and looked at it without any urgency at all, which was the most frightening thing in the stair. "The ward entry is complete. It wants one thing and one thing only and I want it off my desk tonight: the certificate of posting, so that the assessment is a posting instead of a draft in the morning. The certificate needs a third-grade countersignature and the clerk of the day for Tallow receipts is a party to the matter as of this morning, which the posting desk was very good about reminding me of at the fourth bell."
 
 Marek stopped in the stair.
 
