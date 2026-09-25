@@ -68,3 +68,54 @@ Full plan: `outline/series.md` and `outline/ending.md` are written and authorita
 ## Volume 01 chain of cause (locked in the Volume 01 planning)
 
 The falsified Tallow Ward water entry invents an offsetting **standing reserve** so the ward does not appear to pay for the gate loan Hesper needed sealed before its notice period expired. The lie bought speed, not safety: the ward really is short, and the river is the reason. The invented reserve resolves through a single footnote in the oldest reference volume in the Season Vaults case, to that volume's first line, which is blank, and beneath the blank is the signature **A-0**. In the same old hand, in the margin, is the founding remedy this volume uses: a standing hold, by which no settlement may be taken before the year is ended, held by the clerk of record. A hold stores the delay in the holder's own yearline and adds nobody to the responsibility chain. The volume's lesson is that the delay is his and the collection is not his to direct.
+
+## Volume 01 facts established by batch 0001 (Chapters 1–10)
+
+### Instruments and pages in the Tallow folder (do not blur)
+
+- **The ward settlement entry** — false-witnessed. Hesper's own hand, signed the ninth day at the sixth bell; the settlement date filled in and initialled by Hesper on the eleventh day; **Ondra Kelb's pencil countersignature on the totals, dated the ninth day**. Carries the invented standing-reserve recital and the omission of page three from the ward's notice. This is the instrument the Chapter 10 chain walks and the instrument suspended in Chapter 8.
+- **The clerk's certificate of posting** — a separate one-page paper, **countersigned by Marek on the eleventh day**, with *Yes* written by Marek on the posting desk's query that records him as a party. It is the paper that made the settlement due at the peak, and it is what he surrenders in Chapter 44.
+- **Page three is the labour-pledge schedule.** Eleven lines, four columns: household, days, surety, witness. Eleven sureties named. **All eleven witness cells blank.** It is cited at the foot of the entry's fourth clause, filed in the file, and **never given to the ward**: the ward's copy runs one, two, four, five.
+- The chain follows the instrument, not the folder. Marek's name is never the chain's terminal name.
+
+### The fraud's two halves, as established
+
+- **Visible half:** the omitted material term — page three, the eleven unsigned sureties, never disclosed to the parties the levy was posted against.
+- **Unauditable half:** the offsetting standing-reserve recital in the fourth clause. It resolves through **one footnote** to the first entry of the oldest reference volume in the Season Vaults case, which is **blank** and signed **A-0**; the marginal standing hold in the same hand is the unauthorized remedy Marek uses in Chapter 8. **Nobody can audit that line at a counter-desk, and that is what a recital is for.**
+- The reserve exists so the ward will not appear to pay for the Tallow Gate loan, whose thirty-day notice expired on the twelfth. The lie bought the ward its floodgate; it did not reduce the ward's cost. Hesper did not manufacture the shortage.
+
+### Volume 01 local facts now on the page
+
+- The Tallow yards are the **Gate yard, the Tanner's yard, the Fuel basin and Ropewalk** (a standpipe). The Gate tank was dry on the ninth, half on the twelfth, full by the fifteenth. A hundred and forty pints of ward shortfall at the peak.
+- **Six bells a day and six a night**, counted separately; the fourth bell of the night is the flood peak and is the hour in Hesper's posting.
+- **Petross Oleksen**, 61, senior hand on the Tallow line, holds the junction screen. The screen and the bypass are maintained on **account 4-Crown, irrigation**, serving the Crown Terrace north gardens, which draw from Bell Weir and have never drawn from the Tallow line. Cleared and reset on the thirteenth; the difference column on Marda Senn's slate was ruled out of use. The two days bought did not touch the bill.
+- **Rezek's draw:** sixteen days granted against sealed terms of fourteen under a wet-weather rider, granted administratively at the counter-desk by Marek, who wrote himself into the margin. The Witness Room was not sitting. Rezek's hands seized and the record and his body disagreed in public. He is the first visible victim and he lives.
+- **The peak-day delivery certification** was never signed. The ward's lawful requirement for the peak is therefore a quantity that exists in no document. The hearing offered on the tenth for the twelfth is **cancelled**; the hearing is **the fifteenth at the eighth bell, the Trust's third floor, Renata Vole presiding**, with the ward's copy and the file's copy to be compared in the room.
+- **The hold notice** went onto the posting board with *no office of record* on the line and Marek's name under it as applicant. It is still up.
+- Neris Kade got **431 people** out of the low kitchens into the Sill Road school house with a list in her own hand tied to her finger with string.
+
+### Ondra Kelb's injury as established (Chapter 10)
+
+Not paralysis. He can move the hand and will be able to lift a cup at sixty. What is gone is **the years of it** — the fine use of the right hand, which arrives at the end of a life and has been taken out of the middle. It is expected to be permanent and there is nothing in the ledger to put back, because it was not a loan: no pledge, no surety, no settlement, no day on the calendar called the fourteenth. He is not at the fifteenth hearing. Marek must state it in the order **entry, Kelb's name, his own**, because two signed papers from two clerks live in one folder.
+
+### The cost carried by Marek so far
+
+Ledger Sight was used on a live record five times in five days — Chapters 4, 5, 6, 7 and 10 — and the Chapter 7 use is silent: it confirms a payee line at the fortieth row of the ward water account and gives no warning. A lost midday purchase on the tenth — he is carrying it and cannot remember what is in it — a lost quarter hour on the twelfth night, and a **lost hour between the fifth and sixth bells on the fourteenth**. Six bells of hold: nosebleed, tunnel vision, tremor, and a **year scar that has not appeared yet** — Sera Holt told him to be sitting in a chair when it does, and it is not dramatic.
+
+### Terminology note for later batches
+
+The prose term for Marek's Chapter 8 act is **standing hold** (the founding remedy in the margin). The batch cards also call it a **Boundary Hold**; that is the bible's name for the general power stage and it does not appear in the prose, because no character in the building has ever seen one. A later batch must not put the phrase *Boundary Hold* into a clerk's mouth.
+
+The card in `outline/batches/volume-01-batch-0001.md` places Chapter 8 on "the thirteenth night into the fourteenth" and Chapter 9 on "the fourteenth night." The prose resolves both to **one night, the night of the fourteenth**, with the sixth bell in the small hours of the fifteenth; the card is the error and the prose is correct. Chapter 8's hold is taken **after the last of the light and before the first bell**, not at the fifth bell.
+
+### Supporting figures added in batch 0001 (all Volume 01, all still live)
+
+- **Pella Rusk**, the ward schoolmistress at the Tallow Gate school, is one of the eleven sureties named in an unsigned cell on page three. Marek finds the name in Chapter 4 and tells nobody, including her. She does not know. This is the seed of her Chapter 18 school-roll chapter and of the public school-roll number argued in Chapter 37; later batches must not make it a surprise that she has a reason to care, and must not have her learn of it before Chapter 18.
+- **Sedge**, a third-grade clerk of nine years on the intake floor, refuses to countersign a certification for a district he is not clerk of, and is the clerk Hesper threatens in Chapters 4 and 7.
+- **Ferun**, a Tallow yard-man, whose boy of thirteen went into the Underbank for a neighbour's goods and came out with a broken leg. Aldis Kern's rule is that the Underbank damage is named before the sluice in any account of that night, and he wants it said that way permanently. Owned by Chapters 23 and 47.
+- The **posting desk's duty-clerk's woman**, twenty-two years in the copy room and the duty clerk's deputy, who is going to the hearing and who has never in twenty-two years had a roll come up she could not place. She is not a source and does not become one.
+- Unnamed and functional: the Threshold hearing officer; the ward's fair-fast writing hand that wrote the assessment; Ovsek, the tanner who witnessed a fortnight of recovery; Vollner, a meter reader dismissed twenty-two years ago.
+
+### The ward roll planted at the close of Chapter 10 (owned by Volume 5, not repeated in this volume)
+
+A working ward roll, four fingers thick, rained on, left under a weight on the posting desk by **Nim Rook** at the first bell for the Tallow clerk. Thirty-one entries in a fair small hand, the last dated the ninth day of the rains. The district column reads **4 — Kallow** in every line, with a head-line reading *assigned* and **no ward names in it at all**. The tower's four-hundred-page register *Districts and Rolls* has no district numbered four called Kallow and no Kallow anywhere in it. Marek keeps it out of the Tallow file, because a file would make it an exhibit in a levy hearing, and puts it in his coat. **Nobody names the quarter, nobody explains the code, and this plant does not recur in Movements II–V.**
