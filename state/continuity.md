@@ -34,8 +34,26 @@ Morrowfen, a city on a black peat sink in a salt basin, in **Morrowfen Reckoning
 - **Hesper's falsified entry is the volume's first legal wrong, and an under-clerk who countersigned it in good faith is the person Boundary Hold injures.**
 - **Ovid Merrow**, 47, Sable Compact broker; **Chancellor Ysara Venn**, 58, emergency governor; **Seren Calder**, 40, settlement marshal; **Lyra Dain**, 36, Quiet Choir leader; **Edren Sable**, First Auditor, copied and renewed, present only as A-0 until Volume 11.
 
+### Volume 01 supporting cast (named in `outline/volume-01.md`)
+
+- **Ondra Kelb**, 20, junior counter-clerk in the Chamber, three weeks in the post. Countersigned Hesper's falsified Tallow Ward water entry in good faith. He is the last living name on the chain, he is injured by the volume's Boundary Hold, he lives, and he is not written to forgive Marek quickly.
+- **Renata Vole**, 57, Deputy Settlement Steward, Yearspire Trust. Signs emergency settlements and treats an appeal as a scheduling problem. Reassigned, never conceding she was wrong.
+- **Aldis Kern**, 44, Tallow Ward water-yard captain. Four yards, about four hundred people. The ward's public voice; also the man who testifies against Ilya.
+- **Bohdan Rezek**, 51, fuel-yard foreman. First visible victim of the ward settlement; his hands give out in the copy room in Chapter 4.
+- **Nadja Ostrow**, 38, kitchen cook, one of the eleven named households on the ward levy.
+- **Marda Senn**, Ilya's sister, a Warden's ledger clerk who keeps her own pump counts. Her name leaves the warden's roll in Chapter 22; she does not return in this volume.
+- **Bel Harrow**, Crown March representative, arrives in Chapter 31 and chairs the emergency appeals board.
+
+### Volume 01 local terms (setting detail, not new world rules)
+
+The Silt (the river), Bell Weir, the Tallow Gate (the ward floodgate and the boundary named in the ward file), the Third Sluice (the settlement valve Ilya holds open), the posting (an announced settlement date on the Threshold board), the levy (a ward's standing repayment obligation, distinct from a single loan), the copy room and public register in the Tally Halls, and the standing reserve (the reserve cited in the falsified entry, which resolves through one footnote to the oldest reference volume).
+
 ## Volume 1 frame
 
 Central pressure: a flood-season water shortage forces Tallow Ward to settle a loan that will draw future recovery from several residents and leave Tomas's bridge debt unresolved. Resolution: Marek exposes the falsified entry, forces a public emergency appeals board, converts the scheduled settlement of Tomas's loan into supervised road work, and brings the valve sabotage into the record. The ward is saved for this season; the old debt is not erased. The practice Boundary Hold injures the junior clerk who countersigned Hesper's entry, and that injury stays in the volume. Next question: who owns the blank first entry, and what does A-0 mean?
 
-Full plan: `outline/series.md` and `outline/ending.md` are written and authoritative. `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md` are still placeholders and are written by the Volume 01 planning phase; if a batch writer finds them unfilled, it must fill them before drafting.
+Full plan: `outline/series.md` and `outline/ending.md` are written and authoritative. `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md` are written and authoritative as of the Volume 01 planning phase. Batch 0001 owns Chapters 1–10 and its cards specify the batch midpoint (Ch 6), the climax (Ch 10), the panel budget, and the locked new names and local terms.
+
+## Volume 01 chain of cause (locked in the Volume 01 planning)
+
+The falsified Tallow Ward water entry invents an offsetting **standing reserve** so the ward does not appear to pay for the gate loan Hesper needed sealed before its notice period expired. The lie bought speed, not safety: the ward really is short, and the river is the reason. The invented reserve resolves through a single footnote in the oldest reference volume in the Season Vaults case, to that volume's first line, which is blank, and beneath the blank is the signature **A-0**. In the same old hand, in the margin, is the founding remedy this volume uses: a standing hold, by which no settlement may be taken before the year is ended, held by the clerk of record. A hold stores the delay in the holder's own yearline and adds nobody to the responsibility chain. The volume's lesson is that the delay is his and the collection is not his to direct.

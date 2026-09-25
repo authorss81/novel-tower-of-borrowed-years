@@ -9,11 +9,16 @@ Threads are tracked here so a batch never drops one. Each entry names the owner 
 
 ## Volume 1 threads
 
-- Tomas's flood-repair loan and the unrecovered years of his body.
-- Hesper's falsified Tallow Ward water entry and the under-clerk who countersigned it in good faith.
-- The null first entry in the oldest ledger and the signature that clerks are forbidden to erase.
-- The Warden's opened valve: sabotage by the book's rules, rescue by the ward's.
-- Neris and Marek's first professional clash, ending in respect without liking.
+- Tomas's flood-repair loan and the unrecovered years of his body. The loan is lawful, witnessed, and informed; it is not the fraud, and it is not erased in the resolution. The remaining draws are converted into supervised road work and the years already drawn stay drawn.
+- Hesper's falsified Tallow Ward water entry and the under-clerk who countersigned it in good faith, **Ondra Kelb**. Kelb is injured by the volume's Boundary Hold, lives, recovers slowly, and does not forgive quickly.
+- The null first entry in the oldest ledger and the signature that clerks are forbidden to erase. Volume 1 ends on a hand-written public copy with the blank line preserved and **A-0** written out in full.
+- The **standing reserve** the invented entry leans on, which resolves through one footnote to that blank first line. An invented reserve can be written against a line nobody can read, which means anyone can.
+- The founding **standing hold** in the margin of the oldest reference volume, and the rule it teaches: the delay is the holder's, the collection is not his to direct.
+- The Warden's opened valve: sabotage by the book's rules, rescue by the ward's. Ilya's Third Sluice also costs the ward a storehouse and a relative's leg, and the volume's resolution names the ward's share under oath.
+- The trunk main over-reading by about forty percent, whose upkeep is charged to a Crown Terrace irrigation account. Hesper exploited a maintenance failure; he did not cause it.
+- **Marda Senn's** disappearance into the Hollow Galleries (Ch 22). Her name leaves the warden's roll inside this volume and does not come back.
+- Hesper's **aimed second certification**, which makes Kelb's countersignature the whole of the case (Ch 20, filed Ch 39). This is where Hesper stops being a man with one good lie and becomes a man choosing a person.
+- Neris and Marek's first professional clash, ending in respect without liking. No warmth beyond it in this volume.
 
 ## Carried forward
 
