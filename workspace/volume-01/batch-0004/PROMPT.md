@@ -1,0 +1,127 @@
+# Batch 0004 Writer Prompt — Chapters 31–40, "A Board of Strangers"
+
+You are the primary novel writer for *The Tower of Borrowed Years*. This phase owns **Chapters 31 through 40 and nothing else.** Do not write or edit Chapters 1–30; they are finished prose owned by batches 0001, 0002 and 0003.
+
+## Read first, in this order
+
+1. `AGENTS.md`, `NOVEL_SPEC.md`
+2. `bible/premise.md`, `bible/world.md`, `bible/characters.md`, `bible/power-system.md`, `bible/terminology.md`, `bible/themes.md`
+3. `outline/series.md`, `outline/ending.md` (author level, stay hidden from the reader)
+4. `outline/volume-01.md` — **authoritative.** Read the volume guardrails, the locked instruments, the locked levy roll, the new names, the local terms, and the **Movement IV chapter map in full** (lines 140–151). Do not edit it.
+5. `state/current.md` (**including the "Where the story is on the morning of the first of next month" section and the recorded deviations**), `state/continuity.md` (**the batch 0001, 0002 and 0003 sections are all important; the batch 0003 section is the most important**), `state/open-threads.md` (**especially "Opened by batch 0003"**), `state/chapter-summaries.md`
+6. **Voice and immediate continuity: `chapters/volume-01/chapter-0029.md` and `chapters/volume-01/chapter-0030.md`, in full.** Also read Chapters 23, 25, 27 and 28 in full: 23 is the model for a yard scene where the institution *is* the argument, 25 is the midpoint, 27 is the model for a hearing played as a maintenance account with a man attached rather than a trial of his character, and 28 is the refusal and the ward's roll. Chapter 11 for Kelb's injury as a body, and Chapter 20 for what the last clerk took home.
+
+**There is no `outline/batches/volume-01-batch-0004.md` card file.** This prompt carries the per-chapter detail. The per-chapter beats below come from the Movement IV map in `outline/volume-01.md` and expand it. Where this prompt and the volume outline disagree, this prompt wins on policy (locked instruments, panel budget, guardrails, the filing date) and the volume outline wins on the volume's shape. **You may create `outline/batches/volume-01-batch-0004.md` as your own drafting notes if it helps; nothing outside Chapters 31–40 and the state files is yours to change.**
+
+## Where the story is
+
+MR 412, **the first of next month.** The flood is over. The river is down. The Trust's finding of the thirtieth is served on the ward, and the ward has a bill it has agreed in advance to pay, a school it cannot keep open, and a copy of a decision it cannot appeal.
+
+- **The finding says:** the ward settlement of the ninth is lawful; the standing reserve as recited is honoured as certified **against the water office's own account and not against the households**; the delivery certified for the peak night is corrected to **four hundred and forty** against a lawful **one hundred and sixty**, an excess of **two hundred and eighty**; the ward's own assessment carries **two hundred and seventy-nine hundreds and forty pints**; and the two differ by **sixty pints in nine days**. The delay of the fourteenth night is **not within the terms and no account of it arises under them, and none is provided**, because there is no office in the city that holds a delay held without authority against an instrument that does not exist.
+- **The finding's fourth clause says the collection will proceed in the ordinary course, at the ordinary wage, in the sums on the roll, and it may not be entered before the cause is entered in the box at the head of the form.** The rider is on the served paper. Renata Vole wrote it herself at the fourth bell of the thirtieth, on a draft levy clerk Ostrowsky typed on the twenty-eighth, and nobody in the levy office can say why a collection lawful since the fifteenth wants a cause before it.
+- **The recount sitting is the twelfth of next month.** Marek Vale is the clerk of the day. Hesper Rann has said he will be in the room and has told him to bring his book shut.
+- **Marek holds a private copy of the nine words of the cause line**, in the levy office's own formula, in the back margin of his own book, with three renderings of page three and a footnote copied out of a page no clerk may copy. **He can produce none of them. He cannot warn the ward. He has not said one word of it to anybody in that building since the twenty-first, and the reason is that a second document cannot be produced in any room, and a man who produces one is not believed.**
+- **Hesper's aimed second certification is still in a drawer in the supervisor's room.** It is filed in **Chapter 39** and not before, and **nothing in Chapters 31–38 may file it, withdraw it, report it to a third party, expose it, or resolve it.**
+- **The ward has two documents that cannot go into any room:** the forty-item oiled sheet of the night of the fourteenth, with the Underbank at the top of it, and the roll of the pail water — a hundred and forty unnamed people, counted three times by three people and never taken down by anybody. Both are on boards in the Gate yard in forty hands, and Kern refused to let Neris Kade or Marek keep either.
+- **The district account's true position is public: 580 per cent over, not 240**, and the cut order written to hold it to 240 per cent is off the wall and turned round by the man who cut it four times in nineteen years.
+- **The ward's own opinion of Ilya Senn** is on a board: the ward will not name him, the ward will pay, the offer stands whether the account closes or not, and the ward does not forgive and does not blame. He never wanted the frame. The valve is shut.
+
+## Locked instruments — never blur these
+
+- **The ward settlement entry** is the false-witnessed instrument. Hesper signed it the ninth day; **Ondra Kelb countersigned it in pencil the same afternoon.** It carries the invented standing-reserve recital and the omission of page three from the ward's notice. The collection lands here and only here.
+- **The clerk's certificate of posting** is a separate one-page paper. **Marek signed it on the eleventh day** and wrote *Yes* on the party query. It is not the chain, it is not the false term, and Marek's name is never where the collection lands. **It is the Chamber's instrument against him in Chapter 32 — the paper the suspension is built on and the thing the Chamber will put in front of him — and the paper he surrenders in Chapter 44.**
+- **The chain follows the instrument, not the folder.** Said once in procedure by the Trust's own hearing officer in Chapter 13, quoted in half a sentence by levy clerk Ostrowsky in Chapter 30. Do not make it a puzzle again and do not re-explain it at length.
+- **The recount of the twenty-first** is a separate desk's form with a cause line: *the totals of this entry were added at the counter-desk from a defective schedule.* Drafted on the twenty-first, **filed in Chapter 39**. A third private copy of the cause line is in the back margin of Marek's own book.
+- **Page three** is the labour-pledge schedule: eleven lines, four columns (household, days, surety, witness), eleven sureties named, **all eleven witness cells blank**, never given to the ward, whose copy runs one, two, four, five. Both copies are on the permanent Chapter 13 record with the difference **noted and not adjudicated**.
+- **The levy roll:** eleven named households; the posting names the first four, which are **the fuel basin, Ropewalk, the Tanner's yard and the Gate yard**, in that order, with only two of the four carrying a household name in the margin — the fuel-yard foreman's, and *Ostrow, Nadja, cook, of the low kitchens*. **The Vale household is seventh of the eleven** and pays later rather than sooner. **No Prent and no Marsh household is named anywhere in the volume.** Tomas's vigor loan is a **separate lawful, witnessed, informed contract**; it is not on the roll, it is not the fraud, and it must never be blurred with it.
+- The founding standing hold, the clerk of record, and the Trust's no-copy standing order are canon and live in `bible/power-system.md`, `bible/terminology.md` and `state/continuity.md`. **Do not restate them as new.**
+
+## Power rules for this batch
+
+- **Ledger Sight: at most one panel in the whole batch, and zero is the target.** Three batches have run it at zero and that has become this volume's characterisation of the power — a clerk budgeting a fee by not spending it. It needs physical contact and a stressed hand, it reads visible entries, the witness chain and one immediate contradiction, and **it cannot produce a missing entry, a name nobody wrote, or an intention.** Its costs are real and boring: headache, tunnel vision, and a small recent ordinary memory gone. Marek has used it **five times in five days, the tenth to the fourteenth of the rains**, and declined it once on purpose in Chapter 16. He has also now learned a second cost: a panel in Chapter 32 or Chapter 38 would be the first time he uses it **in front of somebody.**
+- **No second hold.** The founding standing hold is used once in the series, in Chapter 8, and it is spent. Marek cannot take it again and must not try, and **nobody may suggest a second one is available or desirable.** Nothing above Boundary Hold.
+- The delay is his and stays as a year scar. **The collection was never his to direct.**
+- **Do not let the Sight solve anything.** It points; Marek still has to stand in the mud, count, ask difficult people, and choose.
+
+## What this batch must do
+
+- **Bel Harrow arrives in Chapter 31 and chairs the emergency appeals board for the rest of the volume.** He is a **Crown March representative** — that is his office, and the only new institution this batch introduces. He is not a saviour and he is not a villain; he is a man who has been sent to make a procedure work because the procedure is the thing he knows. He does not fix anything in this batch. He **forces a room to sit.**
+- **This is the batch where the ward does the work of a community, from below, without a clerk.** Chapter 35 is the volume's institutional turn arriving as method: households asked **one at a time** whether they will take a public levy, **and some of them say no.** The Chapter 19 scar-examination method is the seed and should be visible in the procedure **without being cited by name as a method the clerk invented.**
+- **Chapter 32 must cost Marek his standing for the right reason.** The Chamber publishes the suspension and **the six bells are not in it**, because there is no office in the city that could suspend a delay held without authority against an instrument that does not exist. What is in it is his certificate of posting. **Tamsin hears about it before he does.**
+- **Chapter 34 gives the volume the year scar's entry and Tamsin's refusal, and nothing else.** She produces the old notching entry struck from the family copy, says the number is not an accident, and **refuses to say whose it is.** Hesper has already looked at the mark once, in Chapter 25, and asked nothing; do not soften Chapter 34 because of that, and do not explain the number.
+- **Chapter 38 is the chapter where Hesper is simply cruel, on purpose, and it is about the family rather than the file.** It is his last chance to be a person before Chapter 39 takes the mask off in public.
+- **Keep the ledger's four hands open.** The Trust certifying 440 is not the figures agreeing, and Neris Kade's 441 is on the hearing record and must stay a live disagreement.
+- **Do not advance the clerk of record.** Marek may describe himself as making a promise; nobody appoints him.
+
+## Romance — read this twice
+
+Marek and Neris are at **professional respect plus one argument neither of them wins** (Chapter 19), and this batch does not move that. No physical affection, no instant trust, no warmth past what Chapter 24–27 already had, **and no cooling so total that it becomes a sulk.** She said his first name once in the whole volume and it was cut. Keep calling him *Vale* and *Examiner*. What *may* grow is the thing that is not romance and is easy to mistake for it: two competent people who have learned exactly what the other one will refuse to do.
+
+## Length
+
+Target roughly **24,000–28,000 words across ten chapters.** Ordinary chapters **2,400–3,000 words**; 33, 35 and 37 may run longer. **Batch 0003 finished at 31,494, about 12 per cent over the top of the range, which the prompt had asked it not to do.** Batch 0003's distribution was healthy — no chapter under the floor — but three chapters ran long that were not permitted to. **Hold 2,700–3,000 per chapter and finish inside 28,000.** Never pad, and never cut a complete scene to hit a number. If you overrun, record the figure honestly in `state/current.md` rather than pretending.
+
+## Panel budget
+
+**At most one Ledger Sight panel in the entire batch, and zero is the target.** Sparse ink, plain language, no percentages, no verdicts, no predictions, no quest markers, no menus. If a chapter ends up wanting a panel, cut the paragraph that wanted it.
+
+## Guardrails
+
+- Do not answer the missing year, name the Last Convocation, or explain A-0. Nobody in Morrowfen knows who A-0 is.
+- **Grale's seed is not an answer.** In Chapter 29 he said he has a horrible suspicion that the line called *standing reserve* and the order that cuts cheapest-lines-first were written by the same sort of person sixty years ago. **Batch 0004 may carry the suspicion and must not resolve it.**
+- Do not introduce any lender, market, broker, Choir, military body, or regional political crisis. **Harrow is a Crown March representative and the emergency appeals board is the only new institution.** Renata Vole is a Trust administrator and is reassigned only in Chapter 49.
+- Do not make the hold cheap, aimed, or heroic. It was unauthorized, it was six bells, and it hurt a clerk who did not agree to it.
+- **The ward roll naming district four, and the name Kallow, is in Marek's coat. It was not mentioned once in Chapters 11–30. Do not mention it, do not explain it, and do not let a character ask about it.**
+- **Pella Rusk's name is in an unsigned surety cell on page three.** She asked Marek in Chapter 18 and got a technically accurate non-answer. **Chapter 37 argues the school-roll number in public and is not the place the cell is revealed as a surprise.** In Chapter 29 she explicitly refused to say the number. Do not resolve the cell in this batch.
+- End the batch on a completed act and an earned hook, not an interruption mid-action.
+
+## Chapter map
+
+Movement IV is **A Board of Strangers.** The pressure is no longer arithmetic or water; it is **whether four hundred people can be a party to a room.** The order is deliberate — the representative arrives, the standing is lost, a body is mended, an old entry is produced, the ward is asked one household at a time, a board fights about its own terms, a school year becomes a public number, a supervisor gets his one evening of cruelty, the aimed document is filed, and a room is forced to a date. **The batch's own climax is Chapter 39.**
+
+**31 — Bel Harrow.** He arrives with a petition for a public board, because the emergency has outgrown the settlement desk's capacity to be unfair quickly enough. Renata Vole refuses, in procedure, with a schedule of reasons. The ward petitions on its own, and finds out what a petition is when the thing it wants is a room rather than a decision. **Harrow is not a hero and he does not fix anything; he forces a room to be scheduled.** He should be likeable in a way nobody in this volume is, and he should be worse than useless about the ward's bill.
+
+**32 — The suspension without the hold.** The Chamber publishes Marek's suspension, and the six bells are not in it, because there is no office that could suspend them. What is in it is the certificate of posting: the one clean paper he signed on the eleventh, the thing he can produce. **His standing narrows from the inside** — people who could speak for him cannot, a party who wanted him on their side of a table now cannot use him, and Neris Kade is made to stop asking him questions in a corridor because a suspended clerk who is also a party is a convenience for nobody. **Tamsin hears about it first**, in a kitchen, from somebody being kind, and the version she is told is not the version. *The Chamber's instrument against him is the certificate of posting, not the settlement, and Marek's name is still never where the collection lands — this is the chapter where that is painful instead of merely true.*
+
+**33 — Kelb's slow recovery.** The volume's third and last deliberate **practice** chapter, and it must be played as technique rather than as service: a hand learning what it can do, a schedule of what comes back and in what order, and a small controlled experiment that costs him something. Kelb can lift a basket and a cup and will hold a cup at sixty. What is gone is the years of the fine use of the right hand. **He asks one question Marek cannot answer**, and it is not about the flood. *Do not resolve it here. Chapter 34 is a different question and belongs to a different person.*
+
+**34 — Tamsin and the wrist mark.** She produces the old notching entry, struck from the family copy, and says the number is not an accident. **She refuses to say whose it is.** Marek gets the entry and the refusal and no more. The account is **Volume 16's** and the public testimony is **MR 435's.** Do not explain the number, do not let a second person decode it, and do not let Marek get used to the scar — a man who has decided what a mark is does not need anybody to guess, and that is the sentence Hesper gave him in Chapter 25 and it should be the thing that hurts.
+
+**35 — Forcing cooperation.** The ward's households are asked **one at a time** whether they will take a public levy, and **some of them say no.** The Chapter 19 method is running this: examine the body before the instrument, a scar is dated not counted, a person may stop at any point and the stopping is recorded as a stopping, two sheets are never kept by one person. **The method is visible in the procedure and is not named as a method the clerk invented — the ward invented it and the ward is using it without him.** This is the volume's institutional turn arriving from below. The no's matter: three households refuse on the first pass, one of them for a reason nobody expected, and the refusal is entered and stands.
+
+**36 — The board's fight over terms.** Who chairs, who records, who is paid by the fund, who can be cross-examined, and what happens to a dissent. **The fund is Zorka Vendl's Counter-Clerks' Fund, it has run at a deficit every year since the flood years, and paying a recorder out of it is a real argument with a real answer.** Nobody in this chapter is a villain and the terms are genuinely hard. **A public duty to record dissent is on the table in this chapter and is the volume's institutional change** — it survives to Chapter 46.
+
+**37 — The school-roll number in public.** The number Rusk refused to say in Chapter 29 becomes a public figure, **argued by people who are not clerks**: mothers in a yard, a fuel-yard foreman whose hands seized on the ninth, a rope-maker whose boy has a leg, a cook of the low kitchens. Rusk argues it. The cut order has no copy, the school is the last line on it, and the argument is that a thing nobody can be given a copy of is a thing that can be cut with nobody present. **It is not a reveal of Pella Rusk's surety cell and it must not become one.** The third pile's column heading is still blank and this chapter leans on it.
+
+**38 — Hesper corners Marek.** With **Tomas's loan** and **Lio's name**, and for the first time simply cruel. The cruelty is about the family: a brother whose hands are failing, a sister who works a copying floor and noticed a mark on a wrist, and a supervisor who can reach both of them from a chair. **He is near the recount the whole time and never says what it is.** This is the chapter that makes Chapter 39 legible, and it must be written so that a reader who liked him in Chapter 25 can still recognise the man.
+
+**39 — He files it.** Hesper files the aimed certification naming **Kelb as a careless operator**, and a junior clerk's name is destroyed in public. **This is the chapter the aimed certification belongs to and it is why it could not be filed in Chapter 30: the document has to arrive in the room unread, and be exposed there, with the ward's families in it.** Nothing before this chapter may prepare the reader for the specific sentence. Do not soften it, do not let Marek prevent it, and do not let the reader be able to guess the mechanism from anything in Chapters 31–38 — including Ch 38, where Hesper is cruel about the family and says nothing at all about the file.
+
+**40 — Forced into session.** The board is driven to a date and the settlement is **postponed to the hearing**. Every attempt to be informal fails in a specific, small, procedural way, and the chapter ends with a date, a room, and a document somebody has to carry across a city in the rain. **The chapter's victory is procedural and the reader must feel exactly how thin it is.** This is the setup for Movement V and it hands Chapter 41 the ward's families seated in a room.
+
+## Required character changes
+
+- **Marek:** from a man who has a form in his pocket and twelve days to a man who has been suspended, lost his standing, been asked a question he cannot answer about his own arm, and watched his method run without him in a yard. **He is not a different man and he is not broken.** He acquires a second reason to be in the room — the ward's roll, in forty hands, on a board — and no more certainty.
+- **Bel Harrow:** arrives, refuses nothing anybody asks him to, achieves almost nothing, and leaves a room with a date in it. He chairs.
+- **Ondra Kelb:** from a name in a file to a man in a clinic room running his own recovery as a controlled problem, and from that to a name destroyed in public. **He is not written to forgive Marek quickly and he is not written to hate him either.**
+- **Tamsin Vale:** from the person who signed anyway to the person who produces a struck entry from a family copy and refuses to say whose it is.
+- **Neris Kade:** hostile, competent, not warm, and now **practising** — the ward uses her method and she is the one who has to stand in the yard while they do. Her Volume 1 arc's turn.
+- **Hesper Rann:** a supervisor who is kind in Chapter 31–32, is near the thing he has made in 33–37 without speaking of it, is cruel about a family in 38, and files it in 39. **The mask does not drop in 39; it is removed by other people.**
+- **Pella Rusk:** from a woman who refused to say a number to a woman who says it in a yard full of people who are not clerks, and it changes what the room can do.
+
+## Required world reveals, all of them small and all of them institutional
+
+- **A Crown March representative and what he is for.** He represents a procedure, not a constituency. He can call a meeting and he cannot pay anybody out of it, and nobody in Morrowfen has met one before.
+- **What it costs a clerk to be suspended, precisely.** The paper, the entry in a desk's book, who loses the right to sign, who stops being able to be asked, and the fact that a suspended clerk who is also a party is a convenience for nobody.
+- **How a body is mended, in weeks, with a schedule, and what a controlled experiment costs.** Play it as technique.
+- **Individual consent as a method**, and the fact that a refusal is a datum and not a failure.
+- **What an appeals board is made of when nobody has ever had one:** who chairs, who records, who is paid, who may be cross-examined, and how dissent is kept.
+- **A thing with no copy can be cut with nobody present.** The cut order's structure, the school on the last line, and the arithmetic of a term.
+
+## After the batch
+
+1. Write the ten chapter files as `chapters/volume-01/chapter-0031.md` through `chapters/volume-01/chapter-0040.md`.
+2. Update `state/chapter-summaries.md`, `state/continuity.md`, and `state/open-threads.md` compactly. **Record that the aimed certification IS filed at the end of this batch** — in Chapter 39 only, where it names Ondra Kelb as a careless operator and a junior clerk's name is destroyed in public — and that the recount sitting of the twelfth has been overtaken by it. Record the board's terms and its public duty to record dissent as surviving to Chapter 46. **Do not resolve the year scar, Pella Rusk's surety cell, the Fund's discharge book, the Hollow Galleries, the reserve carry, or the unclaimed take-off.** Record any proposed canon change in continuity rather than inventing it silently.
+3. Rewrite `state/current.md` for the batch 0005 writer, including the batch summary, the reading order, the word counts, and an honest deviations section.
+4. Do **not** edit `state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json`, `outline/ending.md`, `outline/series.md`, or `outline/volume-01.md`.
+5. Inspect `outline/volume-01.md`. Chapters remain (41–50), so create **exactly one** next phase: `workspace/volume-01/batch-0005/PROMPT.md` for Chapters 41–50. Create nothing beyond that.

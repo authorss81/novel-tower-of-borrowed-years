@@ -36,7 +36,7 @@ The officer said, "You have put it in the room now."
 
 Marek sat at the end of the table with his notebook and heard a room go quiet in a way he had heard once before, on the fifteenth, when Renata Vole had said four hundred and forty out loud on purpose.
 
-It had gone quiet because the officer had been reading a column of 4-Crown and had come to the date, and the date was the second, and the account had been running four hundred and forty for the ninth of the rains and three hundred and something for the month before, and a room of nine people and forty-one people in a gallery had just been shown that the ward's excess and a broken valve on a Crown Terrace intake were the same two hundred hundreds of pints of water, seen from two ends, and that neither man in this room had ever been in the same room.
+It had gone quiet because the officer had been reading a column of 4-Crown and had come to the date, and the date was the second, and on the same leaf of the account the ward's own certified delivery stood at four hundred and forty for the ninth of the rains against four hundred and ten or thereabouts for a month before it, and a room of nine people and forty-one people in a gallery had just been shown that the ward's excess and a broken valve on a Crown Terrace intake were the same two hundred hundreds of pints of water, seen from two ends, and that neither man in this room had ever been in the same room.
 
 Hesper Rann was at the table on the Trust's side, because a settlement valve is a settlement instrument and the settlement desk's supervisor was a proper witness to it, and Marek had watched him for two hours and had not seen him do anything at all except be kind to Ilya Senn twice, once about the coat and once about the count, in the voice of a man asking after a colleague's family.
 
@@ -52,7 +52,7 @@ Ilya Senn read it twice.
 
 "It is now the district's charge. It has to be somebody's charge. It cannot be the water office's, because the water office drew it; and it cannot be yours, because you are not an account, you are a man; and so it is the district's, and the district's is the account that pays for the ward school and the ward's water and the nine men who water the gardens, and it is two hundred and forty per cent over, and the office cuts that account in a written order on a wall, and I am not going to read you the order, because you would not be able to un-know it."
 
-"So the sentence tidies the file," said Ilya Senn, "and eleven hours of a school year in Tallow Ward comes out of the order on the wall."
+"So the sentence tidies the file," said Ilya Senn, "and the next time that account is cut the school at the bottom of it goes first, and every person in this room knows what that means and not one of us can put a figure on it."
 
 "Yes."
 
@@ -66,7 +66,7 @@ He put the pen down and looked at the paper for a long while.
 
 "The first is a price and I will pay it. The make-good is now the district's charge. It does not say the district has been made whole. There is a boy in Tallow Ward with a shin in two pieces and a storehouse of condemned tar in a cellar and a hundred and forty people who carried pails for nothing and got nothing, and if I put my name to a sentence that says no further action arises, then that is the last instrument in Morrowfen that will ever mention them, and it will be an instrument about a valve.
 
-"The second is an offer, and the room can laugh at it if it likes, because I know what it is worth. I am the man whose breach put the water there. Twenty-two years on this line, a yard and a half a year, and this hand. I cannot pay two hundred hundreds of pints a night for twelve days and I say that out loud so that nobody can think I did not know. I am putting it on the table anyway, because a man who has held a valve open for nineteen days ought to be the first name on any account of it, and I am the first name, and I have been the first name since the second, and the only reason my name is not at the top of that sheet in the ward is that a ward is not a person and cannot keep a roll with anybody's name on it."
+"The second is an offer, and the room can laugh at it if it likes, because I know what it is worth. I am the man whose breach put the water there. Twenty-two years on this line, a yard and a half a year, and this hand. I cannot pay two hundred hundreds of pints a night for twelve days and I say that out loud so that nobody can think I did not know. I am putting it on the table anyway, because a man who has held a valve open for twenty-six days ought to be the first name on any account of it, and I am the first name, and I have been the first name since the second, and the only reason my name is not at the top of that sheet in the ward is that a ward is not a person and cannot keep a roll with anybody's name on it."
 
 He sat down.
 
@@ -80,9 +80,11 @@ The terms were read and were not accepted, and the hearing was adjourned to the 
 
 "That is my account," she said. "Clerk of the day, do you have anything for the room, and if it is a figure I will take the figure and I will not argue with it."
 
-"The ward's roll, of which you have a copy, carries the excess at two hundred and seventy-nine hundreds and forty pints against a lawful hundred and sixty," said Marek. "The corrected account is two hundred and eighty. That is the whole of it and it is twenty pints in nine days and I am not going to argue with that either. And the two hundred and some hundreds of pints of make-good has been entered in the account of the ninth without a single line against a person or a place, and the account is the room's account and the room is the only body in this basin that could put a name in that line, and it has had nine days to do it and it has not."
+"The ward's roll, of which you have a copy, carries the excess at two hundred and seventy-nine hundreds and forty pints against a lawful hundred and sixty," said Marek. "The corrected account is two hundred and eighty. That is the whole of it and it is sixty pints in nine days and I am not going to argue with that either. And the two hundred and some hundreds of pints of make-good has been entered in the account of the ninth without a single line against a person or a place, and the account is the room's account and the room is the only body in this basin that could put a name in that line, and it has had nine days to do it and it has not."
 
-The officer entered the figure. Nobody in the gallery argued with it, because it was a figure, and it was right, and there is not very much that can be done in a room to a figure that is right.
+"Clerk," said Neris Kade, from the third seat, in the voice she used for a column heading. "There is a fourth figure and I am not going to sit on it, because in this building things die when the only person holding them stops breathing, and I am the only person holding this one. Four hundred and forty-one. I count the Ropewalk standpipe by the hour and the yards count by the day, and a hundred more over a fortnight of flood is a thing that has a name, and the yard men will say it is my arithmetic and I will say it is theirs, and neither of them is lying. It has no document. Put the corrected four hundred and forty in and put mine under it, and the room will then hold two figures for the same night, and the room can decide which of us to be tired of."
+
+The officer entered the corrected figure, and then entered hers under it in a hand that was not slow, and read both out, and nobody in the gallery argued with either of them, because they were figures, and one of them was right, and there is not very much that can be done in a room to figures that are right.
 
 At the last of the light the second-floor room emptied into the causeway and Marek stood in the corridor with Hesper Rann going past him to the third floor at a pace that did not slow down, and understood two things at once: that Hesper Rann had wanted those terms taken in a room in under an hour, and that he had just told the Deputy Steward to hold an account open on a Monday afternoon.
 

@@ -36,11 +36,11 @@ Not a name. A letter, in a supervisor's hand, in a column headed *assigned*, bes
 
 "That is yours. It is a letter in his hand. There are four people in this building who will say that on the ninth, at the sixth bell, Hesper Rann took an unassigned Tallow file off a bench and gave it to the clerk at the third desk. I am one of them, and I will answer it truthfully, and I have spent nine years building a reputation for answering things truthfully."
 
-The other side of the form said: *Statement of the clerk of the day: that the file described above was not assigned to me as clerk of the day for the ward named, on the ninth day of the rains or at any time in the rains.*
+The other side of the form said: *Statement of the clerk of the day: that the file named above was not assigned to me on the ninth of the rains, or at any time after it.*
 
-Twenty-nine words, twenty-eight of them about a thing that had happened in a hall in ninety seconds, and the last one the word *assigned*.
+Twenty-nine words. Twenty-eight of them were a true account of a thing that had happened in a hall in ninety seconds, and the twenty-ninth was the word *not*, and somebody in this building had spent a long time working out where to put it.
 
-"Sign it and I strike your certificate of posting," said Vole. "Not the settlement — the certificate. The one page that says the entry was lawfully posted on the eleventh. It comes out of the file and it comes out of your record, and what is left against your name is a file you were passed and a ward you did not certify. You hold your post. There is a raised mark against your name in nineteen years and there will not be another one."
+"Sign it and I strike your certificate of posting," said Vole. "Not the settlement — the certificate. The one page that says the entry was lawfully posted on the eleventh. It comes out of the file and it comes out of your record, and what is left against your name is a file you were passed and a ward you did not certify. You hold your post. There is one mark against your name. There will not be another one."
 
 "And the settlement."
 
@@ -96,7 +96,7 @@ Nobody in the corridor said anything.
 
 "Two people, and only two, and you will not like either answer. The clerk of the day, who is a person and a party and is named in the record." He nodded at Marek without looking at him. "Or you, sir, in your own name. You may attend, be heard, put questions, and be cross-examined. I want you to understand the last of those four words. When you stand at the end of that table you will be standing there alone, and none of the questions will be answered by anybody in this corridor."
 
-"You cannot cross-examine four hundred people."
+"You cannot cross-examine four hundred people," said Kern.
 
 "I cannot cross-examine a ward, sir," said the officer, "because a ward cannot be cross-examined, and I am afraid that is the only reason it is convenient to me and not a mercy to you, and if you sat down there alone I would think less of you than I do at this moment."
 
@@ -119,6 +119,10 @@ The last of the light found him in the copy room with the lamps going along the 
 Neris Kade had a ward sheet of her own, and he looked at it for a long time before he said anything, because it was not a form and it did not come out of the water office or the levy office or the Fund. Four columns on four sheets, the headings in her hand, and the headings were the four the yard had given: the two sentences that kept coming back, and the two worse ones, which between them made the four. The top of the third column was blank, and she had left it blank and put the day on it.
 
 "Twenty-second. I have been at the Gate yard every day since the nineteenth. Ninety-one people on four sheets, a date on each, and nine stops, and I have written the nine stops down as stops. And I have stopped keeping them in my own hand, which I have thought about for two days, and have not done, because I am fond of my own handwriting and I have a bad feeling about what I am starting."
+
+"Ninety-one, or a hundred and thirty."
+
+"A hundred and thirty of you came past the table on the Sunday and some of you came back twice, which is not a fault of yours and is a fault of my column, and I have a person down once or not at all. Ninety-one bodies, examined once, by somebody who did not know your name when she wrote the first one."
 
 "Read me the part I will want to argue with."
 
@@ -146,11 +150,11 @@ Neris Kade listened without moving.
 
 "I know what I have told you I have not done yet."
 
-"You have told me that there is a paper in your coat that says a thing that is not true, and a paper that says a thing that is true, and a date, and that you will decide on a Tuesday." She picked up her four sheets. "Whatever you decide on the Tuesday, decide it because you can live in a city with the decision. Not because you would rather be the man who said no. The second one is a costume, and I have seen it on better faces than yours."
+"You have told me that there is a paper in your coat that says a thing that is not true, and a paper that says a thing that is true, and a date, and that you will decide it by Thursday." She picked up her four sheets. "Whatever you decide before Thursday, decide it because you can live in a city with the decision. Not because you would rather be the man who said no. The second one is a costume, and I have seen it on better faces than yours."
 
 At the door she stopped and came back, which she did not often do.
 
-"And Marek. When you have decided you will want to tell somebody. You always want to tell somebody, it is the only thing about you that has never once got anybody hurt, and this week it is going to get somebody hurt. There is no form in this city for a man to say *I have a paper I cannot show you* to a person who is not a clerk. So I will say the sentence that is available instead: somebody in this ward has a thing he cannot produce, and there is no way to help him, and the reason is that he is right about the reason."
+"And Vale. When you have decided, you will want to tell somebody. You always want to tell somebody, it is the only thing about you that has never once got anybody hurt, and this week it is going to get somebody hurt. There is no form in this city for a man to say *I have a paper I cannot show you* to a person who is not a clerk. So I will say the sentence that is available instead: somebody in this ward has a thing he cannot produce, and there is no way to help him, and the reason is that he is right about the reason."
 
 She went out. The lamps went about their business along the north wall.
 

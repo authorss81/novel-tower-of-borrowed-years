@@ -2,11 +2,11 @@
 
 By the second bell on the twenty-third the rain had stopped for good, or long enough, and Tallow Ward was doing the thing a ward does for four days after a flood, which is standing about looking at what it has.
 
-The Gate tank was full to the rim, the screen was holding, and in the low kitchens somebody had found a door that had been under two feet of water and was carrying on with it as though this were an ordinary week. Four of them said the same thing, which was a variation on *you'll want a good coat for the winter*, and he said he would see to it, in the voice he had used for eleven days, and it was not true, and he was not going to stop saying it.
+The Gate tank was full to the rim, the screen was holding, and in the low kitchens somebody had found a door that had been under two feet of water and was carrying on with it as though this were an ordinary week. Four of them said the same thing, which was a variation on *you'll want a good coat for the winter*, and a man who owned the door said he would see to it, in the voice of a man who had been saying it since the ninth, and it was not true, and he was not going to stop saying it either.
 
 The second junction was at the top of the ward where the levee met the low ground, and it had a pump-house door and a slate on the wall and a standpipe, and the slate was there because nobody in the Warden's office had ever thought to take it down.
 
-Marda Senn had been at that slate for nine days, forty-one in all, in chalk, in two columns. The left was what the meter gave and the right was what the four yards took, and between them she had chalked the difference in a third space with no heading over it, every hour, and it had never been less than a quarter of what the meter gave and on the sixth and the eighth had been more than half.
+Marda Senn had been at that slate since the sixth of the rains, forty-one times in all, in chalk, in two columns. The left was what the meter gave and the right was what the four yards took, and between them she had chalked the difference in a third space with no heading over it, at every change of watch, and it had never been less than a quarter of what the meter gave and on the sixth and the eighth had been more than half.
 
 And on the twenty-third the difference column was ruled through.
 
@@ -30,15 +30,15 @@ The junior at the desk was about nineteen and had a cold and did not want to tal
 
 "Which clerk takes them."
 
-"The account desk. Fourteen days of them in a bundle with a slip, and there is one for the second junction and one for the low kitchens and one for the Underbank standpipe, and I do not know why we have got one for the Underbank standpipe, nobody has ever read that one." He went and got a slip out; it had four columns, a total, and a foot line for *delivered to account desk* and *received, name*. "Two hours ago she had a bundle of eleven days of the second junction and she carried it down herself, and she asked for the two hours because she wanted to ask the account clerk something, and she said she would come back up and finish the low kitchens. She has not come back up."
+"The account desk." He went and got a slip out; it had four columns, a total, and a foot line for *delivered to account desk* and *received, name*. "Last night, at the change of the watch, she had a bundle of eleven days of the second junction, and she carried it down herself, and she asked for the watch because she wanted to ask the account clerk something, and she said she would come back up and finish the low kitchens. She has not come back up."
 
 "Which clerk."
 
 "Grale. Nobody else touches the junction counts."
 
-"Which clerk."
+"Grale," said Marek, from the doorway. "I know the name. He has been on that tray longer than I have been in this hall."
 
-"Grale. Nobody else touches the junction counts."
+"Then you know more than this room does, clerk, and I have said four things and you have asked me two of them."
 
 ---
 
@@ -50,7 +50,7 @@ The desk had a jacket on the back of the chair and a tray of returned slips, and
 
 Down to the removed records.
 
-Marek stood in the corridor outside the account desk and worked out, in about four seconds, that the accounting floor of the Yearspire had no lift, and that the removed records were three floors below the account desk, and that a fifty-year-old man carrying a bundle of ward counts had gone down at the tenth bell and had not come back up, and that a Warden clerk carrying the same counts had gone down at the eighth and had not come back up either.
+Marek stood in the corridor outside the account desk and worked out, in about four seconds, that the accounting floor had no lift, that the removed records were three floors below the account desk, and that a man of fifty carrying a bundle of ward counts had gone down at the sixth of the night and had not come back up, and that a Warden's clerk carrying the same counts had gone down before the light and had not come back up either.
 
 He found them on the cold stair.
 
@@ -76,7 +76,7 @@ The Gallery clerk read the slip, and said, "Removed," which was the answer to wh
 
 Then he looked at Marek, and Marek understood that he had been weighed and found to be a person who could be addressed.
 
-"You may go down and stand at the door if you like. Nobody does that. It is the worst view in the tower, it is very cold, and you will not learn anything, and I say that as a courtesy and I would go back up if I were you."
+"You may stand at the door if you like. Nobody does that. It is the worst view in the tower, it is very cold, and you will not learn anything, and I say that as a courtesy and I would go back up if I were you."
 
 "I have to be in a hearing in a fortnight," Marek said, which was a lie, said because it was the sentence that makes a man move.
 
@@ -96,11 +96,11 @@ She was not.
 
 "So the difference is water the ward's line cannot see."
 
-"The difference is water the ward's line cannot see, and it is on the Crown Terrace books, and I have known that since the sixth and I could not get anybody in this building to write down the sentence *there is a take-off above the meter*." She stopped on the landing and turned round. "And here is what I have been sitting with all morning. It did not begin with the freshet. I said freshet to you on the sixth because freshet is what everybody says, and I have been wrong about that twice and I have never been wrong about a number. Read the ninth and the eighth. Six hundred and forty, six hundred and thirty-eight, six hundred and thirty-six, six hundred and thirty-eight. The step is on the second. Everything before the second is noise. On the second of the rains, at about the fourth bell of the night, the left column went up by two hundred and something hundreds of pints in one hour and it has not come down since."
+"The difference is water the ward's line cannot see, and it is on the Crown Terrace books, and I have known that since the sixth and I could not get anybody in this building to write down the sentence *there is a take-off above the meter*." She stopped on the landing and turned round. "And here is what I have been sitting with all morning. It did not begin with the freshet. I said freshet to you on the sixth because freshet is what everybody says, and I have been wrong about that twice and I have never been wrong about a number. Read the ninth and the eighth. Six hundred and forty, six hundred and thirty-eight, six hundred and thirty-six, six hundred and thirty-eight. The step is on the second. Everything before the second is noise. On the second of the rains, at about the fourth bell of the night, the left column went up by two hundred and something hundreds of pints in a single entry, between one watch and the next, and it has not come down since."
 
 "And what happened on the second at the fourth bell of the night."
 
-"Nothing happened on the second at the fourth bell of the night. I was at the second junction at the second bell and I left at the third to help the low kitchens, and the next time I put my hand on that slate was at the second bell on the third, and I have gone back over the two columns every hour since, and the two hundred came in between the third bell of the night and the second bell of the morning, and I can give you the hour to within a bell and I cannot give you the cause, because I was carrying pails."
+"Nothing happened on the second at the fourth bell of the night. I was at the second junction at the second bell and I left at the third to help the low kitchens, and the next time I put my hand on that slate was at the second bell on the third, and I have gone back over the two columns every hour since, and the two hundred came in between the third bell of the night and the second bell of the morning, and I can give you the watch to within a bell and I cannot give you the cause, because I was carrying pails."
 
 ---
 
@@ -132,7 +132,7 @@ Dettmer looked at him for a while with the rain coming into the collar of the co
 
 "Her counts go up on the tray with the rest. Grale takes the tray at the change of watch, and the account desk reads the left column, because the account has always read the left column, because the left column is the meter and the right column is four yards full of men who are not paid by the water office." He put the slate under his arm. "So the ward's counts go up and the right-hand column is not in them, because there is no column for it and there never has been one. And now there is not a woman in this building who is the next time anybody asks."
 
-He went down the steps to the Crown Terrace causeway, and Marek stood on the yard steps with forty people behind him and the rain easing, and understood that the ward's two hundred hundreds of pints had just become a sentence that a woman had said at a door.
+He went down the steps to the Crown Terrace causeway, and Marek stood on the yard steps with forty people behind him and the rain easing, and understood that the two hundred hundreds of pints a night that had come off the ward's own meter and gone up a hill instead of down four yards had just become a sentence that a woman had said at a door, and would from that minute on have to be carried by somebody who was not a clerk.
 
 ---
 
@@ -158,12 +158,14 @@ He had a lamp and a folded paper in the inside of his coat and he had been on th
 
 Ilya Senn nodded at that for a long moment, with his hands on the wheel.
 
-"Then that is the whole of it, and there is nothing to appeal, because there is nothing to have made a mistake in." He looked out at the low ground, which was under four feet of the Silt and drying, and where the storehouse at the Underbank mouth was not standing. "And here is what I have been doing with my hands for two hours, clerk, since my sister did not come up the hill, and you may as well have it because you will not be able to leave it alone. In four years on this platform I have watched the Crown Terrace intake run short. Not empty. Short. From the second of the rains, and by the eighth it was short by more than it has ever been short in my life, and the gardens make it up somewhere, and they have always made it up somewhere, and the somewhere is above the yard line on your side of the hill, and I have known it since the sixth and have said it to nobody, because a Warden who says a number about a Crown Terrace account is a Warden who has been somewhere he had no business being, and because I am the man with the open valve and I could not stand in a room and be believed about anything."
+"Then that is the whole of it, and there is nothing to appeal, because there is nothing to have made a mistake in." He looked out at the low ground, which was under four feet of the Silt and drying, and where the storehouse at the Underbank mouth was not standing. "And here is what I have been doing with my hands for two hours, clerk, since my sister did not come up the hill, and you may as well have it, because you will not be able to leave it alone and I would rather hand it over than have it taken off me. I have turned that wheel about nine hundred times since the second of the rains. There is a blister on the heel of my left hand the shape of a coin, and there is nobody on this platform to show it to, and that is the whole of what the work is. A man can be perfectly right about a wheel and completely alone with it, and the two facts sit side by side on the same iron for three weeks and neither of them helps anybody.
+
+"And then there is the other thing, and I am putting it in your hands because you will go and get it anyway. The intake at the head of my channel has been drawing short since the second of the rains. Not empty. Short. By the eighth it was short by more than it has ever been short in my life, and it is not me, because the draw down your channel is eleven inches and the head on that bank is three feet. Something has been taking it above the yard line on your side of the hill, and it has been doing it longer than this flood. I have watched that head since the sixth and I cannot put a figure on it, because I am not a clerk, and I am not going to be the man in a room who says a number about a Crown Terrace account."
 
 Marek did not say anything.
 
 "So she has the take-off. She has had it since the sixth, and she was going to write it into a place where it could not be rubbed out with a wet sleeve. And now there is no name on the roll and no column on the slate and no woman in the building who is the next time anybody asks."
 
-Marek stood in the wet on the platform of a valve that had been open for twenty-two days.
+Marek stood in the wet on the platform of a valve that had been open for twenty-one days.
 
 "Then I have to find it somewhere she did not look," he said, finally.

@@ -4,7 +4,7 @@ Marek went looking for a reserve on the thirtieth of the rains and found it in t
 
 He had asked for it on the twenty-eighth, in writing, under the fifth term of Renata Vole's own notice, and the request had gone to the water office and come back with a name on it, and the name was a district accountant called Grale, who was the same Grale who had taken the ward's counts down on a tray for eleven years and had gone into the removed records on the twenty-third of the rains and had not, as far as anybody knew, ever come back up.
 
-He had come back up. He was fifty and he had a bad chest and he was not sorry about anything, and when Marek came and stood at his desk and asked to see the composition of the district account he said, without any difficulty at all:
+He had come back up. He was fifty-one and he had a bad chest and he was not sorry about anything, and when Marek came and stood at his desk and asked to see the composition of the district account he said, without any difficulty at all:
 
 "You have the fifth term. Sit down. It is on the wall behind you and it is nine feet long, and I will tell you now that you are the first person in four years to ask me for it in a way that was not a question about a rate."
 
@@ -20,7 +20,7 @@ The account ran to the foot of the district for the season and it was in three p
 
 Grale put his finger on the figure.
 
-"Twenty-eight thousand eight hundred. Every year. Twenty-eight thousand eight hundred on the district, entered, unapplied, held against the water office's standing reserve."
+"Forty thousand nine hundred. Every year. Forty thousand nine hundred on the district, entered, unapplied, held against the water office's standing reserve."
 
 "But there is no standing reserve."
 
@@ -40,13 +40,13 @@ Grale read it.
 
 "And the obligations themselves."
 
-"The obligations are seventy thousand and something."
+"The obligations are eighty-one thousand and something."
 
 The copy room on the second floor of the Yearspire went very quiet, in the way a room does.
 
 "They are what?"
 
-"Seventy thousand one hundred and forty, standing at the close, before the carry." Grale said it like a man who had said it a hundred times in his own head and never once out loud. "And the account presents forty thousand eight hundred and something because twenty-eight thousand eight hundred of the difference is the carry, which is not money and has never been money, and which nobody has ever been able to name a claimant to, and which has been sitting on my page making this account look half as bad as it is for the whole of my working life and the working life of the man before me."
+"Eighty-one thousand seven hundred and fourteen, standing at the close, before the carry." Grale said it like a man who had said it a hundred times in his own head and never once out loud. "And the account presents forty thousand eight hundred and something because forty thousand nine hundred of the difference is the carry, which is not money and has never been money, and which nobody has ever been able to name a claimant to, and which has been sitting on my page making this account look half as bad as it is for the whole of my working life and the working life of the man before me."
 
 He straightened up and looked at the wall.
 
@@ -58,7 +58,7 @@ He straightened up and looked at the wall.
 
 ---
 
-Pella Rusk was at the copy-room door at the third bell and she had come up the causeway with two of the four children's mothers and a schoolroom slate,and she was not asking to look at it.
+Pella Rusk was at the copy-room door at the third bell and she had come up the causeway with two of the four children's mothers and a schoolroom slate, and she was not asking to look at it.
 
 She was asking for the order.
 
@@ -66,19 +66,19 @@ She was asking for the order.
 
 "No, ma'am," said Grale. "It is a sheet of paper nailed to a wall."
 
-"Then it is the only instruction in this city with no copy, and there is nobody in the world who can be given a copy of it, and it will be in that room in a year as something somebody said at a table." Rusk put the slate down on the bench. "How many hours a week is a school year."
+"Then it is the only instruction in this city with no copy, and there is nobody in the world who can be given a copy of it, and it will be in that room in a year as something somebody said at a table." Rusk put the slate down on the bench. "How much is my school on that page."
 
-"It is not a number of hours. It is a term, and a term is what the office calls the four lines it pays for."
+"It is not a sum you would recognise. It is a line near the bottom, and a figure against the line, and a district, and I could not tell you the figure without the book, and the book is not a thing I read out in a room with a person in it."
 
-"How many children."
+"And where is the line in the order."
 
-"There are not children in the account," said Grale, with real irritation. "There is a line, and a figure against the line, and a district."
+"Last," said Grale. "That is the whole of what I will say about it in here."
 
-"Four," said Rusk. "Wren Ostrow, nine. Tibb Vray, eight. Salle Prent, seven. Iven Marsh, ten. Two of them are off for arrears and two of them are off because the seat's gone, and the difference between those two reasons is about eleven hours a week, and eleven hours a week is a school year in a term, and a school year is the cheapest thing on the page, and I have been counting what a levy does to a school year for nine years, and in nine years I have never once been able to see the page it comes off, and I have now seen it, and I would like to say one thing into the record if there is anybody here who is allowed to write down what I say."
+"Then it is the last line on the only instruction in this city that nobody can be given a copy of," said Rusk. "I have taught in this ward nine years, and in nine years I have never once been able to see the page my school comes off, and I have now seen it, and I would like to say one thing into the record if there is anybody here who is allowed to write down what I say."
 
 "There is," said Marek. "I am a party to an investigation and you may put it in as a document received and not acted upon, and that is the phrase, and it is the phrase they used for the ward's petition on the twenty-second, and it is the only thing anybody in this building can offer you this morning."
 
-"Then I will say it and you may use the phrase." Rusk did not raise her voice. "No child at this school has done anything. No child at this school has broken a rule. Four places have been taken off an account that has never been balanced, and every one of them was taken by somebody who was not in the room. And I want the other seven written down as well, because there are eleven children in this school and four of them are off the roll, and the other seven are in a school that has no heat, and in three weeks that will be eleven."
+"Then I will say it and you may use the phrase." Behind her one of the four women said a name. Rusk turned round and said, "Not today," in a voice that put a whole method into six syllables, and the woman said, "Of course not," and sat down again. "No child at this school has done anything, and no child in it has broken a rule, and I have said that sentence in public twice already and I am not going to be thanked for it again. What I cannot say is the number. I have four names and four dates and I have had them since the nineteenth, and the number they are an argument about is not in this ward and not in this hall, it is on that page, and that page has no copy, and I am not a person who can be given one. So somebody is going to have to write that number in a room one day, and it is not going to be me, and I would like it written down that I asked for the page and was refused a copy of it by being told that it is a nail in a wall."
 
 Marek wrote it down in the form those words take, and there was a form for it, and he noted that there was a form for it and that the form had been in the building for thirty years and had never once been filled in by the person it was designed for.
 
@@ -108,10 +108,10 @@ Marek said, "On the fourth clause of the ward's assessment of the ninth of the r
 
 The officer wrote it down. The room did not say a word. Nobody in that room said the name of the hand that had written the fourth clause, and the officer did not ask, and the reason the officer did not ask is that there was a hearing on the fourth of next month and a clerk of the day who had asked for two books in it, and an officer who asks a question on the thirtieth of the rains knows exactly what he is doing for the rest of his career.
 
-At the fourth bell the fifth figure went into the Deputy Steward's finding: the corrected delivery of four hundred and forty against a lawful hundred and sixty, an excess of two hundred and eighty, and the ward's own figure of two hundred and seventy-nine hundreds and forty pints, and the two accounts differing by twenty pints in nine days, and the finding noting that the district account's presented position depended upon a reserve carry of twenty-eight thousand eight hundred which was unapplied and had never been applied, and which was entered against the recited standing reserve of the ninth of the rains.
+At the fourth bell the fifth figure went into the Deputy Steward's finding: the corrected delivery of four hundred and forty against a lawful hundred and sixty, an excess of two hundred and eighty, and the ward's own figure of two hundred and seventy-nine hundreds and forty pints, and the two accounts differing by sixty pints in nine days, and the finding noting that the district account's presented position depended upon a reserve carry of forty thousand nine hundred which was unapplied and had never been applied, and which was entered against the recited standing reserve of the ninth of the rains.
 
 And Renata Vole read that last clause twice before she sealed it, and Marek watched her do it, and neither of them said anything, and the clause went in.
 
-Which meant that the district account presented at forty thousand eight hundred instead of seventy thousand one hundred and forty could not be presented that way any more, and the cut order under it had been written to hold an account to a figure that no longer existed, and the office had a legal duty to bring the account to its true position, and the only lines on the order with anybody's name on them were the nine men on the fourth line, the four yards on the seventh, the school on the last, and the ward's levy days, which were not yet drawn and would be drawn in the ordinary course.
+Which meant that the district account presented at forty thousand eight hundred instead of eighty-one thousand seven hundred and fourteen could not be presented that way any more, and the cut order under it had been written to hold an account to a figure that no longer existed, and the office had a legal duty to bring the account to its true position, and the only lines on the order with anybody's name on them were the four yards on the seventh line, the nine men on the ninth, and the school on the last, and the ward's levy days, which were not yet drawn and would be drawn in the ordinary course.
 
-Grale read the true position off his own wall and said, "Five hundred and eighty per cent over," and then he took the frame off the cut order and turned it round so that the back of it faced the room, because a written order that is about to be rewritten is not a document any more, and he was fifty-one years old and had a bad chest and he had done it four times.
+Grale read the true position off his own wall and said, "Five hundred and eighty per cent over, which is a shade under seven times what the district may lawfully draw," and then he took the frame off the cut order and turned it round so that the back of it faced the room, because a written order that is about to be rewritten is not a document any more, and he was fifty-one years old and had a bad chest and he had done it four times.

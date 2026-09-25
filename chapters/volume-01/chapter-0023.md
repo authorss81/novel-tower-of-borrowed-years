@@ -2,7 +2,9 @@
 
 Kern called a yard meeting for the second bell on the twenty-fourth, at the Gate yard, with all four yards on the boards, and the reason he gave for calling it was the same reason he gave for everything: *because the ward is going to be in a room next week and I am the one who goes.*
 
-Two hundred and eleven people came. The rest were at the Tanner's, the Fuel basin, Ropewalk, or under a roof somewhere being dry, and Kern had a line about that too.
+Two hundred and eleven people came. The rest were at the Tanner's, the Fuel basin, Ropewalk, or under a roof somewhere being dry, and Kern had a line about that too, and he gave it before he gave anything else.
+
+"Two hundred and eleven out of four hundred in a yard this size, in weather like this, and I want the hundred and eighty-nine who are not standing here to understand that they are not a majority and they are not a minority either, they are a hundred and eighty-nine people who have gone back to work this morning, and that this yard's account tonight is the account of the yard and not of the people who happened to be standing in it when I opened my mouth."
 
 He had a sheet of oiled paper. He had had it since the fifteenth and he had been writing on it in the evenings, and Marek had seen it in his hand at the hearing and had assumed it was a list of supplies, because that is what a water captain's sheet looks like in a clerk's eye.
 
@@ -94,7 +96,7 @@ He came round the table and put the sheet into Marek's hands.
 
 ---
 
-At the last of the light the yard was empty and the sheet was on the board and Marek came back for it, and Kern was standing at the tank with his coat open in the first mild evening since the rains began.
+At the last of the light the yard was empty and the sheet was on the board and Marek came back for it, and Kern was standing at the tank with his coat open in the first mild evening there had been since the rains broke.
 
 "Captain. One question and then I will let you go home."
 
@@ -106,4 +108,4 @@ Kern was quiet for long enough that a carter went past the yard mouth.
 
 "Both," he said. "Write it and it is a charge, and I will hand it to a Deputy Steward in a room with a door in it, and in that room the breach is the whole of the account, and the three hundred people in the low kitchens are a fact that a clerk put in to soften it. Do not write it and the account is not evidence of anything, and it is a memory." He pulled his coat closed. "I have wanted the ward to have a memory for sixteen years. I am not going to trade it for a charge, and I would say the same on the fourteenth if the leg had not been broken. Give the sheet back when you are finished with whatever it is you are doing, clerk. And do not come up here and tell me what you have found out, because I have a yard to run and a hearing to walk into, and if you tell me the answer in a yard there will be two hundred people standing in the wet who have been told nothing by anybody and everything by you, and that is how a ward stops being a ward and becomes a mob with a grievance, which I have seen once, in my father's year, and it did not end well for anybody in it."
 
-He went off up the hill, and Marek stood in the Gate yard in the first mild evening since the ninth of the rains, with an oiled sheet in his hands that could not be produced, and understood that when this ward's thanks finally came — and it would come, and it would come out of this yard — it would have to be carried to a man in a corridor by a person, because a ward cannot walk anywhere and cannot speak and cannot thank anybody, and there were four hundred of them and they would have to send one.
+He went off up the hill, and Marek stood in the Gate yard in the first mild evening there had been, with an oiled sheet in his hands that could not be produced, and understood that when this ward's thanks finally came — and it would come, and it would come out of this yard — it would have to be carried to a man in a corridor by a person, because a ward cannot walk anywhere and cannot speak and cannot thank anybody, and there were four hundred of them and they would have to send one.

@@ -26,17 +26,17 @@ Ilya Senn stood up and did not touch the paper.
 
 "No," he said. "And I want to be careful about what I am refusing, because the room has been careful with me and I am not going to be careless in return.
 
-"The third part of that sentence is false. Not dishonestly. False. There has never been no further action arising out of the fourteenth of the rains. There is a storehouse under nine feet of water that the water office holds no record of, because condemnation of ward property is not its business. There is a boy of thirteen with a shin in two pieces. There is a sheet of forty items in forty hands nailed to a board in a yard that no proceeding in this building can admit. There are a hundred and forty people who moved water for twelve days and whose names were never taken by anybody, including me. If I put my name to a sentence saying no further action arises, then that sentence becomes the end of the list. Not the end of the water. The end of the list. I have watched a plant do that to a man twice and I am not doing it to myself with my own hand on a Monday morning.
+"The third part of that sentence is false. Not dishonestly. False. There has never been no further action arising out of the fourteenth of the rains. There is a storehouse under nine feet of water that the water office holds no record of, because condemnation of ward property is not its business. There is a boy of thirteen with a shin in two pieces. There is a sheet of forty items in forty hands nailed to a board in a yard that no proceeding in this building can admit. There are a hundred and forty people who moved water for twelve days and whose names were never taken by anybody, including me. If I put my name to a sentence saying no further action arises, then that sentence becomes the end of the list. Not the end of the water. The end of the list. I have watched a plant do that to a man twice and I am not doing it to myself with my own hand on a Tuesday morning.
 
 "And the first part of the sentence is true, and the second part is true, and I have signed worse than both and would sign them again this morning. If you want the fact, it is there. I held the valve from the second to the twenty-fourth against an order of the seventh, and I have four letters from a Crown Terrace water-clerk in this coat, and you may have them, and one of them is the reason I knew you would send an inspector and not a clerk."
 
 He did not put the letters on the table. He put his hand flat on the coat instead and left it there.
 
-"What I will not do is be the villain of somebody else's account. The ward's captain will tell this room what the ward took and what it paid and what it lost, and it will be in his mouth and not mine, and if I get in front of him I will have taken from a man the one thing he has spent two days getting ready to say, and a ward cannot say it for itself because a ward is not a person. I have had twenty-two days on a platform to think about the fact that in this city four hundred people who were saved cannot say so in any room in this building unless one man stands up and says it for them, and that man is him and not me."
+"What I will not do is be the villain of somebody else's account. The ward's captain will tell this room what the ward took and what it paid and what it lost, and it will be in his mouth and not mine, and if I get in front of him I will have taken from a man the one thing he has spent two days getting ready to say, and a ward cannot say it for itself because a ward is not a person. I have had twenty-seven days on a platform to think about the fact that in this city four hundred people who were saved cannot say so in any room in this building unless one man stands up and says it for them, and that man is him and not me."
 
 "Your offer was left on the table yesterday," said the hearing officer.
 
-"A yard and a half a year, twenty-two years, and this hand. I know what it is worth and the room knows what it is worth, and I am leaving it there because a man who has held a valve open for nineteen days ought to be the first name on the account. Put it in the file as an offer made and not accepted. Do not put it in as a sacrifice, because it is not one, and I will not have it read in a year as a man who gave something."
+"A yard and a half a year, twenty-two years, and this hand. I know what it is worth and the room knows what it is worth, and I am leaving it there because a man who has held a valve open for twenty-seven days ought to be the first name on the account. Put it in the file as an offer made and not accepted. Do not put it in as a sacrifice, because it is not one, and I will not have it read in a year as a man who gave something."
 
 The officer wrote it. The account was not closed, and the terms lapsed at the fourth bell of the fourth of next month.
 
@@ -48,7 +48,7 @@ He went on.
 
 ---
 
-The ward had been told at the second bell on the twenty-ninth that the hearing had not closed the account, and the yard was full by the third, and Aldis Kern stood on the tank steps at the fourth bell with two hundred and eighty people under him and a yard roll in his hand that had four lines on it and a great deal of space left over.
+The account had not closed, and the ward had been told so at the second bell, and it had been argued about in doorways and at the ends of the pails all afternoon by people who had been arguing about it in doorways since the sixth, and at the last of the light the yard filled, and Aldis Kern stood on the tank steps with two hundred and eighty people under him and a yard roll in his hand that had four lines on it and a great deal of space left over.
 
 Marek got there late and stood at the back, because the yard had been his on the fifteenth and it was not his any more, and because there was nothing in this yard that a clerk could contribute and he had learned that in four days at the cost of one refusal from a man with forty items on a sheet.
 
@@ -72,7 +72,7 @@ He got down off the steps and stood at the bottom with his arms folded, and the 
 
 Milan Vray stood up in the second row and did not raise his voice and got the whole yard anyway.
 
-"I carried pails," he said. "Twelve days. I have a boy at home who is thirteen and who has a leg and who has never once asked me why we had water in the fourteenth of the rains, and he is not going to ask, because he does not know there was a question. And I will tell this yard one thing and then I will sit down. I do not want it called a gift. A gift is a thing a man gives a man. That water came out of a channel above our meter and our four counters have said so for three weeks and nobody in this city has read four private books kept by yard men. If we call it a gift we are saying it was ours, and it was not, and my tar is at the bottom of that cellar and no man in a good coat has asked me about my tar."
+"I carried pails," he said. "Twelve days. I have a boy at my table who is thirteen and who has a leg and who has never once asked me why we had water in the fourteenth of the rains, and he is not going to ask, because he does not know there was a question. And I will tell this yard one thing and then I will sit down. I do not want it called a gift. A gift is a thing a man gives a man. That water came out of a channel above our meter and our four counters have said so for three weeks and nobody in this city has read four private books kept by yard men. If we call it a gift we are saying it was ours, and it was not, and my tar is at the bottom of that cellar and no man in a good coat has asked me about my tar."
 
 "So we pay," said Kern from the bottom of the steps.
 
@@ -82,7 +82,7 @@ Nobody spoke for a while, and the river went past the yard, and the yard worked 
 
 Marek Vale heard all of it and did not once think of writing a column.
 
-The roll went onto the board at the sixth bell. Four lines, no more, and under them a table with three columns and eleven dates, and in the first column the date, and in the second the number the four counters took, and in the third the number of people who had carried water, which was written as a figure of a hundred and forty and had been counted three separate times in nine days by three separate people and had never once been taken down by anybody. The bottom of the table was blank, because the ward had not decided when it stopped, and it was going to have to decide that, and Marek thought about that in a way that he could not afterwards explain to anybody.
+The roll went onto the board before the lamps were lit. Four lines, no more, and under them a table with three columns and eleven dates, and in the first column the date, and in the second the number the four counters took, and in the third the number of people who had carried water, which was written as a figure of a hundred and forty and had been counted three separate times in nine days by three separate people and had never once been taken down by anybody. The bottom of the table was blank, because the ward had not decided when it stopped, and it was going to have to decide that, and Marek thought about that in a way that he could not afterwards explain to anybody.
 
 "Examiner," said Vray, to Neris Kade. "You will keep it. It should be you."
 
@@ -98,7 +98,7 @@ Vray looked at her for a second, and then at Marek, who was standing at the back
 
 ---
 
-Ilya Senn was on the platform of the Third Sluice at the eighth bell of the twenty-ninth with the water down in the channel and his back against the wheel housing, doing nothing, at ease, for the first time in four weeks, and the lamp was hooked to the rail and he was not doing anything at all.
+Ilya Senn was on the platform of the Third Sluice at the ninth bell of the twenty-ninth with the water down in the channel and his back against the wheel housing, doing nothing, at ease, for the first time in four weeks, and the lamp was hooked to the rail and he was not doing anything at all.
 
 That was how Marek knew.
 
@@ -106,7 +106,7 @@ That was how Marek knew.
 
 "Closed it at the third bell, on the hearing officer's instruction, and the intake is running and the head is above the bank, and the ward is on the town main off the north gardens' branch for the first time since the second of the rains, and they will find that out in a week and will not be pleased, and I do not care." Ilya Senn did not get up. "Do you know what the first thing was, in that room, at the ninth bell? A clerk would not read a sentence out loud because my name was in it. I have been a man in that building for twenty-two years. Nobody has ever declined to read a line on my account before."
 
-"The ward's roll went on the board at the sixth bell," said Marek. "The ward will not name you. The ward will pay for the water, and the offer stands whether the account closes or not, and they argued for two hours about whether the ward was allowed to say thank you, and it is not, and they have decided to pay and not to thank, and Vray kept them to that."
+"The ward's roll went on the board tonight," said Marek. "The ward will not name you. The ward will pay for the water, and the offer stands whether the account closes or not, and they argued for two hours about whether the ward was allowed to say thank you, and it is not, and they have decided to pay and not to thank, and Vray kept them to that."
 
 "Ah," said Ilya Senn.
 

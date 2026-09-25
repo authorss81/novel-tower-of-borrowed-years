@@ -8,13 +8,21 @@ Hesper had the Tallow entry open on the desk and a reading book beside it with a
 
 "It is closed."
 
-"That is not what I asked and you have known that for three weeks." He looked at the sleeve. "You are still hiding it under the coat when you come in. It has been closed for eleven days and you are twenty-eight and it will not be the arm that finishes you. It is going to be two thousand pages in a year, and there is a thing in the copy room where you put the whole of your own hand down every evening, and I have walked past that desk four times a week for twenty-two years and I have never once seen a man ruin himself at a copy of a thing he had already written."
+"That is not what I asked and you have known that for three weeks." He looked at the sleeve. "You are still hiding it under the coat when you come in. It has been closed for eleven days and you are twenty-eight and it will not be the arm that finishes you. It is going to be a desk a year covered in your own handwriting, and there is a place in the copy room where you put the whole of it down every evening, and I have walked past that desk four times a week for twenty-two years, and the worst thing I ever saw on it in all that time was a man doing it honestly."
+
+Hesper put his hand out flat on the desk, palm up, the way he had done it in a thousand rooms in this building, and said nothing, and waited.
+
+Marek pushed the sleeve back four inches.
+
+Hesper looked for a long time. He did not touch it and he did not ask.
+
+"That is not the cut," he said. "That is something else, and I have known there was a second one since the twenty-second, and I have watched you carry it under a coat for eleven days without once saying a word about it to a person, including me. And I want you to hear why I have never asked. A man who hides a mark has decided what it is. A man who has decided what it does not need me to guess at it."
 
 Marek put the reading book on the table between them, open, with the wedge in the second of the rains.
 
 "I want to ask you four questions," he said. "I want to be in the room for all four and I am not going to leave early."
 
-"Then ask them, and take the coat off if you are going to stay, because I am fifty-two in February and I have a bad shoulder and that door is draughty and I am not going to be defeated by a window."
+"Then ask them, and take the coat off if you are going to stay, because I am forty-six and my knees are a matter of public record, and I have a bad shoulder and that door is draughty and I am not going to be defeated by a window."
 
 ---
 
@@ -42,17 +50,17 @@ He said it in the flat voice of a man reading a list he has read before, and the
 
 Marek looked at the plate of the entry and did not say anything.
 
-"Now your turn," said Hesper. "You have had that since the sixth and you have had it since the nineteenth and you have had it in a yard on the fifteenth in front of four hundred people, and it is a good argument and it is the truth. And here is what you have not done, and I am going to do it for you, because I have four days and no hearing until the fourth of next month and I have nothing else to do.
+"Now your turn," said Hesper. "You have had that since the sixth, and since the nineteenth, and in a yard on the fifteenth in front of four hundred people, and it is a good argument and it is the truth. And here is what you have not done, and I am going to do it for you, because I have four days and no hearing until the fourth of next month and I have nothing else to do.
 
-"Ask the other question. Ask me what would have happened if the notice had run. Go and stand at the Tallow Gate and read the plate and work out what the ward's ground looks like at the sixteenth, and then come back and tell me, and I will write it down, and you can put it in your own book with a date on it. Do not do it here, because you will do it badly in here, because I will interrupt you."
+"Ask the other question. Ask me what would have happened if the notice had run. You have stood at that plate twice now and read it as a date and not as an answer. Go and stand there a third time and work out what the ward's ground looks like at the sixteenth, and then come back and tell me, and I will write it down, and you can put it in your own book with a date on it. Do not do it here, because you will do it badly in here, because I will interrupt you."
 
 Marek stood up, and then sat down again.
 
-"No," he said. "I am not going to do that. I have looked for three weeks and I am not going to go and look for it with a man who has told me he wants me to find it. What I am going to do is ask you the four dead people question straight, because you have made it into a list and I have made it into a list and neither of us has said it out loud in a sentence yet. On the ninth of the rains, at the fourth bell of the afternoon, you found four dead people. On the ninth of the rains, at the sixth bell of the evening, you took an unassigned file off a bench and wrote a false recital in it. Which of those two facts is the reason the ward is not under water."
+"No," he said. "I am not going to do that. I have looked for three weeks and I am not going to go and look for it with a man who has told me he wants me to find it. What I am going to do is ask you the four dead people question straight, because you have made it into a list and I have made it into a list and neither of us has said it out loud in a sentence yet. On the ninth of the rains, at the fourth bell of the afternoon, you found four dead people. On the ninth of the rains, about two bells later, you took an unassigned file off a bench and wrote a false recital in it. Which of those two facts is the reason the ward is not under water."
 
 Hesper Rann looked at him for a long time.
 
-"The second one is the reason the ward is not under water and the first one is the reason I wrote the recital," he said. "That is the whole answer and I have given you the whole answer, and I would like it noticed that the answer is not a defence of anything. It is an explanation of two men doing arithmetic in the same hour, one of them with a list in his hand and one of them with a notice period. If you want me to be sorry, I am not. I have gone through it four ways since the fourteenth and there is no version in which I do not write it, and if you want to know what I would have done differently I will tell you that too, since you are going to ask. I would have written it in a better hand."
+"The second one is the reason the ward is not under water and the first one is the reason I wrote the recital," he said. "That is the whole answer and I have given you the whole answer, and I would like it noticed that the answer is not a defence of anything. It is an explanation of two men doing arithmetic in the same hour, one of them with a list in his hand and one of them with a notice period. If you want me to be sorry, I am not. I have gone through it four ways since the ninth and there is no version in which I do not write it, and if you want to know what I would have done differently I will tell you that too, since you are going to ask. I would have written it in a better hand."
 
 ---
 
@@ -92,7 +100,7 @@ Hesper Rann did not move for a moment. Then he took his coat off the back of the
 
 He stopped at the door with his hand on the frame, and for once in his working life said the thing he actually meant.
 
-"Vale. Your form lapsed on the twenty-fourth. I am not re-dating it, because re-dating it is asking you a second time inside a fortnight, and a man who does that is running a campaign, and I have never run a campaign in my life and I am not starting at fifty-two." He went out into the corridor and stopped again. "Go and read the plate. Not for me. I have already had that number for three weeks. Read it because you will not be able to carry anything else in your head until you have, and then come back and be as angry with me as you like, and I will not put your name in anything."
+"Vale. Your form lapsed on the twenty-fourth. I am not re-dating it, because re-dating it is asking you a second time inside a fortnight, and a man who does that is running a campaign, and I have never run a campaign in my life and I am not starting at forty-six." He went out into the corridor and stopped again. "Go and read the plate. Not for me. I have had that number since the ninth, before you did. Read it because you will not be able to carry anything else in your head until you have, and then come back and be as angry with me as you like, and I will not put your name in anything."
 
 ---
 
@@ -102,6 +110,6 @@ It says what the gate is and when it is shut and how much notice the parties are
 
 That is all it says. There is no reserve on it and no cause and no clerk's name. It is a plate on a wall with a date on it, and four hundred people had walked past it nine times a day for the whole of the flood season and not one of them had read it, and a man who was a clerk had read it perhaps twice in four years, and it had been in the file since the ninth in the first line of the entry, in the fair fast hand, and he had put his own certificate of posting under a lie that was leaning on a blank line in an old book when the plate on the wall at the bottom of the hill had said the whole thing out loud in a date.
 
-He stood in the wet with his hand on the iron and read it twice, and it was true, and there was nothing whatever to be said about it, and it had been true the whole time, and that was the thing he went upstairs with, and it was the thing he would carry into every room for the next four weeks: that the man he had spent thirteen days trying to destroy had been right about one enormous thing, and had written the rest of it down anyway, in a fair hand, in the rain, with four dead people in his pocket, and had been right about the plate and had been right about the pails and had been right about the notice, and had put a boy's pencil under it, and had been right about the notice and had not cared in the slightest that he was right, because being right had never been what he was after.
+He stood in the wet with his hand on the iron and read it twice, and it was true, and there was nothing whatever to be said about it, and it had been true the whole time, and that was the thing he went upstairs with, and it was the thing he would carry into every room for the next four weeks: that the man he had spent thirteen days trying to destroy had been right about one enormous thing, and had written the rest of it down anyway, in a fair hand, in the rain, with four dead people in his pocket, and had been right about the plate and had been right about the pails and had been right about the notice, and had put a boy's pencil under it, and had not cared in the slightest that he was right, because being right had never been what he was after.
 
-He got back to Bell Stair at the ninth bell and let himself into the copy room and the lamps were going along the north wall, and the desk was where he had left it with his own book open on it, face down, where anybody in the building could have come and looked, and he turned it over and shut it and put it in his coat, and thought about the four lines of the notice on the posting board, and the four dead people, and the twelve pints of difference between a ward's roll and a wall book, and the fact that the Trust wanted one villain and that he now had two men in his coat and neither of them would fit in a box with a cause at the top of it.
+He got back to Bell Stair at the ninth bell and let himself into the copy room and the lamps were going along the north wall, and the desk was where he had left it with his own book open on it, face down, where anybody in the building could have come and looked, and he turned it over and shut it and put it in his coat, and thought about the four lines of the notice on the posting board, and the four dead people, and the sixty pints of difference between a ward's roll and a wall book, and the fact that the Trust wanted one villain and that he now had two men in his coat and neither of them would fit in a box with a cause at the top of it.
