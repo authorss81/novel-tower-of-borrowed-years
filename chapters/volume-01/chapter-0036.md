@@ -22,7 +22,7 @@ Renata Vole said, "Four are not yours to give away."
 
 "Four are a request to sit, submitted to the March by a representative, on grounds only a representative may plead, and if the March has scheduled a sitting then the grounds are the grounds of the instrument and not the drafting of a yard." She had the form in front of her. "Term four is about the recording of a dissent, and the March has no procedure for a dissent because the March has never sat. You may sit. You may not legislate."
 
-"I am not legislating. I am asking six people in a room whether they would like a thing to be true, and if four of them say yes I will write it down and send it to the March and the March will say no, and then we will all have spent a morning." He turned round the form. "Is that a term of the March's, that a body sitting under its instrument may not describe its own procedure?"
+	"I am not legislating. I am asking five people in a room whether they would like a thing to be true, and if three of them say yes I will write it down and send it to the March and the March will say no, and then we will all have spent a morning." He turned round the form. "Is that a term of the March's, that a body sitting under its instrument may not describe its own procedure?"
 
 "That is not a question, Mr Harrow."
 
@@ -44,11 +44,11 @@ The recorder came second and it was the ugliest ten minutes of the morning, and 
 
 "Then who pays a recorder," said Sedge, "because I am not going to."
 
-And Renata Vole said the thing that had been sitting under the whole morning and that two hundred people at the Gate had already worked out on the twenty-ninth of the rains in about nine seconds, and she said it flatly, as a woman reading a line off a page, and the room went quiet:
+And Renata Vole said the thing that had been sitting under the whole morning and that two hundred people at the Gate had already worked out on the twenty-ninth of the rains in nine seconds, and she said it flatly, as a woman reading a line off a page, and the room went quiet:
 
 "The district account."
 
-Nobody said anything for about four seconds.
+Nobody said anything for four seconds.
 
 "It is the account that pays the school and the ward's water and the nine men who water the gardens, and the ward's levy days are drawn out of it, and the account was over-drawn at two hundred and forty per cent when it came out on the fifteenth and at five hundred and eighty when somebody read the whole of it on the thirtieth, and it is the account this board is about." She turned her hand over. "A recorder's sitting rate, at whatever sum, divided among the parties, is a rounding error on an account that is eighty-one thousand seven hundred and fourteen against an income of twelve thousand and something. The Trust will pay its share. The Fund will not, and the Fund is correct. The Chamber will not, and the Chamber is correct, because a rate on the hall is not a fund and the hall is a party."
 
@@ -58,13 +58,13 @@ Nobody said anything for about four seconds.
 
 "Captain, it is your term that a ward is in the room and not on a bill. I have never in my life agreed with a thing more easily."
 
-"I have, and I am going to say why, and I want it in the room and not in the corridor." Kern put his hands flat on the table. "I have been the captain of Tallow's water sixteen years. I have signed for a hundred and fifty per cent of what a careful man would have signed for, every year, and I have done it knowing what the yard could not check, because a yard cannot check a number, that is the whole of what a yard is. And I am not going to sit in a room where a recorder is paid by the party that wins, and I am not going to sit in a room where a recorder is paid by a district account that has my school on it at the bottom of a wall, and I would rather the recorder is paid by nobody and does it badly."
+"I have, and I am going to say why, and I want it in the room and not in the corridor." Kern put his hands flat on the table. "I have been the captain of Tallow's water sixteen years. I have signed for a hundred and fifty per cent of what a careful man would have signed for, every year, and I have done it knowing what the yard could not check, because a yard cannot check a number, and that is what a yard is. And I am not going to sit in a room where a recorder is paid by the party that wins, and I am not going to sit in a room where a recorder is paid by a district account that has my school on it at the bottom of a wall, and I would rather the recorder is paid by nobody and does it badly."
 
 "Recorder's name," said Harrow.
 
-"Milena Vendl will not write it and neither will I," said Vendl. "Take a vote, and remember that the Chair does not vote in a money matter, and I would like it minuted that the Fund's secretary was asked and declined twice and is still in the room."
+"Milena Vendl will not write it and neither will I," said Vendl. "Take a vote, and remember that the Chair does not vote in a money matter, and I would like it minuted that I have been asked twice and have declined twice and am still sitting in this room."
 
-It went four to one, and the Trust's share stood, and Kern's objection went in the minutes in his own words, and it was the first vote anybody in that room had ever lost.
+It went three to one, and the Trust's share stood, and Kern's objection went in the minutes in his own words, and it was the first vote anybody in that room had ever lost.
 
 ---
 
@@ -86,7 +86,7 @@ The fourth term was dissent, and it took the rest of the morning, and it is the 
 
 "You cannot record a dissent in a finding," said Renata Vole. "A finding is the finding of the body. A member who does not agree is a member who has not been persuaded. The minutes are the minutes and the minutes are the chair's."
 
-"The minutes are the chair's," said Harrow. "The reason is that we have no clerk. It is not a rule. If it were a rule I would have to obey it and I have never obeyed a rule I did not like in my life." He put the pen down. "Deputy, I have a chair with six people in it and four hours of a morning. In four hours the four of us who agree will have written a sentence that says the ward was owed four hundred and forty against a lawful hundred and sixty, and the one of you who does not will have said nothing, and the thing that will be in this room at noon is a finding. It is not a lie. It is a finding. But in nine years one of the people who wrote it will be gone, and the day that happens this document becomes the only account of a morning on which five members sat in a room, and the account will say that the five of us agreed."
+	"The minutes are the chair's," said Harrow. "The reason is that we have no clerk. It is not a rule. If it were a rule I would have to obey it and I have never obeyed a rule I did not like in my life." He put the pen down. "Deputy, I have a chair with five people at it and four hours of a morning. In four hours the three of us who agree will have written a sentence that says the ward was owed four hundred and forty against a lawful hundred and sixty, and the one of you who does not will have said nothing, and the thing that will be in this room at noon is a finding. It is not a lie. It is a finding. But in nine years one of the people who wrote it will be gone, and the day that happens this document becomes the only account of a morning on which four members sat in a room, and the account will say that all four of us agreed."
 
 "Which of you thinks that is likely."
 
@@ -98,6 +98,6 @@ The fourth term was dissent, and it took the rest of the morning, and it is the 
 
 Sedge voted it in before the Deputy had finished sitting down from having voted it out, and Kern voted it in, and Vendl voted it in, and Vole said that her office did not concur and did not give grounds, twice, in the same words, and it went in that way.
 
-And at about the fifth bell Harrow said, out of nowhere, to the whole table, that the board had just invented four terms in one morning and that two of them were probably wrong, and that the reason nobody had laughed was that every person at that table had been waiting a working lifetime for somebody to sit down and start, and that a procedure which is invented in a room is not a procedure yet, it is a habit with a date on it, and that the board would be judged on what it did next.
+And near the fifth bell Harrow said, out of nowhere, to the whole table, that the board had just invented four terms in one morning and that two of them were probably wrong, and that the reason nobody had laughed was that every person at that table had been waiting a working lifetime for somebody to sit down and start, and that a procedure which is invented in a room is not a procedure yet, it is a habit with a date on it, and that the board would be judged on what it did next.
 
-Marek Vale sat in the fourth seat of the gallery for about ten minutes after that with nothing to do and no standing and no authority, and watched a Crown March representative tell a room of strangers that two of the four terms they had just agreed were probably wrong, and understood that the third one, the one about declining, was not in any instrument in the world, and that it had been written on the back of a complaint sheet in a yard on the twentieth of the rains by two exhausted people who could not think of anything else to do with a wet afternoon.
+Marek Vale sat in the fourth seat of the gallery for ten minutes after that with nothing to do and no standing and no authority, and watched a Crown March representative tell a room of strangers that two of the four terms they had just agreed were probably wrong, and understood that the third one, the one about declining, was not in any instrument in the world, and that it had been written on the back of a complaint sheet in a yard on the twentieth of the rains by two exhausted people who could not think of anything else to do with a wet afternoon.

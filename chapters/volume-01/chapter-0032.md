@@ -10,7 +10,7 @@ The woman who did the Fund's accounts had a name for everything in her kitchen a
 
 "How long did it take them?"
 
-"Years and years and then a morning." The woman wrung her hands. "Nineteen years in the Fund's accounts and I have signed things I should not have signed, and here is the only thing worth knowing. Whatever they have got against him is a piece of paper he wrote on. A suspended clerk always has a paper he wrote on. It is never the thing that actually happened to anybody. I do not know that. I know it about nineteen years of it." She put the kettle on. "And if you are going to be kind to him about this, be kind about *this*. Not about the flood and not about the water. He will be up that hill on his own two feet and he does not need a woman at a table telling him what he can bear."
+"Years and years and then a morning." The woman wrung her hands. "Twenty years in the Fund's accounts and I have signed things I should not have signed, and here is the only thing worth knowing. Whatever they have got against him is a piece of paper he wrote on. A suspended clerk always has a paper he wrote on. It is never the thing that actually happened to anybody. I do not know that. I know it about twenty years of it." She put the kettle on. "And if you are going to be kind to him about this, be kind about *this*. Not about the flood and not about the water. He will be up that hill on his own two feet and he does not need a woman at a table telling him what he can bear."
 
 And Lio came in from the yard at the end with a slate under her arm, nine years old and dry through, because the school had opened again on the first for the week the difference in the record had bought and was going to shut again on the sixth.
 
@@ -37,19 +37,19 @@ She was forty-four and had been in the copy room twenty-two years and had never 
 
 "No other matter is suspended."
 
-Marek stood and looked at the last line for about a minute.
+Marek stood and looked at the last line for a minute.
 
 *No other matter is suspended.*
 
 He had spent a fortnight working out whether there was a sentence a body could be made to pay for six bells held without authority against an instrument that did not exist, and he had arrived at no-forum, and the board in front of him had got there in eight words, on Trust paper, with a seal, at the eighth bell. He could not appeal it, it was true in every particular, and the six bells were not in it and the boy's hand was not in it. It was the absence of a matter, written down.
 
-And what it cost was smaller than he had expected and much harder to carry, and by the fourth bell he had the whole of it in his head.
+And what it cost was smaller than he had expected and much harder to carry, and by the fourth bell he had all of it in his head.
 
 The slip went into the desk's book at the assignment column, which has one line per ward and one letter per clerk, and Tallow's line had said *V.* since the ninth in a supervisor's square hand. On the second it was struck, in a different hand — not Hesper's, and Marek checked twice — and the new line said *—*, because there is no place in that column for a clerk who cannot be given a file. A clerk of the day assigned no ward is not a clerk of the day; he is a man who works in a hall.
 
 Sedge was on the intake floor, and had refused once in a flood to countersign a certification for a district he was not clerk of.
 
-"I cannot countersign anything with you on it." He said it fast, then again, slower, as a man reads an instrument. "It is not the office. It is the standing order, and the second half of it is one I asked a man on the second floor about in the winter, and the practice is the rule until somebody in a room with a seal says it is not. In about four days you will come and tell me it was not personal. It will not be personal, and it will still be in the form." He went back to his tray.
+"I cannot countersign anything with you on it." He said it fast, then again, slower, as a man reads an instrument. "It is not the office. It is the standing order, and the second half of it is one I asked a man on the second floor about in the winter, and the practice is the rule until somebody in a room with a seal says it is not. In four days you will come and tell me it was not personal. It will not be personal, and it will still be in the form." He went back to his tray.
 
 Ostrowsky was in the levy office with the pad and would not look up.
 
@@ -79,13 +79,13 @@ Emil Skar was on the stairs outside with his coat on.
 
 "I have got the pen out."
 
-"Write it off." He wrote it off on the top of the stairs in the rain, on a sheet with nine other names on it, and it took him about four seconds. "Six of the eleven of us have signed that sheet. It is nine now, and one of the nine is me, and the reason we have all been so careful for four days is you. The office can take your signature. It cannot take the fact that you came into this room and put a junior's date in the post in the same sentence as a document, and Mrs Vendl has written it long, and I read it this morning." He put the pen away. "That is not a great deal to be given to a man on a Friday, and I am aware of that."
+"Write it off." He wrote it off on the top of the stairs in the rain, on a sheet with nine other names on it, and it took him four seconds. "Six of the eleven of us have signed that sheet. It is nine now, and one of the nine is me, and the reason we have all been so careful for four days is you. The office can take your signature. It cannot take the fact that you came into this room and put a junior's date in the post in the same sentence as a document, and Mrs Vendl has written it long, and I read it this morning." He put the pen away. "That is not a great deal to be given to a man on a Friday, and I am aware of that."
 
 ---
 
 Neris Kade came down the corridor outside the copy room at the fifth bell with a slate under her arm and a question in her mouth, and Marek watched her not ask it.
 
-That was the whole of it. She saw him and stopped for about a second and a half, and the question was there, in the way she turned her head, because he had been reading the turn of her head for a fortnight and there was no other explanation available.
+That was all of it. She saw him and stopped for a second and a half, and the question was there, in the way she turned her head, because he had been reading the turn of her head for a fortnight and there was no other explanation available.
 
 "Examiner."
 
@@ -97,13 +97,13 @@ And then she did not ask it. She said, "The first sitting is the ninth. I will b
 
 It was not a sulk and it was not a punishment, and that was what made it unbearable: she was right. An answer from him was now a thing said by a man who could not sign anything. If she wrote it down it was an assertion with no instrument behind it; if she repeated it in a room and it was wrong, there was no form anywhere for the fact that she had asked a man who could not be asked. Twice is a pattern. She had said that to him once already, on the twenty-first, and he had written it down, and here it was again from the other side of a doorway.
 
-He got to the bottom of the stair and worked out the thing he should have worked out on the first: in a fortnight he had acquired about nine people who could speak for him and had lost all nine, and none of them had done anything except apply a rule correctly, and the sum of the correct application of the rules of this building was a man of twenty-eight on a stair by himself with a coat and a book and nothing in either that anybody in Morrowfen would be permitted to look at.
+He got to the bottom of the stair and worked out the thing he should have worked out on the first: in a fortnight he had acquired nine people who could speak for him and had lost all nine, and none of them had done anything except apply a rule correctly, and the sum of the correct application of the rules of this building was a man of twenty-eight on a stair by himself with a coat and a book and nothing in either that anybody in Morrowfen would be permitted to look at.
 
-About four steps from the bottom he noticed that he had wanted very much to put his hand on a file, and that the wanting had a specific texture, and that the texture was the one from the copy room on the sixteenth, with the Tallow file open on Hesper's desk and a cause line facing up and his own hand staying in his lap.
+Four steps from the bottom he noticed that he had wanted very much to put his hand on a file, and that the wanting had a specific texture, and that the texture was the one from the copy room on the sixteenth, with the Tallow file open on Hesper's desk and a cause line facing up and his own hand staying in his lap.
 
 So he did the arithmetic a clerk does when he cannot spend anything: what a use of the Sight would cost, what it would buy, and who would be standing in the room. There were five uses in five days behind him, a parcel in a coat he had eaten and could not remember, and an hour on the night of the fourteenth with a man's voice in it that was gone for good. And there is no fee to a Sight paid in a room. There is only what it does to the person, and the cost of using one in front of somebody is not a headache. It is that a suspended clerk who can see what nobody else can see is a man with a reason to be asked questions, and a room takes its answers from men who can sign.
 
-He went down the rest of the stair without touching anything, and the discipline stood him about four steps and then stopped standing him anything.
+He went down the rest of the stair without touching anything, and the discipline stood him four steps and then stopped standing him anything.
 
 ---
 
@@ -113,7 +113,7 @@ Hesper Rann came to the copy room at the sixth bell with his coat over his arm a
 
 "That is kind of you."
 
-"It is a habit, and I have never had the strength to break it." He looked at the sleeve of the coat. "You are not to appeal it and you are not to ask anybody to appeal it, including the woman on the posting desk, who will be sorry for you and do you one kindness out of it and be sorry about it for a year. You will be told in about four days that there is a form for it. There is, in the second book on the shelf behind you, and it will be refused, and somebody you trust will offer you a piece of paper that says a true thing and tell you what it costs, and the cost will not be money. Do not take it. There is nothing in that certificate that anybody can be paid with, and I will not have anybody tell you otherwise in a room I have been in."
+"It is a habit, and I have never had the strength to break it." He looked at the sleeve of the coat. "You are not to appeal it and you are not to ask anybody to appeal it, including the woman on the posting desk, who will be sorry for you and do you one kindness out of it and be sorry about it for a year. You will be told in four days that there is a form for it. There is, in the second book on the shelf behind you, and it will be refused, and somebody you trust will offer you a piece of paper that says a true thing and tell you what it costs, and the cost will not be money. Do not take it. There is nothing in that certificate that anybody can be paid with, and I will not have anybody tell you otherwise in a room I have been in."
 
 "Hesper—"
 
@@ -143,6 +143,6 @@ And Tamsin, at the ripper, with the lamp on her hands, said the thing she had be
 
 "You will want to ask me something tonight, and you will not ask it, and I have known you would not ask it for eleven years, and tonight you will want to ask it more than ever, because you have nothing else left to look at." She went back to the seam. "I am not going to be drawn. Not because of the suspension, and not because of anything on that slip. Go and sleep. And if you want to ask me, ask me on a day when you have not been told the price of not asking."
 
-Marek went up to his room above the lockkeeper's shop with a book in his coat holding four things, none of them signed, and lay down in the dark and did not sleep, and at about the second bell of the night he understood the shape of the next nine days with a new piece in it that had not been there on the thirtieth of the rains.
+Marek went up to his room above the lockkeeper's shop with a book in his coat holding four things, none of them signed, and lay down in the dark and did not sleep, and at the second bell of the night he understood the shape of the next nine days with a new piece in it that had not been there on the thirtieth of the rains.
 
 On the thirtieth he had known what was going to happen on the twelfth and had not been able to stop it. On the second of next month he was no longer the man who was going to be in that room, and the room was going to happen anyway, with a third-grade clerk in it who could sign, and he was not going to be told who and he was not going to ask, and that was correct, and it had been decided by a man of about sixty with a pad under his arm who had said he was not going to say it in a corridor.

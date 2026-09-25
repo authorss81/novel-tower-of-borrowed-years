@@ -32,13 +32,13 @@ Nobody said anything for a moment.
 
 ---
 
-They went back down the hill and up the causeway to the levy office at about the third bell, because Neris Kade had said one sentence in the corridor at the Threshold and the sentence had been *ask for the account*, and nobody had understood her and she had not explained, because explaining it is not her office.
+They went back down the hill and up the causeway to the levy office at the third bell, because Neris Kade had said one sentence in the corridor at the Threshold and the sentence had been *ask for the account*, and nobody had understood her and she had not explained, because explaining it is not her office.
 
 The district account is a record. It is a record of a district. The parties to a district account are its ratepayers, and a ratepayer in Morrowfen may read a rate, and Rusk had been a ratepayer of this district for nine years and had never once asked, because it had never occurred to her that a woman who teaches in a ward is a ratepayer of a district account, and because the water office strikes a line without writing to the people the line is about, and a person who has never been written to does not know that a paper exists with their street on it.
 
-Grale read the school's line out of the book standing up, with his finger on it, in about four seconds, and would not read anything else, and stood there while the yard did the rest.
+Grale read the school's line out of the book standing up, with his finger on it, in four seconds, and would not read anything else, and stood there while the yard did the rest.
 
-The line is a sum. That is the finding of the morning and it took about eleven minutes for four people who had never seen a district account to arrive at it together in the middle of a wet yard.
+The line is a sum. That is the finding of the morning and it took eleven minutes for four people who had never seen a district account to arrive at it together in the middle of a wet yard.
 
 "So the school is that much," said Rusk. "Not ninety-one children. That much. A sum."
 
@@ -46,7 +46,7 @@ The line is a sum. That is the finding of the morning and it took about eleven m
 
 "And what does that much buy," said Rezek, from the back, in a fuel-yard coat, with both hands in the front of it, because it was the ninth and he could not get them shut and had stopped trying about a week ago. "Mrs Rusk. What does that much buy, in children."
 
-Rusk had the answer before he finished the sentence, and she did it in the yard, out loud, with a slate, in about two minutes, and she got it wrong twice and right the third time, and the yard let her.
+Rusk had the answer before he finished the sentence, and she did it in the yard, out loud, with a slate, in two minutes, and she got it wrong twice and right the third time, and the yard let her.
 
 "It buys places," she said. "That is the word the office uses and the office is right. A place is not a child. A place is a term, and the office values a term, and the number of children a ward can hold in a school is whatever the number of terms it can pay for comes to, and I have never once been told what that number is, and it is on a page in a building, and I have been teaching here nine years and I did not know until the second of the rains that my school was the cheapest line on it."
 
@@ -86,7 +86,7 @@ Fourteen, and the yard heard it, and about a third of the yard said *fourteen* a
 
 "I have just said it in a yard in the presence of a hundred and forty people and I am not going to say it twice and I am not going to say it in a corridor, and the only place it can be said properly is a room, with a chair in it, in front of the people it is about, and there is one of those on the sixteenth of this month, and the notice is nailed to a board at the bottom of this hill and it says *the day is not to be left at an office*." Rusk picked the slate up. "So that is where it goes. Not to me. I have been the one who says it for nine years and I am finished."
 
-Marek stood at the end of the yard with the rain coming off the eaves and the two boards behind him, and understood the whole of the two weeks in about nine seconds and understood none of it in any way that would let him do a single thing about it.
+Marek stood at the end of the yard with the rain coming off the eaves and the two boards behind him, and understood the two weeks in nine seconds and understood none of it in any way that would let him do a single thing about it.
 
 He was the man in the building where the number had come from. He had gone and got it, on the thirtieth, in five days with two clerks and a field examiner who was not his, and he had put it into a finding under a seal, and it had cost nothing to put there and had cost two households their week and four hundred people their certainty, and it had produced a finding that said the ward drank four hundred and forty against a lawful hundred and sixty and was right about it. He could not make the number say anything else. He could not get the frame off the wall. He could not be in the room, and he could not be asked a question in it, and there was a woman on the second floor of the hall who had a case number in a book and a form with one box in it and a rule about witnesses that a suspended clerk had just made possible, and none of it touched the wall, and none of it touched the number fourteen, and the number fourteen was going to be said out loud in a room on the sixteenth by a schoolmistress, and he was not going to be in the room.
 

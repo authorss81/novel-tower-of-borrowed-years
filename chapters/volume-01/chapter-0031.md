@@ -4,7 +4,7 @@ The notice of the recount went onto the posting board on the first of next month
 
 Then it said, on the last line, in the same hand: *served at the Gate tank, Tallow Ward, at the eighth bell.*
 
-Marek read it twice with a queue behind him and understood the last line in about four seconds. There was no box on any form in the building for the parties to a ward finding, and a ward is served where it is, so a notice to a ward was a sheet of paper nailed to a wall in the rain with a clerk on a stool in front of four hundred people who had already been served the same finding once.
+Marek read it twice with a queue behind him and understood the last line in four seconds. There was no box on any form in the building for the parties to a ward finding, and a ward is served where it is, so a notice to a ward was a sheet of paper nailed to a wall in the rain with a clerk on a stool in front of four hundred people who had already been served the same finding once.
 
 Ostrowsky was on the step with the pad under his arm.
 
@@ -48,7 +48,7 @@ He turned it over, read a name or two under his breath, and gave it back.
 
 "That is the best paper I have been handed in eleven years and I am going to have to ask you to write me another one. Your petition asks for four decisions, and four decisions can be refused in nine minutes with every word correct. What I need is a room, and there is no form anywhere in your country for a body asking for a room, because a body asking for a room is a body that has understood something about itself that no form has ever had a box for."
 
-He stopped, which was his mistake, because a yard will finish a sentence for you if you leave it, and about forty voices said *yes* at once and then did not go on, because a yard is not a room and nobody there knew how to make one.
+He stopped, which was his mistake, because a yard will finish a sentence for you if you leave it, and forty voices said *yes* at once and stopped, because a yard is not a room and nobody there knew how to make one.
 
 "Five grounds on the first page, and four of them are about arithmetic and you have a great deal of arithmetic." He went through them on the steps in the rain. A settlement certified during a declared emergency. A party not served with a material term — and he added, without being asked, that he was not permitted to say which term, would be asked about it in a room on the ninth, and would not be able to answer. A document in the case with no copy. An account bearing figures that do not agree. A question of conduct excluded from a proceeding in which it ought to have been heard.
 
@@ -58,7 +58,7 @@ He put the form down on the tank.
 
 "Then say it," said Kern.
 
-"I have to teach you to complain in the grammar of an office. Everything you have said to me since the second of the rains is true and none of it is a ground. A valve was open, a storehouse came down, a boy of thirteen has a leg. Those are events. A ground is a statement about a document, and a document is the only thing a procedure can be fed. I cannot take a valve to a board. I can take *an entry whose fourth clause recites an account no desk in this city can audit, and an assessment of which one page was never served on the parties*." He looked at Marek in the crowd and then deliberately away again, because he had noticed a clerk, and a clerk was a party, and he had not asked. "And I cannot take it out of what you have told me. I can only take it out of what one of you can put on a page in the shape the form wants, and the hardest sentence in this city to write is one that begins *the document says* and ends with a thing a body did."
+"I have to teach you to complain in the grammar of an office. Everything you have said to me since the second of the rains is true and none of it is a ground. A valve was open, a storehouse came down, a boy of thirteen has a leg. Those are events. A ground is a statement about a document, and a document is the only thing a procedure can be fed. I cannot take a valve to a board. I can take *an entry whose fourth clause recites an account no desk in this city can audit, and an assessment of which one page was never served on the parties*." He looked at Marek in the crowd and then deliberately away again, because he had noticed a clerk, and a clerk was a party, and he had not asked. "And I cannot take it out of what you have told me. I can only take it out of what one of you can put on a page in the shape the form wants, and the hardest sentence in this city begins *the document says* and ends with a thing a body did."
 
 "So we have to write it," said Ostrow.
 
@@ -66,7 +66,9 @@ He put the form down on the tank.
 
 ---
 
-They wrote it all afternoon in pencil, in about eleven hands, and it was the worst piece of paperwork produced in Tallow Ward in twenty years and the first thing the ward had ever produced that was shaped like a request. Harrow sat on the tank step and asked the order of events four times in four separate groups, got four different orders, and wrote all four down, and then said out loud that the fourth was the one he had been told was correct and that he had no way of knowing.At the fourth bell he asked the question he had been waiting to ask, and he asked it to the yard and not to Kern, because he had worked out inside an hour that a yard answers a yard.
+They wrote it all afternoon in pencil, in eleven hands, and it was the worst piece of paperwork produced in Tallow Ward in twenty years and the first thing the ward had ever produced that was shaped like a request. Harrow sat on the tank step and asked the order of events four times in four separate groups, got four different orders, and wrote all four down, and then said out loud that the fourth was the one he had been told was correct and that he had no way of knowing.
+
+At the fourth bell he asked the question he had been waiting to ask, and he asked it to the yard and not to Kern, because he had worked out inside an hour that a yard answers a yard.
 
 "What do you want decided."
 
@@ -103,7 +105,7 @@ Harrow wrote for nine minutes and read their second page back to the yard, which
 
 "Do it," said Nadja Ostrow.
 
-"I will, at the first thing on Friday, badly and slowly. And Captain, I am going to want to come back to this yard about nine times before the end of the month and I will not be good at it, and I am telling you now so that you can decide how much room to make me."
+"I will, at the first thing on Friday, badly and slowly. And Captain, I am going to want to come back to this yard nine times before the end of the month and I will not be good at it, and I am telling you now so that you can decide how much room to make me."
 
 ---
 
@@ -115,7 +117,7 @@ He was in Renata Vole's office at the fourth bell, and she had the form before h
 
 "Three. A Crown March representative has standing in a Crown interest, and no Crown interest is pleaded. The Crown Terrace account in this matter is a district irrigation account. The word Crown is a district and a terrace, and this office is not going to let a Crown March officer into a district water account on the strength of a name."
 
-"That is four reasons and they are all correct," said Harrow.
+"That is three reasons and they are all correct," said Harrow.
 
 "They are correct, they are in writing, and I have given you the page for each, which I do for two people a year."
 
@@ -125,7 +127,9 @@ Renata Vole looked at him slightly longer than she looked at most people.
 
 "Will you sit on the board."
 
-"My instrument requires a March representative to preside at the first sitting, and after that the board chooses its own chair. I have put a sentence in the terms asking it not to choose me, and if it chooses me I will accept, because a calendar is worth more than my pride. You are a Crown March officer, and you want to chair a board about a district water account in a city you have never been flooded in."
+"My instrument requires a March representative to preside at the first sitting, and after that the board chooses its own chair. I have put a sentence in the terms asking it not to choose me, and if it chooses me I will accept, because a calendar is worth more than my pride."
+
+"You are a Crown March officer," said Renata Vole, "and you want to chair a board about a district water account in a city you have never been flooded in."
 
 "There is nobody else in this room who can make a thing sit, and I have stopped pretending that is a compliment to the office. It is a fact about the size of it. We are the calendar."
 
@@ -145,6 +149,6 @@ It carried no grounds and no terms and did not say what the board would do, and 
 
 And Marek Vale, standing at the end of the row with a book in his coat that nobody in the yard knew about and four things in it, understood the shape of the next eleven days at about the fourth bell, and it was this.
 
-The bill came due on the twelfth. The board sat on the ninth. The cause was written on the twelfth by a man in a room he had no standing in. And on the third of this month his own name was going to come off a column in a desk's book, and the only thing left to him was to stand in a yard in the rain, where a man with a leather case had told four hundred people the size of what he had brought and had been believed, and it had bought them a date.
+The bill came due on the twelfth. The board sat on the ninth. The cause was written on the twelfth by a man in a room he had no standing in. And on the second of this month his own name was going to come off a column in a desk's book, and the only thing left to him was to stand in a yard in the rain, where a man with a leather case had told four hundred people the size of what he had brought and had been believed, and it had bought them a date.
 
 A date was not a decision. A date was the whole of what a procedure could do for anybody who had not already decided, and Marek had spent four years believing that a thing in a calendar was the same thing as a thing in a hand. It was not. He watched the yard go back to work on a wet morning with a date in its head, and the water still cost what it cost, and the four households still stood at the bottom of a roll, and nothing that had been promised was going to stop a clerk writing a reason in a box.

@@ -2,13 +2,13 @@
 
 The recount was taken in the second-floor room at the eighth bell on the twelfth of next month, and the room holds thirty, and there were about three hundred and forty people in the corridor and on the stair outside it, because the Gate yard had spent four days telling anybody who would listen that there was a date on a board.
 
-Nineteen of them were let in. That was a matter of procedure and not of favour: a recount is a supervisor's step, and a ward cannot be a party to a supervisor's step, and a ward cannot be sworn and cannot be cross-examined, so what came into the room was nine people who were in it in their own names and could be sent out of it in their own names, and Aldis Kern, and Marek Vale, who had no standing in the room at all and was let in at the door by a hearing officer who had read a slip on a board on the second and worked out that a suspended clerk was nobody's clerk and therefore nobody's obstacle.
+Fourteen of them were let in. That was a matter of procedure and not of favour: a recount is a supervisor's step, and a ward cannot be a party to a supervisor's step, and a ward cannot be sworn and cannot be cross-examined, so what came into the room was seven people who were in it in their own names and could be sent out of it in their own names, and Aldis Kern, and Marek Vale, who had no standing in the room at all and was let in at the door by a hearing officer who had read a slip on a board on the second and worked out that a suspended clerk was nobody's clerk and therefore nobody's obstacle.
 
 They were: Bohdan Rezek, of the fuel basin. Nadja Ostrow, of the low kitchens. Milan Vray, rope-maker. Pella Rusk. Milena Kelb, laundress. A young hand of the Tanner's yard, who asked for it and was allowed because he is nineteen. And Ondra Kelb, in a good coat, with a hand-book in the bag at his feet and a folded schedule in his inside pocket that he had brought and would not produce.
 
 At the table: Hesper Rann, standing, because there was one chair and it was the chair with the leg. A third-grade clerk with a fresh desk's form and a pen. Levy clerk Ostrowsky, with the desk's book open at *recounts entered*. The hearing officer, in his own chair. And Renata Vole, at the back, on her own, without a seal and without papers, who had come because a cause entered in a room is a thing her finding rests on and she is not a woman who lets that happen in a corridor.
 
-The other four hundred stood on a stair in the rain and were not wrong to be there and could not be in the room, and had been told so in exactly the words the hearing officer had used at the door of the Threshold on the twenty-second.
+The rest of them stood on a stair in the rain and were not wrong to be there and could not be in the room, and had been told so in exactly the words the hearing officer had used at the door of the Threshold on the twenty-second.
 
 ---
 
@@ -18,13 +18,13 @@ Hesper Rann announced that a recount is the fourth clause of the settlement desk
 
 "The cause goes on the form before the arithmetic," he said. "Not because of anything in the file. Because the arithmetic is either going to agree or it is not, and if it agrees then a man who has written a sentence explaining why he did a lawful thing will want to know what he wrote. I have done them this way for twenty-two years and I am not going to explain myself about it in a room."
 
-Marek Vale sat on the end of a bench in the ninth seat of a gallery with his hands on his knees and understood every word of it and could not have stopped it if the room had been made of paper.
+Marek Vale sat on the end of a bench in the last row of a gallery with his hands on his knees and understood every word of it and could not have stopped it if the room had been made of paper.
 
-The form went round. The third-grade clerk signed where it says to sign. Ostrowsky entered the hour in the desk's book. And Hesper Rann read the cause line into the record, in the ordinary voice of a man reading a sentence he has written himself and knows to be true.
+The form went round. It was a one-page certification of cause, which is what a recount's cause is written on, and a certification has to be signed to be a thing and not a conversation, and it is the only one-page instrument in this city that puts a clerk's name at the top of a sentence about his own work. The third-grade clerk signed where it says to sign. Ostrowsky entered the hour in the desk's book. And Hesper Rann read the cause line into the record, in the ordinary voice of a man reading a sentence he has written himself and knows to be true.
 
-Not one of the nine people in the gallery understood a word of it.
+Not one of the seven people in the gallery understood a word of it.
 
-And that was the whole of the afternoon, and it lasted about forty minutes, and nothing in it was cruel and nothing in it was shouted, and it destroyed a man of twenty in his fifth week at a counter-desk.
+And that was the afternoon, and it lasted forty minutes, and nothing in it was cruel and nothing in it was shouted, and it destroyed a man of twenty in his fifth week at a counter-desk.
 
 ---
 
@@ -46,11 +46,11 @@ Vole did not look at the table. "It is entered. The clause is satisfied. The col
 
 Nobody in the room had asked, because every person in it was waiting for a person to be named and a cause is a sentence about a column.
 
-"It is a sentence about where a number came from," said Hesper Rann. "The totals of the Tallow assessment were added at the counter-desk from a schedule that the ward was never served with. That is the whole of it, and every word of it is true, and the arithmetic is about to be done and it will agree, because it is a correct column."
+"It is a sentence about where a number came from," said Hesper Rann. "The totals of the Tallow assessment were added at the counter-desk from a schedule that the ward was never served with. That is all of it, and every word of it is true, and the arithmetic is about to be done and it will agree, because it is a correct column."
 
 The hearing officer said, "And where a false-witnessed instrument's collection goes, I said on the fifteenth and I will say it once more because this is the room it matters in. It follows the instrument. It does not follow the folder. An entry that carries a material term the parties were not served with sends the collection to the living clerk whose counter-signature is the institution's act, and that clerk is the only person in the city the collection can land on, and he is at the counter-desk of this hall."
 
-The nine people in the gallery looked at a table.
+The seven people in the gallery looked at a table.
 
 "Who countersigned the Tallow entry," said the hearing officer.
 
@@ -72,9 +72,9 @@ Rezek got there first, from the front bench, without standing up, in the voice o
 
 "Then say what is in issue." Rezek put his hands out on his knees and did not open them, which was a thing he had not been able to do since the ninth of the rains and which he had stopped attempting in a yard. "Say that a boy was careless, or say that a boy was at a desk, and then say it to him, because he is in this room and nobody has looked at him."
 
-The nine people in the gallery looked at Ondra Kelb.
+The seven people in the gallery looked at Ondra Kelb.
 
-He was in the ninth seat of the back bench with a good coat on and a hand-book in the bag at his feet, and he had understood the whole of it at about the second sentence, because he was a clerk and he knew what the entry was and he had added the column up twice with a pencil on the afternoon of the ninth of the rains while the ward's Gate tank was dry.
+He was in the third row of the back bench with a good coat on and a hand-book in the bag at his feet, and he had understood all of it by about the second sentence, because he was a clerk and he knew what the entry was and he had added the column up twice with a pencil on the afternoon of the ninth of the rains while the ward's Gate tank was dry.
 
 "It was me," he said. "I counted it. I counted it twice."
 
@@ -110,7 +110,7 @@ Hesper Rann said, to the whole table and not to one person in it:
 
 Renata Vole said, "That will be entered in the terms of the settlement and not otherwise, and the collection will be entered on the ordinary course in the ordinary course, and this office does not intend to be delayed by a board on the sixteenth."
 
-And Marek Vale sat in the ninth seat of a gallery of a room that held thirty and understood the whole of the afternoon at about the fifth bell, in about nine seconds, the way he had understood the third clause of a finding standing at a tank on the thirtieth.
+And Marek Vale sat in the last row of a gallery of a room that held thirty and understood the afternoon at about the fifth bell, in about nine seconds, the way he had understood the third clause of a finding standing at a tank on the thirtieth.
 
 There had been no forum for the six bells. There was still no forum for them. There was no office in the city that could hold a delay held without authority against an instrument that did not exist, and there was no box anywhere for a claim by a man against one, and the finding of the thirtieth had said so in eight words and had been right.
 

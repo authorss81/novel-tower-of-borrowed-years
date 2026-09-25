@@ -2,7 +2,7 @@
 
 The back room of the Fund's office over the chandler's shop had a bench, a bad lamp, a shelf of empty forms, and after the sixth bell on the third of next month it had a table, because Ondra Kelb had brought a table up the outside stairs on his own with a hand-book maker's boy and would not let him carry the other end.
 
-The rule on the sheet of paper was the whole of it.
+The rule on the sheet of paper was all of it.
 
 *1. A thing is not done again until it has been done clean three days running.*
 *2. A stopping is written down as a stopping, in the hand of the person who stopped.*
@@ -30,7 +30,7 @@ Zorka Vendl had got it made on Ropewalk by name, which had cost her a phone call
 
 Kelb put it on.
 
-It was a good thing. Leather at the palm and across the first joint, laced up the back of the hand and around two fingers, made for a hand that was going to do fine work again and needed to hold a pen for six hours without letting go of it. He laced it with his left hand in about forty seconds because he had watched it being laced on a bench in Sill Row for about a week.
+It was a good thing. Leather at the palm and across the first joint, laced up the back of the hand and around two fingers, made for a hand that was going to do fine work again and needed to hold a pen for six hours without letting go of it. He laced it with his left hand in forty seconds because he had watched it being laced on a bench in Sill Row for about a week.
 
 Then he took the copy room's spare pen out of his coat and wrote four lines on the test strip.
 
@@ -72,7 +72,7 @@ He put the pen down.
 
 "Right," he said. "Four seconds."
 
-He wrote it out in the schedule in the left hand, in the fair fast nine-year-old's hand he had got good at by the second, and it took him nine lines to say the whole of it.
+He wrote it out in the schedule in the left hand, in the fair fast nine-year-old's hand he had got good at by the second, and it took him nine lines to say it.
 
 *Third. Fourth bell. Column of twenty lines from the issue ledger, ordinary hand, no strap. Took four seconds, nine and a bit. Correct throughout. Figures the shape of a child of nine, which is the shape they were at on the ninth, and which I have known since the fourteenth of the rains when I tried to write my own name in a clinic tray.*
 *Cost: unknown, to be established. Nothing felt at the time, which I am told is not information.*
@@ -97,7 +97,7 @@ On the second day his mother tried the basket and could not do it, and stood in 
 
 "You could have." She put the basket down square, the way a person puts a thing down when the next thing that happens is going to be somebody else's decision, and said, "And I have four sheets to wring," and went back to her board, and neither of them said one word about it for eleven days, which was longer than she had ever gone.
 
-On the third day he came in to the back room at the seventh bell and found that a man from the copy room had been and gone and had left on the table a strip of paper with a figure on it, and it took him about eleven seconds to work out that it was a man from the counter-desk, three weeks his senior at the same desk, who had come to look at a schedule of a man he had watched go down on a stair, and who had written down how many pages of a fair book he could copy in an hour in his ordinary hand, and had left it, and had not signed it.
+On the third day he came in to the back room at the seventh bell and found that a man from the copy room had been and gone and had left on the table a strip of paper with a figure on it, and it took him eleven seconds to work out that it was a man from the counter-desk, three weeks his senior at the same desk, who had come to look at a schedule of a man he had watched go down on a stair, and who had written down how many pages of a fair book he could copy in an hour in his ordinary hand, and had left it, and had not signed it.
 
 Kelb put it on the board over the table where the yard could not see it and where Vendl could not take it down, and copied the figure onto the schedule under a heading he had to invent, and the heading was *what somebody else can do*, and he noted underneath that the rule in line three did not provide for this case and had therefore been extended, in his own hand, on the third, by him, with no authority whatever, and that this was the first rule in the whole business that he had broken.
 

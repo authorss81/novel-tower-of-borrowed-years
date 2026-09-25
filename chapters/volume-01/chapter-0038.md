@@ -14,7 +14,7 @@ He turned the form round. It was the W-4 of the seventeenth of the rains, counte
 
 "You had a reason on the seventeenth and you gave it to me."
 
-"On the seventeenth I had a reason and I gave it to a clerk in a room with no second person in it, and I told you at the time that I would deny it in a room later, and I am now telling you that I will not, and I have never enjoyed that less and it is the only thing in this conversation I am going to be kind about." He put two fingers on the paper. "A form is worth what the man holding it says it is worth, on the day he holds it up. That is not a threat. It is the whole of what a form is. Your brother's schedule is eleven days a season at the ordinary wage, and the years are gone and the draw posted on the fourteenth and are working, and the schedule is the only thing left in that contract that anybody in this city can still give away. And it is in a drawer."
+"On the seventeenth I had a reason and I gave it to a clerk in a room with no second person in it, and I told you at the time that I would deny it in a room later, and I am now telling you that I will not, and I have never enjoyed that less and it is the only thing in this conversation I am going to be kind about." He put two fingers on the paper. "A form is worth what the man holding it says it is worth, on the day he holds it up. That is not a threat. That is what a form is. Your brother's schedule is eleven days a season at the ordinary wage, and the years are gone and the draw posted on the fourteenth and are working, and the schedule is the only thing left in that contract that anybody in this city can still give away. And it is in a drawer."
 
 "Then produce it."
 
@@ -34,7 +34,7 @@ Marek sat down.
 
 Marek said nothing.
 
-"So I am going to say the second thing and it is about a man I have watched for nineteen years, and then I am going to say the third thing, and the third thing is the one I have been building for three days and I am not proud of it and I am going to do it anyway."
+"So I am going to say the second thing and it is about a woman on a floor I have watched for nineteen years, and then I am going to say the third thing, and the third thing is the one I have been building for three days and I am not proud of it and I am going to do it anyway."
 
 ---
 
@@ -68,7 +68,7 @@ The lamp came on along the north wall outside, which it did not do on a Sunday, 
 
 "You have not said the fourth thing about tomorrow," said Marek.
 
-"I have said the third thing four times and I have said tomorrow not at all, because you did not ask me and I am not going to volunteer it." Hesper picked up the form and put it back in the drawer and shut the drawer, which was the sound the whole conversation turned on. "You have a book with four things in it and a room where a woman has a sheet and a chair and a notice on the board with a date on it, and I have wanted you to get to tomorrow for about a week, and I have not helped you with it once, and you did not ask, and I want it understood between us that we are both very careful people and that neither of us has done a single unkind thing on purpose in this room."
+"I have said the third thing four times and I have said tomorrow not at all, because you did not ask me and I am not going to volunteer it." Hesper picked up the form and put it back in the drawer and shut the drawer, which was the sound the whole conversation turned on. "You have a book with four things in it and a room where a woman has a sheet and a chair and a notice on the board with a date on it, and I have wanted you to get to tomorrow for a week, and I have not helped you with it once, and you did not ask, and I want it understood between us that we are both very careful people and that neither of us has done a single unkind thing on purpose in this room."
 
 "You have told me my daughter's name is on a register in a room with no second person in it."
 

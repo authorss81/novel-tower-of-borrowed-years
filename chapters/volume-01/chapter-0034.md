@@ -58,7 +58,7 @@ She put both hands flat on the book, which was the way she held a thing she was 
 
 He said it anyway, and it took about nine words, and it was about a document.
 
-"I will not," he said, and that was the whole of the answer he gave for a long time.
+"I will not," he said, and that was the answer he gave for a long time.
 
 ---
 
