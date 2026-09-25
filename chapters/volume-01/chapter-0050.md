@@ -14,7 +14,7 @@ He put the nib on the ruled line and he sat there, and the lamps along the north
 
 He wrote a figure. He wrote the first stroke of a four and then he stopped and took the pen off the page and put the cap on it, and he sat with his hands on the table for about four minutes.
 
-Then he took the cap off again, and he went over the four he had started, once, in the ordinary way that a clerk goes over a wrong figure, so that the line was blank again and clean, and the page said what it has said for three hundred years, and that is the whole of what he did with it, and nobody in the building saw him do it.
+Then he took the cap off again, and he did not blot it, because a blot lifts the grain and that paper is three hundred years old, and he went along the four he had started once with the blade of the small knife that lives in the drawer of every desk in that room, and stopped where the stroke stopped, so that the line was blank again and clean, and the page said what it has said for three hundred years, and that is the whole of what he did with it, and nobody in the building saw him do it.
 
 Then he wrote the signature underneath, and this is where the standing order stops mattering.
 
@@ -26,7 +26,7 @@ A, a stroke, and zero. A-0, written out in full and letter by letter, because th
 
 *Written in full. The eighteenth day of next month. M. Vale, clerk, no office.*
 
-And then he read the last four words and did not change them, because the clerk of record has not been held since the third century and there is nobody in Bell Stair who can be it and there is no form for appointing one, and a man in a hall with no office of his own is the truest thing available and it is also the only one that is not a lie.
+And then he read the line back and did not change one word of it, because the clerk of record has not been held since the third century and there is nobody in Bell Stair who can be it and there is no form for appointing one, and a man in a hall with no office of his own is the truest thing available and it is also the only one that is not a lie.
 
 The Trust's sealed notice on the Tally Hall door says the public copy is to be replaced, that the founding hand is not to be reproduced in it, and that the work is to be carried out by the officer of the record and by no other hand. There is no officer of the record. There has not been one for three centuries. The Deputy's office is not the record and the Chamber is not the record and a suspended clerk is nobody's clerk, and the notice has therefore been on that door for fourteen days with nobody able to carry it out, and the public register has an empty page in it where the oldest page should be, and an empty page with nothing under it is not a blank line with a signature on it. It is a blank page, and anybody at all may write in it, and in about nine months somebody will, in the ordinary way, for a good reason, with no idea whatever.
 

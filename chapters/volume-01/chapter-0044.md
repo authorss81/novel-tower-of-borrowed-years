@@ -52,7 +52,7 @@ The Deputy dissented, her grounds went in in her own words, and the Chair wrote 
 
 Bel Harrow wrote all of it down. It took about ninety seconds and he did not abbreviate it and he read it back and she corrected one word, which was *aimed*, which she had said correctly.
 
-"Noted," he said. "The Chair uses the word and the Deputy does not, and both positions are now in the finding, and that is the fourth term doing what it was bought to do, and it is being used against the man who proposed it, and I said in a room on the ninth that I would rather have a finding I could not act on than one I could act on and could not account for, and there it is at about the seventh bell of the afternoon of the second day of a board that has sat twice."
+"Noted," he said. "The Chair uses the word and the Deputy does not, and both positions are now in the finding, and that is the fourth term doing what it was bought to do, and it is being used against the man who proposed it, and I said in a room on the ninth that I would rather have a finding I could not act on than one I could act on and could not account for, and there it is at about the seventh bell of the evening of the second day of a board that has sat twice."
 
 "Write it in your own hand," said Renata Vole.
 
@@ -64,7 +64,7 @@ Then a man at the back of a room built for thirty said a thing that had been in 
 
 "I wrote nine words on the twenty-first," said Marek Vale.
 
-Nobody had been looking at the back of the room. Fourteen people along two side walls looked at the back of the room, and a table of five looked at the back of the room, and Hesper Rann, standing four feet away with his hands at his sides, turned his head.
+Nobody had been looking at the back of the room. Seven people along two side walls looked at the back of the room, and a table of five looked at the back of the room, and Hesper Rann, standing four feet away with his hands at his sides, turned his head.
 
 "On the twenty-first of the rains, at the fifth bell of the afternoon, in the supervisor's room, with the supervisor at his desk and a third-grade clerk at the counter and the form in front of me, I took out my own book and wrote nine words in my own hand, in the cause box, in the levy office's formula for a cause. I did not file it. I did not show it to anybody. I have had it since the twenty-first and I could not put it in a room until this afternoon, and I want to say three things about it and then I will stop.
 
@@ -100,7 +100,7 @@ Bel Harrow looked at Renata Vole, and Renata Vole looked at the sheet and then s
 
 The last thing the board did that day was take the only thing Hesper Rann had that he had not put in a drawer.
 
-"Mr Rann," said Bel Harrow, "the Chair is going to rule that, from this moment, the supervisor of the settlement desk certifies nothing further in this proceeding. That is not a suspension. I have no power to suspend you and I am not suspending you, and nothing is suspended, and the word is in your record from the second of this month and I am not touching it. It is a Chair declining to accept an instrument. There is no clerk in this city who will serve a body it is a party to, and the Chair is therefore the only person in this room who can decide what goes into a record, and I have decided that nothing you put in front of this board after the seventh bell of this afternoon goes into it.
+"Mr Rann," said Bel Harrow, "the Chair is going to rule that, from this moment, the supervisor of the settlement desk certifies nothing further in this proceeding. That is not a suspension. I have no power to suspend you and I am not suspending you, and nothing is suspended, and the word is in your record from the second of this month and I am not touching it. It is a Chair declining to accept an instrument. There is no clerk in this city who will serve a body it is a party to, and the Chair is therefore the only person in this room who can decide what goes into a record, and I have decided that nothing you put in front of this board after the seventh bell of this evening goes into it.
 
 "I want to give you the reason first, because then you are going to tell me that the reason is yours, and I have thought about whether it is."
 
@@ -108,10 +108,10 @@ Hesper Rann stood in the middle of a room built for thirty and said, "It is mine
 
 "Then say the rest of it, and I will write it down, and it will be the only sentence in the finding that anybody in this room is glad to read, and that is what I am frightened of."
 
-"You are right to be." Hesper Rann did not move. "I want it recorded that I have taken that power over twenty-two years by signing nine forms that said nobody may copy that page, and that I have watched four men in this building be unable to tell you what is on it, and that every one of the four was decent and two of them were senior to me, and that is why the page has not come up this hill.
+"You are right to be." Hesper Rann did not move. "I want it recorded that I have taken that power over twenty-two years by signing nine forms that said nobody may copy that page, and that I told this room what the order is and that four men in this building cannot tell you what is on it, and I am not going to say either of those things twice in a day. I understood the order the first time I signed it and I have been frightened of it ever since. A man who understands an order completely is still a man who has taken a power, and that is the power the Chair has just declined, and that is why the page has not come up this hill.
 
 "You have taken the only thing I have in this room that I did not put in a drawer, and the reason you were able to take it is that the thing it rests on is in a sealed vault and neither of us may look at it. If I could produce the page you could not have taken it, and I have wanted to produce that page every day for six weeks, and I have not, and if you want to know why then it is because I am not willing to be a man who brought it up the hill, and you are entitled to that and so is the boy.
 
 Nobody asked him. Marek Vale noticed that, and wrote it down afterwards in four lines at the back of his own book, because it was the one moment in two days in which Hesper Rann had the floor and did not spend it.
 
-"You may stand at the back," said Bel Harrow. "There is room. Mr Rann, one more thing, and then the Chair is going to let this room run for another hour, because there is a woman on the right-hand wall who has to be asked a question about a kitchen and about a daughter's seat, and she is not going to be asked it at the seventh bell of the afternoon of the day a man lost his authority. She will be asked it at the sixth bell tomorrow, in a yard, in front of the people it is about, which is the only place it is worth anything, and I would like this board's finding to be made in that yard and not in this room, and I would like that to be the Chair's last contribution to this proceeding."
+"You may stand at the back," said Bel Harrow. "There is room. Mr Rann, one more thing, and then the Chair is going to let this room run for another hour, because there is a woman on the right-hand wall who has to be asked a question about a kitchen and about a daughter's seat, and she is not going to be asked it at the seventh bell of the evening of the day a man lost his authority. She will be asked it at the sixth bell tomorrow, in a yard, in front of the people it is about, which is the only place it is worth anything, and I would like this board's finding to be made in that yard and not in this room, and I would like that to be the Chair's last contribution to this proceeding."

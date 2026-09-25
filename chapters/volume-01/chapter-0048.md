@@ -6,11 +6,11 @@ The form came out of a drawer in Crown March on the twenty-second of next month,
 
 Nobody thanked her and she did not appear to want to be thanked and about two hundred people in the yard had not been in the room on the sixteenth and had no idea what any of it meant.
 
-The form was one side of a sheet. It named a span, a number of days a season, a number of seasons, a start, and a witness, and it was signed with a supervisor's name and no other, which was how Hesper Rann had done everything for nineteen years.
+The form was one side of a sheet. It named a span, a number of days a season, a number of seasons, a start, and a witness, and it was signed with a supervisor's name and no other, which was how Hesper Rann had done everything for twenty-two years.
 
 *W-4. Supervised work, settlement schedule. Vale, T. — north-road span. Schedule written out, named, scheduled; independent witness, third party. First dry day, the 24th.*
 
-The first dry day was the twenty-fourth of the rains and it was three weeks gone.
+The first dry day was the twenty-fourth of the rains and it was four weeks gone.
 
 ---
 
@@ -28,7 +28,7 @@ Harrow waited.
 
 "First. Nobody is giving me a schedule. The schedule was in the loan. I read it in March of last year at this table and my mother read it and signed the box that says she signed anyway, and there are two witnesses on it and one of them was a stonecutter I have never been able to buy a drink for. Eleven days a season of supervised road work on the same span, and then a residual of days in the ward yards at the ordinary wage, and the form says all of it in the plainest words this city produces. I signed it. My hands were already going and I signed it anyway, and I have never once said that was anybody's fault, and it was not, and I am not going to start now that there are two hundred people standing in a yard watching a brother be brave about it.
 
-"Second. The draw posted on the fourteenth as scheduled. Four months of twenty-six, in my own body, and the vigor has been working for five weeks and the span is up and the load path holds and there is a crew of six where there were three. Twenty-six months is twenty-six months. There is nothing anybody in Bell Stair can do about that and there is nothing anybody in Crown March can do about it and there is nothing in a hundred and nine yards of Tallow Ward that can do about it, and the last person who is going to come up this hill and tell me my years are coming back is going to have a very short walk back down it.
+"Second. The draw posted on the fourteenth as scheduled. Four months of twenty-six, in my own body, and the vigor has been working for five weeks and the span is up and the load path holds and there is a crew of six where there were three. Twenty-six months is twenty-six months. There is nothing anybody in Bell Stair can do about that and there is nothing anybody in Crown March can do about it and there is nothing in four yards of Tallow Ward that can do about it, and the last person who is going to come up this hill and tell me my years are coming back is going to have a very short walk back down it.
 
 "Third. A schedule is a schedule. I will work it. Not as a favour and not because a man in a good coat turned up with a piece of paper, and not because my brother handed in the only clean thing he had to make himself able to stand in a room. I will work it because I signed for it in March of last year, in front of two witnesses, and because it is a schedule, and because a man who takes the help for the schedule and then lets anybody call it a rescue has misunderstood what a schedule is."
 

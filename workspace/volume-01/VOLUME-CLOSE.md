@@ -3,7 +3,9 @@
 **Volume:** 01 — *The Unpaid Ward*
 **Chapters:** 1–50, complete. Five batches, 0001 through 0005. **No further chapter batch exists for this volume and none is to be created.**
 **Civic period:** MR 412–413, flood season and the first public audit.
-**Status at close:** finished prose, state-updated, **not yet reviewed.** No review pass has been run on any batch of this volume, and no batch summary of a review fix pass exists for any of the five. The next phase that touches this volume should be a review, not a rewrite.
+**Status at close:** finished prose, state-updated, and **reviewed twice.** A first review-repair pass ran on Chapters 41–50 after this record was written. A second review (`logs/batch-0005.review.log`) then found seven blocking and eight high defects in that pass's own output — including two the first pass had claimed to have fixed and had not — and a second repair pass fixed all of them. **The full record is in `state/continuity.md`, §*Batch 0005 review pass* and §*Batch 0005 REPAIR pass*.** **The next phase that touches this volume should not be another repair pass; the batch's own findings are closed, and what is open is Volume 02's outline.**
+
+**Two things a reader of this record must know before trusting any verification sentence in the state files.** First, **a self-reported pass caught one instance of a defect and then described the whole batch as clean**, which is why the fourteen/seven room count and Hesper's service length both survived a pass that claimed to have fixed them. Treat every verification sentence in `state/` as unproven until the chapter has been re-read. Second, **the batch is 30,562 words against a 22,000–26,000 plan, and the length finding is recorded as unresolved** — the overage is the volume's actual length rather than removable slack, and a further compression pass would have meant cutting finished scenes.
 
 ---
 

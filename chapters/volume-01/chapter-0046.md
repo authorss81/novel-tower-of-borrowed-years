@@ -30,7 +30,7 @@ Harrow read them. Three lines, in a hand of his own, in the first person, in the
 
 The finding was made in the open, in sentences, one at a time, over two hours, and nobody held a page.
 
-The first was about the entry. The board could not strike anything out of a desk's book and had said so on the ninth. What it could do was publish a correction. The correction was going on the public register in Bell Stair, and in the margin of the entry of the ninth of the rains in the water office's own book there was going to be written *struck from the public copy by the emergency appeals board, seventeenth of next month, and not replaced* — and the words *and not replaced* had been put there by a supervisor of the settlement desk in a corridor at the fifth bell on the evening of the sixteenth, on his way out of a room he had been made to leave by two men, and the Deputy had agreed them inside a minute and neither of them had made anything of it, and Grale wrote the marginal note in about four seconds without being asked to think about it.
+The first was about the entry. The board could not strike anything out of a desk's book and had said so on the ninth. What it could do was publish a correction. The correction was going on the public register in Bell Stair, and in the margin of the entry of the ninth of the rains in the water office's own book there was going to be written *struck from the public copy by the emergency appeals board, seventeenth of next month, and not replaced* — and the words *and not replaced* had been put there by a supervisor of the settlement desk in a corridor on his way out of a room two men had just taken him from, and the Deputy had agreed them inside a minute and neither of them had made anything of it, and Grale wrote the marginal note in about four seconds without being asked to think about it.
 
 "That is the whole of the institution," said Harrow. "The entry stays in the book and everybody can go and look at it, and on the next page there is a line in a district accountant's hand saying it has been struck and that nothing has been put in its place. In nine months somebody will ask what is in that place, and the answer is going to be on the page, in a hand, with a date."
 
@@ -52,7 +52,7 @@ Kern stood up in the yard, and it took him a while.
 
 "I will not have it, and I want it written that I said no. I am going to say why in about a minute and then the board can do what it likes, and I will carry the finding out on a board in this yard afterwards and I will not argue with it.
 
-"The yard asked at forty-one doors. That is the consent there is. Twenty-nine yes, three no, the nine who were not at home, and the hundred and sixty-odd nobody has been to, because forty-one doors is what four hundred people could do in three days with a stick of charcoal and a bit of string, and every one of them knew it at the time and said *we have not asked everybody* more than once at the tank.
+"The yard asked at forty-one doors. That is the consent there is. Twenty-nine answers, three of them refusals, twelve doors where nobody was, and three hundred and seventy-seven of the four hundred and six who have not been asked one question by anybody, because forty-one doors is what four hundred people could do in three days with a stick of charcoal and a bit of string, and every one of them knew it at the time and said *we have not asked everybody* more than once at the tank.
 
 "This board is going to put a levy on four hundred and six names out of twenty-nine answers, and I told this board in a room that I would not have that treated as a formality, and I have been heard, and I am still saying it, and I am not going to be talked out of it in a yard by a man in a good coat with a bad hand.
 
@@ -98,7 +98,7 @@ Pella Rusk stood up on the step of the tank and said the number once, in the ope
 
 Harrow read it, because he had put it in the finding himself and the finding was in his hand, and it is in the record of the seventeenth of next month in those words: *A thing that cannot be given a copy is a thing that can be changed with nobody present.*
 
-And then the answer to it, which took four minutes and was not a name and not a date and not a story about anybody, and which is the whole of what a month of this did to the city:
+And then the answer to it, which took four minutes and was not a name and not a date and not a story about anybody, and which is the whole of what the month did to the city:
 
 "Any order by which a district account is held to its presented figure shall be read, in the words of the office, to every party it names, before it is entered. It shall not be entered at the close of a month. It shall carry the day and not the month. And it shall carry the name of the officer who enters it. The office is permitted one such order and is not permitted a second, and no party may be given a copy, and that stands, and it is not the copy that makes it dangerous. It is that nobody was in the room."
 
@@ -124,6 +124,6 @@ Nadja Ostrow said it. She came up out of the yard to the step with nothing prepa
 
 "My daughter is off the roll. She is still off the roll. I have been cooking for two hundred children for a month and I have got a wage coming out of a line nobody has ever drawn, and that line is going to have a name on it by the end of the season, and in nine months somebody is going to be standing at this tank telling me I have had a gift.
 
-"I have not had a gift. I have had a bill that changed instruments, and I know exactly what it cost, because I was the one who made them put it in the open. And I am not going to stand in this yard and thank a man who is in a cell, and I am not going to thank the Crown March, and the woman from the Examiner's office read this finding out in the rain on the eighteenth morning to about two hundred of us and did it properly, and I did not thank her then and I am not going to now, and I want that in the yard's memory and not in a document, because I know what a document is this week."
+"I have not had a gift. I have had a bill that changed instruments, and I know exactly what it cost, because I was the one who made them put it in the open. And I am not going to stand in this yard and thank a man who is in a cell, and I am not going to thank the Crown March, and the woman from the Examiner's office is going to read this finding out in the rain in the morning to about two hundred of us and will do it properly, and I am not going to thank her for that either, and I want that in the yard's memory and not in a document, because I know what a document is this week."
 
 And the yard, which had been extremely good for two hours, was extremely good for about four seconds, in the way that yards are, and then somebody at the back said that the lamps were lit along the Tallow Gate and could somebody be told, and the evening of the seventeenth of next month went on being an evening.

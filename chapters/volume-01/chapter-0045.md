@@ -1,10 +1,26 @@
 # Chapter 45 — Does the Ward Have Water
 
-The sixth bell was called and Harrow let the room run for an hour and a half, and the hour was not procedure. It was the Chair asking questions and writing the answers down in a long hand that got worse as the light went, and the seven along the two side walls answering as persons on their own liability, and a table of five finding out what a board does with an afternoon when it has nothing to strike.
+The sixth bell was called and Harrow let the room run for an hour and a half, and none of it was procedure. It was the Chair asking questions and writing the answers down in a long hand that got worse as the light went, and the seven along the two side walls answering as persons on their own liability, and a table of five finding out what a board does with an afternoon when it has nothing to strike.
 
 He went down the wall in the order it was sitting in, and he took about nine minutes a person, and the ninth minute of each one was the minute he stopped asking.
 
-Rezek was asked about a wet-weather rider and answered it in the voice of a man who has explained his hands to strangers for a month, and put them out on his knees and did not open them. Janko Dobre was asked what a storehouse of condemned tar in a cellar was worth, and gave three figures, and then said he could not say and had asked three people. And Milan Vray was asked about a boy of thirteen with a shin in two pieces, and said the Underbank came first and the sluice came second, and Aldis Kern said it had better come first in whatever gets written down, and Harrow wrote it down with the Underbank first.
+It began with Rezek, who put his hands out on his knees and would not open them.
+
+"Sixteen days," said Bel Harrow. "Against sealed terms of fourteen. Granted at a counter-desk, on a rider, in about four minutes."
+
+"Yes."
+
+"Not for this board's reasons. I know why it was granted and it is not in front of me. Tell me what the rider was for."
+
+"The wet." Rezek looked at his own knees the entire time he was answering, and nobody in that room could have said afterwards whether he had looked at the Chair once. "There was a wet-weather rider on the form and I signed under it because it was wet. The hands went on the twelfth and there is no line anywhere for the twelfth. There is no line anywhere for the twelfth."
+
+"Somebody drew it for you."
+
+"Grale drew it. Grale was the counter that day and Grale put my name to the day." He shut his hands, which he had not meant to do, and then opened them again on his knees because the Chair had not asked him to. "I am not blaming a man who did what I asked him to do at a counter-desk. I have said that in a yard and I am saying it in a room because this is the room it is going to be read in."
+
+Harrow wrote for a while and read it back and Rezek said *that is my words*, and it was, and then the Chair moved on, and Rezek put his hands into his coat pockets, which took him longer than it should have.
+
+Dobre was next, and gave three figures for a storehouse of condemned tar in a cellar and then said he could not say and had asked three people, and when Harrow asked him which of the three he believed he said that he believed the cellar and not the figures. And then Milan Vray was asked about a boy of thirteen with a shin in two pieces, and said the Underbank came first and the sluice came second, and Aldis Kern said it had better come first in whatever gets written down, and Harrow wrote it down with the Underbank first.
 
 And at the back of the room, nine feet from the window, Hesper Rann stood with his hands at his sides and said nothing at all for an hour and a half, and not one of the seven looked at him, which was a decision about the yard made at once and without anybody putting it to a vote.
 
@@ -40,7 +56,7 @@ He looked round the table.
 
 Renata Vole had not moved. She had her hands flat on the table in front of her, one on each side of a closed bundle, and she looked at the two men in the doorway and then at Hesper Rann at the back of the wall and then at nothing at all for about four seconds.
 
-"I have no dissent to make," she said. "I have not had a dissent since the seventh term and I am not going to manufacture one in the last hour of a sitting because there are two men in my doorway. The finding of the thirtieth stands. The cause is entered. The collection is unblocked. Nothing this morning disturbs any of it and I am not going to help anybody say it does."
+"I have no dissent to make," she said. "I have not had one in the whole time this board has been in existence and I am not going to manufacture one in the last hour of a sitting because there are two men in my doorway. The finding of the thirtieth stands. The cause is entered. The collection is unblocked. Nothing this morning disturbs any of it and I am not going to help anybody say it does."
 
 "That is not a dissent," said Harrow. "That is a witness statement and I am glad to have it."
 

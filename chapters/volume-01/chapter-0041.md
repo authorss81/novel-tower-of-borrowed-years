@@ -1,8 +1,8 @@
 # Chapter 41 — Nobody Is Sworn
 
-The room was full at half past the seventh, which is when the yard worked out that it had better be, and the eighth bell was called on time, and the rain was not doing anything at all.
+The room was full before the eighth bell, which is when the yard worked out that it had better be, and the eighth bell was called on time, and the rain was not doing anything at all.
 
-It was built for thirty and it held thirty, and the thirty were: a table of five at the wall, seven ward people in the front four rows of the body of the room, and eighteen more behind them, and there were about three hundred and forty people in the corridor and on the stair outside the door who had come up the hill in the night because a notice nailed to a board at a tank in a yard is the only way a ward is ever told anything.
+It was built for thirty and it held thirty-one, and the thirty were: a table of five at the wall, seven ward people in the front four rows of the body of the room, and eighteen more behind them — the office's three officers, a supervisor of the settlement desk, and fourteen persons of the ward whose names were in no box anywhere — and the thirty-first had no place at all, and there were about three hundred and forty people in the corridor and on the stair outside the door who had come up the hill in the night because a notice nailed to a board at a tank in a yard is the only way a ward is ever told anything.
 
 Bel Harrow had the leather case open on the table and a sheet of his own paper beside it and no clerk, because there was no clerk, and he said so at the top of the morning in about nine words.
 
@@ -42,7 +42,7 @@ He put the pen down.
 
 "Then who is going to be examined," said Aldis Kern.
 
-"You will be. As a person, in your own name, in the fifth seat, and your answers will bind you and not the ward, and the Trust's will bind the Trust and not the ward, and in about an hour this room will have eleven people in it who are each liable for what they said and nobody who is liable for what anybody else said." He looked at Vole. "Deputy, do you object."
+"You will be. As a person, in the fifth seat, and your answers will bind you and not the ward, and the Trust's will bind the Trust and not the ward, and in about an hour this room will have eleven people in it who are each liable for what they said — four of you at that table and the seven along the walls — and nobody who is liable for what anybody else said." He looked at Vole. "Deputy, do you object."
 
 "I object to the word *liable*. It suggests these people are in danger."
 
@@ -60,9 +60,9 @@ The second war of the morning was about chairs, and it was shorter, and Renata V
 
 "I have looked at a good many things in a good many rooms," said Renata Vole, "and I did not know this morning that it could be arranged."
 
-Grale went to the back. Hesper Rann went to the back, and did it slowly, and did not look at the table on the way, and stood with his back to the wall about nine feet behind a young hand of the Tanner's yard who had asked to be let in and had been let in because he is nineteen, and who was to spend two days in a chair hearing the inside of a file.
+Grale went to the back. Hesper Rann went to the back, and did it slowly, and did not look at the table on the way, and stood with his back to the wall about nine feet behind a young hand of the Tanner's yard who had asked to be let in and had been let in because he was nineteen, and who was to spend two days in a chair hearing the inside of a file.
 
-And Marek Vale stood at the back of a room that held thirty, with his coat on, because there was nowhere in it to put a coat.
+And Marek Vale stood at the back of a room that held thirty-one, with his coat on, because there was nowhere in it to put a coat.
 
 ---
 
@@ -102,7 +102,7 @@ Rusk went fourth and would not describe anything at all for eleven minutes, and 
 
 Milena Kelb went fifth and said her son's name and did not say anything else for half an hour, and Hesper Rann stood nine feet behind her with his back against a wall and his hands at his sides and did not move at all.
 
-The young hand of the Tanner's yard — Janko Dobre, nineteen, who had said his name out loud at the door and had been surprised that a man wrote it — said that he had carried a storehouse door up a cellar stair on the fourteenth with two other men, and that the stair was not the point, and that the cellar had a stock of condemned tar in it that nobody in Tallow Ward had known about until it was under nine feet of water, and that the water office holds no record of condemned ward property because condemnation is not its business, and that he was not able to say how much it was worth and had asked three people and got three figures.
+The young hand of the Tanner's yard — Janko Dobre, nineteen, who had said his name out loud at the door and had been surprised that a man wrote it — said that he had carried a storehouse door up a cellar stair on the fourteenth with two other men, and that the stair was not the point, and that the cellar had held a stock of condemned tar that nobody in Tallow Ward had known about until it was under nine feet of water, and that the water office holds no record of condemned ward property because condemnation is not its business, and that he could not say what it was worth and had asked three people and got three figures.
 
 And Ondra Kelb went last, and said that he had been at the counter-desk on the afternoon of the ninth with a pencil because the pen had not come, and that the totals were correct, and that the room could have that from him in his own hand or in a clerk's hand and he did not care which.
 
@@ -156,4 +156,4 @@ Marek Vale came four steps forward into the light of a window in a room built fo
 
 "No," said Marek Vale. "There is no form on which a suspended clerk is a party, so the room cannot ask, and the paper will be in the record on Saturday whether I ask for it or not, because the room has already decided what the record is and it does not need my help."
 
-He stopped there, in a room that held thirty, in front of seven people who had come up a hill in the night to be in it, and he had said one true thing and had not been thanked for it and had not expected to be, and the recess was over.
+He stopped there, in a room that held thirty-one, in front of seven people who had come up a hill in the night to be in it, and he had said one true thing and had not been thanked for it and had not expected to be, and the recess was over.

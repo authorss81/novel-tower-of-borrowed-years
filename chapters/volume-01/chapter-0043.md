@@ -98,7 +98,7 @@ Harrow wrote for half a minute and then asked the question that ended the third 
 
 "The volume is in a case in a vault on the second floor, and the case is sealed, and the page at the head of it is the sealed founding page of this office, and there is a standing order on it which I have read perhaps nine times in twenty-two years, and it is in two parts. No clerk may erase the signature. And no clerk may copy the page.
 
-"Not one copy. No clerk may copy that page. Not on a longhand sheet, not in a hand-book, not in a book of a clerk's own, at any hour, for any reason, including the reason that somebody in a room has asked for it. I have signed nine of those orders in nineteen years and I have watched four men in this building not be able to tell you what is on it, and not one of the four was a fool, and two of them were senior to me."
+"Not one copy. No clerk may copy that page. Not on a longhand sheet, not in a hand-book, not in a book of a clerk's own, at any hour, for any reason, including the reason that somebody in a room has asked for it. I have signed nine of those orders in twenty-two years and I have watched four men in this building not be able to tell you what is on it, and not one of the four was a fool, and two of them were senior to me."
 
 "Then the board cannot have it," said Bel Harrow.
 
@@ -112,7 +112,7 @@ Harrow wrote for half a minute and then asked the question that ended the third 
 
 "Since the fourth bell of the afternoon on the ninth," said Hesper Rann, "with a lamp in my teeth, and about two bells after I had found four people in nine minutes between the Sill Row steps and the Fuel basin."
 
-Nobody said anything for a while, and two hundred people in the corridor could hear that something had happened and not what.
+Nobody said anything for a while, and two hundred and eighty people in the corridor could hear that something had happened and not what.
 
 ---
 
@@ -162,7 +162,7 @@ Sedge, a third-grade clerk of nine years on the intake floor who had refused all
 
 Pella Rusk said, "Then what is it for."
 
-It was the only question anybody in that room asked about the blank line, and it was asked by a schoolmistress, and it was the correct question, and there was no answer to it, and Harrow said so in one sentence and wrote it down, and the sentence is in the finding of the sixteenth of next month in the second-f hand of a Crown March representative who has never been a clerk of anything in his life.
+It was the only question anybody in that room asked about the blank line, and it was asked by a schoolmistress, and it was the correct question, and there was no answer to it, and Harrow said so in one sentence and wrote it down, and the sentence is in the finding of the seventeenth of next month in the bad hand of a Crown March representative who has never been a clerk of anything in his life.
 
 "Nobody in this room can tell her," he said. "Not the Deputy, not the supervisor, not the man with a family copy of a hand-book on the Ropewalk. The reference resolves to a page, the page is sealed, the order forbids a copy, and the room is being asked to accept a reserve on the word of a man who has told us he did not look at it twice. I am not going to improve on that and I am not going to pretend this board understands it."
 
