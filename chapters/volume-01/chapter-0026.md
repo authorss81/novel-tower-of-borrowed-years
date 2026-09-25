@@ -26,7 +26,7 @@ He had called the yard for the fourth time in nine days and two hundred and sixt
 
 He held it up for a long time and then he put it down on the trestle table and let the yard have it.
 
-"You cannot have both of those out of one mouth," said Kern, "and that is not a complaint about the Trust, that is a fact about mouths. There is one man going into that room and he is me, and I have to choose which of those two sentences the Trust hears first, and I have had since the sixth bell this morning and I have chosen, and I am going to tell you why before anybody stands up and tells me I have sold the man who fed us."
+"You cannot have both of those out of one mouth," said Kern. "One man goes into that room and he is me, and I have had since the sixth bell this morning to decide which of those two sentences the Trust hears first, and I have decided, and I am going to tell you why before anybody stands up and tells me I have sold the man who fed us."
 
 Nadja Ostrow got there first, and she is a cook of thirty-eight who has one of the eleven names on the roll and has been boiling pans on a ration since the fourth of the rains.
 
@@ -52,7 +52,7 @@ Milan Vray said, from the back, in a rope-maker's flat voice:
 
 The yard was quiet for a while.
 
-"Then we agree," said Kern, "and I will say it the way I have written it, and the two of you are both in it, and that is why it is the only sentence I can carry into that room. I am not going to say that a man saved us. I am going to say that the ward drew water from a channel above the ward meter without a right to it, that the ward did not ask for it and did not know where it came from, that a hundred and forty unnamed people moved it by hand for twelve days, and that the ward will pay for every hundred pints of it at the ordinary wage and has told the Trust so in advance. The Underbank is named first. The sluice is named second. And the sluice is named second and not first, permanently, and I do not care who is in that room."
+"Then we agree," said Kern, "and I will say it the way I have written it, and the two of you are both in it, and that is why it is the only sentence I can carry into that room. I am not going to say that a man saved us. I am going to say that the ward drew water from a channel above the ward meter without a right to it, that the ward did not ask for it and did not know where it came from, that a hundred and forty unnamed people moved it by hand for twelve days, and that the ward will pay for every hundred pints of it at the ordinary wage and has told the Trust so in advance. And the sheet goes into that room in the order it is written, and if anybody in there wants it the other way round they can come out here and say so in front of four hundred people."
 
 He held up his hand before the yard could start.
 

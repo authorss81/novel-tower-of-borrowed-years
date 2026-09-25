@@ -1,16 +1,16 @@
 # Chapter 24 — Two Books
 
-The water office at Crown Terrace was a low building with a slate roof and a good door, and inside the door there was a bench for people who were waiting and no clerk at it, because the water office did not have a public counter; it had a counter for the district and a second counter for the public, and the public one was a hatch at the back that was shut on a Friday morning in the twenty-fifth of the rains.
+The water office at Crown Terrace was a low building with a slate roof and a good door, and inside the door there was a bench for people who were waiting and nobody sitting at it, because the water office did not keep a public counter. It had a counter for the district, and for the public it had a hatch at the back of the building, and on the Friday morning of the twenty-fifth of the rains that hatch was shut and had been shut since the flood, and the people who had come for it had not gone home.
 
-Marek had a paper. That was the whole of his reason for being there, and it was a piece of Trust paper with a seal on it which said that the clerk of the day for Tallow Ward had applied, under the fourth term of the notice of the twenty-second, for the production of the maintenance record of the junction screen and bypass apparatus, and that the Deputy Steward had directed the production of it, and had directed, under the same fourth term, such other account books as the clerk should name.
+Marek had a paper, and that was the reason for being there, and it was a piece of Trust paper with a seal on it which said that the clerk of the day for Tallow Ward had applied, under the fourth term of the notice of the twenty-second, for the production of the maintenance record of the junction screen and bypass apparatus, and that the Deputy Steward had directed the production of it, and had directed, under the same fourth term, such other account books as the clerk should name.
 
-He had named two. He had named them on the twenty-fourth, sitting at a table in the copy room, and it had taken him the whole of one afternoon to be sure of the words, and the words were *the maintenance record* and *the reading record of the same apparatus for the nine days of the rains*, and the words were also his alibi, because the sixth bell of the twenty-fourth was the hour the form came back to Renata Vole's tray, and the afternoon that was left in it was the afternoon he had given to the two things he was going to ask for, and he had gone at them in the order a careful person goes at a file, and he had not once looked at the form.
+He had named two. He had named them on the twenty-fourth, sitting at a table in the copy room, and it had taken him an afternoon to be sure of the words, and the words were *the maintenance record* and *the reading record of the same apparatus for the nine days of the rains*, and the words were also his alibi, because the sixth bell of the twenty-fourth was the hour the form came back to Renata Vole's tray, and the afternoon that was left in it was the afternoon he had given to the two things he was going to ask for, and he had gone at them in the order a careful person goes at a file, and he had not once looked at the form.
 
 It was in the inside pocket of his coat and it had been there three days, and at the fourth bell he had taken it out, looked at the twenty-ninth word, and put it back, and the reason he did that was not conscience. Conscience would have cost him the four households and it would have cost him the certificate, and he had added it up in a column of his own and come out with the same figure twice, and the sum had not moved him at all. What moved him was that the sentence was twenty-nine words long and every one of them was true, and that a man who signs a true sentence on a Thursday because a superior has told him it costs nobody anything has not done a day's work between him and the next man who has to read it in a room, and will be told by that next man that he did.
 
 So he carried the two papers down to the third floor himself and put them on Renata Vole's tray, which says *incoming* on one side and *answered* on the other, and he put them on the *answered* side, which took four seconds and required no form, and wrote the date on the corner of the top one and the words *not signed* and nothing else, and did not look at the tray again on his way out.
 
-That was the whole of what he did about it. It was the correct thing to do, it bought four households, and by the following Monday it had put four names in the margin of a sealed finding. and the reason the second was in there was that a man had once told him in a room that a counter-signature certifies two things, and he had spent the two days after the twentieth of the rains discovering that a Trust can certify a wrong number for months without anybody noticing, because the wrong number is in a file and not in a body.
+That was the whole of what he did about it. It was the correct thing to do, it bought four households, and by the following Monday those four were on a roll that a sealed finding would recite, and a household's name goes into the margin of anything official in this city for one reason, which is that somebody can be asked about it afterwards. A counter-signature certifies two things, and the second of them is that a clerk stood at a counter and looked at the paper, and he had spent the two days after the twentieth of the rains finding out that a Trust can certify a wrong number for months without anybody noticing, because the wrong number is in a file and not in a body.
 
 Neris Kade was on the bench and had been on the bench for an hour, because the Rainmarket season works take their water from the same office and she had come to ask about a schedule that was not this one.
 
@@ -44,7 +44,7 @@ Marek stood still.
 
 "Say that again."
 
-"It is a column." Vey turned a drawer round. "A reading is not a document. A document is something a person signs. A reading is a figure somebody copies off a dial at a certain hour and puts in a column, and then somebody signs a line under the column saying the column is the account, and that line is the whole of the certification. There is no other paper in this building about any of this. The maintenance book is about pipes and the reading book is about numbers. They do not live together and nobody here has ever had to put them on the same desk."
+"It is a column." Vey turned a drawer round. "A reading is not a document. A document is something a person signs. A reading is a figure somebody copies off a dial at a certain hour and puts in a column, and then somebody signs a line under the column saying the column is the account, and that line is the certification. There is no other paper in this building about any of this. The maintenance book is about pipes and the reading book is about numbers. They do not live together and nobody here has ever had to put them on the same desk."
 
 "That is the sentence," said Neris Kade.
 
@@ -56,7 +56,7 @@ Vey thought about that for a moment, and then he said, "You are the field examin
 
 "I am."
 
-"Right." He went to the door. "I will send the book down. I am going to send for it myself, because the last time anybody sent for it there was a business about a work ticket and I would rather the Deputy Steward's seal be on a book that I have put my hand on."
+"Right." He went to the door. "I will send the book down. I am going to send for it myself, because the last time anybody sent for it there was a business about a work ticket, and the Deputy Steward's seal wants to be on a book somebody put a hand on."
 
 ---
 
@@ -106,7 +106,7 @@ The chamber was at the bottom of a stair of eleven steps and it was half full of
 
 ---
 
-They got the reading book to Stillstep Island at the fifth bell, and Marek made the application in the vestibule of the Threshold in front of nine people including a stallholder and a queue for the public hatch, and read out the figures from the ninth of the rains, and read out the four yard counters for the same night, and read out the lawful standing schedule of one hundred and sixty hundreds of pints, and then he did the sum out loud in a public hall, which he had never done before and which was the single most frightening thing he had done in three weeks.
+They got the reading book to Stillstep Island at the fifth bell, and Marek made the application in the vestibule of the Threshold in front of nine people including a stallholder and a queue that had been there since the second bell, and read out the figures from the ninth of the rains, and read out the four yard counters for the same night, and read out the lawful standing schedule of one hundred and sixty hundreds of pints, and then he did the sum out loud in a public hall, which he had never done before and which was the single most frightening thing he had done in three weeks.
 
 "Six hundred and forty. Four hundred and forty. One hundred and sixty. The ward drew two hundred hundreds of pints of water that went into a garden on Crown Terrace, and the yard counters have said so since the ninth and the account has not."
 
@@ -124,7 +124,7 @@ Then Vole came out of the third floor and stood at the foot of the stair with he
 
 Vole read the ninth, and the eighth, and went back and read the second of the rains, and read the month before it, and closed it.
 
-"Two hundred and something hundreds of pints a night," she said, "on an unmetered take-off above a ward meter, for the whole of the nine days of the flood, certified weekly." She looked up. "Mr Vale, the cause of this excess has been in front of this office since the fifteenth as a maintenance failure of the junction screen and bypass upon the account of the district's irrigation contractor, and it is not a maintenance failure of a screen, and the screen was foul, and the fouling is not the cause of the excess, and the excess is four hundred and eighty hundreds of pints of which two hundred was never in Tallow Ward."
+"Two hundred and something hundreds of pints a night," she said, "on an unmetered take-off above a ward meter, for all nine days of the flood, certified weekly." She looked up. "Mr Vale, the cause of this excess has been in front of this office since the fifteenth as a maintenance failure of the junction screen and bypass upon the account of the district's irrigation contractor, and it is not a maintenance failure of a screen, and the screen was foul, and the fouling is not the cause of the excess, and the excess is four hundred and eighty hundreds of pints of which two hundred was never in Tallow Ward."
 
 "The contractor's maintenance is real, ma'am. It is a real failure and the ward paid for it in pails."
 

@@ -51,6 +51,7 @@ MR 412, **the first of next month.** The flood is over. The river is down. The T
 - **Chapter 34 gives the volume the year scar's entry and Tamsin's refusal, and nothing else.** She produces the old notching entry struck from the family copy, says the number is not an accident, and **refuses to say whose it is.** Hesper has already looked at the mark once, in Chapter 25, and asked nothing; do not soften Chapter 34 because of that, and do not explain the number.
 - **Chapter 38 is the chapter where Hesper is simply cruel, on purpose, and it is about the family rather than the file.** It is his last chance to be a person before Chapter 39 takes the mask off in public.
 - **Keep the ledger's four hands open.** The Trust certifying 440 is not the figures agreeing, and Neris Kade's 441 is on the hearing record and must stay a live disagreement.
+- **Vary the engine. This is a correction carried out of batch 0003 and it is the batch's hardest craft problem.** Eight of Chapters 21–30 ran the same device — a paper is read out and a room reacts — and Chapters 23, 26 and 28 were all yard-meeting, trestle-table, sheet-read. **A document being read aloud may not be the load-bearing event of more than about half this batch.** 35, 36 and 39 have other engines available and should use them: 35 is a door-to-door and a refusal, 36 is a fight about terms, 39 is a document that arrives and is taken apart by people who are not clerks. **Chapters 31, 34 and 38 should be carried by a person and a room, not by paper.** Whatever a chapter turns on, it should not be a sentence somebody reads out loud while other people sit still.
 - **Do not advance the clerk of record.** Marek may describe himself as making a promise; nobody appoints him.
 
 ## Romance — read this twice
@@ -59,7 +60,7 @@ Marek and Neris are at **professional respect plus one argument neither of them 
 
 ## Length
 
-Target roughly **24,000–28,000 words across ten chapters.** Ordinary chapters **2,400–3,000 words**; 33, 35 and 37 may run longer. **Batch 0003 finished at 31,494, about 12 per cent over the top of the range, which the prompt had asked it not to do.** Batch 0003's distribution was healthy — no chapter under the floor — but three chapters ran long that were not permitted to. **Hold 2,700–3,000 per chapter and finish inside 28,000.** Never pad, and never cut a complete scene to hit a number. If you overrun, record the figure honestly in `state/current.md` rather than pretending.
+Target roughly **24,000–28,000 words across ten chapters.** **The working figure is 2,700–3,000 per chapter — treat anything above 3,000 as a chapter that needs cutting, not a chapter that is allowed to run.** Chapters 33, 35 and 37 are the three permitted to run longer, and even those should not pass 3,400. **Batch 0003 finished at 31,494, about 12 per cent over the top of the range, which the prompt had asked it not to do.** Batch 0003's distribution was healthy — no chapter under the floor — but three chapters ran long that were not permitted to, and the overrun was essayistic rather than dramatic. **Finish inside 28,000.** Never pad, and never cut a complete scene to hit a number. If you overrun, record the figure honestly in `state/current.md` rather than pretending.
 
 ## Panel budget
 

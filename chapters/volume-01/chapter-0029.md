@@ -24,7 +24,7 @@ Grale put his finger on the figure.
 
 "But there is no standing reserve."
 
-"There is a line for it," said Grale. "That is the whole of what a carry is. The office has a line in the district account headed *standing reserve*, and any assessment that recites the standing reserve is offset in full against that line, because that is what the line is for, and because a recital is a promise about money and this office has never in three hundred years refused to enter a promise about money. I do not check whether the thing on the other end of it exists. I am not permitted to. There is no form that asks me to, and I have looked, because I am a careful man in a job where being careful is not rewarded, and there is no form."
+"There is a line for it," said Grale. "That is what a carry is. The office has a line in the district account headed *standing reserve*, and any assessment that recites the standing reserve is offset in full against that line, because that is what the line is for, and because a recital is a promise about money and this office has never in three hundred years refused to enter a promise about money. I do not check whether the thing on the other end of it exists. I am not permitted to. There is no form that asks me to, and I have looked, because I am a careful man in a job where being careful is not rewarded."
 
 Marek stood and looked at the wall for a while.
 
@@ -72,7 +72,7 @@ She was asking for the order.
 
 "And where is the line in the order."
 
-"Last," said Grale. "That is the whole of what I will say about it in here."
+"Last," said Grale. "That is all I will say about it in here."
 
 "Then it is the last line on the only instruction in this city that nobody can be given a copy of," said Rusk. "I have taught in this ward nine years, and in nine years I have never once been able to see the page my school comes off, and I have now seen it, and I would like to say one thing into the record if there is anybody here who is allowed to write down what I say."
 

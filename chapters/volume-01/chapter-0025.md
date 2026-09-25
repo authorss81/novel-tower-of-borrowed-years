@@ -32,7 +32,7 @@ Marek put the reading book on the table between them, open, with the wedge in th
 
 "That is not a distinction anybody outside this room can hear."
 
-"It is the only distinction there is, and I have been making it for twenty-two years." He turned the entry round. "The cause line is a sentence about where a number came from, in a box on a form, entered in a desk's book, and it is read by whoever opens that book. It does not have to be true. It has to be capable of being acted on. That is the whole of what a cause line is for and you have known it since the twenty-first and I am not going to insult you by pretending otherwise."
+"It is the only distinction there is, and I have been making it for twenty-two years." He turned the entry round. "The cause line is a sentence about where a number came from, in a box on a form, entered in a desk's book, and it is read by whoever opens that book. It does not have to be true. It has to be capable of being acted on. That is all a cause line is for and you have known it since the twenty-first and I am not going to insult you by pretending otherwise."
 
 "Then what is true," said Marek, "is that the ward was short and the river was up and the tank on the Gate was dry, and that the lie did not make any of that worse, and that it made the ward's bill look empty. I have had that for two weeks. What I cannot get past is the notice."
 

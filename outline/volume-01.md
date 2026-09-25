@@ -75,7 +75,7 @@ Escalation sequence, in five movements:
 
 - **I. Rain on the Ledger (1–10).** Routine, the brother's lawful loan, the ward settlement, Ledger Sight, the substituted page, the first small victory, one unauthorized hold, a junior clerk's injury, and the blank first line under a signature nobody may erase.
 - **II. The Cost Has Two Names (11–20).** Kelb's injury and the ward's gratitude; the Trust certifies and posts; Hesper rewrites cause as operator error; Marek copies the page; Hesper's offer; the school-roll cost; Hesper's second certification, which aims the chain at Kelb on purpose.
-- **III. What the Valve Held (21–30).** Marda Senn's disappearance; Kern's account of the sluice; the contractor's over-read traced to a Crown Terrace irrigation account; Marek confronts Hesper; the ward splits; Hesper files the aimed certification.
+- **III. What the Valve Held (21–30).** Marda Senn's disappearance; Kern's account of the sluice; the contractor's over-read traced to a Crown Terrace irrigation account; Marek confronts Hesper; the ward splits; the aimed certification is drawn and left in a drawer, to be filed in Movement IV.
 - **IV. A Board of Strangers (31–40).** Bel Harrow arrives; the ward petitions; the Chamber publishes Marek's suspension without the hold and his standing narrows; Tamsin and the wrist mark; the individual consent work with Neris; Hesper corners Marek with Tomas's name; the board is forced into session.
 - **V. The Unpaid Ward (41–50).** The public hearing, Hesper's arrest, Ilya's judgment, the levy conversion, Tomas's road work, and the Trust's order to strike A-0 from the public copy.
 
@@ -135,7 +135,7 @@ Final chapter image: In the copy room on the last evening of the rains, Marek co
 27. Ilya's hearing: sabotage by the book, rescue by the ward. The Trust wants a confession and offers terms.
 28. Ilya refuses to be the villain of Hesper's story; the ward must decide what to say about the man who fed them.
 29. The invented reserve is traced into the Trust's own district account: Crown Terrace's water is paid with Tallow's future. Public discovery, no accusation yet.
-30. The aimed certification is filed; the chain has a direction; Marek has days.
+30. The aimed certification is drawn and not filed; the chain has a direction; Marek has days.
 
 ### Movement IV — A Board of Strangers (31–40)
 

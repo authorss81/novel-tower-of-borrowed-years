@@ -26,7 +26,7 @@ It was the vacation of a posting where the assigned clerk of the day denies the 
 
 "Where was the file assigned," said Vole. "The desk's book, the ninth."
 
-He went and looked. It was in the ninth's column in Hesper Rann's square hand, on a line he had read a hundred times in eleven days without seeing, and it was one letter.
+He went and looked. It was in the ninth's column in Hesper Rann's square hand, on a line he had read a hundred times in thirteen days without seeing, and it was one letter.
 
 *V.*
 
@@ -158,7 +158,7 @@ At the door she stopped and came back, which she did not often do.
 
 She went out. The lamps went about their business along the north wall.
 
-Marek sat down and took out his own book and turned past the back page — the footnote and the margin and the three renderings of page three and the third copy of a nine-word cause line under a wrapper — and went to the last free half-page and wrote what the twenty-second had cost and bought, in two columns, because he could not stop.
+Marek sat down and took out his own book and turned past the back page — a sheet with a footnote copied out of a page no clerk may copy, three renderings of page three, the certificate of posting, and a sentence of nine words under a wrapper — and went to the last free half-page and wrote what the twenty-second had cost and bought, in two columns, because he could not stop.
 
 *If I sign: four households do not pay this season. My certificate comes out of the file. I have two documents in a coat and one of them is in my own hand and says a thing that is not true.*
 

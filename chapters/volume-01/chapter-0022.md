@@ -66,7 +66,7 @@ Marek came down the last four steps.
 
 "Marda—"
 
-"Not him," she said, without turning round. "He is the clerk who wrote twenty-nine signatures into the ward's petition book, and he is welcome to stand on my stair."
+"Not him," she said, without turning round. "He is the clerk they offered the ward as its own voice at the door on the twenty-second, in front of three hundred and eleven names, and he is welcome to stand on my stair."
 
 "I came about the counts—"
 
@@ -84,7 +84,7 @@ Then he looked at Marek, and Marek understood that he had been weighed and found
 
 Marek stood on the landing for two hours and eleven minutes.
 
-He did not go in. He was not asked to, and he would not have, and the reason he gave himself afterwards — that a man who goes into a room where a document is being read is a man who has entered the document — was a good reason and was not the reason. The reason was that he had four documents in a book in his coat, and he did not want to be holding them within thirty feet of a room in which the Trust kept the things that could not be certified, in a building where a copy is a certification and he had made three of them on his own stair at four in the morning.
+He did not go in. He was not asked to, and he would not have, and the reason he gave himself afterwards — that a man who goes into a room where a document is being read is a man who has entered the document — was a good reason and was not the reason. The reason was that he had four things in a book in his coat, and he did not want to be holding them within thirty feet of a room in which the Trust kept the things that could not be certified, in a building where a copy is a certification and he had made the private half of that book on his own stair at four in the morning.
 
 From the landing he could smell the wax. Twice somebody came out with a tray and went past without looking, and the second time he saw that the trays were flat boards with a waxed cord and no labels, and that was all he learned.
 
@@ -158,7 +158,7 @@ He had a lamp and a folded paper in the inside of his coat and he had been on th
 
 Ilya Senn nodded at that for a long moment, with his hands on the wheel.
 
-"Then that is the whole of it, and there is nothing to appeal, because there is nothing to have made a mistake in." He looked out at the low ground, which was under four feet of the Silt and drying, and where the storehouse at the Underbank mouth was not standing. "And here is what I have been doing with my hands for two hours, clerk, since my sister did not come up the hill, and you may as well have it, because you will not be able to leave it alone and I would rather hand it over than have it taken off me. I have turned that wheel about nine hundred times since the second of the rains. There is a blister on the heel of my left hand the shape of a coin, and there is nobody on this platform to show it to, and that is the whole of what the work is. A man can be perfectly right about a wheel and completely alone with it, and the two facts sit side by side on the same iron for three weeks and neither of them helps anybody.
+"Then that is all of it, and there is nothing to appeal, because there is nothing to have made a mistake in." He looked out at the low ground, which was under four feet of the Silt and drying, and where the storehouse at the Underbank mouth was not standing. "And here is what I have been doing with my hands for two hours, clerk, since my sister did not come up the hill, and you may as well have it, because you will not be able to leave it alone, and I have nobody else in this building to put it in front of. I have turned that wheel about nine hundred times since the second of the rains. There is a blister on the heel of my left hand the shape of a coin, and there is nobody on this platform to show it to, and that is all the work is. A man can be perfectly right about a wheel and completely alone with it, and the two facts sit side by side on the same iron for three weeks and neither of them helps anybody.
 
 "And then there is the other thing, and I am putting it in your hands because you will go and get it anyway. The intake at the head of my channel has been drawing short since the second of the rains. Not empty. Short. By the eighth it was short by more than it has ever been short in my life, and it is not me, because the draw down your channel is eleven inches and the head on that bank is three feet. Something has been taking it above the yard line on your side of the hill, and it has been doing it longer than this flood. I have watched that head since the sixth and I cannot put a figure on it, because I am not a clerk, and I am not going to be the man in a room who says a number about a Crown Terrace account."
 
