@@ -17,7 +17,11 @@ Batch midpoint: Chapter 6. Marek goes down into the ward to find out who invente
 
 Batch climax: Chapter 10. The peak-night settlement comes due, the ward's fund cannot pay, no surety is named, the entry is false-witnessed, and the responsibility chain walks to the end of the last living name: Ondra Kelb, who countersigned in good faith and is found on the Tally Stair between the copy room and the door.
 
-Aftermath: The tail of Chapter 10, after the clinic, at dawn in the copy room. Nim Rook puts the sealed first leaf on the table. The ward has water. Kelb does not have his hand. Marek is a clerk who has deliberately suspended a settlement without authority and now holds a page he is forbidden to copy.
+Aftermath: The tail of Chapter 10, after the clinic, at dawn in the copy room. Nim Rook lays a ward roll on the table and asks why one of its districts is not on the tower's map. The ward has water. Kelb does not have his hand. Marek is a clerk who has deliberately suspended a settlement without authority and now holds a private copy of a clause he is forbidden to write down.
+
+**Locked instruments (carried from `outline/volume-01.md`, do not blur):** Hesper signs the ward settlement entry on the ninth day; **Kelb countersigns that entry the same afternoon** and is the living certifier the Chapter 10 chain reaches; **Marek signs the separate clerk's certificate of posting on the eleventh day** in Chapter 5, which is the paper that makes the settlement due at the peak and the paper he gives up in Volume 1's climax. Marek's name is not on the false-witnessed instrument.
+
+**Locked levy roll:** eleven named households, the posting names the first four, and **the Vale household is seventh of the eleven** — Marek's own family is on the roll, which is the premise of Chapter 3's central question and is a different instrument from Tomas's vigor loan.
 
 Required character changes:
 
@@ -31,7 +35,7 @@ Required character changes:
 
 Required power changes:
 
-- **Ledger Sight** appears in Chapter 4, read-only, on physical contact with a live record under stress. It shows visible entries, witness chain, and one immediate contradiction. Cost: headache, tunnel vision, and a small recent memory gone. It is used three times in the batch (4, 5, 7) and once on a page that helps him not at all (6).
+- **Ledger Sight** appears in Chapter 4, read-only, on physical contact with a live record under stress. It shows visible entries, witness chain, and one immediate contradiction. Cost: headache, tunnel vision, and a small recent memory gone. It is used four times in the batch (4, 5, 6, 7); the Chapter 6 use is on a page that helps him not at all, and the Chapter 7 use is silent — the Sight does its work and prints nothing. The writer must not add a panel to either.
 - **Boundary Hold** is attempted once, in Chapter 8, without authority, drawn from a founding clause Marek read in Chapter 6 and was not permitted to use. Six bells. The delay is stored in his own yearline. Cost lands on him immediately — nosebleed, tunnel vision, tremor, and the loss of the last hour of the night, which means he will never know the moment he decided. The toll stays as a year scar.
 - **The limit the batch must teach:** a hold adds nobody to the responsibility chain. The delay is his; the collection is not his to redirect. He believes the first half and does not know the second until Chapter 10.
 - No power above Boundary Hold. No Season Hand, no Returnpath, no Branch Auditor, no Open Account, no borrowed advantage of any kind on the page.
@@ -43,10 +47,10 @@ Required world reveals:
 - The distinction between a **levy** and a **loan**, and what it means that Tallow Ward is asked for labor and future work more often than years.
 - Ledger Sight's rule and its two limits: it needs physical contact and a stressed hand, and it cannot produce a missing entry or a name that is not written.
 - The **standing reserve**: a reserve cited in a falsified entry that resolves, through one footnote, to the oldest reference volume in the Season Vaults case.
-- The oldest reference volume's first line is blank, and beneath the blank is a signature clerks are taught never to erase: **A-0**. In the margin, an old hand has written a founding remedy — a standing hold, by which no settlement is taken before the year is ended, held by the clerk of record.
+- The oldest reference volume's first line is blank, and beneath the blank is a signature clerks are taught never to erase: **A-0**. In the margin, an old hand has written a founding remedy — a standing hold, by which no settlement is taken before the year is ended, held by the clerk of record. The **clerk of record** is a retired founding office, vacant for three centuries, which is why the remedy is taught as history and why the cost of taking it has nowhere to sit but the man who took it.
 - The Trust's standing instruction: no clerk may erase the signature, and no clerk may copy the page.
 
-Panel budget: at most one Ledger Sight panel per chapter, in Chapters 4, 5, 6, 8, and 10 only. Panels are sparse ink on the page. No percentages, no verdicts, no predictions, no quest markers, no statistics, no menus. Suggested lines, which may be reworded but must keep the content:
+Panel budget: at most one Ledger Sight panel per chapter, in Chapters 4, 5, 6, 8, and 10 only. Chapters 1, 2, 3, 7, and 9 carry no panel at all, and the Chapter 7 Sight use stays silent. Panels are sparse ink on the page. No percentages, no verdicts, no predictions, no quest markers, no statistics, no menus. Suggested lines, which may be reworded but must keep the content:
 
 - Ch 4: "Two names. The file names one."
 - Ch 5: "The levy names eleven households. The posting names four."
@@ -74,7 +78,7 @@ Open questions after the batch:
 - What is the Third Sluice really costing, and to whom?
 - Can a suspended file survive a morning of scrutiny without a lawful authority behind it?
 - What did Tamsin not say about the mark on Marek's wrist?
-- What is on the sealed construction record, and why does Nim think her sister's name is in a ward roll?
+- Why does a ward roll in the copy room name a district that the tower's map does not carry, and why is Nim certain her sister was in it? (Planted here, owned by Volume 5's Unwritten Quarter, not pursued in this volume.)
 
 ## Chapter Cards
 
@@ -134,17 +138,17 @@ Location/time: The Threshold on Stillstep Island and then the ward water yard at
 
 Immediate goal: Record the ward's water complaint correctly and route it to an independent hearing, because that is what procedure requires and it is the only thing he is allowed to do.
 
-Resistance: Aldis Kern wants the shortage heard as a shortage. The Trust's position is that the levy buys water and the hearing can wait. The ward's roll shows the settlement will draw future recovery from eleven named households, four of whom are not in the room and none of whom were asked. Neris Kade is there as the Rainmarket-appointed independent examiner and is blunt about all of it.
+Resistance: Aldis Kern wants the shortage heard as a shortage. The Trust's position is that the levy buys water and the hearing can wait. The ward's roll shows the settlement will draw future recovery from eleven named households, four of whom are not in the room and none of whom were asked — and the seventh household on that roll is his own. Neris Kade is there as the Rainmarket-appointed independent examiner and is blunt about all of it.
 
 Information revealed: The structure of a ward settlement and the difference between a loan and a levy. The ward's leverage — Kern's own yard-counter records, which are better than the Tower's — and its weakness, which is that it has no money of its own and no seat.
 
-Action or decision: Marek holds the line on procedure and loses. Neris takes the tray, reads his brother's contract in one sentence without looking at him, and asks whether a man with his family on the levy should be the one who certifies it. He does not answer. Then he asks for the Tallow file back in order to check the witness chain, which is the first honest thing he does and also the thing that puts him face to face with the substituted page.
+Action or decision: Marek holds the line on procedure and loses. Neris takes the tray, reads his brother's contract in one sentence without looking at him, and asks whether a man whose household is seventh of eleven should be the one who certifies it. He does not answer. Then he asks for the Tallow file back in order to check the witness chain, which is the first honest thing he does and also the thing that puts him face to face with the substituted page.
 
 Emotional change: The first time his private want and his public role stand in the same room, and the room wins.
 
 Power or resource change: None. Cost: his standing in the ward drops before it has risen.
 
-Continuity fact: Neris Kade is 30, Rainmarket-appointed, has no Ledger Sight, and reads year scars on people the way a clerk reads a date. Aldis Kern is 44 and runs four yards for about four hundred people. Eleven households are named on the levy; the posting names four.
+Continuity fact: Neris Kade is 30, Rainmarket-appointed, has no Ledger Sight, and reads year scars on people the way a clerk reads a date. Aldis Kern is 44 and runs four yards for about four hundred people. Eleven households are named on the levy and the posting names four; the Vale household is seventh, so his own family pays later rather than sooner. His brother's vigor loan is a separate lawful contract and is not on this roll.
 
 Ending type: decision.
 
@@ -180,19 +184,19 @@ POV: Marek.
 
 Location/time: The Tally Halls, then the north road above Tallow, then the Vale rooms, the eleventh day.
 
-Immediate goal: Decide whether to countersign the ward certification before the peak.
+Immediate goal: Decide whether to sign the clerk's certificate of posting that makes the ward settlement due tonight instead of provisional.
 
-Resistance: With the Sight on the file and the labor schedule in his hand, the entry is internally clean. Every visible entry, the witness chain, the scope, the settlement, all in order. Hesper explains the schedule as administrative housekeeping, and he is not lying about what the form is. Hesper signs, dates, and posts the settlement for the peak night. On the north road, in the rain, Tomas's hands fail in front of a crew and he hides it from every person in the road including Lio.
+Resistance: With the Sight on the file and the labor schedule in his hand, the entry is internally clean. Every visible entry, the witness chain, the scope, the settlement, all in order. Hesper explains the schedule as administrative housekeeping, and he is not lying about what the form is. The entry itself is already countersigned at the counter-desk by a junior clerk whose name Marek has not read closely, because the figures balanced when that clerk saw them. Hesper signs, dates, and posts the settlement for the peak night. On the north road, in the rain, Tomas's hands fail in front of a crew and he hides it from every person in the road including Lio.
 
-Information revealed: The hard limit of the Sight. It shows what is written; it does not judge what is written, and it cannot produce a name nobody wrote. Certification is an act, not an observation, and it will be treated as one.
+Information revealed: The hard limit of the Sight. It shows what is written; it does not judge what is written, and it cannot produce a name nobody wrote. Certification is an act, not an observation, and it will be treated as one. He also learns what his own signature is for: the posting certificate is a separate one-page paper, and a third-grade clerk's countersignature on it is the only thing that turns a provisional settlement into a settlement that can be collected.
 
-Action or decision: Marek countersigns. He does it cleanly, correctly, and he files the labor schedule in the Tallow file as a matter of routine — the second hoarding, and the one that will be used against him.
+Action or decision: Marek signs the certificate. He does it cleanly, correctly, and he files the labor schedule in the Tallow file as a matter of routine — the second hoarding, and the one that will be used against him. He does not falsify the entry and he is not the counter-clerk on it; he makes a false entry collectible, which turns out to be the more useful thing to do and the harder thing to give back.
 
 Emotional change: The first time he spends his competence to buy certainty and receives exactly certainty.
 
 Power or resource change: Second Sight use, one small gain, one more headache. No growth in range.
 
-Continuity fact: The settlement posts for the peak night on the fourteenth day. The certification carries Marek's counter-signature. The labor schedule is now physically inside the file he certified.
+Continuity fact: The settlement posts for the peak night on the fourteenth day. Hesper signed the ward settlement entry on the ninth day and Kelb countersigned it the same afternoon; Marek's own signature is on the separate posting certificate, dated the eleventh day. The labor schedule is now physically inside the file he certified.
 
 Ending type: cost.
 
@@ -206,7 +210,7 @@ Location/time: Tallow Ward, the ward water yards, the Third Sluice, the pump hou
 
 Immediate goal: Verify the standing reserve line in the ward entry, so he can prove the levy is not drawing recovery from households the fund was supposed to cover, and file the objection like a clerk.
 
-Resistance: Three separate walls. First, Marda Senn, Ilya's sister and the Warden's ledger clerk, has kept her own pump counts and shows him that the trunk main has been over-reading by close to forty percent for days — a plugged strainer and a bypass set wrong — so the shortage on paper is larger than the shortage in the pipes. Second, Ilya Senn, the senior Warden, has been holding the Third Sluice open against a Crown Terrace order because closing it would have put water into the ward's low kitchens, and by the book that is sabotage. Third, the reserve line resolves through a single footnote in the oldest reference volume in the Season Vaults case: "held against the standing reserve." The entry it cites is that volume's first line. The first line is blank. Beneath the blank, in an old hand, a signature: **A-0**. In the margin, in the same old hand, a founding remedy — a standing hold, by which no settlement may be taken before the year is ended, held by the clerk of record.
+Resistance: Three separate walls. First, Marda Senn, Ilya's older sister and the Warden's ledger clerk, has kept her own pump counts and shows him that the trunk main has been over-reading by close to forty percent for days — a plugged strainer and a bypass set wrong — so the shortage on paper is larger than the shortage in the pipes. Second, Ilya Senn, the senior Warden, has been holding the Third Sluice open against a Crown Terrace order because closing it would have put water into the ward's low kitchens, and by the book that is sabotage. Third, the reserve line resolves through a single footnote in the oldest reference volume in the Season Vaults case: "held against the standing reserve." The entry it cites is that volume's first line. The first line is blank. Beneath the blank, in an old hand, a signature: **A-0**. In the margin, in the same old hand, a founding remedy — a standing hold, by which no settlement may be taken before the year is ended, held by the clerk of record. The office has been retired for three centuries and nobody holds it, which is why the remedy is taught as history and why the sentence finishes, in the clerk's own hand, with a duty no one is currently obliged to perform.
 
 Information revealed: The batch's central truth and its limit at once. The lie bought speed, not safety: the invented reserve existed so the ward would not appear to pay for a gate loan that had to be sealed before the notice period expired. The shortage is real. And the Sight is nearly useless here — the substituted page's entries agree with each other completely, and the tool that has saved him twice cannot produce a missing entry or an intention.
 
@@ -240,7 +244,7 @@ Action or decision: Marek gets Kern's men and Ilya's crew to clear the strainer 
 
 Emotional change: A real, cheap, ordinary victory, immediately followed by the understanding that competence is a thing he can be given credit for and switched off with.
 
-Power or resource change: Fourth Sight use, deployed as evidence, with a tunnel-vision headache and a gap in the afternoon he cannot account for. No growth in range.
+Power or resource change: Fourth Sight use, deployed as evidence, with a tunnel-vision headache and a gap in the afternoon he cannot account for. No growth in range, and no panel: the Sight works here and says nothing, because what it confirms is already written down.
 
 Continuity fact: The ward's water now depends on a public levy and a temporary fix. The contractor's upkeep traces to Crown Terrace irrigation. Vole's recusal offer is refused on the record. Kelb is named and located.
 
@@ -260,13 +264,13 @@ Resistance: He has no authority, no second witness, and a clause from a page he 
 
 Information revealed: The founding standing hold, and his mistake. The panel: one settlement, six bells, the delay is yours. The delay is his. The collection is not his to redirect, and a hold adds nobody to the chain — a rule he does not know and cannot learn tonight.
 
-Action or decision: Marek holds the Tallow Ward settlement across the boundary named in the file, the ward line at the Tallow Gate, for six bells. He does not ask anyone. He does not warn anyone. He spends Kelb's countersignature without asking Kelb.
+Action or decision: Marek holds the ward settlement entry — Hesper's paper, the one Kelb countersigned — across the boundary named in the file, the ward line at the Tallow Gate, for six bells. He does not ask anyone. He does not warn anyone. He spends Kelb's countersignature without asking Kelb, and he takes on a duty that has belonged to nobody for three centuries, which is why the whole of the cost arrives in his own body.
 
 Emotional change: The first time he acts with no file in his hand. It feels like relief. It is not relief; it is the first time he has spent another person's trust for a result he cannot guarantee, which is the exact shape of his fear.
 
 Power or resource change: **First Boundary Hold, unauthorized and unskilled.** Immediate cost: nosebleed, tunnel vision, tremor, and the loss of the last hour of the night. He will never know when he decided or what he said on the way out of the room.
 
-Continuity fact: A hold stores the delay in the holder and adds nobody to the responsibility chain. The boundary used is named in the existing file, not invented. The settlement is suspended without any authority behind it.
+Continuity fact: A hold stores the delay in the holder and adds nobody to the responsibility chain. The boundary used is named in the existing file, not invented. The settlement is suspended without any authority behind it, and because the founding office of clerk of record is vacant, the delay has nowhere to be stored but the man who took the duty.
 
 Ending type: cost.
 
@@ -280,15 +284,17 @@ Location/time: Tallow Ward, the yards, the Third Sluice, the north road, and the
 
 Immediate goal: Keep the ward alive until dawn and get through the hours he has left.
 
-Resistance: The delay is not water. The ward's tanks fall while the pipes run. Ilya is at the Third Sluice with a Crown Terrace order in his pocket that he has not shown anyone. Tomas is on the north road in the rain because he cannot be stopped and his hands are going. Kern's men are hauling by hand from a yard that has already lost a storehouse. In the Tally Halls the suspended file cannot be copied by the tower, so every page of the ward levy is being written out longhand on the Tally Stair in the dark by a junior clerk in his third week. Nim Rook, the night runner who knows the copy room, is ferrying pages, because she is in the room hunting for her sister's name in the ward roll. Tamsin comes up the hill with food her son cannot eat.
+Resistance: The delay is not water. The ward's tanks fall while the pipes run. Ilya is at the Third Sluice with a Crown Terrace order in his pocket that he has not shown anyone. Tomas is on the north road in the rain because he cannot be stopped and his hands are going. Kern's men are hauling by hand from a yard that has already lost a storehouse. In the Tally Halls the suspended file cannot be copied by the tower, so every page of the ward levy is being written out longhand on the Tally Stair in the dark by a junior clerk in his third week. Nim Rook, the night runner who knows the copy room, is ferrying pages, because she is in the room reading ward rolls and not household rolls, hunting for the district her sister was assigned to when she went missing. Tamsin comes up the hill with food her son cannot eat.
 
-Information revealed: What an emergency costs in bodies rather than entries, and that the ward's people already know Ilya broke an order and have not decided what that means about the man who fed them.
+Information revealed: What an emergency costs in bodies rather than entries, and that the ward's people already know Ilya broke an order and have not decided what that means about the man who fed them. And the first edge of a smaller wrong: the roll Nim wants is a ward roll, and it is the only kind of roll in the room with a district column she cannot fill in.
 
 Action or decision: Marek does the only useful thing left. He carries pages. He writes the labor schedule out from memory, by hand, for the second time in three days, because the original is in the file he certified and the file is suspended. He does not tell anyone why he is bleeding, and when the copy-room runner asks, he gives a technically accurate answer that omits the question that matters.
 
 Emotional change: The batch's low point and its most human scene. Six bells of honesty cost somebody else's back, and he is the one who signed the receipt.
 
-Continuity fact: Kelb is carrying pages alone. Nim is in the copy room for her own reason and has seen the ward roll. Ilya is at the sluice. Tomas is on the north road. Tamsin knows her son is in trouble and does not ask him.
+Power or resource change: No gain. The hold's toll is still being paid in the present tense, in a nose that will not stop and a night that has begun to lose edges, and the Sight's price has already taken the afternoon he cannot account for. What he acquires is eleven pages of a levy copied by somebody else's hand, which is the only durable resource in the chapter and is not his.
+
+Continuity fact: Kelb is carrying pages alone. Nim is in the copy room for her own reason and has been reading ward rolls, not household rolls. Ilya is at the sluice. Tomas is on the north road. Tamsin knows her son is in trouble and does not ask him. The ward-roll question is opened here and paid in the tail of Chapter 10.
 
 Ending type: decision, not cliffhanger.
 
@@ -302,7 +308,7 @@ Location/time: The Tally Stair and copy room, the Morrowfen clinic, and the copy
 
 Immediate goal: Get through the last bell and tell no one what he has done.
 
-Resistance: The settlement comes due at the peak. The ward's levy fund was spent on the gate loan's upkeep and cannot pay. No surety is named on the entry. And the entry is false-witnessed, because the offsetting reserve line was invented and a material term was left out. So the chain walks the way the tower has always walked it: borrower, then surety, then the institution that certified — and the institution is the living counter-clerk who countersigned in good faith, because a clerk's counter-signature is the institution's act. **Ondra Kelb** is found on the Tally Stair between the copy room and the door, still carrying the ward's pages. He does not get up.
+Resistance: The settlement comes due at the peak. The ward's levy fund was spent on the gate loan's upkeep and cannot pay. No surety is named on the entry. And the entry is false-witnessed, because the offsetting reserve line was invented and a material term was left out. So the chain walks the way the tower has always walked it: borrower, then surety, then the institution that certified — and the institution is the living counter-clerk whose counter-signature is on the false-witnessed instrument, not the clerk who signed the paper that let it be collected. **Ondra Kelb** is found on the Tally Stair between the copy room and the door, still carrying the ward's pages. He does not get up. The chain was never choosing between two clerks; there was only ever one name on the instrument it walks.
 
 Information revealed: The rule learned in the body, not in a lecture. A hold stores the delay in the holder and adds nobody to the chain. A false-witnessed contract keeps its responsibility visible. The last living name on a contract is a person, and here he is twenty years old and three weeks into the job. The last panel: the file was countersigned, and the countersigner is alive.
 
@@ -312,17 +318,21 @@ Emotional change: The batch's cost lands on someone he never met, and the honest
 
 Power or resource change: The toll of the hold stays as a year scar. His Sight's cost has taken a real piece of his recent past. Marek is now a clerk who has deliberately suspended a settlement without authority, and there is no procedure in the building that permits him to undo it.
 
-Aftermath and hook: At first light, in the copy room, Nim Rook puts the first leaf of the sealed construction record on the table — the same blank first line, the same signature, the clause he has already used once. She says she wants to know what the tower did to her sister and that she wants the page kept. Marek keeps it. In the corridor, Hesper asks whether the junior clerk is awake yet, and says nothing else.
+Aftermath and hook: At first light, in the copy room, Nim Rook puts a ward roll on the table and asks him to look at the district column. It names a ward, and a number, that no map in the building has. The clerk who should know says the roll is a copy and the map is the copy. She says her sister was assigned to that number the week she went missing, and she wants to know what the tower did with a district it can name and cannot place. Marek does not solve it, does not know where to look, and keeps the roll out of the file because there is no drawer in the building for it. In the corridor, Hesper asks whether the junior clerk is awake yet, and says nothing else.
+
+Continuity fact: A hold adds nobody to the chain, and the chain landed on the counter-clerk because the invented reserve is written on **his** instrument. Kelb lives, is 20, and has three weeks of service. Marek's suspension is not yet published. The private copy of the marginal standing-hold clause is in Marek's coat and is evidence he has no right to hold. The season's water is secured for the ward. The reference volume goes back into the Season Vaults case with the blank first line still blank, and the margin clause stays in Marek's hand.
 
 Ending type: earned hook.
 
-Next-chapter pull: The ward has water for the season. Kelb does not have his hand. And the oldest book in the tower is missing a year that somebody signed for.
+Next-chapter pull: The ward has water for the season. Kelb does not have his hand. And a clerk in the copy room has just read a district number that the tower's own map does not contain.
 
 ## Required continuity updates after this batch
 
 - Update `state/chapter-summaries.md` with two to five sentences for each of Chapters 1–10.
 - Add to `state/continuity.md`: the new Volume 01 names (Ondra Kelb, Renata Vole, Aldis Kern, Bohdan Rezek, Nadja Ostrow, Marda Senn) and the new local terms (the Silt, Bell Weir, the Tallow Gate, the Third Sluice, the posting, the levy, the standing reserve), as Volume 01 local facts that do not alter any world rule.
+- Add to `state/continuity.md`: the locked instrument map from `outline/volume-01.md` — Hesper signs the false-witnessed ward settlement entry, Kelb countersigns it, Marek signs the separate posting certificate — and the locked levy roll, with the Vale household seventh of eleven. A later batch must never let Marek's signature be read as the chain's terminal name.
 - Add to `state/continuity.md`: that the falsified entry's invented reserve resolves through one footnote to the oldest reference volume's blank first line signed A-0, and that the marginal founding standing hold is the volume's unauthorized remedy.
-- Add to `state/open-threads.md`: the aimed second certification Hesper will file, Marda Senn's disappearance, and the ward's split over Ilya, all owner Volume 01.
+- Do **not** re-record the founding standing hold, the clerk of record, or the Trust's no-copy standing instruction as new canon in the summary files: they were added to `bible/terminology.md`, `bible/power-system.md`, and `state/continuity.md` during the Volume 01 planning phase. Read them there.
+- Add to `state/open-threads.md`: the aimed second certification Hesper will file, Marda Senn's disappearance, the ward's split over Ilya, the ward roll whose district is not on the tower's map (owned by this volume, answered by Volume 5), and Tamsin's partial refusal about the wrist mark (completed in Volume 16, testified in MR 435), all owner Volume 01 unless noted.
 - Update `state/current.md` to point at the batch 0002 reading order and the last two chapters for voice.
 - Do not edit `state/phase-ledger.json`; it is controller-owned.

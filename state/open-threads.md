@@ -9,11 +9,13 @@ Threads are tracked here so a batch never drops one. Each entry names the owner 
 
 ## Volume 1 threads
 
-- Tomas's flood-repair loan and the unrecovered years of his body. The loan is lawful, witnessed, and informed; it is not the fraud, and it is not erased in the resolution. The remaining draws are converted into supervised road work and the years already drawn stay drawn.
-- Hesper's falsified Tallow Ward water entry and the under-clerk who countersigned it in good faith, **Ondra Kelb**. Kelb is injured by the volume's Boundary Hold, lives, recovers slowly, and does not forgive quickly.
+- Tomas's flood-repair loan and the unrecovered years of his body. The loan is lawful, witnessed, and informed; it is not the fraud, and it is not erased in the resolution. The final draw posts on the fourteenth day as scheduled, and the vigor has already been working since Chapter 5. What the resolution converts is the **settlement schedule** — the road work that would have serviced the loan after that draw — into supervised road work. The years already drawn stay drawn.
+- Hesper's falsified Tallow Ward water entry and the under-clerk who countersigned it in good faith, **Ondra Kelb**. Kelb is injured by the volume's Boundary Hold, lives, recovers slowly, and does not forgive quickly. The chain reaches him because the false term is on **his** instrument; Marek's own signature is on the separate posting certificate, which is the paper Marek surrenders in Chapter 44 and the Chamber's hold over him in Chapter 32. Never read Marek's name as the chain's terminal name.
 - The null first entry in the oldest ledger and the signature that clerks are forbidden to erase. Volume 1 ends on a hand-written public copy with the blank line preserved and **A-0** written out in full.
+- The **ward roll whose district column names a ward the tower's map does not carry**, opened at the close of Chapter 10 when Nim Rook asks why a district number exists that nobody in the copy room can place. Planted here, not explained here, not repeated in Movements II–V, and owned by the Unwritten Quarter thread below. `outline/series.md` requires Volume 1 to plant a blank first entry **and** a missing ward on an official map; this is the second plant.
 - The **standing reserve** the invented entry leans on, which resolves through one footnote to that blank first line. An invented reserve can be written against a line nobody can read, which means anyone can.
-- The founding **standing hold** in the margin of the oldest reference volume, and the rule it teaches: the delay is the holder's, the collection is not his to direct.
+- The founding **standing hold** in the margin of the oldest reference volume, and the rule it teaches: the delay is the holder's, the collection is not his to direct. Its office, **the clerk of record**, has been vacant for three centuries; nobody holds it in this volume and it is not refilled. A clerk calling himself clerk of record is making a promise, not a claim.
+- **Tamsin's partial refusal** about the mark on Marek's wrist. Chapter 34 gives the struck notching entry and her refusal to say whose it is; the account is Volume 16's, and the public testimony is MR 435's (`outline/ending.md` §8). Do not resolve it early and do not let Chapter 34 explain the number.
 - The Warden's opened valve: sabotage by the book's rules, rescue by the ward's. Ilya's Third Sluice also costs the ward a storehouse and a relative's leg, and the volume's resolution names the ward's share under oath.
 - The trunk main over-reading by about forty percent, whose upkeep is charged to a Crown Terrace irrigation account. Hesper exploited a maintenance failure; he did not cause it.
 - **Marda Senn's** disappearance into the Hollow Galleries (Ch 22). Her name leaves the warden's roll inside this volume and does not come back.
@@ -22,7 +24,7 @@ Threads are tracked here so a batch never drops one. Each entry names the owner 
 
 ## Carried forward
 
-- The Unwritten Quarter: a district absent from the official map, owner Volume 5.
+- The Unwritten Quarter: a district absent from the official map, owner Volume 5. **Volume 1 plants the first edge of this** with the ward roll at the close of Chapter 10 and names no quarter; Volume 4 asks why the Tower denies Hallow Ground exists on its map, and Volume 5 answers it.
 - Ilen Rook: a sister with a legal copy and no living counterpart, owner Volumes 4–5, paid off in the epilogue coda of Volume 18.
 - The Hollow Court's counterfeit return rituals and their relation to the spent one-way year seam.
 - The Quiet Choir's claim that returnists deserve a vote in the final settlement, owner Volume 18 Movement B.

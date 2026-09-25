@@ -41,16 +41,27 @@ Morrowfen, a city on a black peat sink in a salt basin, in **Morrowfen Reckoning
 - **Aldis Kern**, 44, Tallow Ward water-yard captain. Four yards, about four hundred people. The ward's public voice; also the man who testifies against Ilya.
 - **Bohdan Rezek**, 51, fuel-yard foreman. First visible victim of the ward settlement; his hands give out in the copy room in Chapter 4.
 - **Nadja Ostrow**, 38, kitchen cook, one of the eleven named households on the ward levy.
-- **Marda Senn**, Ilya's sister, a Warden's ledger clerk who keeps her own pump counts. Her name leaves the warden's roll in Chapter 22; she does not return in this volume.
+- **Marda Senn**, Ilya's older sister, a Warden's ledger clerk who keeps her own pump counts. Her name leaves the warden's roll in Chapter 22; she does not return in this volume.
 - **Bel Harrow**, Crown March representative, arrives in Chapter 31 and chairs the emergency appeals board.
 
 ### Volume 01 local terms (setting detail, not new world rules)
 
 The Silt (the river), Bell Weir, the Tallow Gate (the ward floodgate and the boundary named in the ward file), the Third Sluice (the settlement valve Ilya holds open), the posting (an announced settlement date on the Threshold board), the levy (a ward's standing repayment obligation, distinct from a single loan), the copy room and public register in the Tally Halls, and the standing reserve (the reserve cited in the falsified entry, which resolves through one footnote to the oldest reference volume).
 
+### Volume 01 locked instruments in the Tallow file (do not blur)
+
+- **The ward settlement entry — the false-witnessed instrument.** Hesper signs it as supervisor on the ninth day; **Ondra Kelb countersigns it at the counter-desk the same afternoon** in good faith. The invented reserve and the omitted material term live on this paper, so this is the instrument the Chapter 10 chain walks to and the instrument suspended in Chapter 8.
+- **The clerk's certificate of posting — a separate one-page paper.** A settlement counts as posted rather than provisional only with a third-grade clerk's countersignature on it, and **Marek signs it on the eleventh day** in Chapter 5 after the Sight shows a clean file. He did not write the lie; he made it collectible. He surrenders this paper in Chapter 44, and it is the Chamber's instrument against him in Chapter 32.
+- The chain follows the instrument, not the folder, so there is never more than one living certifier where the collection lands. Marek's name is never the chain's terminal name.
+- **Levy roll:** eleven named households, the posting names the first four, and **the Vale household is seventh of the eleven** — Marek's own family is on the roll, which is the premise of Chapter 3's central question. This is a separate instrument from Tomas's vigor loan, which is lawful, is not the fraud, and is not on this roll.
+
+### Volume 01 founding clauses (canon, added to the bible during the Volume 01 planning phase)
+
+The **standing hold** is a founding remedy in the margin of the oldest reference volume, in the same hand as the blank first line and the signature **A-0**: no settlement may be taken before the year is ended. It is held by **the clerk of record**, an office retired a few centuries after the opening and held by nobody now, which is why the clause is taught as history, why Marek's use of it in Chapter 8 is unauthorized, and why the delay has no office to sit in and goes into his body instead. It changes a due date and nothing else, and it is used once in the series. The Trust's standing order on the sealed founding page — no clerk may erase the signature, no clerk may copy the page — is live instruction, not oversight; the volume's final chapter breaks it by hand.
+
 ## Volume 1 frame
 
-Central pressure: a flood-season water shortage forces Tallow Ward to settle a loan that will draw future recovery from several residents and leave Tomas's bridge debt unresolved. Resolution: Marek exposes the falsified entry, forces a public emergency appeals board, converts the scheduled settlement of Tomas's loan into supervised road work, and brings the valve sabotage into the record. The ward is saved for this season; the old debt is not erased. The practice Boundary Hold injures the junior clerk who countersigned Hesper's entry, and that injury stays in the volume. Next question: who owns the blank first entry, and what does A-0 mean?
+Central pressure: a flood-season water shortage forces Tallow Ward to settle a loan that will draw future recovery from several residents and leave Tomas's bridge debt unresolved. Resolution: Marek exposes the falsified entry, forces a public emergency appeals board, converts the scheduled settlement of Tomas's loan into supervised road work, and brings the valve sabotage into the record. The ward is saved for this season; the old debt is not erased. The unauthorized Boundary Hold injures the junior clerk who countersigned Hesper's entry, and that injury stays in the volume. Next question: who owns the blank first entry, and what does A-0 mean?
 
 Full plan: `outline/series.md` and `outline/ending.md` are written and authoritative. `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md` are written and authoritative as of the Volume 01 planning phase. Batch 0001 owns Chapters 1–10 and its cards specify the batch midpoint (Ch 6), the climax (Ch 10), the panel budget, and the locked new names and local terms.
 

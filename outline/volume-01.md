@@ -21,7 +21,7 @@ Starting relationships:
 
 Starting power level: **none.** A third-grade settlement clerk with an unusually good eye for mismatched ink, altered dates, and repeated witness phrasing. No borrowed power, no System panel, no authority to suspend anything.
 
-Volume power change: **Ledger Sight** appears in Chapter 4 after a settlement accident. **Boundary Hold** is attempted once, unauthorized and unskilled, in Chapter 8, and injures a living clerk when the hold ends. Nothing above Boundary Hold in this volume.
+Volume power change: **Ledger Sight** appears in Chapter 4 after a settlement accident. **Boundary Hold** is attempted once, as the founding standing hold he reads in Chapter 6, unauthorized and unskilled, in Chapter 8, and injures a living clerk when the hold ends. Nothing above Boundary Hold in this volume.
 
 Major locations:
 
@@ -56,6 +56,19 @@ Major factions and forces in this volume: the **Chamber of Accounts** (tired, hi
 - **the copy room / the public register** — where hand copies are made and where anyone may read them.
 - **the standing reserve** — the reserve named in the falsified entry, and the thing at the end of a footnote in the oldest reference volume.
 
+### Locked instruments in the Tallow file (Chapters 3–10, then Chapter 44)
+
+Two separate papers sit in the Tallow folder, and the volume turns on never confusing them.
+
+- **The ward settlement entry — the false-witnessed instrument.** The levy settlement naming eleven households, with the invented standing reserve written into it as an offsetting recital. Hesper signs it as supervisor on the ninth day, and **Ondra Kelb countersigns it at the counter-desk the same afternoon**, in good faith, because the figures in front of him balance and nobody asks who produced them. The invented reserve and the omitted material term make the entry false-witnessed, so at settlement the chain walks to the living clerk whose counter-signature is the institution's act: Kelb. This is the instrument suspended in Chapter 8 and the instrument the chain reaches in Chapter 10.
+- **The clerk's certificate of posting.** A separate one-page certificate that the settlement has been lawfully posted for the peak night, which requires a third-grade clerk's countersignature before a settlement counts as posted rather than provisional. **Marek signs it on the eleventh day** in Chapter 5, after the Sight shows him a file that is internally clean. He did not write the lie. He certified that the lie was lawfully in force, and Chapter 44 is where he surrenders that. His name is not on the false-witnessed instrument and is not what the chain reaches; it is what the Chamber holds over him, and it is why his suspension in Chapter 32 costs him standing.
+
+Order of signatures: Hesper signs, Kelb countersigns, the entry goes into the folder; two days later Marek signs the posting certificate, which is the paper that makes the settlement due at the peak instead of provisional. The two documents were applied in that order and they live in the same folder, which is exactly how a reader — and a tired supervisor — conflates them. The chain follows the false-witnessed instrument, not the folder, so there is never more than one living certifier on the instrument it walks to.
+
+### Locked levy roll (Chapters 3, 5, 18, 46)
+
+The ward settlement draws future recovery from **eleven named households**. The posting names the **first four**, who pay this season; the other seven are named on the roll and are what the ward is actually promising. **The Vale household is seventh of the eleven** — Marek's own family is on the roll, and is not among the first four, which is how the posting looks survivable from his desk and is not. Only Ostrow's household and the Vale household are named individually in this volume, with Rezek's fuel-yard household among the first four; the rest are counted, not named. This is locked because Chapter 3's central question depends on it. It does **not** touch Tomas's vigor loan, which is a separate lawful contract and is not the fraud.
+
 Midpoint reversal (Chapters 25–26, with the setup beginning at 6): Marek enters the middle of the volume believing he is exposing a man who manufactured a shortage. The midpoint turns it around in two parts. **Hesper did not manufacture the emergency.** The ward really is short, the river really is rising, and the lie bought speed rather than safety: the invented reserve line existed so the ward would not appear to pay for a gate loan that had to be sealed before the thirty-day notice expired. And **the man who broke the rules saved the ward.** Ilya's open Third Sluice is what keeps the low kitchens supplied through the peak, and the same sluice put water into the Underbank and cost Aldis Kern a storehouse and a relative's leg. The Trust wants one villain. The ward has two men who did what they believed was necessary, and the volume's question stops being *who lied* and becomes *who pays when everyone needed something hidden*. The reader's sympathy is forced to divide.
 
 Escalation sequence, in five movements:
@@ -66,7 +79,7 @@ Escalation sequence, in five movements:
 - **IV. A Board of Strangers (31–40).** Bel Harrow arrives; the ward petitions; the Chamber publishes Marek's suspension without the hold and his standing narrows; Tamsin and the wrist mark; the individual consent work with Neris; Hesper corners Marek with Tomas's name; the board is forced into session.
 - **V. The Unpaid Ward (41–50).** The public hearing, Hesper's arrest, Ilya's judgment, the levy conversion, Tomas's road work, and the Trust's order to strike A-0 from the public copy.
 
-Volume climax (Chapters 43–45): At the emergency appeals board, with the ward's families in the room, the falsified entry is read aloud in full — the invented reserve, the footnote, the null line it leans on — and Marek surrenders his own counter-signature on it, which removes the only clean thing he has left. Hesper's second certification is then exposed as the deliberate aiming of the responsibility chain at a junior clerk, and Hesper is arrested in the room. His last act is a sincere question: whether the ward has water.
+Volume climax (Chapters 43–45): At the emergency appeals board, with the ward's families in the room, the falsified entry is read aloud in full — the invented reserve, the footnote, the null line it leans on — and Marek surrenders the posting certificate he signed on the eleventh day, the paper that made the false-witnessed entry lawful for the peak. It is not the lie's signature and it is the only clean thing he has left. Hesper's second certification is then exposed as the deliberate aiming of the responsibility chain at a junior clerk, and Hesper is arrested in the room. His last act is a sincere question: whether the ward has water.
 
 Concrete resolution (Chapters 46–50):
 
@@ -74,7 +87,7 @@ Concrete resolution (Chapters 46–50):
 - An **emergency appeals board** exists afterward, with a public duty to record dissent — the volume's institutional change, small and insufficient and real.
 - The ward's bill moves to a **public levy plus supervised labor**: about four hundred people, named, and paid work rather than a drawn future. The ward is saved for this season. Nothing already drawn from anyone is returned.
 - **Ilya's valve** enters the record as sabotage and rescue in the same paragraph, with the ward's own share of the damage named by Aldis Kern under oath.
-- **Tomas's remaining draws** are converted into supervised road work with named workers and an independent witness. The years already taken are still taken. His borrowed vigor is untouched, and the reader is left clear that the conversion bought a schedule, not a body.
+- **Tomas's settlement schedule** — the road work that would have serviced his vigor loan after the fourteenth-day draw — is converted into supervised road work with named workers and an independent witness. The draw itself is never cancelled; the years already taken are still taken, and the conversion buys a schedule, not a body. His borrowed vigor is untouched, and the reader is left clear that this bought a schedule, not a refund.
 - **Ondra Kelb** keeps the loss in his hand, receives restitution that does not cover it, and is not written to forgive Marek quickly.
 - **Hesper Rann** is in custody pending trial and offers evidence. **Renata Vole** is reassigned without ever conceding she was wrong.
 - The Trust's sealed order to strike **A-0** from the public copy of the oldest ledger arrives, and Marek refuses it in writing.
@@ -89,14 +102,14 @@ Final chapter image: In the copy room on the last evening of the rains, Marek co
 
 1. Ninth day of the rains: Marek audits loan receipts; the ward is rationing; Tomas's north-road span is out.
 2. Marek audits his brother's vigor loan and finds nothing wrong, which is the problem; he starts a private second file.
-3. Aldis Kern brings the ward's water complaint; the Trust posts a settlement; Neris Kade arrives as Rainmarket-appointed examiner and reads Marek's brother's file out of the tray.
+3. Aldis Kern brings the ward's water complaint; the Trust posts a settlement; Neris Kade arrives as Rainmarket-appointed examiner, reads Marek's brother's file out of the tray, and asks whether a man whose household is seventh of eleven should be the one who certifies it.
 4. Bohdan Rezek's installment draw goes wrong in the copy room; Ledger Sight appears.
-5. Hesper signs and posts the ward settlement for the peak; Tomas's hands fail on the north road; Lio asks about the mark on Marek's wrist.
+5. Hesper signs and posts the ward settlement for the peak on a page Kelb has already countersigned; Marek signs the separate posting certificate that makes it lawful tonight; Tomas's hands fail on the north road; Lio asks about the mark on Marek's wrist.
 6. Tallow Ward at night: the over-read trunk, Marda Senn's pump counts, Ilya's open Third Sluice, and the oldest reference volume whose first line is blank and signed A-0, with the founding standing hold written in its margin.
 7. Marek gets the strainer cleared and the bypass reset, buying the ward two days; Vole offers him recusal with a clean note.
 8. Marek attempts the founding standing hold for six bells. Nosebleed, tunnel vision, the last hour gone.
 9. The peak night: pages carried by hand, Kelb alone on the Stair, Neris in the yard, Ilya at the sluice, Tamsin's food, Tomas on the north road.
-10. The hold ends. The chain reaches a person. Kelb collapses on the Tally Stair. At dawn Nim Rook puts the sealed first leaf on the copy-room table.
+10. The hold ends. The chain reaches a person. Kelb collapses on the Tally Stair. At dawn Nim Rook puts a ward roll in front of him and asks why one of its districts is not on the tower's map.
 
 ### Movement II — The Cost Has Two Names (11–20)
 
@@ -105,7 +118,7 @@ Final chapter image: In the copy room on the last evening of the rains, Marek co
 13. Vole certifies the settlement as lawful; Hesper rewrites the file's cause as operator error.
 14. Kelb's household and the counter-clerks' guild learn what it means to be the last name on a chain.
 15. Marek copies the substituted page by hand at night; Nim is the runner and states her price.
-16. Hesper's offer: the family's remaining draws cleared, if the copy stays in a drawer.
+16. Hesper's offer: the family's settlement schedule cleared — the road work, not the years — if the copy stays in a drawer.
 17. Tomas refuses help again; a north-road crew member is hurt by borrowed vigor; the vigor bill is real.
 18. Pella Rusk brings the school roll: the levy takes a school year from four Tallow children.
 19. Neris's examination of the ward's scars, and the first work Marek and Neris do badly and well in the same afternoon.
@@ -113,7 +126,7 @@ Final chapter image: In the copy room on the last evening of the rains, Marek co
 
 ### Movement III — What the Valve Held (21–30)
 
-21. The Trust's investigation opens; Vole offers Marek a recusal that would clear his record.
+21. The Trust's investigation opens; Vole comes back with a second way out, and it is not a mercy — she will have the certification struck and leave his record clean if he signs a statement that the Tallow file was never assigned to him, which is a second false statement in his own hand on top of the first.
 22. Marda Senn's trail into the Hollow Galleries; her name leaves the warden's roll.
 23. Aldis Kern's account of what the open sluice cost his yard and his family.
 24. The over-read is traced to a Crown Terrace irrigation account: Hesper exploited a maintenance failure, he did not cause it.
@@ -129,7 +142,7 @@ Final chapter image: In the copy room on the last evening of the rains, Marek co
 31. Bel Harrow arrives with a petition for a public board; Vole refuses; the ward petitions on its own.
 32. The Chamber publishes Marek's suspension without the hold. His standing narrows and Tamsin hears about it first.
 33. Kelb's slow recovery, and the one question he asks that Marek cannot answer.
-34. Tamsin and the wrist mark: an old notching entry struck from the family copy.
+34. Tamsin and the wrist mark: she produces the old notching entry struck from the family copy, tells him the number is not an accident, and refuses to say whose it is. Volume 1 gets the entry and the refusal; the account is Volume 16's and the public testimony is MR 435's.
 35. Forced cooperation: the ward's households must be asked one at a time whether they will take a public levy, and some of them say no.
 36. The board's fight over terms — who chairs, who records, who is paid by the fund.
 37. The school-roll problem becomes a public number, argued by people who are not clerks.
@@ -142,19 +155,25 @@ Final chapter image: In the copy room on the last evening of the rains, Marek co
 41. The hearing opens; Harrow's terms; Vole's procedural war; the ward's families are seated and the Trust's are not.
 42. The ward speaks: Rezek's hands, Ostrow's recovery, four children's school year, a storehouse, a leg.
 43. Hesper's arithmetic is read aloud in public, including the footnote and the blank line it leans on.
-44. Marek surrenders his counter-signature; the second certification is exposed as an aimed chain; Hesper's authority to certify ends in the room.
+44. Marek surrenders his posting certificate — his countersignature, which is not a signature on the false-witnessed entry — and the second certification is exposed as an aimed chain; Hesper's authority to certify ends in the room.
 45. Hesper is arrested in the room and asks whether the ward has water. Climax.
 46. The board's finding: the entry struck and published, the appeals board created with a public duty of dissent, the bill moved to a public levy and supervised labor.
 47. Ilya's record: sabotage and rescue named together, the ward's share named under oath, Kern's testimony.
-48. Tomas's remaining draws become supervised road work with named workers and an independent witness. Nothing already drawn comes back.
+48. Tomas's settlement schedule becomes supervised road work with named workers and an independent witness. The years already drawn come back to nobody; the fourteenth-day draw happens as posted.
 49. Kelb's restitution, Hesper's custody, Vole's reassignment, and the Trust's sealed order to strike A-0.
 50. Marek's public copy of the first page, written by hand, blank line preserved, signature written in full. Final image.
+
+## Chapter-type distribution (guide target, applied across the volume)
+
+Roughly 20% investigation or discovery, 20% action or survival, 20% character and relationship work, 15% practice or controlled experiment, 15% political or social pressure, 10% aftermath. The volume's three deliberate practice chapters are **15** (Marek copies the substituted page longhand and learns what a hand-copy costs a body and an hour), **19** (Marek and Neris run the ward's scar examination badly and then well, the volume's only method chapter), and **33** (Kelb's slow recovery, and the one question Marek cannot answer). Chapter 7 already carries a practice beat in miniature and may be counted as practice rather than investigation. Later batches should not add a training chapter by moving plot; if the map cannot absorb one, the count is met by playing 15, 19, and 33 as technique rather than as service.
 
 ## Volume guardrails
 
 - No answer to the missing year, the Last Convocation, the First Account's origin, or Edren Sable. The volume ends with a blank line and a signature and a forbidden order.
 - Nothing above Ledger Sight and one failed Boundary Hold. No Season Hand, no market, no Compact, no Choir, no military, no Crown of Continuation.
-- Tomas's loan is lawful and informed. It is not the fraud. The volume's moral target is the falsified entry, the invented reserve, and the aimed chain — not a family making a hard bargain.
+- Tomas's loan is lawful and informed. It is not the fraud. The volume's moral target is the falsified entry, the invented reserve, and the aimed chain — not a family making a hard bargain. The Vale household being seventh of eleven on the ward levy is a separate instrument with a separate signature and must never be blurred into Tomas's vigor loan.
+- The ward roll with a district the tower's map does not carry is planted once, in Chapter 10, and is not pursued afterward. Nobody explains it, nobody names the quarter, and the plant does not recur in Movements II–V.
+- The clerk of record is a retired founding office. Nobody holds it in this volume, and Marek's closing line in Chapter 50 is a thing a clerk says about himself, not an appointment.
 - Hesper is not a cartoon. He is a man who kept clinics open, and he becomes a monster only at Chapter 20 and Chapter 39, when he chooses a person to be the answer.
 - Ilya is not a hero. The sluice costs the ward too, and the volume says so in the resolution.
 - The romance does not advance past professional respect and one argument neither of them wins.

@@ -103,6 +103,8 @@ A Boundary Hold is not a new debt and it does not create one. It does not add a 
 3. If neither can pay, the certifying institution pays. In a false-witnessed contract that institution is usually a living clerk who countersigned in good faith, because a clerk's counter-signature is the institution's act and the tower holds the officer accountable for it.
 4. If no one on the chain can pay, the tower records an ordinary shortfall under §6, which still ends with the affected district. The holder is not a new terminal party and does not become the district's debtor. What the holder carries meanwhile is the toll of having held the delay in his own body, and it stays as a year scar after the shortfall is settled.
 
+The chain follows the **instrument**, not the folder. A settlement file commonly holds more than one signed paper, and a case can turn on which paper carries the false or omitted term. If a false-witnessed entry was countersigned at the counter-desk by one clerk, and a separate certificate elsewhere in the same file was signed by another, the chain walks to the clerk on the false-witnessed entry. The other signature is still evidence, still a career, and still something a hearing can use against its owner; it is simply not where the collection lands. Draft scenes so the difference is legible to the reader in one line of procedure, not as a puzzle.
+
 This is the whole danger of a Hold, and it has hard edges:
 
 - A Hold can never reach a person who did not borrow, guarantee, witness, or certify the contract. People who merely attended a hearing, and bystanders who were present when it went wrong, are unreachable.
@@ -111,6 +113,17 @@ This is the whole danger of a Hold, and it has hard edges:
 - A Hold cannot be released early by paying less. Ending it early ends the delay, not the debt.
 
 A Hold therefore punishes exactly the mistake the tower rewards in a clerk: trusting a clean file.
+
+### The founding standing hold
+
+The oldest surviving remedy in the tower is not a power but a clause, written in the margin of the first reference volume in the same hand that signed its blank opening line. A **standing hold** postpones a settlement until the year is ended, and it is held by **the clerk of record**.
+
+- It changes a due date and nothing else. Every term of the contract stands, the collection is not cancelled, and when the year ends the settlement is due as written.
+- The chain behaves exactly as in §6. The delay is stored in the holder, no party is added, and the toll stays as a year scar.
+- The office of clerk of record was retired a few centuries after the opening. **Nobody holds it.** A clause naming a vacant office cannot be used by anyone with standing, and the tower does not recognize a substitute. Its practical effect for an unauthorized clerk is that there is no office to store the delay in: it goes into his own yearline, all of it, which is why a standing hold attempted by a living clerk lasts bells rather than a year and costs accordingly.
+- A person who takes the duty without authority has not gained a remedy. He has made a private, unenforceable, and very expensive promise in a language nobody is obliged to keep. Treat it that way in every scene.
+
+A standing hold is not a larger Boundary Hold and never becomes one. Marek reaches the clause in Volume 1 and uses it once, badly, without permission, and it is the last use of that remedy in the series. Do not let it recur as a solution.
 
 ## 7. Cancellation and limits
 

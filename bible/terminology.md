@@ -130,6 +130,18 @@ A named future consequence that balances a sequence loan. If a storm is moved aw
 
 Marek's second power stage: briefly hold one settlement or one crossed boundary in place. It postpones rather than cancels a consequence. The delay is stored in his own yearline, and when the hold ends the collection walks the contract's responsibility chain — borrower, then surety, then the living clerk who certified the entry when the chain is false-witnessed. A Hold adds nobody to that chain: if nobody on it can pay, the shortfall still ends with the affected district, and the holder is left carrying the toll of the delay as a year scar. He chooses the settlement and the duration, never the destination, and the cost can never reach a bystander who did not borrow, guarantee, witness, or certify. This ability is not the same thing as a sequence loan's counterweight.
 
+### Standing hold
+
+A founding remedy written in the margin of the tower's oldest reference volume, in the same hand that signed its blank first line **A-0**. A standing hold postpones a settlement until the year is ended, and it is held by **the clerk of record**. It is not a new power, not a second Boundary Hold, and not a way to cancel a debt: it moves a due date to the end of the year and leaves every term of the contract standing. The chain behaves exactly as in any other hold — the delay is stored in the holder, nobody is added to the chain, and the toll stays as a year scar.
+
+### Clerk of record
+
+A founding-era office, not a title in the Trust's table. The clerk of record was the officer who could hold a settlement past its due date on the tower's own behalf, and the office was retired a few centuries after the opening. Nobody holds it in the present day, which is why founding remedies naming it survive only as taught history and why anyone who takes the duty on has taken a vacant office: there is no office behind the words to store the delay in, so the delay goes into the body of the person who took it. The office is not refilled in Volume 1. A clerk may describe himself as the clerk of record as a promise, and never as an appointment.
+
+### The no-copy standing instruction
+
+A standing Trust order on the sealed founding page of the oldest ledger: no clerk may erase the signature on it and no clerk may copy the page. Copying it into a public register is therefore an act against a live instruction, not an oversight, which is what makes a hand-made public copy of that page either a defiance or a crime depending on who is asked. The instruction is never explained or justified in the novel's opening volume; no one in Morrowfen knows whether it protects the tower or the signature.
+
 ### Returnpath
 
 A lawful, difficult procedure for splitting or redirecting an unsettled obligation to consenting holders. It can prevent a collection and return unused capacity to a living person, but it cannot restore a lost life or exact history.
