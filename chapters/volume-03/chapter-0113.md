@@ -46,7 +46,7 @@ Then the argument happened, and it was short, and everybody in it was right, and
 
 "The third terrace is not on that board," said Zofia Teran.
 
-"The third terrace is four lines of ground above the water and the cutting on it is done in the same week as the cutting on the first," said the man with the knife. "And the third terrace sent nobody. It has sent nobody to two of these and it sent a sheet up to the hills for nineteen years and this year it did not send the sheet, and I am not putting a terrace on a board because I would like it on the board."
+"The third terrace is four lines of ground above the water and the cutting on it is done in the same week as the cutting on the first," said the man with the knife. "And the third terrace sent nobody. It has sent nobody to two of these and it sent a sheet up to the hills for nineteen years and then it sent none, neither this year nor the year before, and I am not putting a terrace on a board because I would like it on the board."
 
 "Then the third terrace's cutting gets done by whoever turns up."
 
@@ -100,7 +100,7 @@ And Marek Vale gave him a technically accurate answer about where the head of th
 
 "The third terrace," said Marek, and stopped, about four seconds too late.
 
-"The third terrace has not sent a sheet for a year."
+"The third terrace has not sent a sheet for two years."
 
 "No."
 

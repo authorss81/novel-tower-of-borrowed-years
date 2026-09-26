@@ -54,7 +54,7 @@ Marek put his hand out flat on the desk beside the form and did not touch it.
 
 "There is a terrace in that schedule that has not sent a return."
 
-"One of the four terraces has not sent a sheet this year," said Petrus Lenge, in the voice of a man reading a difficulty off a list he had been reading for four years. "The upland returns are made by the terraces themselves, one sheet, once, in the second month, and that terrace has sent it every year for nineteen. It did not send it this year and the post came and it came and I was told by a traffic clerk on a stair, and I have put that in my own report in the plain words that a party has not returned and the office does not know why, because I am not permitted to send anybody to ask why, and because if I had a reason I would be asked what my reason was based on."
+"One of the four terraces has not sent a sheet for two years," said Petrus Lenge, in the voice of a man reading a difficulty off a list he had been reading for four years. "The upland returns are made by the terraces themselves, one sheet, once, in the second month, and that terrace has sent it every year for nineteen. It did not send it this year and it did not send it the year before, and the post came and it came and I was told by a traffic clerk on a stair, and I have put that in my own report in the plain words that a party has not returned and the office does not know why, because I am not permitted to send anybody to ask why, and because if I had a reason I would be asked what my reason was based on."
 
 "And you have still got to write a figure under that party."
 
