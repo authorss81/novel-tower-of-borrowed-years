@@ -56,7 +56,7 @@ Under the last line of the order in the frame there is one name, in a hand that 
 
 ---
 
-Marek Vale came up the hill at about the second bell, which is the wrong time of day to come up the hill, and he had the recertification list of twenty-two files in his hand with a pencil line on the back of it, and the pencil line was a sentence and a question, and the question was two words long and it had been two words long for nine days.
+Marek Vale came up the hill at about the second bell, which is the wrong time of day to come up the hill, and he had the recertification list of twenty-two files in his hand with a pencil line on the back of it, and the pencil line was a sentence and a question, and the question was two words long and it had been two words long for eight days.
 
 He put it on the corner of the desk, flat, the way a clerk puts a thing down when he is not going to argue about it, and he said, "There is a rate in your account with a kind at the head of it and nine names under it that are not on the Gate tank's count, and I have checked it twice, and I have got nothing."
 
