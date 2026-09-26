@@ -72,7 +72,7 @@ It came out flat. It came out about as flat as a thing can come out, and it is t
 
 "Three times," said Sedge. "Once in a yard in Tallow Ward to about a hundred and forty people, and it was the best thing I have ever said in my life. Once in a printer's shop under a chandler's yard with my hand flat on a margin, and it was nearly as good. And once this afternoon to a man in a wet coat, and it has come out like a rule out of a book.
 
-"That is the cost of it and I have been paying it for a fortnight and I did not know that was what it was. A man who has said a thing three times has stopped being able to say it fresh, and a man who has stopped being able to say a thing fresh is a man who ought not to be cutting anything at all, and I am cutting a thing with a lamp at my elbow, and I know that, and I would like it said out loud in this room by somebody, because if nobody says it then it is a thing I have noticed on my own and I have never in my life been able to trust a thing I have noticed on my own."
+"That is the cost of it and I have been paying it since the seed month and I did not know that was what it was. A man who has said a thing three times has stopped being able to say it fresh, and a man who has stopped being able to say a thing fresh is a man who ought not to be cutting anything at all, and I am cutting a thing with a lamp at my elbow, and I know that, and I would like it said out loud in this room by somebody, because if nobody says it then it is a thing I have noticed on my own and I have never in my life been able to trust a thing I have noticed on my own."
 
 "It is said," said Marek.
 

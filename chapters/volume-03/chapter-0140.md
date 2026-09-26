@@ -36,7 +36,7 @@ She got up off the bench and put her shawl over her head.
 
 ---
 
-Hana Belic came at about the sixth bell and she drew the eleventh tray and had worked it twice a day in the dark from the sixth of the ninth month, and a physician wrote her out of four tray-days in the harvest month and did not write her out of the other seven, and then a physician came back in the growth month to a cough in the small of her back and wrote her out of the evening trays for eleven days, and both certificates went to the board of the clinic and the board entered them as costs, and the district's answer to a cost is a rate.
+Hana Belic came at about the sixth bell and she drew the eleventh tray and had worked it twice a day in the dark from the sixth of the ninth month, and a physician wrote her out of four tray-days in the tenth month and did not write her out of the other seven, and then a physician came back in the growth month to a cough in the small of her back and wrote her out of the evening trays for eleven days, and both certificates went to the board of the clinic and the board entered them as costs, and the district's answer to a cost is a rate.
 
 Her balance is the eleven days. She did none of them, and she has not hidden that, and nobody in the room treated it as anything but a certificate.
 
@@ -96,7 +96,7 @@ He stood at the end of the bench in his coat with his hands in his sleeves and l
 
 "I said a sentence in a copy room on the twentieth of the last month and it came out flat, and I have thought about that every day since, and it came out flat because I have said it three times and a man who has said a thing three times cannot say it fresh.
 
-"There is a shed in Tallow Ward where a line gets read out twice at the ordinary speed and the room does not talk over a line. And I have spent a fortnight deciding that I am not going to put that sentence at the bottom of a piece of paper to be read out twice, because when it is read out twice it will not be a thing a man said in a room any more, it will be a thing the room owns, and in about four years a man will produce it and say that the yard thought so."
+"There is a shed in Tallow Ward where a line gets read out twice at the ordinary speed and the room does not talk over a line. And I have spent a month deciding that I am not going to put that sentence at the bottom of a piece of paper to be read out twice, because when it is read out twice it will not be a thing a man said in a room any more, it will be a thing the room owns, and in about four years a man will produce it and say that the yard thought so."
 
 He put the blank sheet back inside the fold of the form and squared it against the end of the bench.
 

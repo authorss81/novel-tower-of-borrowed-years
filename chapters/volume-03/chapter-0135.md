@@ -52,7 +52,7 @@ Marek Vale found that he had a second question, and it was a good one, and it ha
 
 He did not ask it.
 
-He worked out why in about nine seconds, and the reason was that the question was for him and not for Janko Vrabec, and that a man who has been refused four times in five days does not get to put his own refusal inside somebody else's mouth so that somebody else can be shown to have heard it. And in the growth month a woman of forty-four on a terrace had made him say the true part out loud in her yard before she would answer him, and he had done it, and he was not going to be taught it twice by two different women.
+He worked out why in about nine seconds, and the reason was that the question was for him and not for Janko Vrabec, and that a man who has been refused four times in seven days does not get to put his own refusal inside somebody else's mouth so that somebody else can be shown to have heard it. And in the growth month a woman of forty-four on a terrace had made him say the true part out loud in her yard before she would answer him, and he had done it, and he was not going to be taught it twice by two different women.
 
 So he sat on the bench and did not ask, and Janko Vrabec looked at him not asking, and neither of them said one word about the not asking, and the lamp went on being a lamp with a very small wick in it.
 
