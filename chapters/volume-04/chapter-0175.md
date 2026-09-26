@@ -2,7 +2,7 @@
 
 Roko Bregar had carted clay off the low-ground bank for five months and he came down the lane at the first bell on the sixth of the third month of MR 416 with the cart behind him and one wheel making a noise it had been making since the second of the second month, and he had a board on the near side of the cart with notches cut in it and a date against every notch.
 
-The board is about four feet long and it is the only instrument in this basin with a day against every line on it.
+The board was about four feet long, it was the only instrument in this basin with a day against every line on it, and nobody in the city had told the man who cut the notches that he was keeping a record of anything.
 
 ---
 
@@ -66,7 +66,7 @@ Perpetua Ohl had the book open on the counter and she did not close it, which sh
 
 ---
 
-The boy and the slate and the queue went out of the chapter and into the middle of the day, and Marek Vale stood at the rail afterwards with a thing in his head that he had been carrying since the second month of last year and had got good at not saying, and it was this, and he said it out loud to a counter because there was nobody else in the city he could say it to.
+The boy and the slate and the queue went out of the lane and the middle of the day came in behind them, and Marek Vale stood at the rail afterwards with a thing in his head that he had been carrying since the second month of last year and had got good at not saying, and it was this, and he said it out loud to a counter because there was nobody else in the city he could say it to.
 
 "There are about nine of them in this basin," he said, "and the price says fourteen, and the difference is five, and I have never once said what the five is and I have never once been told what the five is, and I have known both of those figures since the eighth month of last year and I have said them out loud in two rooms and on a bank and on a counter, and I have never once put them next to each other in my own head on purpose."
 

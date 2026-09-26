@@ -2,7 +2,7 @@
 
 The Deputy sent for Marek Vale at the second bell on the thirteenth of the third month of MR 416 and sent for him by a boy of about nine who carried messages for anybody in that part of the city and was paid in kind and was not asked about anything, and the sentence the boy carried was eleven words long and gave no reason.
 
-She had four more questions written on a sheet of foolscap and she had struck three of them out with a pen before Marek Vale came into the room, and she told him so before she asked the first of the one that was left, and she told him the other three as well, and he said nothing at all about any of them, which she noted and did not remark on.
+She had four more questions written on a sheet of foolscap and she had struck three of them out with a pen before Marek Vale came into the room, and she told him so before she asked the one that was left, and she told him the other three as well, and he said nothing at all about any of them, which she noted and did not remark on.
 
 ---
 

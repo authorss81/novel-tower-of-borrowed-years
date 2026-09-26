@@ -18,7 +18,7 @@ Then he washed it off with his sleeve, which took a second, and picked the slate
 
 "There has never been anything on the top of it," he said, "and I have never been asked why, and nobody in this city has ever told me to put anything there, and I want you to understand that I am not putting it there because I have been told to. I am putting it there because in about an hour I am going to write a list under it and I have counted things at this rail for eleven years and I am not going to write a list on a slate with nothing at the top of it, because a number with nothing at the top of it is a number somebody can say is a queue."
 
-He put the number up again, which was the same number.
+The number was on the slate twice and it was the same both times, and above it there was nothing at all, and getting to that had cost him four seconds and a sleeve, and he could not have told anybody in that street what any of it was for.
 
 ---
 
@@ -40,7 +40,7 @@ The room had a rail round three sides of it, four unmatched chairs, a lamp, a be
 
 "Since when," said Marek Vale.
 
-"Since the second of this year," said Zlata Hruska. "In the first month the district put the bins out twice a week. In the second month it put them out once. And in the last week of the second month it has not put them out at all, and there is a notice on the chandler's door about it, and the notice is in the ordinary language of a form and it does not say why."
+"Since the second of this year," said Zlata Hruska. "In the first month the district put the bins out twice a week. In the second month it put them out once. And it has not put them out at all since the fifteenth of the second month, and there is a notice on the chandler's door about it, and the notice is in the ordinary language of a form and it does not say why."
 
 "Does a bin need a witness."
 
@@ -106,6 +106,8 @@ Hold a pitch. Cut a ditch. Let a boat. Have a bin put out on a piece of ground s
 
 Hire a horse, and move a body, and stand in a room twice, and sell a pitch on to somebody who will then not be able to hold it either, and have a lease renewed.
 
+Carry a bin up two steps in the dark, and be told by a district that it is not collecting, and carry it back down.
+
 And the eleventh, which was the only one on the slate that nobody in the room could have named, and which Zlata Hruska gave in a flat voice at the end:
 
 Be told, afterwards, what you signed.
@@ -138,6 +140,6 @@ She trimmed the wick. The lamp came up and went steadier and the room was the sa
 
 ---
 
-At about the eighth bell four women went down the ladder and up the lane with a bin on their shoulders, because the district had not put it out in the last week of the second month and would not put it out in the third, and the chandler's door had a notice on it in the ordinary language of a form.
+At about the eighth bell four women went down the ladder and up the lane with a bin on their shoulders, because the district had not put it out since the fifteenth of the second month and had a notice on the chandler's door saying it would not be put out in the third, and the notice is in the ordinary language of a form.
 
 They went past the wall on the way, and the ten names in chalk were on the wall, and there was a day against every one of them, and the eleventh thing on the slate was the only one on the slate about a person, and none of the four women could read it, and it was on a slate in a room up a ladder and it was worth nothing outside that room, and the bin went up the lane on four backs and the lane did not have to go round it in the dark.

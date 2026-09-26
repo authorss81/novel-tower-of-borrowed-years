@@ -48,7 +48,7 @@ Kade had said on the sixteenth that a district which says nothing has voted, and
 
 "And here is the part I have not said on a bank yet," she said, "and I have been waiting to say it because I wanted to be sure of it, and I am sure of it now because a man who keeps a key stood on that face and told me there was no works.
 
-"The last time this ground was in this position, a rate came on it.
+"The last time this ground was in this position, a rate was going to come on it.
 
 "A rate came on this ground in the fifth month of MR 415. It was going to come. It had been entered and it was going to come on about nine names, and one of the nine is a man called Petar Duss, and Duss is a haulier and he is not a witness to anything and has not been asked to be and is not going to be.
 
@@ -119,6 +119,8 @@ Calder did not go down the lane. She stood at the top of the reach with the list
 "Then we do not have to have that conversation, and I am not going to have it with you on a bank, and I have thought about how to do it twice this month and both times it was going to be about whether a man can be found, and it is not about that any more and it has not been for a fortnight.
 
 "What it is about now is that I have a marshal's instrument and no way to put a name in it, and I have said the list of responsible parties out loud on a bank in front of eleven men, and I have crossed three of them off, and I have got two left and neither of them is a person, and the third month is when the low ground goes under.
+
+"I said three days out loud on this bank in the first month and I am going to do the arithmetic in front of you. The eighteenth I was not on this reach at all, I was up a ladder in a lane, and I am not going to call that the same thing, because a thing said to a street and a thing said to a person are two different facts and I have spent nineteen years telling the difference. The nineteenth and the twentieth you were here for. So there is one day a month now and not three, and nobody has asked me why, and the reason is that three was a number I said out loud and one is a number I can hold to.
 
 "I am going to be on this reach at the sixth bell on the nineteenth of every month for as long as there is a reach to be on. That is not a promise and it is not a threat and it is not in any file of mine, and I would like it said out loud in front of a witness that I said it."
 

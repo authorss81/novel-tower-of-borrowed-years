@@ -72,7 +72,7 @@ He pointed it at line four.
 
 Not at a holding. At the line, all four hundred yards of wet grass, the whole of it, and the same hand went along the board a foot at a time and the trench came out of it and the clay came out of it and the water in the bottom of it went along to a place where there was somewhere for it to go.
 
-It took a day and a half. A machine came down the Counters' Walk at about the seventh bell on the twenty-sixth and went back up it on the twenty-eighth, and the four hundred yards of the Counters' Walk ditch is a ditch, and it is a good one, and a man of fifty-six who has worked that ground for thirty years came down it, walked the whole length of it, walked back up it, and said that whoever laid it wanted the falls the other way for a low ground, and then went to work somewhere else.
+It took a day and a half. A machine came down the Counters' Walk at about the seventh bell on the twenty-sixth and went back up it on the twenty-eighth, and the four hundred yards of the Counters' Walk ditch is a ditch, and it is a good one, and a man of sixty-eight who has worked that ground for thirty years came down it, walked the whole length of it, walked back up it, and said that whoever laid it wanted the falls the other way for a low ground, and then went to work somewhere else.
 
 "The cost comes out of the ground it is put on," said Marek Vale, "and I am going to say it before you ask and I am going to say it in the same words I said in the ninth month, because the words have not changed and what has changed is how much of the line there is.
 

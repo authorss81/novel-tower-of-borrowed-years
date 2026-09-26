@@ -10,7 +10,7 @@ The woman of twenty-two read it and said she could not, and she was right, and s
 
 ---
 
-There are four rooms behind the Threshold, three of them with a business and the fourth eight feet by eleven and where a paper gets compared against a page. The room up the ladder over the dye house has four unmatched chairs, a lamp, a bed with mending on it, and a rail round three sides made out of a bed frame. It is the fifth room in this basin in which anybody has ever sat down on purpose to be asked a question, and the only one of the five with nothing written at the top of a door.
+Behind the Threshold were four rooms, three of them with a business and the fourth eight feet by eleven, which is the room a page gets compared against a paper in. The one up the ladder over the dye house was the fifth room in this basin in which anybody had ever sat down on purpose to be asked a question, and the only one of the five with nothing written at the top of a door.
 
 The lane had about nine people in it by the second bell and what took the rest of the morning was not an argument. It was a list of things asked for, one at a time, by people who were right.
 
@@ -74,7 +74,7 @@ She took the chalk off the kerb where it had been sitting in the mortar for two 
 
 ---
 
-The fifth thing anybody wanted was not a thing anybody asked for, and it was put on the lane by a man of forty-nine with wet hands who had been up that ladder twice in three weeks about a coast.
+The fifth thing anybody wanted was not a thing anybody asked for, and it was put on the lane by a man of forty-nine with wet hands who had been up that ladder four times since the twenty-second of the second month about a coast.
 
 "Take somebody. Not me. I am not offering and I have not offered since the twenty-second of the second month. Somebody in this lane, on a boat, with a piece of chalk on a gunwale, and it will not be a hire and the hire will not be a lease, and I will row.
 
@@ -120,7 +120,7 @@ He was on the second from the bottom when a woman of about thirty-four came out 
 
 "It does not matter. You are fourth on your own list and there are ten above and below you, and I watched you do the other side in the first month. Tell whoever hired you."
 
-"There is nobody to tell," said Zlata Hruska. "That is why it is on a shutter and not on a board in a room, and you are the first person in nine years to make me say a true thing about why. A finding is a thing somebody wrote because they could not get it anywhere else. I wrote it on my own door in pencil on both sides, and I put it on the outside as well because the door was going to be painted in about two months and there is no form in this kingdom on which anybody may be asked to paint over a finding or not to, and I put it on the outside knowing it would be painted over, because the two sides are one finding and when the paint is on there is not one of them left.
+"There is nobody to tell," said Zlata Hruska. "That is why it is on a shutter and not on a board in a room, and you are the first person in nine years to make me say a true thing about why. A finding is a thing somebody wrote because they could not get it anywhere else. I wrote it on my own door in pencil on both sides, and I put it on the outside as well because the door was going to be painted in about nine days, and there is nobody in this kingdom I could have asked to leave it alone, and I put it on the outside knowing it would be painted over, because the two sides are one finding and when the paint is on there is not one of them left.
 "So paint it. You are not doing anything wrong and I am not going to stand here and ask you not to, because if I ask you not to then somebody has asked you, and a thing somebody is protecting is a thing somebody owns."
 
 ---

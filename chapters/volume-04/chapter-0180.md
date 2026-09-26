@@ -2,7 +2,7 @@
 
 The boy of about nine came down the low-ground road at about the sixth bell on the twenty-seventh of the third month of MR 416 with a sentence from a man who keeps the district's tools, and the sentence was seven words long and gave no reason, and the boy was paid in kind for it and was not asked what it was about.
 
-The store is on the low-ground road with a door about seven feet high and a key on a nail inside it, and there were four sledges in it and the smell of clay that has been in a store for a month, and Milos Havel was standing at the counter with his coat on and a sheet of paper in front of him, and his thumb was on the paper and he had not put it on the mark.
+The store is on the low-ground road with a door about seven feet high and a key on a nail inside it, and there were four sledges in it and the smell of clay that has been in a store for a month, and Milos Havel was standing at the counter with his coat on and a sheet of paper in front of him, and his thumb was on the paper and not on the mark, which is a short line printed at the foot of the sheet and is for a name.
 
 Marek Vale walked down from the copy room, which shuts at the six, and the young man who had the form stood up off a stool when he came in.
 
@@ -64,7 +64,7 @@ Havel said the word *right* back at him twice, which is a thing men do.
 
 "What do you get," said Marek Vale, to Mesic, "when he signs it."
 
-"The works," said Mesic. "The account stays on the line through the fourth month, the sledges go out of the store tomorrow at the seventh, the eleven go back on at the eighth, and a foot and a half more goes on the reach before the water is where the water is going to be. That is the whole of it and it is true, and I have checked the water myself twice this month, and I am not a marshal and do not need to be one.
+"The works," said Mesic. "The account stays on the line through the fourth month, the sledges go out of the store tomorrow at the seventh and the eleven go back on with them, and about half a foot more goes on the reach before the water is where the water is going to be. That is the whole of it and it is true, and I have checked the water myself twice this month, and I am not a marshal and do not need to be one.
 
 "And what he pays is a season on his own ground. Not a rate. A season, taken off at the end of it, on the line of accounts, on the same line the ditch is on, and there is no figure for it and there is no figure for the ditch either, and I have not got one."
 
@@ -76,7 +76,7 @@ Havel said the word *right* back at him twice, which is a thing men do.
 
 Havel said yes in about four seconds, and he said it out loud, and he said the reason before the pen was anywhere near the paper, and Marek Vale heard the four seconds go by and could not have stopped them if he had been a different man with a better standing.
 
-"Because the ground goes under in the fourth month," said Havel, "and I put four sledges in that store on the nineteenth of the second month because I had no works to put them on, and I told you then that I was not right to come and I knew it when I was coming and I came anyway. And the eleven have been on the lanes and not on the reach, and I have a man of fifty in the second gang who has done every day of it for five months and nobody has asked him to sit down.
+"Because the ground goes under inside this month," said Havel, "and I put four sledges in that store on the nineteenth of the second month because I had no works to put them on, and I told you then that I was not right to come and I knew it when I was coming and I came anyway. And the eleven have been on the lanes and not on the reach, and I have a man of fifty in the second gang who has done every day of it for five months and nobody has asked him to sit down.
 
 "And the man in the good coat has told me the ground goes under, and he is right, and I have been right about the word *none* and wrong about everything else, and the only difference between those two things is a piece of paper with a season on it, and it comes off my ground and not off his, and I would like it written down that I knew that when I said it, and nobody is going to, and that is correct."
 

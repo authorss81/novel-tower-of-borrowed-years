@@ -68,7 +68,7 @@ Marek Vale put his hand flat on line four of a board on a trestle in a seed hous
 
 That is the whole of it and it took the length of a breath to do and it is not a thing a man can be trained at, and there is no form on which it may be described, and Marek Vale did not describe it, and there is no office in this kingdom in which anybody has ever been told that it happened.
 
-What a man in a seed house would have said is that the ground came up. It is nine days past the ninth month and the second sowing went into the first week and the second sowing is thin everywhere on the low ground and it is not thin there. The drill went through it at the fourth bell and did not have to be lifted. There is no weed in it. A man of fifty-six who has worked that ground for thirty years looked at it for a moment and then went and sat down on a seed bin and did not say anything for about a minute, and then said that it was early, and then said nothing else about it for a week.
+What a man in a seed house would have said is that the ground came up. It is nine days past the ninth month and the second sowing went into the first week and the second sowing is thin everywhere on the low ground and it is not thin there. The drill went through it at the fourth bell and did not have to be lifted. There is no weed in it. A man of fifty-two who has worked that ground for thirty years looked at it for a moment and then went and sat down on a seed bin and did not say anything for about a minute, and then said that it was early, and then said nothing else about it for a week.
 
 And the ditch was a ditch.
 
