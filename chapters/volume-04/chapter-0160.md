@@ -34,11 +34,11 @@ Nim Rook had the certified copy in a flat case between two pieces of card, and s
 
 ---
 
-Marek Vale did not answer for about nine seconds, which was the correct length of time and which he noticed, and then he answered it in the order he understood it, which was the wrong order, and which he had worked out about nine minutes earlier on a stair in a room over a chandler's shop.
+Marek Vale did not answer for six or seven seconds, which was the correct length of time and which he noticed, and then he answered it in the order he understood it, which was the wrong order, and which he had worked out a quarter of an hour earlier on a stair in a room over a chandler's shop.
 
 "A chain that is false-witnessed walks to the person who certified it," he said. "Not to the man in the good coat. To the living clerk who put a name against it in good faith. That is the rule and it is the rule that put a clerk in a ward in the flood year and nobody has ever been able to take it back, and I am not telling you the rule to frighten you, I am telling you the rule because you are entitled to be frightened of it and I am not going to do that.
 
-"And what comes off a certifying clerk I do not know. I have been in this work three years. I have watched a chain land once, on a man of twenty, and it came off him in about nine days and he is alive and his left hand is a nine-year-old's and it is not his. I do not know what it comes off me. I am telling you that I do not know."
+"And what comes off a certifying clerk I do not know. I have been in this work three years. I have watched a chain land once, on a man of twenty, and it came off him in nine days and he is alive and his left hand is a nine-year-old's and it is not his. I do not know what it comes off me. I am telling you that I do not know."
 
 "Then tell me what you think."
 
@@ -54,7 +54,7 @@ Nobody said them out loud. Nim Rook looked at her for about four seconds and the
 
 Marek Vale did not turn round.
 
-"Neris. I am going to ask her a question and I want you to know that I have not asked it yet, and I am not going to ask it until she has been told what it costs, and if you want to say something to me you have about nine seconds and I am not going to stop you."
+"Neris. I am going to ask her a question and I want you to know that I have not asked it yet, and I am not going to ask it until she has been told what it costs, and if you want to say something to me you have a minute and I am not going to stop you."
 
 "I have about nine sentences," said Neris Kade, "and I am going to use one of them, and you are not going to like it, and it is not an argument and it is not about a policy.
 
@@ -64,7 +64,7 @@ He turned round then.
 
 "That is the fourth time you have said a true thing to me that I already know," he said.
 
-"It is the fourth time you have known it about nine seconds before I said it," said Kade. "That is the whole of what I have got and I am not going to say the rest of it in this room, because the rest of it is that you have spent three years being careful and tonight you are going to be quick, and I have watched you be careful in about nine rooms and I have never once watched you be quick, and I do not know which of the two I would rather see in a man in a room with a pen in his hand."
+"It is the fourth time you have known it a few seconds before I said it," said Kade. "That is the whole of what I have got and I am not going to say the rest of it in this room, because the rest of it is that you have spent three years being careful and tonight you are going to be quick, and I have watched you be careful in nine or ten rooms and I have never once watched you be quick, and I do not know which of the two I would rather see in a man in a room with a pen in his hand."
 
 She put her hand flat on the rail and took it off again.
 
@@ -88,7 +88,7 @@ And Nim Rook listened to the whole of it standing up, with her hands on the back
 
 "No," said Nim Rook. "I want a great many things and none of them is that. I have not wanted that since the flood year.
 
-"And I am going to say yes, and I want the true reason said out loud in this room, and the true reason is not that I think you are going to be all right. I think you are not going to be all right. I think you are going to be a man whose word nobody takes, for as long as that paper stands, and that paper is going to be in a room on the fourth of the next month and in a chest after that and in a file for about nine years after that, and I have been in files.
+"And I am going to say yes, and I want the true reason said out loud in this room, and the true reason is not that I think you are going to be all right. I think you are not going to be all right. I think you are going to be a man whose word nobody takes, for as long as that paper stands, and that paper is going to be in a room on the fourth of the next month and in a chest after that and then in a file, and there is no telling how long a file is, and I have been in files.
 
 "And I am saying yes because on the fourth of the next month I am going to stand up and say that I am a witness I never agreed to be, and if I say it with a document it is a claim, and if I say it without one it is a woman having a bad morning, and I have been a woman having a bad morning in this city for three years and it has never once been a finding.
 
@@ -98,7 +98,7 @@ And Nim Rook listened to the whole of it standing up, with her hands on the back
 
 Marek Vale shook the ink. It was a bottle and it had been on a table for about an hour and the skin had formed on the top of it, and he had to break the skin with the nib and that took about four seconds and everybody in the room watched him do it, which is what happens when a person is about to do the thing that the rest of their life is arranged around.
 
-Then he had to pick a pen, and there were two pens on the table, and one of them had a split nib, and he picked the other one, and that is a thing that is going to be in a file about him for about nine years, if anybody ever keeps one.
+Then he had to pick a pen, and there were two pens on the table, and one of them had a split nib, and he picked the other one, and that is a thing that is going to be in a file about him for as long as anybody keeps one.
 
 He wrote his name in the box at the foot of the line. The box is about two inches by one and a half and the name went in it and there was room at the end of it and there was room at the top of it and nothing at the head of it.
 
@@ -134,7 +134,7 @@ And that is the whole of what happened in a room eight feet by eleven behind a h
 
 Marek Vale stood at the side of the table and found that he could not remember whether he had eaten at the first bell, and that he had, and that the room was exactly the colour it had been, and that his coat was on a nail on the back of the door where he had put it himself.
 
-He put his hand on the table to steady himself and the table was solid and did not need it, and he understood within about nine seconds what had happened, and it was not a light in his eyes and it was not a pain anywhere. Nothing came up. There was no ink on the paper at all.
+He put his hand on the table to steady himself and the table was solid and did not need it, and he understood inside a few seconds what had happened, and it was not a light in his eyes and it was not a pain anywhere. Nothing came up. There was no ink on the paper at all.
 
 He had signed, and a chain had walked to him, and what it had taken was not a year and not a season and not a scar.
 
@@ -148,7 +148,7 @@ And at about the seventh bell, in a room eight feet by eleven, in the time it ta
 
 Neris Kade came off the rail.
 
-She did not come across the room. She came about nine inches off the rail and stopped, the way a person stops at a counter.
+She did not come across the room. She came a foot off the rail and stopped, the way a person stops at a counter.
 
 "I am going to say two things and then I am going to go and stand in the hall until the counter opens," she said, "and neither of them is going to be about how you feel.
 
@@ -194,4 +194,4 @@ The lamp burned until the lamp went out, which on that table was about two hours
 
 Marek Vale stayed in the room until about the first bell, on purpose, because he did not want to be in the lane, and there was nothing in the lane.
 
-A certified copy with a clerk's counter-signature against it went into the world on the last night of the ninth month, and it was good, and it was the first of its kind in this basin in about nine years, and in a room behind a hall with six intake windows a man who had read other people's papers out loud four hours a day for a year sat on a bench and worked out that he had spent the one thing he had, and that it had not been taken from him, and that it had been given away by him, in about nine seconds, with a good pen, in the ninth month, with no day on it.
+A certified copy with a clerk's counter-signature against it went into the world on the last night of the ninth month, and it was good, and it was the first of its kind in this basin in nine years, and in a room behind a hall with six intake windows a man who had read other people's papers out loud four hours a day on the days the shed was open sat on a bench and worked out that he had spent the one thing he had, and that it had not been taken from him, and that it had been given away by him, in about nine seconds, with a good pen, in the ninth month, with no day on it.

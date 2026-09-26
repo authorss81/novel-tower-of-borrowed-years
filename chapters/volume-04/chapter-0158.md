@@ -4,7 +4,7 @@ The season works for the district on the Counters' Walk were on a trestle in a s
 
 Line four was the Counters' Walk ditch.
 
-Marek Vale had come down the road at the first bell and had not gone up to the ditch, which was the first thing he had done right in about nine weeks, and the second thing he had done right was not to say so on arrival.
+Marek Vale had come down the road at the first bell and had not gone up to the ditch, which was the first thing he had done right in three months, and the second thing he had done right was not to say so on arrival.
 
 "You are not going to read me anything," said Odile Marn.
 
@@ -26,7 +26,7 @@ Marek Vale had come down the road at the first bell and had not gone up to the d
 
 He asked her what she needed.
 
-She thought about it for about nine seconds, which was longer than he had expected and about four seconds shorter than he had hoped for.
+She thought about it for about seven seconds, which was longer than he had expected and about four seconds shorter than he had hoped for.
 
 "I do not want fuel," she said. "I want you to understand that, because I have had four men in good coats and two of them had fuel on a cart and one of them had money and one of them had a form, and I do not want any of it, and I have two children and a stove and a season behind me.
 
@@ -48,7 +48,7 @@ She thought about it for about nine seconds, which was longer than he had expect
 
 ---
 
-Odile Marn did not answer for about nine seconds, and Marek Vale stood in a seed house and found out that he had done it in the wrong order again — the mechanism first, the cost third — and that it had only come out right because she had made him say the cost and had then waited.
+Odile Marn did not answer for six or seven seconds, and Marek Vale stood in a seed house and found out that he had done it in the wrong order again — the mechanism first, the cost third — and that it had only come out right because she had made him say the cost and had then waited.
 
 "There is a man at the head of this road," she said, "who has worked the ground above mine for thirty years and who came in the seventh month of MR 411 and signed a piece of paper about a wall because I asked him to, and he signed it in a fair small hand and he does not know what he is in and neither do I, and I have never once asked him because I did not want to be a woman who has been told something in a season and goes and asks her neighbours about it in a wet week.
 
@@ -60,7 +60,7 @@ Odile Marn did not answer for about nine seconds, and Marek Vale stood in a seed
 
 "You do not have to come back. You can decide not to have the fortnight."
 
-"I can do that as well," she said, "and I have, and I have done it for about nine minutes, and it is the first decision I have made in a month that was not made for me at a window. Yes. Put it on the ground."
+"I can do that as well," she said, "and I have, and I have done it for a good ten minutes, and it is the first decision I have made in a month that was not made for me at a window. Yes. Put it on the ground."
 
 ---
 
@@ -68,7 +68,7 @@ Marek Vale put his hand flat on line four of a board on a trestle in a seed hous
 
 That is the whole of it and it took the length of a breath to do and it is not a thing a man can be trained at, and there is no form on which it may be described, and Marek Vale did not describe it, and there is no office in this kingdom in which anybody has ever been told that it happened.
 
-What a man in a seed house would have said is that the ground came up. It is nine days past the ninth month and the second sowing went into the first week and the second sowing is thin everywhere on the low ground and it is not thin there. The drill went through it at the fourth bell and did not have to be lifted. There is no weed in it. A man of fifty-six who has worked that ground for thirty years looked at it for about nine seconds and then went and sat down on a seed bin and did not say anything for about a minute, and then said that it was early, and then said nothing else about it for a week.
+What a man in a seed house would have said is that the ground came up. It is nine days past the ninth month and the second sowing went into the first week and the second sowing is thin everywhere on the low ground and it is not thin there. The drill went through it at the fourth bell and did not have to be lifted. There is no weed in it. A man of fifty-six who has worked that ground for thirty years looked at it for a moment and then went and sat down on a seed bin and did not say anything for about a minute, and then said that it was early, and then said nothing else about it for a week.
 
 And the ditch was a ditch.
 
@@ -106,6 +106,6 @@ Odile Marn stood at a trestle in a seed house and looked at a man she had met on
 
 She picked up her apron and shook it out and hung it on the back of a chair.
 
-"I have got a fortnight. I did not ask for a fortnight. I asked for a ditch and I got a fortnight, and in nine months or nine years one of us is going to be sent a bill for the fortnight, and it will not be you, and it will be on this ground, and there is no form in this kingdom on which I can be told that it is coming or not coming, and I would like it noted that I asked for a thing and got a different thing, and that the different thing is better, and that I am going to have to be a person who says that out loud about nine times in the next year to about nine people who were all told the same nine words at a window."
+"I have got a fortnight. I did not ask for a fortnight. I asked for a ditch and I got a fortnight, and in nine months or nine years one of us is going to be sent a bill for the fortnight, and it will not be you, and it will be on this ground, and there is no form in this kingdom on which I can be told that it is coming or not coming, and I would like it noted that I asked for a thing and got a different thing, and that the different thing is better, and that I am going to have to be a person who says that out loud over and over in the next year, to every one of the people who were told the same nine words at a window."
 
-She went back to the bench, and the count went on, and the lamp burned behind her until the seventh bell, and Petrik said a number and did not write it, and Hana Belic wrote it on the bench book with a string across the top of the page and nothing at the head of it, and the wall at the end of the long bench had a sheet of oiled board on it with the days on it and no keeper's name, and about nine people were in the building and about nine more were on the road outside, and the second sowing on the Counters' Walk came up in a fortnight that nobody in this kingdom is going to be able to explain, and the ditch was a ditch, and the ditch had to be cut, and there is nothing whatever in this basin that can cut a ditch.
+She went back to the bench, and the count went on, and the lamp burned behind her until the seventh bell, and Petrik said a number and did not write it, and Hana Belic wrote it on the bench book with a string across the top of the page and nothing at the head of it, and the wall at the end of the long bench had a sheet of oiled board on it with the days on it and no keeper's name, and about nine people were in the building and as many again on the road outside, and the second sowing on the Counters' Walk came up in a fortnight that nobody in this kingdom is going to be able to explain, and the ditch was a ditch, and the ditch had to be cut, and there is nothing whatever in this basin that can cut a ditch.
