@@ -1,0 +1,95 @@
+# Batch 0002 Writer Prompt — Chapters 61–70, "The Fourth Kind"
+
+You are the primary novel writer for *The Tower of Borrowed Years*. This phase owns **Chapters 61 through 70 and nothing else.** Do not write or edit Chapters 1–60; they are finished prose owned by Volume 01's five batches and by Volume 02 batch 0001. **This is Movement II of Volume 02 and the last third of the volume. Do not touch Movements III, IV or V except to plant them.**
+
+## Read first, in this order
+
+1. `AGENTS.md`, `NOVEL_SPEC.md`
+2. `bible/power-system.md` (§2 the five parts, §5 the four limits, §6 shortfall and the chain, the founding standing hold, §10 Marek's progression), `bible/terminology.md`, `bible/world.md`, `bible/characters.md`, `bible/themes.md`
+3. `outline/series.md` (**Volume 02 is *The Sable Market***) and `outline/ending.md` §4 and §5 — **Ovid Merrow is prosecuted in MR 436, so he is not convicted in this volume, and the Sable Compact is not dissolved here.**
+4. `outline/volume-02.md` — **authoritative.** Read the Movement II chapter map (lines under *Movement II — The Fourth Kind*), the locked instruments, the locked figures, the locked names, the volume climax, the concrete resolution, the next-volume question, and the volume guardrails. Do not edit it.
+5. `state/current.md` (**all of it, including "Where the story is on the twelfth of the seed month" and the twenty-two recorded defects**), `state/continuity.md` (**the VOLUME 02, BATCH 0001 section at the bottom is the most important thing in the file**), `state/open-threads.md` (**"Opened by batch 0001" and "Carried into batch 0002"**), `state/chapter-summaries.md` (the ten Volume 02 chapters)
+6. **Voice and immediate continuity: `chapters/volume-02/chapter-0058.md`, `chapter-0059.md` and `chapter-0060.md`, in full.** Also read `chapter-0055.md` for a scene heard through a door, `chapter-0056.md` for a midpoint played as an experiment, and `chapter-0054.md` for how a fair man argues. For Volume 01's register, read `chapters/volume-01/chapter-0047.md` (a hearing played as an account) and `chapter-0035.md` (a ward's own work, and its three refusals).
+
+## Where the story is
+
+**MR 413, the seed month, the twelfth to about the twenty-second. The seed is in the ground. Nine of sixty-one germination trays failed off the oldest kept-back stock, and a shower went over the ridge on the ninth and missed the low ground, and nobody can prove which of the two the fourth clause did.**
+
+- **Marek is a clerk with no office, no standing, no form, and no work.** The recertification list of twenty-two is closed; eighteen were done; **the fourth was not, and he told Sedge, standing up, in nine seconds, and Sedge is going to sign it and has said he will do it badly on purpose.** Marek has four longhand sheets in a flat board in his rooms that are entered nowhere, and a card in his coat with a figure on it that is more than the hall pays.
+- **The chain is nine links and three people know it:** Marek, Ondra Kelb, Ostrowsky. Five households, the low ground's returnable sum, the house, **one Tallow Gate carrier's arrears of forty-three and some months**, and the Tallow Ward district account. **The chain does not sum to anything and the assigned total and the bundle total do not agree.**
+- **The fourth kind is named.** An entry that is not a levy, a schedule, a posting or a return is an assignment, and the settlement desk's form has a fifth box for a district's returnable sum that is the oldest box on the form, and assignments have gone in there for eight years lawfully. **Hesper Rann has not been asked. His four dates have not been touched.**
+- **Ovid Merrow is in Rainmarket with a licence, an unrefuted argument, a card in Marek's coat, and a plan for a page he cannot buy yet.** He has said out loud that he would rather have the oldest page in a year, that he does not know what the marks at the foot of it are, and that he would enter it as a claim with no counterparty and set it against a district in about eleven years, and that he has not been able to make himself not do it.
+- **Rustam Vey's Rainmarket window is barred and correct.** The low ground is two quarters in arrears from flood-years assessments nobody wrote off. **Four households lost a fortnight they did not have. He is not to be turned.**
+- **Tallow Ward** must go back out. **Three hundred and seventy-seven of four hundred and six have never been asked a question by anybody.** The school is shut; Wren Ostrow and the four children off since the twenty-fourth are still off; the school is last on the cut order and the wage is coming out of the carry.
+- **Grale's condition from a yard in the rains is live: the day he proves the line in the account desk, he has to stop.** The fifth box goes back further than eight years and there is a hand in it nobody can place. **That is a different thread from the cut order and nobody may connect the two.**
+- **The carry is 40,900 and due in the ninth month.** The Trust's sealed notice is on the Tally Hall door and has been about five weeks. The public register has a blank line left blank and a signature written out in full.
+
+## Locked instruments and locked numbers
+
+- **The Share's seed instrument** — 2,400, sealed the ninth day of the bad autumn, MR 411, five parts, two witnesses neither paid by the Share, pledged as eleven days' labour each plus a third of the seed kept back, **and a fourth clause reciting a counterweight that names the Rainmarket low ground, which is correct, and which no chapter may find a defect in.** The clause is on the back of the second leaf; the schedule is at the back of the fifth.
+- **The assignment schedule** — fifty-two lines of sixty-one, total 1,916, no rate box, the only heading that is not old is *assignor*. Nine members have nothing to assign. **Iren Orleb's is dated the fourteenth of the second month, MR 411.**
+- **The bundle, or the paper** — sold as one line at 300, with a stated rate and an unstated counterweight, carrying Halvard Sunn's Tide Reckoning counterseal. **There is no borrower in the Compact's house.**
+- **Figures that must not be made to close:** 640, 440, 279h 40p and 441 (Tallow's four hands, still in the record, still unadjudicated, still not to be chosen between); 160 lawful hundreds of pints; sixty pints in nine days; 240 and 580 per cent; 40,900 the carry. **Rainmarket is a different account from Tallow and must not be given Tallow's numbers.**
+
+## Power rules for this batch
+
+- **Ledger Sight: at most one panel, and zero is the target.** Six uses in sixty chapters, and the last one was spent alone in a room with nobody in it. **A panel in front of somebody is a reason to be asked questions in a room, and a room takes its answers from men who can sign.** In this batch the second cost is not the Sight — it is that a man with no office keeps being let into rooms because he is useful, and Neris Kade said in Chapter 52 that somebody is going to take the usefulness off him at the worst possible moment and it will not be malicious, it will be a Tuesday. **The batch should be able to make the reader feel that Tuesday arriving without the Sight being used at all.**
+- **No Boundary Hold in this batch.** Both of the volume's holds belong to Movement III, they are on **lawful** instruments, and the lesson is that a hold delays perfectly and cannot touch a market's legal consequences. **Nobody may wish for a hold.** **The founding standing hold was used once in the series, in Chapter 8, it is spent, and nobody may suggest a second one is available or desirable.** Nothing above Boundary Hold.
+- **Marek's forearm is not described, referred to, or looked at in this batch.** The year scar is Volume 16's account and MR 435's public testimony. Do not let a second person decode it and do not soften it.
+
+## What this batch must do
+
+- **Chapters 61–70 are Movement II: the fourth kind.** Follow the chain one link at a time, get to Hesper Rann in a cell and let him name the kind and credit nobody, and put the ward back out on its own doors. **The batch's central institutional discovery is the fifth box and the hand in it, and the batch's central human discovery is that a ward is the only account in the city that can take a stranger's uncollectable money without anybody's name going anywhere.**
+- **Chapter 62 owns Hesper.** He is asked a question by a Crown March officer, he answers it correctly, he names the kind, and **he does not name the fourth date and he does not say he was wrong about the gate.** The officer's minute is the first thing in three hundred years that records the fourth kind. He may name the other three dates again if he wants to; **Grale's fourth is not his to give.** Do not let him become a confessor or an informer in the shape of a good man. He is a tired man who chose a person once and would do it again and has never once said sorry.
+- **Chapters 63–64 own Tallow Ward's second round of doors and the ward's refusal.** The method is a ward document and **must not be credited to Marek.** The yard's rules are permanent: ask at a door, one household at a time; ask the household, not the yard; write the answer in the words it was given in; a stopping is a stopping; two of you, a keeper's and a reader's, never one keeper and never one reader; nobody is to be asked why they are refusing, twice. **The keeper's and the reader's are of the yard, which is the rule that keeps the record out of a hall's hands and it is also the reason Marek cannot help and is not missed.** The first round was nineteen pairs, forty-one doors, twenty-nine answers and three refusals, and **the nineteen working sheets are on a nail at the tank with their strings on.**
+- **Chapter 66's attempt to make the Compact produce its counterparties must fail on a point of form, by a margin of one sentence.** Do not fail it on villainy and do not fail it on a clerk's kindness.
+- **Chapter 67 must apply Vey's rule correctly and put a signature on a cut order with a hand that goes bad on the last letter** — and it is the last cut order that has an officer to sign it, and the batch should let the reader feel that without saying so.
+- **Chapter 68 belongs to Wenna Drel, sixteen.** She is on the roll because her mother is, she drew seed, she has never voted, and in Chapter 59 she signed on the line where her mother signs. **Ferrow wrote her name in a second hand on a second line, on a separate paper, kept it, said it is worth exactly nothing, and refused to put the mother's illness on any form. That paper must not become evidence.**
+- **Chapter 69 is Ovid Merrow's answer, and it is a rival register, and it is better than anybody expected.** He is not refuted by a lie, by a confession, or by a rival's bad manners. He wins something.
+- **Chapter 70 must name the volume's clock out loud** and must not resolve it. Bel Harrow is asked for a date and cannot give one. **A Crown March representative can call a meeting and cannot pay anybody out of it.**
+
+## The volume's spine, which this batch must not spend
+
+**The chain arrives in Tallow Ward in the ninth month, and the carry comes due in the ninth month, and both of them end on the same account.** Movement V owns that. **The chain's ninth link is a district account because a ward is not a person, and that is the volume-1 rule with a market attached to it.** A later batch may not spend the arrival, may not let the chain be fully traced in public, and may not let anybody in Morrowfen find out that Tallow Ward is the end of it before Chapter 93.
+
+## Required character changes
+
+- **Marek:** from a man who has said no once to a man who has to live inside a thing that is now happening without him. **His use of being useful must cost him a room in this batch**, and the room must be one he wanted. He does not get a hold, he does not get an office, and he does not get a form. What he has instead is a sheet of four words in pencil on the back of a list in his coat, and **that is not a document and must not become one.**
+- **Neris Kade:** from being right about him to being right about a market and **unable to do anything about either.** Her own district's paper is still not surfaced and must not be surfaced by anybody but her. **She is not thanked in this batch and does not expect to be, and the Tuesday Marek predicted may arrive on her instead of on him.**
+- **Ondra Kelb:** has named the kind and the chain. He is a person other people ask things of now, and he does not want to be, and his left hand is still a nine-year-old's and still not his. **He is not written to forgive and not written to blame and he is not asked about the hold.**
+- **Aldis Kern and the ward:** go back out on their own doors, with their own method, and refuse something in their own words, and **the refusal is entered and stands and nobody comes back to it.** The ward is not grateful, not forgiven, and not a party to anything.
+- **Ovid Merrow:** builds something that works. **He must be more useful to Rainmarket at the end of this batch than he was at the start, and that is the correct shape of the batch's escalation.**
+
+## Required world reveals, all small and all institutional
+
+- **What a district's returnable sum is and who may hand it over**, and why an uncollectable private sum of under fifty has nowhere else to be put.
+- **What a Crown March minute is for**, and that the first one in three hundred years recording a kind of entry is a bigger event than a conviction.
+- **What a ward's own asking looks like the second time, one month later, with the same rules**, and what it costs the people who answer.
+- **Why a copy of a rate cannot be produced but a rate can be read**, and why a man with no office can do the second and not the first.
+- **Why a Saltglass counterseal cannot be checked in Morrowfen, and what that does to an audit.**
+
+## Guardrails
+
+- **Do not answer the missing year, name the Last Convocation, the First Account or the Founder's Clause, or explain A-0. Nobody in Morrowfen knows who A-0 is.** Ovid Merrow does not know what the marks are and must not learn in this volume, and must not learn that the page has been copied.
+- **There is no villain in this batch.** Do not manufacture one. The only criminal available is a rule that puts a cost in a box with no person in it.
+- Do not introduce a Choir, a military body, a regional political crisis, a Crown of Continuation, a second lender, or the Saltglass Harbor Council. **A harbor notary is not the Council.**
+- **A ward is not a person.** Do not restate the whole rule a third time in a mouth. **Do not make anybody discover the missing year, and do not let a market character explain A-0.**
+- The romance does not advance past professional respect and one argument neither of them wins.
+- **End the batch on a clock that has been named, not on a resolution.** Nothing in Chapters 61–70 may be described as a resolution of the volume's central pressure, and no office may be closed, no licence withdrawn, and nobody may be convicted.
+- **Never pad, and never cut a complete scene to hit a number. If you overrun, record the honest figure in `state/current.md` and do not round it down.**
+
+## Length and panel budget
+
+**Target 24,000–28,000 words across ten chapters**, working figure **2,400–2,900 per chapter**, with Chapters 62, 66 and 70 allowed about 3,100. **Volume 01's batches ran long and the finding is recorded as unresolved; treat the ceiling as advisory and never as a number to be met by cutting a good scene.** **Panel budget: at most one Ledger Sight panel in the whole batch, and zero is the target.**
+
+## Engines, and the one to avoid
+
+**Batch 0001's reviewable weakness is on the record: Chapters 53 and 60 were both copy-room scenes at a long table and 56 was a counting-floor scene at a long table.** They were different work and four and three chapters apart, but the shape recurred. **Do not let that happen again.** Suggested engines: **61** is a yard and a carrier's yard and a man who is owed forty-three; **62** is a cell, an officer, and a list read before it is discussed; **63** is nineteen pairs going out again; **64** is a yard and a refusal in the yard's own words; **65** is a bench and a season; **66** is an attempt that fails on one sentence; **67** is a frame, a board and a signature; **68** is a girl of sixteen and a second line; **69** is a rival register; **70** is a man who can call a meeting and cannot pay anybody out of it. **No chapter's load-bearing event may be a document read out to a room, and no chapter may end on a figure or a notice spoken to a crowd.** There may be one reading in a room in this batch, in Chapter 62, because the officer's minute is the batch's institutional object — and it is the chapter's point, not its set-piece.
+
+## After the batch
+
+1. Write the ten chapter files as `chapters/volume-02/chapter-0061.md` through `chapters/volume-02/chapter-0070.md`.
+2. Update `state/chapter-summaries.md`, `state/continuity.md` and `state/open-threads.md` compactly. **Do not resolve the year scar, the house book, Pella Rusk's surety cell, the Fund's discharge book, the Hollow Galleries, the carry's origin, the unclaimed take-off, the Kallow roll, Grale's cut-order suspicion, Neris Kade's own district's paper, or the missing year.** Record any proposed canon change in continuity rather than inventing it silently, and **treat every verification sentence in the state files as unproven until the chapter has been re-read** — that is the rule this repository learned the expensive way in Volume 01 batch 0005.
+3. Rewrite `state/current.md` for the batch 0003 writer.
+4. Do **not** edit `state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json`, `outline/ending.md`, `outline/series.md`, or `outline/volume-02.md`.
+5. Volume 02 has four batches after this one. **Create exactly one next artefact: `workspace/volume-02/batch-0003/PROMPT.md`, owning Chapters 71–80, "What a Counterweight Is."** Create nothing beyond that, and create exactly one.
