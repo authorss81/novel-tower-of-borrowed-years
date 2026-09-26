@@ -10,9 +10,9 @@ She had four more questions written on a sheet of foolscap and she had struck th
 
 "You are not a party. Nobody has called you. You have no standing, no office, no pay, no vote, and no right of entry, and you told me all of that in nine seconds in the doorway and it is correct, and I am going to sit here and take your answers and then do nothing whatever with them, and I have told you that in advance because I would rather you heard it from the chair than worked it out over two months.
 
-"And I am going to do it anyway, and the reason I am going to do it is that you are the only person in this basin who has seen any of it happen, and there is a document in a book that says an instrument cannot do what it is for, and it is in a book because a marshal asked a room to write something down, and it is going to be produced at somebody in about four years, and there is not one fact in it that anybody can stand behind.
+"And I am going to do it anyway, and the reason I am going to do it is that you are the only person in this basin who has seen any of it happen, and there is a document in a book that says an instrument cannot do what it is for, and it is in a book because a marshal asked a room to write something down, and it is going to be produced at somebody in four years, and there is not one fact in it that anybody can stand behind.
 
-"Answer what is put. Short answers. Do not explain the mechanism. There are nineteen people in this building who have the mechanism and about nine of them have had it wrong on purpose and one of them had it wrong for nineteen years because she was twenty-four and it saved a quarter of a sheet, and none of that is in this room and none of it is wanted in this room."
+"Answer what is put. Short answers. Do not explain the mechanism. There are nineteen people in this building who have the mechanism and nine of them have had it wrong on purpose and one of them had it wrong for nineteen years because she was twenty-four and it saved a quarter of a sheet, and none of that is in this room and none of it is wanted in this room."
 
 ---
 
@@ -30,7 +30,7 @@ The fourth was that on the eighteenth of the first month a settlement marshal wr
 
 "I do not need it in the finding."
 
-"I know you do not need it. That is precisely why it goes in. A marshal's book is not a book anybody in this city reads, and a book in this building is, and in about four years the difference between the two is going to be the difference between a man who was refused a standing and a man who was never asked for one.
+"I know you do not need it. That is precisely why it goes in. A marshal's book is not a book anybody in this city reads, and a book in this building is, and in four years the difference between the two is going to be the difference between a man who was refused a standing and a man who was never asked for one.
 
 "I am a clerk and it is the only verb I have got and I am going to use it. Next."
 
@@ -40,7 +40,7 @@ The fifth answer was that he has been to the records office at Verrow twice, a n
 
 "Can the court enter a minute that has never been acted on."
 
-"The court can enter that a minute exists," said Deputy Tolek. "The court cannot enter what it means and I am not going to try, because in about four years a man will produce it against a filing clerk and he will not produce it against me, and the difference is that a filing clerk answers for what he wrote and I answer for what I entered."
+"The court can enter that a minute exists," said Deputy Tolek. "The court cannot enter what it means and I am not going to try, because in four years a man will produce it against a filing clerk and he will not produce it against me, and the difference is that a filing clerk answers for what he wrote and I answer for what I entered."
 
 ---
 
@@ -52,7 +52,7 @@ He had gone to the shed at the Gate in Tallow Ward. The shed had been a register
 
 "A period is a fact about a shed. A shed can be shown to a person. I can put a period in a book and a person can walk to Tallow Ward and stand in front of the door and see that it is a shed and that it is shut, and that is what a fact is, and that is why I can enter one.
 
-"It took you three years to work that out and it took me about four seconds to enter it, and I am not going to pretend those are the same kind of work, and I am not going to be gracious about it either, because you have not once in three years come into a room and given me the easy thing first."
+"It took you three years to work that out and it took me four seconds to enter it, and I am not going to pretend those are the same kind of work, and I am not going to be gracious about it either, because you have not once in three years come into a room and given me the easy thing first."
 
 ---
 

@@ -1,6 +1,6 @@
 # Chapter 174 — A Physician's Winter
 
-Sera Holt was at the clinic at the eighth bell on the second of the third month of MR 416 with a bag on the table and a tray of sheets out of it, and the tray had come off the low ground that morning with about nine sheets in it and a man from the district office had come with it and had put a paper on the desk face down and had not said anything for about a minute.
+Sera Holt was at the clinic at the eighth bell on the second of the third month of MR 416 with a bag on the table and a tray of sheets out of it, and the tray had come off the low ground that morning with nine sheets in it and a man from the district office had come with it and had put a paper on the desk face down and had not said anything for about a minute.
 
 "There is no form on this," he said.
 
@@ -12,7 +12,7 @@ Sera Holt was at the clinic at the eighth bell on the second of the third month 
 
 ---
 
-She was fifty-two and she had been a physician for twenty-six years and a senior witness for nine of them, which is a thing that gets left behind in about four years because a person stops being the sort of person who can be asked, and she had been the sort of person who could be asked until a year in which she stopped being willing, and nobody in this city has ever worked out which of the two happened.
+She was fifty-two and she had been a physician for twenty-six years and a senior witness for nine of them, which is a thing that gets left behind in a few years because a person stops being the sort of person who can be asked, and she had been the sort of person who could be asked until a year in which she stopped being willing, and nobody in this city has ever worked out which of the two happened.
 
 "You are going to ask me what a certificate is for," she said, "and I am going to answer it, and I am going to answer it the way I answered a man in a seed house a year ago, and I am not going to be quick about it.
 
@@ -68,7 +68,7 @@ She put two fingers on the face-down sheet.
 
 The ground had gone off completely. A barrow could not have been got up the top of the reach and there were two men on it with barrows proving that at about the fourth bell, and the clay in the face had the sheen on it that clay has when the water is behind it and looking for somewhere to come out.
 
-They got down to the top of the reach and Holt put the bag on a stone that was dry and opened it, and there were sheets in it, and on the top of the sheets there was one that had a mark in the left-hand margin opposite a line, a small hooked stroke with a short bar under it, made in about two seconds by a hand that was not either of theirs.
+They got down to the top of the reach and Holt put the bag on a stone that was dry and opened it, and there were sheets in it, and on the top of the sheets there was one that had a mark in the left-hand margin opposite a line, a small hooked stroke with a short bar under it, made in two seconds by a hand that was not either of theirs.
 
 Marek Vale looked at the brickwork above the bag and she looked at the low ground and neither of them said one word about it, and it was not spoken of again, and there is no form anywhere in this kingdom on which anybody may be entered as having seen it or not seen it.
 
@@ -92,7 +92,7 @@ The two men with the barrows had stopped. One of them said that they had a man o
 
 "A body's calendar is what a person can do in a week, and when, and how many weeks of a year are any use to a body. A field's calendar is a year, and the district can be named in it, and when the district can be named in it the year is a fine thing to charge against. Those are two calendars and they have never once lined up and there is no office in this city that has both of them in it, and a field's calendar does not have a place in it where a person is asked how he is.
 
-"So the low ground is going to be worked in a field's calendar, in the third month, by people who are in a body's, and there is no box on either for that, and in about nine months there will be a great many people on this ground who cannot do what they did in the first, and the ground will have a figure on it, and the figure will be the district's, and there will be no person in it anywhere."
+"So the low ground is going to be worked in a field's calendar, in the third month, by people who are in a body's, and there is no box on either for that, and in nine months there will be a great many people on this ground who cannot do what they did in the first, and the ground will have a figure on it, and the figure will be the district's, and there will be no person in it anywhere."
 
 ---
 
@@ -114,4 +114,4 @@ Sera Holt closed the bag and put her hand flat on it.
 
 They went back up the lane at about the sixth bell and the reach behind them had nine men on it and two men on it not quite, and the man of fifty in the second gang was one of the nine and did not know that anybody had counted him and would not have cared.
 
-On the desk in the clinic the district's form was still lying face down where she had left it, and she had not read it and she was not going to, and at the fourth bell a boy of about nine who carried messages for anybody in that part of the city and was paid in kind and was not asked about anything took it back down to the district office without knowing what it was, and no certificate went out of that clinic on the second of the third month of MR 416, and the ground was not stopped by it, and the eleven went out at the seventh bell and two of them put a hand on a bank at about the fourth hour after that, and nobody wrote any of it down, and the tray of nine sheets out of the low ground went back into the bag, and the bag went on a shelf in a clinic in a city where there is no form on which anybody may be entered as having been in the third month at all.
+On the desk in the clinic the district's form was still lying face down where she had left it, and she had not read it and she was not going to, and at the fourth bell a boy of about nine who carried messages in that part of the city and was paid in kind and was not asked about anything took it back down to the district office without knowing what it was, and no certificate went out of that clinic on the second of the third month of MR 416, and the ground was not stopped by it, and the eleven went out at the seventh bell and two of them put a hand on a bank at about the fourth hour after that, and nobody wrote any of it down, and the tray of nine sheets out of the low ground went back into the bag, and the bag went on a shelf in a clinic in a city where there is no form on which anybody may be entered as having been in the third month at all.

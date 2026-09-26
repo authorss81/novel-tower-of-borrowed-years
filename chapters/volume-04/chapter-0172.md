@@ -2,7 +2,7 @@
 
 Drazen Topic put the slate down on the rail at the first bell on the twenty-second of the second month of MR 416 and said the number and then, for the first time in eleven years, put something at the top of the slate.
 
-He wrote it in a hand that was no better than the hand he had been writing numbers in all his life, and it took him about four seconds, and about nine people going past on a market road watched him do it.
+He wrote it in a hand that was no better than the hand he had been writing numbers in all his life, and it took him four seconds, and nine or ten people going past on a market road watched him do it.
 
 Then he washed it off with his sleeve, which took a second, and picked the slate up and put the number up again.
 
@@ -30,7 +30,7 @@ He had been asked the question at the rail and he had not answered it there, and
 
 "I said I would ask somebody," said Drazen Topic, "and I have been standing at this rail for about a quarter of an hour working out that I do not know anybody to ask, which is a thing I have known for eleven years and have never had to say."
 
-Nim Rook came down the market road with a satchel and did not slow down, and he fell in beside her without asking, and about four ways later and without a street being named they were at the end where the steps go down and the water comes up, and there was a ladder up the outside wall of a dye house with three bad rungs at the top.
+Nim Rook came down the market road with a satchel and did not slow down, and he fell in beside her without asking, and four turnings later and without a street being named they were at the end where the steps go down and the water comes up, and there was a ladder up the outside wall of a dye house with three bad rungs at the top.
 
 ---
 
@@ -90,7 +90,7 @@ Nobody said anything.
 
 "Marek. Get the slate."
 
-The man who counted at a rail turned the slate over and put it down flat on the table, and it was a slate and not a piece of paper, and it had a head on it in his own hand, and he had written the head at the first bell in front of about nine people on a market road and had washed it off and written it again.
+The man who counted at a rail turned the slate over and put it down flat on the table, and it was a slate and not a piece of paper, and it had a head on it in his own hand, and he had written the head at the first bell in front of nine or ten people on a market road and had washed it off and written it again.
 
 He wrote the head again where Zlata Hruska could see it. It said:
 

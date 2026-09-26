@@ -78,7 +78,7 @@ It took a day and a half. A machine came down the Counters' Walk at about the se
 
 "Not a person. A ground, and a season on that ground, and not this season. This season is now. Next season, on the line, and on the line and not on the holding behind your wall, because I pointed at the line and I pointed at it on purpose.
 
-"And I do not know what a season weighs. I have been in this work three years and I have never once known until about nine months afterwards, and there is no form on which I could tell you today, and I am telling you so that in nine months you will not be told it by a stranger."
+"And I do not know what a season weighs. I have been in this work three years and I have never once known until nine months afterwards, and there is no form on which I could tell you today, and I am telling you so that in nine months you will not be told it by a stranger."
 
 ---
 
@@ -92,7 +92,7 @@ Odile Marn stood in a ditch and looked along four hundred yards of it.
 
 "So that is where it goes. A season on a line, and a line is not a piece of ground, it is a border between two pieces of ground, and a border has two addresses, and the cost does not have one, and it will come to both of us at about the same time and neither of us will know to say no.
 
-"And I have been waiting five months for a person to come up this road and cut this ditch and I have imagined it about nine hundred times, and in every one of the nine hundred it was a man with a machine and a board and a thing he was allowed to do, and I never once imagined the bit after, and I would like it noted that I was not able to imagine the bit after because nobody told me there was one, and that is the last time anybody is going to be able to say that about me."
+"And I have been waiting five months for a person to come up this road and cut this ditch and I have imagined it hundreds of times, and in every one of them it was a man with a machine and a board and a thing he was allowed to do, and I never once imagined the bit after, and I would like it noted that I was not able to imagine the bit after because nobody told me there was one, and that is the last time anybody is going to be able to say that about me."
 
 ---
 
@@ -104,7 +104,7 @@ Milo Trban had not gone home. He was still at the door of the seed house with hi
 
 "I want to say the thing about it and then I am going to go to my ground," he said. "I have stood at this door for about an hour and worked out that you have known for five months that the only man in this basin who could put a hand on that board in a way anybody would believe is a spent witness with no office who has a sheet in a flat case with two names at the head of it, and I have worked out that in the ninth month of last year you did that behind my neighbour's wall and did not ask me, and that she looked at my wall afterwards and decided something and has never told me what.
 
-"And I am not saying you were wrong. I am saying I would have said yes, and I would have said yes in about four seconds, and I have had five months of not knowing, and I would rather have had the four seconds.
+"And I am not saying you were wrong. I am saying I would have said yes, and I would have said yes in four seconds, and I have had five months of not knowing, and I would rather have had the four seconds.
 
 "That is all. I am not going to be thanked and I am not asking for anything and I have a sowing to go and see to."
 

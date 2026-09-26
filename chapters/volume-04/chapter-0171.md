@@ -16,13 +16,13 @@ The bank was a foot high at that end and about a mile and a bit long and the foo
 
 Nobody touched the face.
 
-Havel got the men to move the sledges that were still on the top back about twenty feet, off the line the sweat had come up, and he did it in about nine minutes and he did not raise his voice once, and then he stood at the top of the reach with his hands in his coat.
+Havel got the men to move the sledges that were still on the top back about twenty feet, off the line the sweat had come up, and he did it in nine minutes and he did not raise his voice once, and then he stood at the top of the reach with his hands in his coat.
 
 "I am not here on behalf of anybody who has authority over you," he said. "I have the key to the store and the store is on the low-ground road and everything in it belongs to the district, and if there is no works in force then the tools go back into the store tonight, because a tool that is out of a store is on a district and a tool that is in a store is on a store."
 
 "Whose works is in force," said Calder.
 
-"None, and I have got a board on a trestle up there that says otherwise, and I have been the man who keeps the tools for nine years and I have never once had to say the word *none* about a works board, and I would like it noticed that it is about nine seconds past six and the copy room shut at six and I have not got anywhere to be."
+"None, and I have got a board on a trestle up there that says otherwise, and I have been the man who keeps the tools for nine years and I have never once had to say the word *none* about a works board, and I would like it noticed that it is a minute past six and the copy room shut at six and I have not got anywhere to be."
 
 "It is the six," said Marek Vale.
 
@@ -34,7 +34,7 @@ The board was on a trestle about forty feet back from the broken face and it had
 
 The district had been asked on the eighteenth and had not answered.
 
-Kade had said on the sixteenth that a district which says nothing has voted, and had said it about four days before anybody else thought of asking, and the district had then gone on not saying anything for a month, and there is no form on which a district may be entered as having declined, and there is no form on which it may be entered as having agreed either, and a silence is not a thing anybody can serve.
+Kade had said on the sixteenth that a district which says nothing has voted, and had said it four days before anybody else thought of asking, and the district had then gone on not saying anything for a month, and there is no form on which a district may be entered as having declined, and there is no form on which it may be entered as having agreed either, and a silence is not a thing anybody can serve.
 
 "Right," said Calder. "I am going to say the whole of this in the order I say it and I am not going to soften any of it, and then Milos is going to take the sledges off in an hour and I am not going to stop him.
 
@@ -110,7 +110,7 @@ He went down the lane after the sledges.
 
 ---
 
-Calder did not go down the lane. She stood at the top of the reach with the list on the board against her knee and looked at about nine feet of clay that had been standing for six weeks and was now in the low ground doing exactly what clay does.
+Calder did not go down the lane. She stood at the top of the reach with the list on the board against her knee and looked at nine feet of clay that had been standing for six weeks and was now in the low ground doing exactly what clay does.
 
 "You were here on the twentieth of the first month," she said.
 

@@ -1,8 +1,8 @@
 # Chapter 178 — The Four Who Are Willing
 
-Zvonko Maras came up the ladder on the seventeenth of the third month of MR 416 and stood on the two steps at the bottom of it for about four minutes with his hands behind his back and did not come up, and the boy of about nine who carries messages in that part of the city came up once to ask him whether he wanted a cup of something and then went down again without an answer.
+Zvonko Maras came up the ladder on the seventeenth of the third month of MR 416 and stood on the two steps at the bottom of it for four minutes with his hands behind his back and did not come up, and the boy of about nine who carries messages in that part of the city came up once to ask him whether he wanted a cup of something and then went down again without an answer.
 
-"Three months," he said, at the top of the ladder, to nobody. "I have had a stone in my boot for about four seconds of it and I want it out and I am not going to ask anybody to do it."
+"Three months," he said, at the top of the ladder, to nobody. "I have had a stone in my boot for four seconds of it and I want it out and I am not going to ask anybody to do it."
 
 "You can come up and sit down," said Zlata Hruska, "and nobody in this room is going to ask you a question, and that is not a courtesy, it is the standing business of the room and it started in the first month and it has never been suspended."
 
@@ -22,7 +22,7 @@ Jelka Sondor is at the coast. She went on the second of the first month and has 
 
 So Topic read the four names out of his own head, which he had been given by a man with no office on a market road and which he had written on the slate with a head on it in the second month and had never written anywhere else, and then he put the slate down the other way up and said that he was not going to write the four down again anywhere and would somebody like to explain why not.
 
-"Because you are going to be asked," said Zlata Hruska. "A list of what four people said in a room is a document, and a document is a thing a man in a good coat produces at somebody in about four years, and I have been at a door for nine years asking people one question and I have never written one of them down, and that has cost me every advantage I have and I am not going to lose it in a fortnight because somebody asked nicely."
+"Because you are going to be asked," said Zlata Hruska. "A list of what four people said in a room is a document, and a document is a thing a man in a good coat produces at somebody in four years, and I have been at a door for nine years asking people one question and I have never written one of them down, and that has cost me every advantage I have and I am not going to lose it in a fortnight because somebody asked nicely."
 
 ---
 
@@ -38,7 +38,7 @@ So Topic read the four names out of his own head, which he had been given by a m
 
 "You have been produced," said Zlata Hruska, to Zvonko Maras.
 
-"Once. In the sixth month of last year. In a queue with about nine people in it and a man in a good coat who said five words and asked me nothing at all." He did not sit down. "I was in a coal bay. I did not know until October and I have not been able to think about anything else since, and here is the thing I want in the air in this room, because I have got nobody to say it to and there is a whole district in this city of people who have been told things at a window and there is no room anywhere that any of them is in.
+"Once. In the sixth month of last year. In a queue with nine or ten people in it and a man in a good coat who said five words and asked me nothing at all." He did not sit down. "I was in a coal bay. I did not know until the sixth month of last year and I have not been able to think about anything else since, and here is the thing I want in the air in this room, because I have got nobody to say it to and there is a whole district in this city of people who have been told things at a window and there is no room anywhere that any of them is in.
 
 "I signed about that roof in the second month of a year six years ago because there was a boy in the household, and the boy is a man of about twenty-nine now and he pulls a truck out of the bay at the first bell, and I have never told him what I signed and I am not going to tell him in a room with four people in it.
 
@@ -52,7 +52,7 @@ Topic had the slate face down on the table and his hand on it.
 
 "I am the only one of the four whose paper is not a paper," he said. "Three of you have got sheets. I have got a copy of a page out of a drawer up that river, and a man with no office took it out of the drawer on the eleventh of the first month because a person of record may have a copy of a page and there is a form for that one, and it is the only one of the four that anybody in this kingdom has ever filled in for anybody else.
 
-"I have read it at a rail. I read it on the ninth of the first month and I put the number up and I went back to work. I have counted at that rail for eleven years and I have counted about nine hundred people a morning and I have never once had a number put in front of me that I did not put there myself, and I am not going to start now, and I did not start then.
+"I have read it at a rail. I read it on the ninth of the first month and I put the number up and I went back to work. I have counted at that rail for eleven years and I have counted nine hundred people a morning and I have never once had a number put in front of me that I did not put there myself, and I am not going to start now, and I did not start then.
 
 "So I am willing because I would like to be in a room where somebody reads out the number and it is the same number twice, and because I have never once in eleven years written anything down about a person, and I have been asked to today by a woman with a form at a counter, and I said no, and I am saying no again now, and I would like that on the same slate as everything else and I would like the same slate to go down the ladder afterwards."
 

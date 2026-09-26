@@ -16,7 +16,7 @@ The board is about four feet long and it is the only instrument in this basin wi
 
 He put a hand on the board and did not turn it over.
 
-"Eleven of those are still in the district's carting and there are about two hundred and some notches on this board and the rest of them are in the district's store yard where a clerk puts them once a month, and neither of those places has ever sent me a figure, and I have stopped asking for one in the last fortnight because I can work out what is happening without one."
+"Eleven of those are still in the district's carting and there are two hundred and some notches on this board and the rest of them are in the district's store yard where a clerk puts them once a month, and neither of those places has ever sent me a figure, and I have stopped asking for one in the last fortnight because I can work out what is happening without one."
 
 ---
 
@@ -32,7 +32,7 @@ Marek Vale did not say anything for about four seconds.
 
 "Nobody is a liar. That is the difficulty and it is the whole of it, and I have been up that river twice and I have never seen a page that says anybody stole anything, and what I have seen is a price that says fourteen of something, and there is no return on it."
 
-"Then I am not owed a figure," said Roko Bregar. "I am owed a load. I have done about two hundred loads of clay and the district has had a foot of bank out of it and a hole nine feet long in the face of it, and the ground is going and the works stopped a month ago, and the four men who were stood off were on my cart two days a week and are not now."
+"Then I am not owed a figure," said Roko Bregar. "I am owed a load. I have done a little over two hundred loads of clay and the district has had a foot of bank out of it and a hole nine feet long in the face of it, and the ground is going and the works stopped a month ago, and the four men who were stood off were on my cart two days a week and are not now."
 
 ---
 
@@ -44,7 +44,7 @@ The boy who had done it was at the end of the rail with nothing in his hands. He
 
 "Nothing has been stopped," said the boy. "There is no slate of mine and nobody's. I have brought the slate because I have to bring it, and I have not been asked to write anything on it, and I am not going to write anything on it, and my mother says I am not to write anything on it unless I am asked to by somebody whose name I could say if somebody asked me."
 
-He was not asked. He went and stood at the end of the rail with his hands in his sleeves, and about nine people stood at the rail, and nobody counted them, and there is no form anywhere in this kingdom on which anybody may be entered as having counted them.
+He was not asked. He went and stood at the end of the rail with his hands in his sleeves, and nine or ten people stood at the rail, and nobody counted them, and there is no form anywhere in this kingdom on which anybody may be entered as having counted them.
 
 "He did it on his own," said Marek Vale, to the counter. "On the second, the third, the fourth and the fifth of the ninth month of last year, and she told him to, and she had never had it done before and she has not had it done since, and a woman in a seed house had asked her nine days earlier whether it was a thing people did and said *somebody ought*."
 
@@ -54,7 +54,7 @@ Perpetua Ohl had the book open on the counter and she did not close it, which sh
 
 ---
 
-"No," said Perpetua Ohl, "and I am going to say the whole of it in about four sentences and then I am going to go back to my work, and I would like the four sentences to be remembered by somebody, because the four sentences are the only thing in this city that has ever been said to me on this counter that I have not said back to myself about nine times in thirty years.
+"No," said Perpetua Ohl, "and I am going to say the whole of it in four sentences and then I am going to go back to my work, and I would like the four sentences to be remembered by somebody, because the four sentences are the only thing in this city that has ever been said to me on this counter that I have not said back to myself about nine times in thirty years.
 
 "The man from a carting road is owed a figure and I cannot give him one. A figure about a number of people is a figure about a district. A district is a line in a book. A book that has to balance in the year it is balancing gets one number first, and the true one in beside it with two initials, and the first one stays on the page.
 
@@ -74,7 +74,7 @@ Perpetua Ohl put the pencil down flat.
 
 "Then you are going to leave them where they are," she said, "and I am going to tell you why, and it is the same four sentences with the numbers taken out.
 
-"The moment you subtract one from the other you have a figure about five people, and a figure about five people is a figure about a district, and you would have made it in about four seconds in a lane and it would be true, and it would be the first time in this basin that anybody had put a number on the people whose willingness is the price of a winter.
+"The moment you subtract one from the other you have a figure about five people, and a figure about five people is a figure about a district, and you would have made it in four seconds in a lane and it would be true, and it would be the first time in this basin that anybody had put a number on the people whose willingness is the price of a winter.
 
 "And a number on five people is a list, and a list is a piece of paper, and a piece of paper is a thing a man in a good coat can produce at you in about four years, and in four years he will produce it and there will be nothing on the page to say how anybody worked it out. Not one word. Not my hand. Not yours.
 

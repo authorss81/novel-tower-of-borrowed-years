@@ -16,7 +16,7 @@ The hearing officer was Deputy Vera Tolek, forty-four, who had been a hearing of
 
 "You cannot refuse it either."
 
-"I cannot refuse it and I am not going to, and I want the distinction said out loud in this room before anything else happens, because it is the whole of what this room is and about nine people in the doorway are about to misunderstand it.
+"I cannot refuse it and I am not going to, and I want the distinction said out loud in this room before anything else happens, because it is the whole of what this room is and the people in the doorway are about to misunderstand it.
 
 "A challenge is a request that a sheet be looked at before it is sealed. It is free. Anybody may bring one. There is no form on which it may be refused, and I have never refused one, and I was not going to start with a marshal.
 
@@ -82,7 +82,7 @@ Deputy Tolek wrote for about eleven minutes and did not interrupt once and did n
 
 "First. I believe you, and it makes no difference whatever, and I want that entered as well, because a court that hears an argument it accepts and then says the argument makes no difference is at least honest about the shape of itself.
 
-"Second. I have no power. A hearing officer of the Chamber can make a finding of fact, arithmetic, conduct or record. I cannot make a policy and I cannot change an instrument and I cannot tell a district office that a rule of about nine years standing is a rule that cannot do what it is for, and there is no form in this kingdom on which a hearing officer may say that a rule is wrong, and if I said it in this room it would not be a finding. It would be a woman with a book saying a thing at eight bells.
+"Second. I have no power. A hearing officer of the Chamber can make a finding of fact, arithmetic, conduct or record. I cannot make a policy and I cannot change an instrument and I cannot tell a district office that a rule of nine years standing is a rule that cannot do what it is for, and there is no form in this kingdom on which a hearing officer may say that a rule is wrong, and if I said it in this room it would not be a finding. It would be a woman with a book saying a thing at eight bells.
 
 "Third. And this is the one that matters. There is a finding of the fourth of the first month in a book in a building and it says that this court cannot enter a finding that any person did or did not consent to anything, and that the court has looked for one and there is not one. Your argument is an argument about consent. It is the best argument about consent I have heard in nineteen years and I am telling you that it cannot go in, and it is not going in because the box does not exist, and the box not existing is not a thing a court fixes."
 
@@ -98,11 +98,11 @@ Deputy Tolek wrote for about eleven minutes and did not interrupt once and did n
 
 "On the fourth of the first month you stood at the back of this room and I entered your statement, and I entered it because the words of a man standing in a room are enterable, whatever else they are. And I have thought about that for about two months and I have not changed my mind and I am not going to, and what I am going to say is that I did it because I had no alternative and not because I had a box for it.
 
-"So I can find a fact about a rule. I cannot find a fact about a person being free. And you know that, and she knows that, and about nine people in that doorway do not, and the difference between those two things is the whole distance between this city and anything that would be worth doing."
+"So I can find a fact about a rule. I cannot find a fact about a person being free. And you know that, and she knows that, and the people in that doorway do not, and the difference between those two things is the whole distance between this city and anything that would be worth doing."
 
 ---
 
-Nobody said anything in the room for a while, and the door was eleven inches open and there was about nine people in it and a boy of about nine on the step with a message he had not been asked about.
+Nobody said anything in the room for a while, and the door was eleven inches open and there were nine or ten people in it and the boy was on the step with a message he had not been asked about.
 
 "The fourth thing," said Deputy Tolek. "I am not going to make a policy. I am going to make a finding of fact, of record, and of conduct, and it is going to be short, and it is going to have a day on it, and it is going to be the first document in this basin in about a year that says in type that an instrument cannot do what it is for.
 
@@ -134,4 +134,4 @@ Seren Calder stood at the rail for a moment with her hands on it.
 
 Deputy Tolek read the finding out loud twice at the ordinary speed, and it was a quarter of a page, and it said that a challenge was brought on the tenth of the third month of MR 416 by an officer of the Crown March; that the object of it was a requirement and not a sheet; that the court heard it and had no power to make a policy; that the court could not refuse a challenge and had not done so; and that the court had looked for a way to act on the matter and had not found one, and was not going to invent a finding to fill the place of one.
 
-And it went into a book on the causeway side of a hall with six intake windows, and it has a day on it, and it is the only document in this basin in about a year with a day on it that says an instrument cannot do what it is for, and about nine people in a doorway heard a marshal say that the emergency was real and not one word of it was disputed, and nobody in that doorway or in that room was thanked for anything, and the boy of about nine went down the causeway with a message he had not been asked about, and the low ground was nine days off going under.
+And it went into a book on the causeway side of a hall with six intake windows, and it has a day on it, and it is the only document in this basin in about a year with a day on it that says an instrument cannot do what it is for, and nine or ten people in a doorway heard a marshal say that the emergency was real and not one word of it was disputed, and nobody in that doorway or in that room was thanked for anything, and the boy of about nine went down the causeway with a message he had not been asked about, and the low ground was nine days off going under.
