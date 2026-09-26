@@ -1,6 +1,6 @@
 # Chapter 128 — Three Days at the Third Terrace
 
-The water on the low ground stood in the second month of the growth month and did not go down, because a sowing that is thin takes its water in a thin way and a field that has come up wrong does not draw a channel dry the way a field that has come up right does, and there was a channel that had been cut in the flood year along the foot of the third terrace and it had held a dry bed every summer since.
+The water on the low ground stood in the second month and did not go down through the growth month, because a sowing that is thin takes its water in a thin way and a field that has come up wrong does not draw a channel dry the way a field that has come up right does, and there was a channel that had been cut in the flood year along the foot of the third terrace and it had held a dry bed every summer since.
 
 On the second of the harvest month it was four feet deep at the bend and rising about a hand an hour, and at that rate it would have crossed the bend at about the fifth bell that evening and been four feet up the slope by the second bell on the third, and the third terrace's cutting is line one, and there are about a fortnight of it left in the ground.
 

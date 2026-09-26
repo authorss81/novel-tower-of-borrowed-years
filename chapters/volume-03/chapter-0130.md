@@ -26,7 +26,7 @@ The third terrace was cut by nine men who did not live on it, on the second to t
 
 The fourth terrace's return said the sowing went in on ground that had been warm for nine days, and that is the only sentence in the three of them that anybody in this basin has ever bothered to write down.
 
-And the nine lots that had been sand since the seed month on a shoulder above a new drain were in it, and a woman of thirty-one with a store with a lock stood at the edge of a shared floor with a child on her hip and did not say one word to anybody about it, and there were nine rows on that shoulder that four people in Rainmarket had said out loud in eleven different kitchens that had come up for no reason anybody could give, and a field cannot be cross-examined, and a season can be pointed at a household, and there is no form on either of those.
+And the nine lots that had been sand since the seed month on a shoulder above a new drain were in it, and a woman of thirty-one whose mother held the store with a lock stood at the edge of a shared floor with a child on her hip and did not say one word to anybody about it, and there were nine rows on that shoulder that four people in Rainmarket had said out loud in eleven different kitchens that had come up for no reason anybody could give, and a field cannot be cross-examined, and a season can be pointed at a household, and there is no form on either of those.
 
 ---
 

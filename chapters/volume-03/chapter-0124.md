@@ -18,7 +18,7 @@ She said it the way a woman says *do you want to see the store* to a man who is 
 
 "About a third of what is in there," said Stana Peric, "and I do not know the figure and I am not going to be told the figure, because I have asked twice and a clerk came up a lane in the third month and would not say it to me in a lane and said the paper was the only place it was allowed to be."
 
-She put her hand flat on the door of her own store.
+She put her hand flat on the door of her mother's store.
 
 "And after the threshing, if these rows are what they look like, the seed in here is the seed out of them, and it is out of my ground and not bought, and the notice is about a sum and not about a store, and I do not know what to do with that and I have decided I am not going to think about it until the seed is in and shut."
 

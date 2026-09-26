@@ -36,7 +36,7 @@ Nine or ten of the people in that shed are on the fourth column of a Crown March
 
 Marek knew which nine. He had read the form, or a column of it, and he had stood in a yard in the third month and heard about nine people say that a class cannot be traced to a door, and he had watched a woman's own line be refused at this counter in the ordinary course because the person behind the paper was not in the room. He knew that the fourth column of that form said *the seed-keepers of the four terraces after this season*, in nine words, in type, on a printed sheet, and that there were four hundred and some people in those four terraces and about nine on any paper, and that the only piece of paper in this basin on which a counterweight has a number on it is the Hartlow roll in a loft, and the number is two.
 
-Two people on a roll of six women, one of them nineteen.
+Two people on that paper, and one of them is nineteen and is not one of the six on the roll.
 
 He had known that since the tenth month of last year and he had checked it twice and he had wished, in the plainest terms he is capable of wishing anything, that it were two for all four terraces.
 
@@ -88,4 +88,4 @@ And the fifth line on the form under his hand was empty, and the hours in it wou
 
 At the fourth bell the next morning a boy of nineteen read somebody's second line out loud twice at the ordinary speed with a bench against the wall on the days the rota said, and the fifth line of the form was empty, and the sixth line was empty and always would be, and a column on the wall list had nothing at the head of it, and the room did that whether or not anybody heard a sentence in it.
 
-Four miles and eleven switchbacks above that lane, a season of the basin's was sitting in nine drill rows on a shoulder above a drain, and a woman of thirty-one with a store with a lock had her hand flat on its door and did not know why, and a man with no office had not gone up the road, and had not gone up the road for the first time since the seventh of the month, and there is no form in this kingdom in which anybody may be applied for.
+Four miles and eleven switchbacks above that lane, a season of the basin's was sitting in nine drill rows on a shoulder above a drain, and a woman of thirty-one had her hand flat on the door of her mother's store and did not know why, and a man with no office had not gone up the road, and had not gone up the road for the first time since the seventh of the month, and there is no form in this kingdom in which anybody may be applied for.
