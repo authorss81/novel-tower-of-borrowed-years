@@ -2,7 +2,7 @@
 
 The fourth line of the schedule was not a household in Rainmarket.
 
-It was forty-one acres on the middle terrace in the Red Uplands, four miles below Hartlow, and it was called the Under-Row, and the man who kept it was forty-nine years old and had come out into his own yard on the ninth of the growth month to ask a stranger from the low ground whether he knew the price of lime in a hard year, and had asked it because there were three loads on the road behind him and a man standing in his gateway, and a question is cheaper than an explanation.
+It was forty-one acres on the middle terrace in the Red Uplands, four miles below Hartlow, and it was called the Under-Row, and the man who kept it was forty-nine years old and had come out into his own yard on the first of the growth month to ask a stranger from the low ground whether he knew the price of lime in a hard year, and had asked it because there were three loads on the road behind him and a man standing in his gateway, and a question is cheaper than an explanation.
 
 Kelb had not wanted to give the address and had given it. That was the third time in a month that somebody had asked Ondra Kelb for something and got it, and he had done it in a book with no letter beside his name, and he had said, standing in the corridor with the book shut, that a man who is asked for a thing by a person with no office is going to be asked for a thing one day by a person with an office, and that he would do it anyway, and that Marek was not to come back.
 
@@ -34,7 +34,7 @@ The ground rate on the Under-Row had gone into arrears in the flood years along 
 
 "They sold it in a yard," said Josip Malnar, "to a man with a table and a stool, and he was honest with me, which is the thing I cannot get past, because I have been sitting here for ten months trying to work out how I was cheated by a man who told me the truth.
 
-"He said: this is the right to collect the flood quarters of the low ground off one ratepayer, dated, at a discount, and it is a good price because everybody knows the low ground will not pay. He said: it is not a great thing, it is a piece of a thing, and pieces of things are cheap and sometimes they are not. He said: you will not get it in a year and you will not get it in three and you may get a bit of it. He said all of that and he did not once tell me a false thing, and I gave him four hundred and ten pounds on the strength of it, and it was our own money and it was the money for my daughter's wedding, and she is married and it was a good wedding, and I have not regretted the wedding and I have regretted the four hundred and ten pounds every day since about the fourth of May."
+"He said: this is the right to collect the flood quarters of the low ground off one ratepayer, dated, at a discount, and it is a good price because everybody knows the low ground will not pay. He said: it is not a great thing, it is a piece of a thing, and pieces of things are cheap and sometimes they are not. He said: you will not get it in a year and you will not get it in three and you may get a bit of it. He said all of that and he did not once tell me a false thing, and I gave him four hundred and ten pounds on the strength of it, and it was our own money and it was the money for my daughter's wedding, and she is married and it was a good wedding, and I have not regretted the wedding and I have regretted the four hundred and ten pounds very nearly every day since I paid it."
 
 He put the basket down.
 

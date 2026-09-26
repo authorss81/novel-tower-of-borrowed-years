@@ -8,7 +8,7 @@ He said yes. That is the third time in eleven days and he had stopped keeping tr
 
 The kitchen was warm and it was small and there was a chair with a cushion in it that she gave him and took back, and she put the paper on the table between the bread and the salt and turned it round so that it faced him, and she did that in a way that made it clear she had been practising which way round it went.
 
-"It is one sheet," she said. "That is what I want. I want to know that it is one sheet and I want somebody to read it to me and I am not going to write anything down, and I would like it understood that I have not written anything down, because I have heard that a thing in a house dies with the house, and it will, and I have a woman coming on Thursday to mend a roof and no use talking to her about water."
+"It is one sheet," she said. "That is what I want. I want to know that it is one sheet and I want somebody to read it to me and I am not going to write anything down, and I would like it understood that I have not written anything down, because I have heard that a thing in a house dies with the house, and it will, and I have a woman coming this week to mend a roof and no use talking to her about water."
 
 It was one sheet. The Trust's seasonal advance form, wet-season and spring, one sheet, four boxes and a fifth at the foot, and it was very well made, and every part of it was filled in her husband's hand except the parts the counter filled in, and the witnesses were two men who worked the weighbridge at the market and had put a mark beside their names in the office, and the settlement said eleven days of her husband's labour out of the harvest at the ordinary wage and a third of the seed the household kept back, and the scope said the low ground and a stated holding on it, and the need said the seed for eleven quarters.
 
@@ -26,7 +26,7 @@ He read it twice and put his finger on it and did not say anything for about ten
 
 ---
 
-Here is what was on it, and it is the whole of this chapter.
+Here is what was on it, and it is the whole of the sheet.
 
 Clause four of a cooperative's seed instrument, sealed in the bad autumn, names a district as the counterweight and was not the Compact's invention, and nobody has ever found a defect in it, and it is eighteen months old.
 
