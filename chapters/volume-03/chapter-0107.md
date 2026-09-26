@@ -14,11 +14,11 @@ The clause was one sheet and it had three clauses and a rule at the foot.
 
 Marek had seen it on a river stair five days before, in a satchel, and he had not been permitted to hold it, and he was not holding it now. He was four feet off the table and he read it standing up, and he read it three times, and it took him about eleven minutes to be sure of the whole of it, and by the end of the eleven minutes he was sure of two things and neither of them was a lie.
 
-The first was that **the sheet had been sealed before anybody wrote a word on it.** The harbour seal was struck in wax at the head of it. The Tide Reckoning mark was in the bottom corner, small, four parts, a month and a tide phase and a seal and a translator. The Crown March office's own seal was on the reverse and had been there since Verrow, which is a long way off and which nobody in this room has seen. The only things on the sheet that were not yet on the sheet were a day and a name, and both of those were in the same hand and were going to be in the same pen.
+The first was that the sheet had been sealed before anybody wrote a word on it. The harbour seal was struck in wax at the head of it. The Tide Reckoning mark was in the bottom corner, small, four parts, a month and a tide phase and a seal and a translator. The Crown March office's own seal was on the reverse and had been there since Verrow, which is a long way off and which nobody in this room has seen. The only things on the sheet that were not yet on the sheet were a day and a name, and both of those were in the same hand and were going to be in the same pen.
 
 "I want to say what that is," said Rell, who had followed his eyes. "Because a man in a good coat will look at that for the rest of his life and I would like him to have it in the right words now.
 
-"A granary clause is printed and sealed in advance because the printing press is in Verrow and the seal is in Verrow and the paper is bought by the room, and a room that has to have a piece of paper sealed in Morrowfen on the day it is made will wait for the next barge. **Every instrument in this kingdom that matters is sealed before somebody signs it, and the signing is not the sealing, and there is a form for the sealing and there is no form for the signing.** Last year I signed a document in Verrow on a sheet that had been struck in the third month, and I did not think about it. I did not think about it. I have stopped thinking about it and I have started writing the date twice, once in my hand and once in my own column, and the day I stop doing that is the day I should be moved to a shed."
+"A granary clause is printed and sealed in advance because the printing press is in Verrow and the seal is in Verrow and the paper is bought by the room, and a room that has to have a piece of paper sealed in Morrowfen on the day it is made will wait for the next barge. Every instrument in this kingdom that matters is sealed before somebody signs it, and the signing is not the sealing, and there is a form for the sealing and there is no form for the signing. Last year I signed a document in Verrow on a sheet that had been struck in the third month, and I did not think about it. I did not think about it. I have stopped thinking about it and I have started writing the date twice, once in my hand and once in my own column, and the day I stop doing that is the day I should be moved to a shed."
 
 "The counterseal," said Marek.
 
@@ -42,7 +42,7 @@ Marek Vale read those nine words four times standing four feet off a table in a 
 
 One village. Four terraces. The same nine words, with the number in front of them changed.
 
-**It is a phrase. It is not a sentence anybody in a valley wrote at a table. It is a phrase on a form, and there is a form that goes to every depot in a region, and the number in front of it is filled in by hand, and the words after it are not.**
+It is a phrase. It is not a sentence anybody in a valley wrote at a table. It is a phrase on a form, and there is a form that goes to every depot in a region, and the number in front of it is filled in by hand, and the words after it are not.
 
 He had come up that road with a sentence. He had carried it eleven switchbacks and up four miles above a bridge and it was the best sentence he had, and he had carried it because a woman had written it in her own hand, and he was standing in a room at about the ninth minute with the sentence ready and it was *a class is not a person, and nobody was standing behind it.*
 
@@ -58,7 +58,7 @@ Rell put his hand on the schedule without turning it round.
 
 "Longer than my post," said Rell. "Longer than the depot's charter, I would say, and I am not going to put a year on it because I have never seen a print order and a print order is a thing a printer keeps."
 
-**A form has no date on it. Sedge had said that in a cellar nine days ago and had been pleased about it in a way that Marek had not understood at the time.**
+A form has no date on it. Sedge had said that in a cellar nine days ago and had been pleased about it in a way that Marek had not understood at the time.
 
 ---
 
@@ -66,11 +66,11 @@ Rell put his hand on the schedule without turning it round.
 
 "The fourth column is the counterweight of the advance. If the delivery does not come, the advance is not a set-off out of a harvest, because there is no harvest, so it is a set-off against the party that stood behind the delivery. And the party that stands behind four terraces is the people who will be farming them next, and there is nobody else, and so the form says what the form says.
 
-"And I know what I have just said. I have known it since the sixth of the ninth month and I have had the form in the satchel for six weeks. **It is not a fraud and it is not a decision I took. It is a column and I filled in a number.**"
+"And I know what I have just said. I have known it since the sixth of the ninth month and I have had the form in the satchel ever since I came down the river. It is not a fraud and it is not a decision I took. It is a column and I filled in a number."
 
 "You filled in a number of what."
 
-"Of holdings. Eleven. There are four terraces and eleven holdings in them, and I have counted them off the schedule, and the number is the number, and I have certified it to the board at Verrow and a man there has checked it against a table and has not come down here to look at four hundred acres of ground he has never walked on, and that is the correct way round. **A granary certifies paper. It does not certify ground.**"
+"Of holdings. Eleven. There are four terraces and eleven holdings in them, and I have counted them off the schedule, and the number is the number, and I have certified it to the board at Verrow and a man there has checked it against a table and has not come down here to look at four hundred acres of ground he has never walked on, and that is the correct way round. A granary certifies paper. It does not certify ground."
 
 Marek looked at the eleven lines for a long time.
 
@@ -78,9 +78,9 @@ Marek looked at the eleven lines for a long time.
 
 And Rell stopped, and it was the first time in four days that Marek had seen him stop, and he stopped for about three seconds and then he said the thing in a completely different voice, the way a man says a thing he has said out loud four hundred times in a room in Verrow and has never once had to say it to a person.
 
-"You cannot ask me that," he said. "There is no figure. **A holding is a holding and a household is not a holding and I could give you the number of holdings and I could not give you the number of people in them and neither could the man at the depot, and we are not going to try, because if you count the people in a district then the people in a district become a figure, and a figure can be entered, and a figure that can be entered can be added up, and the sum of the people in four terraces is the sort of number that a house in a good coat could take to a house in another good coat and turn into a yield.**"
+"You cannot ask me that," he said. "There is no figure. A holding is a holding and a household is not a holding and I could give you the number of holdings and I could not give you the number of people in them and neither could the man at the depot, and we are not going to try, because if you count the people in a district then the people in a district become a figure, and a figure can be entered, and a figure that can be entered can be added up, and the sum of the people in four terraces is the sort of number that a house in a good coat could take to a house in another good coat and turn into a yield."
 
-**That is a form putting a cost in a box with no person in it, and it is the fourth time Marek Vale has heard it said in a different mouth in ten months, and each time it has been said by somebody who is correct.**
+That is a form putting a cost in a box with no person in it, and it is the fourth time Marek Vale has heard it said in a different mouth in ten months, and each time it has been said by somebody who is correct.
 
 "You have said that before," he said.
 
@@ -96,7 +96,7 @@ At about the third bell, Ilse Ferrow, who had said on the way in that she was go
 
 "I know exactly what I have certified," said Rell.
 
-"Then you know that there is a line on that schedule that is a class, and there has never been a form in this kingdom in which a class consents to anything, and the reason is not the law. The reason is that a class cannot be asked, and a thing that cannot be asked cannot refuse, and an instrument whose counterweight cannot refuse is not false and is not true. **It is merely unasked, and you have certified it as though somebody had been asked, and there is nobody.**"
+"Then you know that there is a line on that schedule that is a class, and there has never been a form in this kingdom in which a class consents to anything, and the reason is not the law. The reason is that a class cannot be asked, and a thing that cannot be asked cannot refuse, and an instrument whose counterweight cannot refuse is not false and is not true. It is merely unasked, and you have certified it as though somebody had been asked, and there is nobody."
 
 "Yes," said Sabin Rell, and it was the shortest word he had said in five days, and he said it without heat and without any of the things a man says when he is defending himself.
 
@@ -110,7 +110,7 @@ At the fourth bell, Rell sat down and dated the sheet and signed it, and he date
 
 The pen made a noise on the paper. Ferrow watched the mark go on at the bottom and did not say one word about it, and Marek Vale stood four feet off a table and looked at a small four-parted mark in the corner of a clause and at nine words in a column and at the pen.
 
-Rell blew the dust off the sheet and squared it to the edge of the table and then, in the voice of a man who has been pleasant to everybody for five days and has run out of ways to be pleasant, said: "You are going to be useful to me or you are not, and either is fine, so I am going to ask you the question in the only form I am entitled to ask it, which is a courtesy between two men who have been of use to one another. **Do you intend to do anything?**"
+Rell blew the dust off the sheet and squared it to the edge of the table and then, in the voice of a man who has been pleasant to everybody for five days and has run out of ways to be pleasant, said: "You are going to be useful to me or you are not, and either is fine, so I am going to ask you the question in the only form I am entitled to ask it, which is a courtesy between two men who have been of use to one another. Do you intend to do anything?"
 
 And Marek Vale said, "No."
 

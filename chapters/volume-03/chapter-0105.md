@@ -22,7 +22,7 @@ The boatman was a woman of about thirty called Sefa and her grandmother had work
 
 "Clean," he said. "Dry. No smut in it. That is Verrow's floor and I have had the same floor out of the same silo every year since I was twenty-five."
 
-"That is coming down," said Sefa. "That is going down to you, not off you. **Oats are not coming up this week. Nothing is coming up this week.** There were three boats a day on this stair in the second month and there is one today and it is going down, and if you have come to look at a load, that is a load going the wrong way for you."
+"That is coming down," said Sefa. "That is going down to you, not off you. Oats are not coming up this week. Nothing is coming up this week. There were three boats a day on this stair in the second month and there is one today and it is going down, and if you have come to look at a load, that is a load going the wrong way for you."
 
 "I have come to look at four loads a week going the right way for me," said Rell, "and I have come because in six days the granary board at Verrow has to certify an export out of this basin for a quarter, and I have to put a number on a piece of paper, and I have to be able to stand up in a room of eleven men and say the number is the number and not a hopeful figure, and I am going to be asked what the low ground is doing."
 
@@ -52,11 +52,11 @@ He came back up the stair and sat down on the second step with the satchel acros
 
 He took it out.
 
-It was one sheet. It was not thick. It had a heading and three clauses and a rule at the foot and a seal on it and a mark in the bottom corner, and the mark was the smallest thing Marek had ever seen on a piece of paper and he had seen one on a haulier's contract four months ago.
+It was one sheet. It was not thick. It had a heading and three clauses and a rule at the foot and a seal on it and a mark in the bottom corner, and the mark was the smallest thing Marek had ever seen on a piece of paper and he had seen one on a haulier's contract in the growth month.
 
 "It is an underwriting," said Sabin Rell. "Four words. A district is underwritten for a delivery. What that means in this basin, since you will want the plain version: the depot at Verrow has paid a sum of money early against a harvest that has not happened, to a house that has sold the paper on, and the paper says that when the grain comes the depot takes the grain and the money is a set-off, and the risk of the advance not being repaid out of the delivery has been carried by the four terraces on the upland road, because the four terraces are named on it and because they are the people who will grow the grain.
 
-"I am not going to tell you the sum. **It is eleven thousand and some hundreds of pounds and I cannot give you the exact figure because the exact figure is in a ledger in Verrow and it is not mine, and if I gave it to you on a stair you would carry it down a road and put it in a book and about nine people would be ruined by a number that has been in a cellar since the flood year.**"
+"I am not going to tell you the sum. It is eleven thousand and some hundreds of pounds and I cannot give you the exact figure because the exact figure is in a ledger in Verrow and it is not mine, and if I gave it to you on a stair you would carry it down a road and put it in a book and about nine people would be ruined by a number that has been in a cellar since the flood year."
 
 "And the clause is correct," said Marek.
 
@@ -74,7 +74,7 @@ Marek did not say anything.
 
 "And I want you to understand that I have said the sentence *the ten-year mean* out loud in a room in Verrow about four hundred times and I have never once had anybody ask me where it is.
 
-"**It is not in the book I am carrying. It is not in any book in Morrowfen. It is a number in a table in a depot in the hills that I have read once and cannot produce and am not permitted to produce and would be asked to swear to, and the reason I am not permitted to produce it is that the ten-year mean of a district is the depot's estimate of a district, and the moment a depot can produce its own estimate then the estimate is an offer instead of a measurement, and an offer can be sued.**"
+"It is not in the book I am carrying. It is not in any book in Morrowfen. It is a number in a table in a depot in the hills that I have read once and cannot produce and am not permitted to produce and would be asked to swear to, and the reason I am not permitted to produce it is that the ten-year mean of a district is the depot's estimate of a district, and the moment a depot can produce its own estimate then the estimate is an offer instead of a measurement, and an offer can be sued."
 
 He put his hand flat on the satchel.
 
@@ -96,7 +96,7 @@ And the middle of the two — the thing that joined a cellar of two hundred and 
 
 Sabin Rell looked out at the river for a while, and a barge went down with a mark on a piece of paper in a coil on the deck, and the man at the top of the stair did not look at it.
 
-"Yes," he said. "I know it. Everybody in that depot knows it and nobody has ever said it outside the depot because it is not a figure that is anybody's business outside the depot, and that is the arrangement, and the arrangement is the reason that a form in a cellar in Bell Stair is a mystery to a man like you and a number to a man like me and **the same piece of paper, and that is the whole of what I have come down the river to say, and I have said it, and I would like to go and be somewhere else now.**"
+"Yes," he said. "I know it. Everybody in that depot knows it and nobody has ever said it outside the depot because it is not a figure that is anybody's business outside the depot, and that is the arrangement, and the arrangement is the reason that a form in a cellar in Bell Stair is a mystery to a man like you and a number to a man like me and the same piece of paper, and that is the whole of what I have come down the river to say, and I have said it, and I would like to go and be somewhere else now."
 
 He stood up and did not open the satchel.
 
@@ -108,6 +108,6 @@ At the top of the stair, on the way down to the barge, he stopped.
 
 "You will try to stop it," he said. "I want to be fair with you. I have been in this trade twenty-nine years and I know exactly what a man in a good coat is going to try to do with a document, and it is going to be that a mean is not a season and the clause is wrong, and the clause is not wrong, and you are going to lose that in a room, and I would rather you did not lose it in front of nine people who have come four miles to find out about a road.
 
-"**Go and look for the room that signed the paper, not the room that is keeping the number.** The number will be in a book and there is no form in this kingdom that lets a man in a good coat out of a book. I have been doing this for twenty-nine years and I have never once known where the number is kept. I have known all along where the paper is."
+"Go and look for the room that signed the paper, not the room that is keeping the number. The number will be in a book and there is no form in this kingdom that lets a man in a good coat out of a book. I have been doing this for twenty-nine years and I have never once known where the number is kept. I have known all along where the paper is."
 
 He went down the stair and got onto the barge and the barge went down the river with a mark on a piece of paper in a coil, and the low ground's barley rate fell again before the tide turned, and there was no sea in that sentence at all.

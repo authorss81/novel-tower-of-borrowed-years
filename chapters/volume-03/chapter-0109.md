@@ -1,6 +1,6 @@
 # Chapter 109 — A Brother, a Slate, and a Kitchen
 
-The reckoning turned on the first of the second month and nothing in this basin marked it except a boy of sixteen who had carried the boards to the roof of the Tallow Gate yard in the rain for four days and had been paid, and a girl of nine who had asked, at the tail-board of a bridge span, what a date was for, and had been told that a date is for afterwards, and who had written on a slate, in a child's hand, *afterwards is us, so tell them the true day.*
+The reckoning turned on the first of the second month and nothing in this basin marked it except a girl of sixteen who had carried the boards to the roof of the Tallow Gate yard in the rain for four days and had been paid, and a girl of nine who had asked, at the tail-board of a bridge span, what a date was for, and had been told that a date is for afterwards, and who had written on a slate, in a child's hand, *afterwards is us, so tell them the true day.*
 
 Marek Vale walked out to his brother's house on the north lane on the evening of the second of the second month with a coat on and something in his mind that he had been building for nine days, and it fell apart in the first four minutes in a kitchen, in the way that a prepared thing does.
 
@@ -46,7 +46,7 @@ He said the first one and then stopped, because it was a lie about a reason, and
 
 "There is a thing on the schedule in the fourth column," he said, "and the fourth column is a class of people, and a class of people is not a person, and that is why nobody can be asked, and I have a sentence about it and I have had it since the summer. And if I say it in a room on that road, then in three weeks a Crown March granary official will be in a room with the sentence in it, and he will say *go and find the room that signed the paper and not the room that is keeping the number*, and he will be right, and it will be the whole of the defence, and there will be nothing afterwards.
 
-"And that is what I am frightened of. Not the road. **That I will say the true thing in the wrong week, and it will be true, and it will be the end of it.**"
+"And that is what I am frightened of. Not the road. That I will say the true thing in the wrong week, and it will be true, and it will be the end of it."
 
 Tomas put the joint down.
 
@@ -58,7 +58,7 @@ Tomas put the joint down.
 
 "Say the next part," said Marek.
 
-"There is no next part. **That was the next part.** I have been in this basin thirty-four years and I have watched about nine of your sort and I can tell you what happens to all nine of them and it is the same thing and it is that they end up being the man who goes and says a true thing, and that is not a man anybody can help, and I have watched you carry a piece of Crown March paper up a hill in the inside of a coat and get thanked for nothing and say nothing about it, and I do not want to be the reason you stopped doing it, and I do not want to be the reason you did it either."
+"There is no next part. That was the next part. I have been in this basin thirty-four years and I have watched about nine of your sort and I can tell you what happens to all nine of them and it is the same thing and it is that they end up being the man who goes and says a true thing, and that is not a man anybody can help, and I have watched you carry a piece of Crown March paper up a hill in the inside of a coat and get thanked for nothing and say nothing about it, and I do not want to be the reason you stopped doing it, and I do not want to be the reason you did it either."
 
 Marek did not answer that. Tamsin picked the needle up again, took a stitch, and put the coat down, and said: "There is bread in the cold box and eat it before you go up that road, because you never do."
 
@@ -94,7 +94,7 @@ Tomas put his hand flat on the table.
 
 "So: I am going up there on the fifth, and I am going to say *this drain, this road, and I will do it for a bill and the bill goes on the works and the works is nine lines and the ninth one is empty*, and I am going to be right about the drain and I am going to be right about the road, and if they want a bridgewright they will have one.
 
-"And there is not one word in that about your sentence, and there is not one word in that about a class of people, and there is not one word in that about a Crown March granary, and I want it understood that **I am not going up that road for you and I am not going up that road against you and I have not got a plan.** I have a drain and a road and I have been on this road thirty-four years and I do not need a plan for a drain."
+"And there is not one word in that about your sentence, and there is not one word in that about a class of people, and there is not one word in that about a Crown March granary, and I want it understood that I am not going up that road for you and I am not going up that road against you and I have not got a plan. I have a drain and a road and I have been on this road thirty-four years and I do not need a plan for a drain."
 
 "And Marek can come," said Lio, from the doorway, "if he is going anyway and if he does not talk on the road."
 
@@ -108,7 +108,7 @@ Tomas walked out into the yard at about the eighth bell and stood for a minute i
 
 "I will say it there."
 
-"You will say it badly and late and at the wrong end of a meeting, because that is what you do, and it will still be better than nothing, and I will stand next to you when you do it and I will not look at you while you do it." He turned round. "And Marek. **I want to be told when I am being used.** Not a month afterwards. Not by a clerk in Bell Stair with a record in his hand. In the room. Before.
+"You will say it badly and late and at the wrong end of a meeting, because that is what you do, and it will still be better than nothing, and I will stand next to you when you do it and I will not look at you while you do it." He turned round. "And Marek. I want to be told when I am being used. Not a month afterwards. Not by a clerk in Bell Stair with a record in his hand. In the room. Before.
 
 "Nobody has told me in eleven years. Not one time. And the whole of what has happened to us since the flood year is that men in rooms have decided which of my losses was worth writing down, and I have found out about four of them about a year after each, and the one I found out about soonest was the one you carried up a hill in your coat and asked nothing for, and I would have gone up that hill myself in an hour if you had handed it to me in the yard."
 

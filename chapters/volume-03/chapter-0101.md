@@ -6,6 +6,8 @@ The weighbridge on the low-ground road is a quarter of a mile below the sluice, 
 
 He read it out about forty times between the second bell and the fourth.
 
+The bridge is worked all night and the town is not, so the deck is counted in watches and not in bells. There are four watches between the eleventh bell and the second one, and a cart that has come down in the dark is over the deck in about the third, and a man in the fourth is standing on a stone platform with a lantern and a book with a day against every figure in it and nothing to put on the page but figures.
+
 He read it out, to a cart that had come down in the night, and he would not say the figure, because it is not his to say and it is written in a book on a plank-shelf behind him with a day against every line of it and nobody has ever come to look at the book.
 
 "There were thirty-one carts on the bridge yesterday at this hour," said the man in the second cart. "There are forty in the queue behind me and I have not been wrong about a queue in my life."
@@ -26,7 +28,7 @@ He was in the second cart with a rope round his wrist, because he wears one and 
 
 "No. You are not."
 
-Marek Vale is a clerk of the Chamber of Accounts with no office, no post, no pay, no form and no room, and the sum of what he has been given in the last four months by people who had no authority to give it is a duty to read out loud, four hours a day, in a shed in Tallow Ward, in the words the person behind a piece of paper used. **He was at the weighbridge on the fourth of the tenth month because Ottmar Kuez cannot read, and the bridge has four clerks' hours a day that nobody has ever given him, and a woman at a trestle in a yard had said out loud in about a hundred and forty people's hearing that anybody may ask anything and nothing is charged, and that sentence has walked further than anybody in this basin expected and it walked as far as a stone platform on a river road.**
+Marek Vale is a clerk of the Chamber of Accounts with no office, no post, no pay, no form and no room, and the sum of what he has been given in the last four months by people who had no authority to give it is a duty to read out loud, four hours a day, in a shed in Tallow Ward, in the words the person behind a piece of paper used. He was at the weighbridge on the fourth of the tenth month because Ottmar Kuez cannot read, and the bridge has four clerks' hours a day that nobody has ever given him, and a woman at a trestle in a yard had said out loud in about a hundred and forty people's hearing that anybody may ask anything and nothing is charged, and that sentence has walked further than anybody in this basin expected and it walked as far as a stone platform on a river road.
 
 "Read it out," said Petar Duss. "Whatever you came for, read it out. I have been on this road since before you could sign anything and I will tell you the one thing I know, which is that the low ground's rate is not falling because there is more barley. There is more barley. It is also falling because there is less of everything else, and you cannot see the second of those from down here, and I have been up and I have seen it, and I am not going to talk about it at the fourth watch in a lane in front of forty carts."
 
@@ -46,7 +48,7 @@ He said it without any emphasis at all, and then he got down off the cart and pu
 
 "The ones that have a mark on them came down the last. They came down the last and they came down heavy and they did not queue at the top of the road where the others queued. They came straight down. And there is a man on the upland road who waves them through at the top and does not wave the rest through, and he is not a gatekeeper and there is no gate, he is a man with a lantern and he is standing there in the cold because somebody put him there.
 
-"And I asked him, on the twenty-ninth, in the rain, because I am a man who asks things on roads, and he said *you take them through on the Crown March paper and the Crown March paper goes through, and if you have not got Crown March paper you wait your turn like everybody else.* And I asked him who said so, and he said a depot in the hills, and I asked him which depot, and he said he did not know, he had been told. **He had been told.** That is the whole of what I have. That is four words from a man with a lantern and it has been in my head for five days and I have not got anywhere with it, and I would have got nowhere with it either until about a week ago, because the man with the lantern is not wrong and the road is not closed and I have been paid the best night of hauling I have ever had."
+"And I asked him, on the twenty-ninth, in the rain, because I am a man who asks things on roads, and he said *you take them through on the Crown March paper and the Crown March paper goes through, and if you have not got Crown March paper you wait your turn like everybody else.* And I asked him who said so, and he said he had been told, and I asked him who had told him, and he said he did not know. He had been told. That is the whole of what I have. That is four words from a man with a lantern and it has been in my head for five days and I have not got anywhere with it, and I would have got nowhere with it either until about a week ago, because the man with the lantern is not wrong and the road is not closed and I have been paid the best night of hauling I have ever had."
 
 He looked at the beam and the chain.
 
@@ -64,7 +66,13 @@ Petar Duss got his rope off the wheel-rail and coiled it in his hand, and did no
 
 "A clerk," he said. "In a house on the low ground, with a good coat and a wax he does not press too hard. He came into my yard on the twenty-first of the ninth month and told me the upland road was open for the season, and that a Crown March office had cleared it, and that a Crown March office does not clear a road four hundred times a year, and that when it does clear one it means a load is wanted. And I said what load, and he said barley, all of it, as fast as it will come. And I said at what rate, and he said at the rate, which I did not understand then and I do not understand now. And I said the rate is not the rate, and he said the rate is the rate and you can take it or leave it and it will be the rate in nine days whatever I say to you about it this morning.
 
-"And I took it. And I have thought about it every night since and here is what I have come up with and I would like you to have it before you ask the next thing: **he did not know the rate would fall. He told me the rate in nine days and the rate fell in nine days, and I have been doing this road thirty-one years and a man does not know a rate nine days out unless somebody has written it down for him.**"
+"And I took it. And I have thought about it every night since and here is what I have come up with and I would like you to have it before you ask the next thing: he did not know the rate would fall. He told me the rate in nine days and the rate fell in nine days, and I have been doing this road thirty-one years and a man does not know a rate nine days out unless somebody has written it down for him."
+
+Marek had what he came for and it was the wrong shape.
+
+"Which office cleared the road," he said.
+
+"That," said Petar Duss, "is the part I have got nothing on, and I have been annoyed with myself about it for five days. He said a Crown March office, and I said where, and he said a depot, and I said which depot, and he said it was up in the hills and that I would not know it and neither would he. I have been on this road thirty-one years and I know every depot a cart can reach out of this basin, and it is not one of them. I have got a yard on the low ground and a wax that does not press too hard, and the name I have got is the clerk's and not the office's, and it took me a month of nights to work out that it was never going to be more than that."
 
 Nobody wrote anything down, because there was nothing to write it on.
 
@@ -72,9 +80,27 @@ Behind them the beam went over and Ottmar Kuez read the rate again, to another c
 
 ---
 
+Oren Pike's house had a share of the forty carts and Pike had come onto the deck at about the third watch to be standing on it while his own weight was written down, because a factor who is not on the deck is a factor who has been sold.
+
+"You are standing in the middle of my carts reading a rate out loud to about forty men, and you are doing it in a good coat," he said, "and I would like you to hear what that looks like from the top of a cart."
+
+"It looks like a man with nothing to do. Not said unkindly — you are a clerk of this basin and there is no desk for you, and a thing has come down the road that wants reading out, and here it is being read out, and I have had no argument against any of it since the seed month. And I am going to say the other half, because I have been on a floor for thirty years and the other half is my trade. The fall is ordinary. There is more barley. The basin is fed, and a man who reads marks all night is a man who has run out of better work."
+
+"You are right about all of that," said Marek.
+
+"I know I am. That is the difficulty and I have been standing in it for a month. There is a paper on every cart my house has on that road and I could not read one of them if you gave me a week and a good light." He watched the beam go over. "I would like somebody to hand me one wrong number on this bridge tonight."
+
+Nobody produced one.
+
+"Then I am going to go up the road in the morning and find out why the barley is coming down, and if the answer is that the year is good I will say so in this lane with your cart here," said Marek.
+
+"I know you will," said Oren Pike. "That is what a man in a good coat says on a bridge. I have heard it about eleven times and I have believed it about four."
+
+---
+
 There is no price in this basin for that.
 
-That is the sentence Marek did not have anywhere to put, and it is the reason he stood on a stone platform for two more hours. **He had been the reader of a register for sixteen days, which was the whole of the time the register had been open at all, and he had a great deal to get used to and had not started. He had heard the yard say out loud, in about a hundred and forty people's hearing, that a bundle may not be entered as one line and that anybody may ask and nothing is charged, and the sentence had walked out of a shed on a lane and up a road and down a river stair and onto a weighbridge, and it had arrived at a place where a man read numbers out loud all night and the numbers were the only product of the establishment and nobody had ever once asked him to read anything else.**
+That is the sentence Marek did not have anywhere to put, and it is the reason he stood on a stone platform for two more hours. He had been the reader of a register for sixteen days, which was the whole of the time the register had been open at all, and he had a great deal to get used to and had not started. He had heard the yard say out loud, in about a hundred and forty people's hearing, that a bundle may not be entered as one line and that anybody may ask and nothing is charged, and the sentence had walked out of a shed on a lane and up a road and down a river stair and onto a weighbridge, and it had arrived at a place where a man read numbers out loud all night and the numbers were the only product of the establishment and nobody had ever once asked him to read anything else.
 
 So he read out the rate. From the fourth bell until the sixth he stood on the plank deck of the weighbridge on the low-ground road and read the low ground's barley rate aloud to every cart that came over it, and he read it out at the ordinary speed, and he read it out twice, and about nine carts stopped and asked him questions.
 
@@ -86,7 +112,7 @@ The questions were these, and he answered all of them, and none of the answers i
 
 *Who set it.* — He said he had looked for about nine days and had found that it was not set anywhere he could reach, and that the road above the sluice was open on a Crown March paper, and that he was going to go and find out who had the paper, and that he was going to write none of it down until he had something to write.
 
-*Can it go lower.* — He said that he could not tell a man what a rate was going to do, and that about a third in nine days was a thing that had happened and that anything said about tomorrow on a bridge at the fourth watch was a thing said to a man who has four hundredweight of barley behind him, and that there was a man in Rainmarket who was very good at saying it, who was paid for saying it and had four children of his own, and who had been right about the mechanism and wrong for a reason that had nothing to do with money, and that the reason was going to take longer than the night.
+*Can it go lower.* — He said that he could not tell a man what a rate was going to do, and that about a third in nine days was a thing that had happened, and that anything said about tomorrow on a bridge in the fourth watch was a thing said to a man who has four hundredweight of barley behind him, and that a factor had said all of it to him an hour ago, and had been right about every part of it, and had been unable to produce one figure that was wrong.
 
 The ninth man asked a question that Marek answered in eleven words and thought about for a week.
 
@@ -94,7 +120,7 @@ He said: the rate is not falling because there is more barley. There is more bar
 
 Then he said the other half of it, because he had been a reader for sixteen days and he had already learned that the half that is easier to say is the half that will get quoted.
 
-"The price is falling because the barley is coming down fast, and I do not know why the barley is coming down fast, and I am going to find out, and if what I find out is that the year is good then you were right to sell and I will say so in this lane with your cart here." He put his hand flat on the plank. "And if what I find out is that the year is not good, then the price is telling you something, and it is telling you at four o'clock in the morning on a bridge, and the reason it is telling you at four o'clock in the morning and not in a room is that there is no room."
+"The price is falling because the barley is coming down fast, and I do not know why the barley is coming down fast, and I am going to find out, and if what I find out is that the year is good then you were right to sell and I will say so in this lane with your cart here." He put his hand flat on the plank. "And if what I find out is that the year is not good, then the price is telling you something, and it is telling you in the fourth watch of the night on a bridge, and the reason it is telling you there and not in a room is that there is no room."
 
 ---
 
@@ -104,11 +130,11 @@ Petar Duss was getting his rope on before Marek had finished, and he said one mo
 
 "I have been thinking since the twenty-ninth and I have got to a thing and I will say it to you and then you can take it to whoever you are going to take things to.
 
-"There is not enough barley in the world this month. I know that the way I know a bad road. And there is more of it coming. Both of those are true at the same time and they have been true for nine days and the whole of this basin is talking about the second one and nobody at all is talking about the first. **A market that is full of grain it did not grow is not a good year. It is a good year somewhere else and a bill here, and the bill has a name on it, and the name is not a market.**"
+"There is not enough barley in the world this month. I know that the way I know a bad road. And there is more of it coming. Both of those are true at the same time and they have been true for nine days and the whole of this basin is talking about the second one and nobody at all is talking about the first. A market that is full of grain it did not grow is not a good year. It is a good year somewhere else and a bill here, and the bill has a name on it, and the name is not a market."
 
 He got up onto the cart and then leaned down.
 
-"And whatever is on that paper of mine," he said, "I have looked at it about nine times and it does not say a price. That is what I keep coming back to. Four shillings for a mark that does not say a price. **I do not know what it is for, and I would like somebody to tell me before the fourth time I need it.**"
+"And whatever is on that paper of mine," he said, "I have looked at it about nine times and it does not say a price. That is what I keep coming back to. Four shillings for a mark that does not say a price. I do not know what it is for, and I would like somebody to tell me before the fourth time I need it."
 
 The wagon went up the low ground road toward the sluice, and the queue behind it came down to about eleven, and the rate did not go up.
 

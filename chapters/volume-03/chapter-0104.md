@@ -28,9 +28,9 @@ He counted for about nine minutes and did it twice, and it was two hundred and e
 
 "And I have now asked, because I went down eleven steps, and the answer is that the ledger says *eleven hundred and something* and the cellar has two hundred and eleven of them and there is a gap of about a thousand sheets that nobody in the kingdom has been able to account for since before the flood year."
 
-**Eleven hundred and something has been in a printer's ledger and in the mouth of the man at the Rainmarket credit window since the second month, and it is a gap, and a gap of about a thousand sheets of a form that carries a counterweight in the fourth box in type is not a mystery. It is an ordinary commercial fact: a printer sells paper.** The season offices of a kingdom use more than eleven hundred forms a year. Nobody in Bell Stair had ever counted how many, and nobody had ever counted how many came back.
+Eleven hundred and something has been in a printer's ledger and in the mouth of the man at the Rainmarket credit window since the second month, and it is a gap, and a gap of about a thousand sheets of a form that carries a counterweight in the fourth box in type is not a mystery. It is an ordinary commercial fact: a printer sells paper. The season offices of a kingdom use more than eleven hundred forms a year. Nobody in Bell Stair had ever counted how many, and nobody had ever counted how many came back.
 
-"That is not a scandal," said Sedge, before anybody had said it. "I want that written down, and I want to be the one who wrote it, because I have been in this building long enough that twice in it. **A printer sells paper. A form is not a contract. A form is a piece of paper with printing on it and the printing on this one says a thing about a district bearing the failure of a season favoured, in the fourth box, in type, which is the form and has been the form for nineteen years and is not the fault of the man who printed two hundred and eleven of them, and is not the fault of the woman who took a load off a cart in the flood year because the account had gone on to somebody else.**"
+"That is not a scandal," said Sedge, before anybody had said it. "I want that written down, and I want to be the one who wrote it, because I have been in this building long enough that twice in it. A printer sells paper. A form is not a contract. A form is a piece of paper with printing on it and the printing on this one says a thing about a district bearing the failure of a season favoured, in the fourth box, in type, which is the form and has been the form for nineteen years and is not the fault of the man who printed two hundred and eleven of them, and is not the fault of the woman who took a load off a cart in the flood year because the account had gone on to somebody else."
 
 "Then why is it in your cellar in the first place?" said Marek.
 
@@ -44,7 +44,7 @@ And Vesna Duss, who had been standing on the bottom step with a lamp, answered t
 
 "And that is the whole of what happened, and I have never moved it, because paper is dry down there and paper down there has been the only thing in this cellar that has ever been worth the water.
 
-"**And I am not going to be thanked for telling you, and I am not going to be the woman in a yard with a cellar of Crown March forms.**"
+"And I am not going to be thanked for telling you, and I am not going to be the woman in a yard with a cellar of Crown March forms."
 
 She said the last two sentences to Marek and not to Sedge, and she said them the way a woman says a thing she has had ready for years and has decided to say exactly as it stands.
 
@@ -66,7 +66,7 @@ He looked at the top sheet for about two minutes.
 
 "And what is the fifth box at the foot?"
 
-"A return," said Sedge. "It is the oldest box on the form and the only one on it that is not dated in this century, and it is the box a district may hand a returnable sum over in, at a discount, under a rule that is older than anybody in this building. **It is a box for a thing being handed on**, and it has been that box for longer than the paper it is printed on, and I have never in my life seen anybody fill one in with anything else and I do not think anybody ever has."
+"A return," said Sedge. "It is the oldest box on the form and the only one on it that is not dated in this century, and it is the box a district may hand a returnable sum over in, at a discount, under a rule that is older than anybody in this building. It is a box for a thing being handed on, and it has been that box for longer than the paper it is printed on, and I have never in my life seen anybody fill one in with anything else and I do not think anybody ever has."
 
 He stood in the cellar with a lamp in one hand and did not say anything else about it, and Marek wrote the number of the sheets down on the back of his own hand in pencil, which is the first number he has written down this year, and it was a count of paper in a cellar and it was not a figure about a room and it went in nobody's record.
 
@@ -78,11 +78,11 @@ Eight of the crates were shut and the ninth was open with boards off, and the ni
 
 Marek saw it at about the fourth minute of the count, when Sedge was at the far end of the cellar with a lamp, and he saw it, and he did not go and look at it again, and he did not say anything about it until they were on the stairs.
 
-The mark was on the inside of the lid and it was not a printer's mark and it was not a clerk's. It was four parts and it was small: **a month, a tide phase, a harbour seal stamped into wax, and a translator's name written in a small hand with a space before it and none after.**
+The mark was on the inside of the lid and it was not a printer's mark and it was not a clerk's. It was four parts and it was small: a month, a tide phase, a harbour seal stamped into wax, and a translator's name written in a small hand with a space before it and none after.
 
 It was a Tide Reckoning mark. It was on the lid of a crate of forms that a cart had brought down a lane in the flood year and that had come off a road and that a driver had left in the lane because the account had gone on to somebody else.
 
-**Nobody in Morrowfen can read a Tide Reckoning mark. An audit in this city goes as far as the seal and stops, and the seal is the whole of the paper's portability.** Marek had seen that hand three times in MR 413, on a bundle of nine sheets, on a board over a shed door, and on a haulier's contract for barley out of the second terrace, and he had written nothing down and told nobody, twice, on purpose, and both times he had been right, and the reason he had been right was that the two people in this city who would have carried it into a room inside the hour could not have said which of the three it was about.
+Nobody in Morrowfen can read a Tide Reckoning mark. An audit in this city goes as far as the seal and stops, and the seal is the whole of the paper's portability. Marek had seen that hand three times in MR 413, on a bundle of nine sheets, on a board over a shed door, and on a haulier's contract for barley out of the second terrace, and he had written nothing down and told nobody, twice, on purpose, and both times he had been right, and the reason he had been right was that the two people in this city who would have carried it into a room inside the hour could not have said which of the three it was about.
 
 And now it was on a lid in a cellar, and it was not a forgery, and it was not a mystery, and it was a shipping mark put on a crate by a man in a port for a crate he was sending to a depot in the hills.
 
@@ -98,10 +98,10 @@ And now it was on a lid in a cellar, and it was not a forgery, and it was not a 
 
 "No," said Sedge, "and I am going to tell you exactly why, and then I am going down those eleven steps to put a board back on a crate that I took off, because a crate that has been open in this cellar for as long as it has been open is a crate that has a board off, and that is the only thing about it that is anybody's business.
 
-"A form is stock. A crate is a crate. **And a shipping mark is a shipping mark, and I am a third-grade clerk in a building on a hill and I have cut one form in my life and I have been told twice in this basin that I have no service length anywhere, and I would like to be left alone with the count.**"
+"A form is stock. A crate is a crate. And a shipping mark is a shipping mark, and I am a third-grade clerk in a building on a hill and I have cut one form in my life and I have been told twice in this basin that I have no service length anywhere, and I would like to be left alone with the count."
 
 He went back down and put the board on and came up again and said the other thing, at the lane mouth, in the rain, with his coat buttoned wrong.
 
-"You went up a road for nine days to ask a man with a lantern who told him something. There is no room. There has never been any room. **What you have found is a cellar, and a man who does not care, and two hundred and eleven sheets of a form, and a mark on a lid, and a woman who said the whole sentence about herself before either of us asked her a word, and you are going to have to carry all four of those up a road and I would like to know which of them you are going to say out loud first.**"
+"You went up a road for nine days to ask a man with a lantern who told him something. There is no room. There has never been any room. What you have found is a cellar, and a man who does not care, and two hundred and eleven sheets of a form, and a mark on a lid, and a woman who said the whole sentence about herself before either of us asked her a word, and you are going to have to carry all four of those up a road and I would like to know which of them you are going to say out loud first."
 
 Vesna Duss shut the hatch above the eleven steps and put the bar across it, and did not offer anybody tea, and went up to a yard with a chandler's business in it and a son on the road with four children, and Marek Vale stood in the lane in the rain and found that he had written one number on the back of his hand and it was two hundred and eleven and it was the only number he had got in a cellar of nine crates, and that a season's account had gone on to somebody else, and that the somebody else was in the hills, and that the low ground's rate was still falling and had fallen again since dusk.

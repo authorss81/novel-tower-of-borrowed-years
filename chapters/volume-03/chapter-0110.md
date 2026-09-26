@@ -1,10 +1,16 @@
 # Chapter 110 — A Cargo Going Down
 
-The barge went down on the fifth of the second month at about the fourth bell, and the low ground's barley rate had fallen by about a third and had stopped falling, and the town had been eating since before the harvest month and had started to say so, and the granary offices of this basin were, in the ordinary language of a board of five somewhere, content.
+The barge went down on the fifth of the second month at about the fourth bell, and the low ground's barley rate had fallen by about a third and had stopped falling, and the town had been eating since before the harvest month and had started to say so, and the granary offices of this basin were, in the ordinary language of a room of eleven men in Verrow, content.
 
 Marek Vale was on the river stair because he had been on the weighbridge on the fourth of the tenth month and had stood on a stone deck and read a rate out loud to forty carts, and it had turned out that a man could do that, and that it was not a post and there was no form for it, and that if you did it twice in different places then about nine people would come and stand near you and ask you things.
 
-So he was on the stair at the fourth bell with the rate written on the back of his hand under a count of two hundred and eleven, and he read it out to every boat that came up, and he read it out twice, and he said the number out loud because Sefa had asked him to and he had said he would and had not come back for three weeks.
+So he was on the stair at the fourth bell with the rate written on the back of his hand under a count of two hundred and eleven, and he read it out to every boat that came up, and he read it out twice.
+
+"Say it again," said Sefa.
+
+"You have heard it four times this morning."
+
+"You have said it nine times and two of them were to a boat that was not going up." She put her weight on the top stair with the basket off her arm. "I asked you for it on the nineteenth of the tenth month, on this stair, with a Crown March man standing behind me with a satchel he did not open, and you said you would say a number out loud every morning until it moved or stopped. You have been here every morning since. I have stopped thanking you for it, because you are not doing it for me."
 
 The rate had stopped falling. It had been the same figure for four days.
 
@@ -12,13 +18,13 @@ The rate had stopped falling. It had been the same figure for four days.
 
 "Is it?"
 
-"I don't know," said Sefa. "I know I have four children and a stair and about nine boats a week instead of thirty, and I know that a man in a depot in the hills paid for the oats on this boat, and I know he is not doing it out of kindness. **If a price stops falling in a good year then somebody is carrying the difference and I would like to know who, because in this basin the answer is always a person who is not in the room and it is always the room's fault.**"
+"I don't know," said Sefa. "I know I have four children and a stair and about nine boats a week instead of thirty, and I know that a man in a depot in the hills paid for the oats on this boat, and I know he is not doing it out of kindness. If a price stops falling in a good year then somebody is carrying the difference and I would like to know who, because in this basin the answer is always a person who is not in the room and it is always the room's fault."
 
 ---
 
 The boat was going down loaded, which was the thing nobody in Rainmarket had seen before the year turned.
 
-There had been one loaded boat down on the nineteenth of the tenth month, when Rell came up, and there were four on the second of the second month, and there was one going at the fourth bell on the fifth, and it had about nine hundred sacks of barley in it and a coil of paper on the deck under a tarpaulin, lashed with a rope, in a box that was not lashed well.
+There had been one loaded boat down on the nineteenth of the tenth month, when Rell came up, and there were four on the second of the second month, and there was one going at the fourth bell on the fifth, and it had about nine hundred sacks of barley in it and a box on the deck under a tarpaulin with a coil of paper in it, and the box was not lashed well.
 
 Petar Duss was on the stair at about the third bell with a rope round his wrist, loading four carts for the four o'clock up-road, and he had a piece of paper in the cab of the lead one with a mark in the bottom corner of it in a calendar he cannot read, which had cost him four shillings in the growth month and had not been worth it, and he said so, and he said it at the third bell on a stair to about nine people and meant it.
 
@@ -32,9 +38,9 @@ Then the captain turned out to be a man of about thirty called Rennick, who had 
 
 "Who put it in there?"
 
-"Depot," said Rennick. "Verrow. A man with a ledger came down on the second, asked for the box, brought the box, put it in, wrote a thing in the book, went up on the second again. Nice enough. Gave the boy a shilling for holding the rope. **He did not look at the paper once, and I did not ask him to, and that is how a crew stays a crew.**"
+"Depot," said Rennick. "Verrow. A man with a ledger came down on the second, asked for the box, brought the box, put it in, wrote a thing in the book, went up on the second again. Nice enough. Gave the boy a shilling for holding the rope. He did not look at the paper once, and I did not ask him to, and that is how a crew stays a crew."
 
-The tarpaulin came off about four feet where the coil was and the coil was a sheet rolled round twice and tied with string, and on the outside of the roll, where the string crossed it, there was a mark.
+The tarpaulin came off about four feet where the box was, and the lid was not on the box, and the box was holding a coil, and the coil was a sheet rolled round twice and tied with string, and on the outside of the roll, where the string crossed it, there was a mark.
 
 It was the smallest thing on the paper. It was four parts in a small hand: a month, a tide phase, a harbour seal, and a translator's name with a space before it and none after.
 
@@ -76,7 +82,7 @@ Margit Sova looked at the barge.
 
 "That is not what I said."
 
-"It is what you said with the other half of it," said Margit Sova. "You have not said it in that order because you are a man who is careful. **Somebody in a room is holding the price and the price is not moving and I do not care what the paper says. I care about the sixth.**"
+"It is what you said with the other half of it," said Margit Sova. "You have not said it in that order because you are a man who is careful. Somebody in a room is holding the price and the price is not moving and I do not care what the paper says. I care about the sixth."
 
 ---
 
@@ -86,7 +92,7 @@ Then she asked the second question, and she asked it the way people ask the seco
 
 Marek did not have to think about it, and that was the part he could not account for afterwards.
 
-"Nobody," he said. "**That is the whole of the thing and I have had it since the twenty-first of the tenth month and I could not get it out of my mouth, and it is not mine. A notary said it to me in two rooms above a chandler's shop and I have carried it down four terraces and up a cellar and it is the sentence and the sentence is that a signature does not say whether a thing is true. A signature says where a thing can go.**
+"Nobody," he said. "That is the whole of the thing and I have had it since the twenty-first of the tenth month and I could not get it out of my mouth, and it is not mine. A notary said it to me in two rooms above a chandler's shop and I have carried it down four terraces and up a cellar and it is the sentence and the sentence is that a signature does not say whether a thing is true. A signature says where a thing can go.
 
 "That is all. That is what the mark does. It does not say your flour is cheap. It says a piece of paper in a coil is admissible in a port in another kingdom, and it says that because a man at a desk pressed a bit of brass into some wax on a day, and a mark that names a month instead of a day can be put on any day inside that month, and there is one tide table in this basin and it is in two rooms above a chandler's shop and it belongs to a man who will not swear to his own hand."
 
@@ -96,7 +102,7 @@ Margit Sova stood on a river stair with a basket and did not say anything for ab
 
 "I am not the man who worked it out."
 
-"I know who did," said Margit Sova, "because you have just told me a notary said it and you have never once in twenty minutes used anybody else's name and you have not used his now. **You have told me a man you know and not his name, which is a thing a man does when he is about to be somewhere on the fifth and would rather be known as a reader of numbers.**"
+"I know who did," said Margit Sova, "because you have just told me a notary said it and you have never once in twenty minutes used anybody else's name and you have not used his now. You have told me a man you know and not his name, which is a thing a man does when he is about to be somewhere on the fifth and would rather be known as a reader of numbers."
 
 The barge got its warp and went. It went down past the second stair and out under the bridge, and the paper went with it in a box that was not lashed well, and the rate stood where it had stood for four days, and the town went on eating.
 
