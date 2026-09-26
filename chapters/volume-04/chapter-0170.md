@@ -6,11 +6,13 @@ The room's standing business, which Zlata Hruska had put on the table herself on
 
 The deal table came up that ladder on the fourteenth of the second month, borrowed off a man behind a chandler's for the evening and carried up by two men and a boy of nine, and it went up the outside wall about half sideways, and it took four of them and it took about a quarter of an hour, and it is not in any book and it went back down the same way.
 
-On the evening of the sixteenth they put four sheets on it.
+On the evening of the sixteenth they put four on it.
 
-"They have to be the four," said Odile Marn. "Or it is not a finding. It is a conversation about a thing in general and half this city has had that this month and I am not having it in this room."
+"They have to be the four," said Odile Marn. "Or it is not a finding. It is a conversation about a thing in general and half this city has had that for a month and I am not having it in this room."
 
-The fourth one came up the ladder in the middle of the second lamp, brought by a carter who had it inside his coat. Jelka Sondor was on the coast and had gone on the second of the month and had not come back, and there was a carter at the counting house on the low ground who said that a woman at the coast had given him a folded sheet for a woman with a rail and no name, and had not said a word about it and had not wanted a receipt, and the carter had brought it up a ladder and had been given a cup of something and had gone straight back down.
+A third one came down the river in a man's coat, and it was a copy of a page and not a sheet, and it had been taken out of a drawer a night and a day up this river on the eleventh by a man with no office who was neither refused nor served, because a person of record may have a copy of a page of the record and there is a form for that one, and Drazen Topic had read it at a rail on the ninth and had said nothing about it and had gone back to his count.
+
+The fourth one came up the ladder in the middle of the second lamp, brought by a carter who had it inside his coat. Jelka Sondor was on the coast and had gone on the second of last month and had not come back, and there was a carter at the counting house on the low ground who said that a woman at the coast had given him a folded sheet for a woman with a rail and no name, and had not said a word about it and had not wanted a receipt, and the carter had brought it up a ladder and had been given a cup of something and had gone straight back down.
 
 ---
 
@@ -20,11 +22,11 @@ Zvonko Maras, a roof over a coal bay on the Rainmarket low ground, in the second
 
 Odile Marn, a boundary ditch between two seed yards on the Counters' Walk, in the growth month of MR 411, in a fair small hand, signed on a bank in the rain because a man from the water office said it would be doing the district a favour.
 
-Margit Sova, a bin in a courtyard, in the second month of MR 412, in a fair small hand, signed for a man from the water office who wanted to know who put the bins out on the Counters' Walk.
-
 Jelka Sondor, a bin behind a chandler's on the Counters' Walk, in the growth month of MR 412, in a fair small hand, brought down from a coast by a man with a cart.
 
-Four sheets, four ruled lines apiece, no boxes, and every one of them a good sheet.
+Drazen Topic, a boundary between two market pitches on the market road, in the sixth month of MR 413, in a fair small hand, copied off a page of a record by a man at a counter who was not asked whether the man in the record had been free.
+
+Four ruled lines apiece, no boxes, three of them the sheets themselves and one of them a copy of a page, and every one of them good.
 
 ---
 
@@ -38,11 +40,11 @@ Four sheets, four ruled lines apiece, no boxes, and every one of them a good she
 
 ---
 
-They looked at them for about a quarter of an hour and it went in four steps, and it went fast, and it went in the order it went in because everybody in the room had been doing it separately, in three different places, for four months, and had nothing to add to each other.
+They looked at them for about a quarter of an hour and it went fast, and it went the way it went because everybody in that room had been doing it separately, in three different places, for four months, and had nothing to add to each other.
 
-First: none of them names a paper. A roof. A ditch. A bin. A bin.
+First: none of them names a paper. A roof. A ditch. A bin. A boundary.
 
-Second: every one of them carries a month and not a day, and there is a month on a ditch from the growth month of MR 411 and the ditch is still a ditch and the bin is still a bin and a roof is a roof, and the whole of the difference between a sheet about a thing and a sheet about a moment is a line of type that is not on the form.
+Second: every one of them carries a month and not a day, and there is a month on a ditch from the growth month of MR 411 and the ditch is still a ditch and the bin is still a bin and a roof is a roof and a boundary between two market pitches is still a boundary between two market pitches, and the whole of the difference between a sheet about a thing and a sheet about a moment is a line of type that is not on the form.
 
 Third: there is nothing at all, anywhere, on any of the four, for whether the person was free.
 
@@ -88,7 +90,7 @@ The finding was entered on the door that night, in a third coat of pencil, on th
 
 *That therefore the harm is not in the signatures and never was, and that the coercion is a queue with a man at it, and that a queue is not on any form, and that there is no box for a queue, and there is not going to be one.*
 
-*That this finding changes nothing, and that the four sheets on the table are four good sheets and are going to remain four good sheets, and that the ditch is not cut, and that the pitch is not held, and that there are people in this basin who are spent, and that four of them cannot be found, and that one of the four is dead, and that this room has told two of them and cannot tell the rest.*
+*That this finding changes nothing, and that there are four good sheets on that table and there are going to be four good sheets on that table, and that the ditch is not cut, and that the pitch is not held, and that there are people in this basin who are spent, and that four of them cannot be found, and that one of the four is dead, and that of the nine who have been produced this room has told two and cannot tell the rest.*
 
 And that is the whole of what was found, and it is in four lines of carpenter's pencil on the inside of a door that is going to be painted in about two months, and there is a second copy on the outside of the same door, and there is no third copy anywhere in the kingdom, and nobody has any power over the paint.
 
@@ -112,6 +114,6 @@ Nobody in that room could do one single thing about it. There is no form on whic
 
 It was not a question and it was in the flat voice she used at her door, and nobody answered it, and she did not ask it twice, and she had been not asking it twice since she was twenty-five years old.
 
-The lamp went out at the seventh bell, which is what the lamp does, and nine people went down a ladder one at a time into a lane with no name, and a man with no office was the last one on it, and he came down with both hands on the rungs because there was nothing in either of them.
+The lamp went out at the seventh bell, which is what the lamp does, and nine people went down a ladder one at a time into a lane with no name, which was four more than that room had ever held at once, and a man with no office was the last one on it, and he came down with both hands on the rungs because there was nothing in either of them.
 
-And on the brick by the end of the lane there were ten names in chalk, in a hand that had got worse over twenty-six years, and the tenth of them was the worst one on the wall, and there is no eleventh, and about nine people in this city are spent, and a quarter of a sheet of paper on about four hundred copies is the whole of the reason, and there is nobody in this kingdom to be angry with, and the queue is still at the window, and the window is still open, and the wall is the only thing in the basin that nobody owns.
+And on the brick by the end of the lane there were ten names in chalk, in a hand that had got worse over twenty-six years, and the tenth of them was the worst one on the wall, and there is no eleventh, and the queue is still at the window, and the window is still open, and the wall is the only thing in the basin that nobody owns.

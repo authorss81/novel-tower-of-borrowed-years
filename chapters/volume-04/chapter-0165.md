@@ -1,8 +1,8 @@
 # Chapter 165 — What a Marshal Can Do With a Form
 
-The ladder outside the dye house went up the wall about eleven feet and the top three rungs were bad, and a boy of about nine who lived at the end of the lane took messages for anybody in that part of the city and was paid in kind and was not asked about anything, and he carried a message up on the seventeenth of the first month of MR 416 and came down again without knowing what it was.
+The ladder outside the dye house went up the wall about eleven feet and the top three rungs were bad, and a boy of about nine who lived at the end of the lane took messages for anybody in that part of the city and was paid in kind and was not asked about anything, and on the seventeenth of the first month of MR 416 he carried one up and came down again without knowing what it was.
 
-Seren Calder came up that ladder at about the second bell on the eighteenth, in the same coat, and stood on the other side of the rail for a moment looking at the room the way a person looks at a thing they have been told about and are now seeing.
+What the boy had carried up was that a settlement marshal for the reach had been asking after a room with no name on the door, and Seren Calder came up that ladder at about the second bell on the eighteenth, in the same coat, and stood on the other side of the rail for a moment looking at the room the way a person looks at a thing they have been told about and are now seeing.
 
 "The rail does not meet the wall on that side," she said.
 
@@ -91,6 +91,8 @@ She put the pencil back in her coat.
 "Which is that if anybody in this basin finds a way to seal a settlement in six days on sureties that an office can name, on a bank that has to be up in four days, then I will seal it, and I will do it on the standing authority, and I will not read the price box, and I will not read it whatever is in it, and I will not have anybody tell me afterwards that I did not know what was in it.
 
 "I have said the opposite in four rooms in four days, and I have said it to a man with no office and to a woman with a book and to two people who did not give me their names, and I meant it every time and I would take it back now.
+
+"And I will be on the reach on the nineteenth and on the twentieth at the sixth bell, because I said so on a bank on the sixteenth and I do not say a thing like that twice, and I am telling you now what I am going to do with a day so that you will not have to spend it working out whether you can be found.
 
 "That is the whole of what I have. Take it or leave it. I am going down."
 

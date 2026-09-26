@@ -1,6 +1,6 @@
 # Chapter 163 — A Room With a Rail Round Three Sides of It
 
-The counter on the causeway side had a rail in front of it that was not for leaning on, and on the seventh of the first month of MR 416 at about the second bell Perpetua Ohl put the book on the stone under the brass plate, opened it, and read four names out of it, and shut it again before he had got as far as the second one.
+The counter on the causeway side had a rail in front of it that was not for leaning on, and on the seventh of the first month of MR 416 at about the second bell Perpetua Ohl put the book on the stone under the brass plate, opened it, and read four names out of it, and shut it again before he had got as far as asking whether there were any more.
 
 "Write those down in your own hand and do not ask me to check them, because I will not check them and there is nothing to check them against."
 
@@ -42,7 +42,7 @@ She went out through the arch and across the bridge and along the towpath for ab
 
 There is no name for it. Not on a roll, not on a rate sheet, not on a plan of this city that a clerk in Bell Stair could pull down off a shelf, and no office in this basin has ever been able to produce one on demand, and two offices have been asked in the last four years and one of them answered.
 
-The people who live in it call the ends of it by what is at them. There is the end by the dye house. There is the end by the wall where the rain comes off, which is four feet of brick with a different brick above the line and half a dozen people who have put a coat against it. There is the end where the steps go down and the water comes up, and there are two steps and a landing and a gate that opens onto nothing, and the gate is open in the first month and shut in about the fourth.
+The people who live in it call the ends of it by what is at them. There is the end by the dye house. There is the end by the wall where the rain comes off, which is nine feet of brick with a different brick above the line and half a dozen people who have put a coat against it. There is the end where the steps go down and the water comes up, and there are two steps and a landing and a gate that opens onto nothing, and the gate is open in the first month and shut in about the fourth.
 
 The lanes are wet to the fourth step. There are nine or ten people in them at any hour and about nine hundred in the week. A woman of about thirty-four was standing at the top of two steps with a bucket in her hand at about half past the first bell, and the bucket was not for water.
 

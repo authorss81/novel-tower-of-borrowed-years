@@ -18,7 +18,7 @@ She put both hands flat on the table.
 
 Nobody asked it for a moment, and then Neris Kade asked it, and the asking was done in the ordinary voice because that is what Zlata Hruska had asked for.
 
-"You have been produced twice," said Zlata Hruska. "Say the rest of it, because you have been in four rooms this month and I want the whole thing in one go."
+"You have been produced twice," said Neris Kade. "Give me the rest of it in one piece, because you have been in and out of rooms since the fourth of last month and I do not want it in four pieces."
 
 "Twice. A sheet in the sixth month of MR 414, about a bin behind a dyeworks, on the low ground. And a sheet in the second month of last year, about the same bin, in front of nine or ten people. Both of them in a fair small hand and both of them signed by you, and neither of them asked you anything, and you were not told that either of them was about anything. And the second one was produced in a room with about nine people in it and you were one of the nine and you were not the one being asked anything."
 
@@ -38,7 +38,7 @@ It found that any person may come to that room and ask whether their name is on 
 
 It found that the answer cannot be made to hold, and that the room has nothing behind it, and that the room knows that, and is going to go on giving the answer anyway.
 
-It found that the person who keeps the room has been produced twice, on two sheets, about a bin, and was not told, and that she is the first of the nine in this basin to be told anywhere at all, in that room or in any other.
+It found that the person who keeps the room has been produced twice, on two sheets, about a bin, and was not told, and that she is the first person in this basin to be told the whole of it, in one room, in one go, and that two others in this basin know that they have been produced and neither of them has been asked about it in this room.
 
 And it found, in a fourth line that Neris Kade made her put down and read out again, that this room has no power to do anything whatever with any of the three findings above it, and that the room is not going to pretend to have power it has not got, and that anybody in this city is free to disregard all of it, and there is nothing in this kingdom that can be done about that, and the room is not a court and will not be called one.
 
@@ -52,7 +52,7 @@ After that a fish came up the ladder, which is not the way a fish comes, and Lov
 
 There was silence in that room for the length of a breath and every person in it went to the gap where the rail did not meet the wall and looked, and Zlata Hruska went down the ladder about eight rungs and came back up with her sleeve to her elbow.
 
-"It is," she said. "It is on the twenty-ninth. It is not in my hand and it is not in the hand of anybody who is in this lane now and it is not in my hand in chalk either, it is in pencil, under the chalk, and it has been under the chalk since somebody rubbed the twenty-ninth out on the day it went up, and there is a person's name on the twenty-ninth in chalk about a foot above yours, and I do not know the person's name either and I have not asked in six days because I have been busy with a lamp."
+"It is," she said. "It is on the twenty-ninth. It is not in my hand and it is not in the hand of anybody who is in this lane now and it is not in my hand in chalk either, it is in pencil, under the chalk, and it has been under the chalk since somebody rubbed the twenty-ninth out on the day it went up, and there is a person's name on the twenty-ninth in chalk about a foot above yours, and I do not know the person's name either and I have not asked anybody since the twenty-seventh because I have been busy with a lamp."
 
 Lovro Prazak said that he had never given his name to anybody in that lane, and that he had slept in the doorway at the end of it for nine years, and that he had never been asked for anything, and that this was the first time in nine years that anything in that lane had wanted something from him and that he wanted very little.
 
@@ -90,4 +90,4 @@ There is no copy. There is no book and no office and no roll and no seal and no 
 
 And that is not nothing, and it is not a remedy, and it is not a court, and the first thing that happened in that room, before the pencil, was a man of forty-nine come up a ladder with wet hands to ask whether his name was on a wall.
 
-Nim Rook came down the ladder first and sat on the two steps in the wet for a while and then said the thing she had said she was going to say, which was that she had told them all the truth about a person on a column with nothing at the head of it, on the fourth of this month, in a room in a building, to a Deputy with a book, and that the Deputy had told her that the room was not going to join her two nines together, and that she had thought about that on a roof since the fourth of this month and that the Deputy was right and that it was the worst thing anybody had ever done to her and that she was going to go on being angry about it for about a year.
+Nim Rook came down the ladder first and sat on the two steps in the wet for a while and then said the thing she had said she was going to say, which was that she had told them all the truth about a person on a column with nothing at the head of it, on the fourth of last month, in a room in a building, to a Deputy with a book, and that the Deputy had told her that the room was not going to join her two nines together, and that she had thought about that on a roof since the fourth of last month and that the Deputy was right and that it was the worst thing anybody had ever done to her and that she was going to go on being angry about it for about a year.

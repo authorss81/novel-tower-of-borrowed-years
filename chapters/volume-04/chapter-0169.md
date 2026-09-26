@@ -18,7 +18,7 @@ He looked at it for a moment and did not say anything about it and would not, an
 
 ---
 
-"I read other people's papers out loud in that room four hours a day on the days the shed is open," said Marek Vale, "and I have been doing it about a year and a half, and I never once knew what the wall list was for, and I worked out in the first four seconds that I was not going to get to the bottom of that column today, and neither were you, and I am not going to ask."
+"I read other people's papers out loud in that room four hours a day on the days the shed is open," said Marek Vale, "and I have been doing it long enough that I never once knew what the wall list was for, and I worked out in the first four seconds that I was not going to get to the bottom of that column today, and neither were you, and I am not going to ask."
 
 "Then stand at the bench and do not touch it."
 
@@ -54,9 +54,9 @@ That is a fact and it is not an invitation. Her name has been read out twice at 
 
 She looked at the wall.
 
-"I want to say the other half out loud in this shed, because you have been reading that list for a year and a half and I have never once watched you do it, and I have watched about a dozen people do it, and not one of them knew what they were reading.
+"I want to say the other half out loud in this shed, because you have been reading that list out loud four hours a day on the days that shed is open and I have never once watched you do it, and I have watched about a dozen people do it, and not one of them knew what they were reading.
 
-"You did not know what the fourth line was. You knew there was a fourth line. And you have been reading this yard's papers out loud for a year and a half and a woman of twenty-two who carries papers about this city at night has heard you do it, and nobody in this yard has ever asked you what the wall is, and I am telling you now that I know what the fourth line is and that I have never been asked, and I am not going to be asked, and if anybody asks me in this room today I am going to walk out of the door and go and stand at the tank, and you may all watch me do that."
+"You did not know what the fourth line was. You knew there was a fourth line. And you have been reading this yard's papers out loud for years and a woman of twenty-two who carries papers about this city at night has heard you do it, and nobody in this yard has ever asked you what the wall is, and I am telling you now that I know what the fourth line is and that I have never been asked, and I am not going to be asked, and if anybody asks me in this room today I am going to walk out of the door and go and stand at the tank, and you may all watch me do that."
 
 Nobody asked her anything in that room for the rest of the morning.
 
@@ -66,7 +66,7 @@ Drazen Topic was at the market rail at about the fifth bell of the ninth of the 
 
 He did not begin well. He said the first four sentences badly and had to start the fifth one over, and what he said in the end was that there was a sheet in a drawer in a building a night and a day up this river with his name in the third of five boxes on it, and a date that was a month and no day, and that he had been told he was a witness about a boundary between two market pitches in the sixth month of MR 413, and that he had signed about a boundary, and that he had not been asked, and that he had been counting heads at a rail every morning for eleven years and had never once been told to put anything at the top of a slate.
 
-"That is the whole of it," said Marek Vale. "There is no form on which anybody may be entered as saying they were free, and I have looked, and there is a woman of fifty-one at a counter who says the same thing and has been saying it for nine years, and I have found out this month that there are nine people in this basin who have been produced, and that five of the nine can be found and four of them cannot, and that you are the second I have found and the first I have found since the fourth of this month, and that one of the four is dead."
+"That is the whole of it," said Marek Vale. "There is no form on which anybody may be entered as saying they were free, and I have looked, and there is a woman of fifty-one at a counter who has been entering other people's words for thirty years and has never once been asked whether the person was free, and neither has anybody else, and I have found out that there are nine people in this basin who have been produced, and that five of the nine can be found and four of them cannot, and that you are the second I have found and the first I have found since the fourth of last month, and that one of the four is dead."
 
 Drazen Topic put the slate down on the rail.
 
@@ -80,7 +80,7 @@ Drazen Topic put the slate down on the rail.
 
 "Then say the thing that is going to happen to me," said Drazen Topic, "because I am not going to spend a morning working it out on my own and I have nine hundred people to count in an hour."
 
-"Nothing is going to happen to you," said Marek Vale. "That is the finding of the fourth of this month and I was in the room and it is written down and it says that a room cannot enter a finding that a person did or did not consent to anything, and there is none to enter, and they looked. And I am not going to soften it, and here is the other half: nothing is going to happen to you because nobody is going to be able to do anything to you either, and you have been used once and you cannot be used again and there is no form in this kingdom on which anybody may say so, and I have been telling people that for about a fortnight and I have not found one thing to do about it."
+"Nothing is going to happen to you," said Marek Vale. "That is the finding of the fourth of last month and I was in the room and it is written down and it says that a room cannot enter a finding that a person did or did not consent to anything, and there is none to enter, and they looked. And I am not going to soften it, and here is the other half: nothing is going to happen to you because nobody is going to be able to do anything to you either, and you have been used once and you cannot be used again and there is no form in this kingdom on which anybody may say so, and I have been telling people that for about a fortnight and I have not found one thing to do about it."
 
 The rail was busy by then. Drazen Topic picked the slate up.
 

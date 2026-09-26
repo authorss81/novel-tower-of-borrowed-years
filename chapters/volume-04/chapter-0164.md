@@ -2,7 +2,7 @@
 
 The bank on the Rainmarket low ground had been raised a foot in six days and it had about a mile and a bit to go, and the clay came out of a lane at the top of the reach in barrow-loads, and the ground was still hard enough to take a barrow wheel, and it would not be for much longer.
 
-Marek Vale went down it at the second bell on the sixteenth of the first month of MR 416 and found eleven gangs on it and a board on a trestle at the top with eleven names on it, and the eleven names were the eleven names of the witnesses, and every one of the eleven was a person whose attestation was of record in this basin and had been produced.
+Marek Vale went down it at the second bell on the sixteenth of the first month of MR 416 and found eleven gangs on it and a board on a trestle at the top with eleven names on it, and the eleven names were the eleven names of the witnesses, and the district had put eleven on the board because a works board takes eleven, and the number of people whose attestation was of record in this basin and had been produced was not eleven.
 
 There were about nine people's attestations of record in this basin. He had come to the number himself coming down the river in the eighth month of last year and had stopped at it because nobody would confirm a figure about a number of people, and the board on the trestle wanted eleven.
 
