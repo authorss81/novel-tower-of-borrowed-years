@@ -1,5 +1,16 @@
 # Review — Volume 02, Batch 0001 (Chapters 51–60)
 
+> **Correction, entered by the batch 0002 review. Finding 15 below recorded the Volume 01
+> anchor — the ninth of the rains is a Wednesday — as a fact of the prose and told the next
+> writer to count from it. It is not.** Across all fifty Volume 01 chapters *Wednesday*
+> appears only as an ordinary weekday and is never tied to a dated day; the anchor is an
+> inference this review drew. It also could not have worked, because the lengths of the months
+> between the seed month and the ninth month are fixed nowhere, so it could not reach the dates
+> batch 0003 and later need. **A later batch names no weekday.** The finding is left as written
+> because it is the record of what this review did, and the correction is here so the error
+> cannot be re-derived from it. See `reviews/volume-02-batch-0002.md`, finding A2, and the
+> calendar section of `state/continuity.md`.
+
 Reviewer pass on the finished batch, followed by a fix pass over the prose and the artefacts.
 **Prose is authoritative.** Where a card, a state file or a prompt disagreed with a chapter,
 the chapter won and the artefact was corrected. No planned plot movement was changed, no

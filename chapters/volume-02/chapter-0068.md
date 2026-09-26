@@ -2,7 +2,7 @@
 
 Fisk told her at the second bell on the twenty-first, in the seed house yard, three days after she had said she would, with the bench book open on the pail, and there were five people in the yard and three of them had known since the ninth.
 
-She read what the bench book says. Eleven marks on eleven ends, two sheds, four feet of water in the flood year, dried in June, the year in her own hand. She read it in the words it is written in and she did not improve it, and she told the girl before she read it that she was going to be told something in the words of a book and that the book is not kind and that she was not going to be asked to say she was all right.
+She read what the bench book says. Eleven marks on eleven ends, two sheds, four feet of water in the flood year, dried in the growth month, the year in her own hand. She read it in the words it is written in and she did not improve it, and she told the girl before she read it that she was going to be told something in the words of a book and that the book is not kind and that she was not going to be asked to say she was all right.
 
 Wenna Drel did not cry and did not say she was all right.
 

@@ -10,7 +10,7 @@ Mirren Fisk had got to the far end of it at the first bell on the eighteenth, an
 
 "Two more since the ninth."
 
-"Twenty and thirty-nine," said Fisk. "Same stock. Same shed. Same four feet of water in the flood year, and the same decision to dry it in June instead of April, and I have written the year on the board and I have not written a reason on it because I do not have one that is better than the weather's."
+"Twenty and thirty-nine," said Fisk. "Same stock. Same shed. Same four feet of water in the flood year, and the same decision to dry it in the growth month instead of the seed month, and I have written the year on the board and I have not written a reason on it because I do not have one that is better than the weather's."
 
 "Do you have a reason at all."
 
@@ -72,7 +72,7 @@ Nobody in the shed had said the arithmetic out loud, and Marek did it, standing 
 
 "We did not fail the trays," said Fisk.
 
-"You did not fail the trays," said Marek. "The office sealed that instrument in the bad autumn, and its second clerk's eye has been on the paper this month and off it again, and what I am telling you is that a rule which collects the cost of eleven bad trays out of eleven households and then out of a district is the same rule that has been walking a sum from a shed on a carrier's row into this ward's account, and I am not saying they are the same rule. I am saying I can draw them with one pencil and I would rather somebody in this shed heard me draw it while I was here than had it drawn for them by a man in a good coat in September."
+"You did not fail the trays," said Marek. "The office sealed that instrument in the bad autumn, and its second clerk's eye has been on the paper this month and off it again, and what I am telling you is that a rule which collects the cost of eleven bad trays out of eleven households and then out of a district is the same rule that has been walking a sum from a shed on a carrier's row into this ward's account, and I am not saying they are the same rule. I am saying I can draw them with one pencil and I would rather somebody in this shed heard me draw it while I was here than had it drawn for them by a man in a good coat in the ninth month."
 
 Mirren Fisk took her hands out of the sand and wiped them on her apron, and stood looking down the bench at fifty trays that had come up and eleven that had not.
 

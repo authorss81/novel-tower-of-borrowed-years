@@ -38,7 +38,7 @@ The line said:
 
 "One word."
 
-"You asked for the *names*. He offered you the *sum* in the same breath and he offered it in one day under seal, and he has offered it eleven times, and you did not ask for it, and I have been in this business long enough to know that I would have asked for the sum in the morning and been pleased with myself by the afternoon." He gave the paper back. "I am not saying that to be hard. I am saying it because in September somebody is going to stand in a room and ask what anybody asked this office for between the second of the second month and the twelfth, and the answer is going to be *a schedule with the names of the parties*, and there is going to be a seal on it, and it is going to be the right question for a man who wants a thief caught, and it is going to be the wrong question for a woman who wants to know whose rate it is."
+"You asked for the *names*. He offered you the *sum* in the same breath and he offered it in one day under seal, and he has offered it eleven times, and you did not ask for it, and I have been in this business long enough to know that I would have asked for the sum in the morning and been pleased with myself by the afternoon." He gave the paper back. "I am not saying that to be hard. I am saying it because in the ninth month somebody is going to stand in a room and ask what anybody asked this office for between the second of the second month and the twelfth, and the answer is going to be *a schedule with the names of the parties*, and there is going to be a seal on it, and it is going to be the right question for a man who wants a thief caught, and it is going to be the wrong question for a woman who wants to know whose rate it is."
 
 "And which do you want."
 

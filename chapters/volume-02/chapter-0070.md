@@ -98,7 +98,7 @@ Then he wrote the clock, because he was the only man at that table who had a cle
 
 He signed it and served it himself, in his own hand, and it went on the nail on a public table at the door of a room built for thirty, and about nine people read it, and nobody said afterwards that they had read it, which is what people in this city have said about notices on doors since the fourth of last month.
 
-Then the room emptied, and the four hundred people who had come up the hill to find out what was going to happen in September went back down the causeway in the rain without having been told anything, because there was nothing to tell them, and because the five lines on the nail at the door were the only sentence anybody in this city had put on paper about the ninth month, and it had been written by a man with no office to write it with.
+Then the room emptied, and the four hundred people who had come up the hill to find out what was going to happen in the ninth month went back down the causeway in the rain without having been told anything, because there was nothing to tell them, and because the five lines on the nail at the door were the only sentence anybody in this city had put on paper about the ninth month before, and it had been written by a man with no office to write it with.
 
 Kade went past him at the bottom of the stair and stopped, and did not say anything warm, and did not say anything about the yard or the trestle or the shed.
 

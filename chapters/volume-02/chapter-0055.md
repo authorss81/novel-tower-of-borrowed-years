@@ -24,7 +24,7 @@ Seed for the low ground at the February price, ELEVEN HUNDRED. A share of it if 
 
 "And the plough," said Orleb.
 
-"The plough," said Ferrow, "is forty. The plough is not on the paper. The plough is the money you have, and I would take the money first, because a house with seed and no animal is a house that will borrow again in August at a worse price than mine, and I have watched that happen and so have you."
+"The plough," said Ferrow, "is forty. The plough is not on the paper. The plough is the money you have, and I would take the money first, because a house with seed and no animal is a house that will borrow again in the growth month at a worse price than mine, and I have watched that happen and so have you."
 
 "You have been in this room before," said Orleb.
 

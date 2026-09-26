@@ -28,7 +28,7 @@ At the second bell they were at the bench.
 
 Nine trays.
 
-Mirren Fisk had them on the long bench under the oiled paper and the paper was off, and there was nothing in nine of them but river sand, and the smell of it had gone from sour to sweet, which is the smell of a tray that has failed and has stopped being interesting to anybody. And all nine of the nine were off the same stock, which is the oldest kept-back seed in the basin, and it came out of a shed at the back of the seed house that was under four feet of water in the flood year and was dried out afterwards by being shut up in June, and that is not a mystery and Fisk said so before anybody asked her.
+Mirren Fisk had them on the long bench under the oiled paper and the paper was off, and there was nothing in nine of them but river sand, and the smell of it had gone from sour to sweet, which is the smell of a tray that has failed and has stopped being interesting to anybody. And all nine of the nine were off the same stock, which is the oldest kept-back seed in the basin, and it came out of a shed at the back of the seed house that was under four feet of water in the flood year and was dried out afterwards by being shut up in the growth month, and that is not a mystery and Fisk said so before anybody asked her.
 
 Fisk went down the line with the marker and touched the end of each tray and said the number out loud in the ordinary voice of a woman doing a job at the end of a day: *four, eleven, nineteen, twenty-six, thirty-one, thirty-three, forty, forty-four, fifty-one.*
 
@@ -80,10 +80,10 @@ They stood on the rise. Down below, four hundred yards off, a woman of thirty-fo
 
 Marek had no paper on him, which had been the plan and which was now the whole difficulty, because he wanted to write it down and the only thing he had was the inside of his own coat.
 
-He took out the recertification list, folded it once, and on the back of it, in pencil, in the standing of a man who has no form and no office and one list that is a fortnight old, he wrote four words and a full stop.
+He took out the recertification list, folded it once, and on the back of it, in pencil, in the standing of a man who has no form and no office and one list that is a fortnight old, he wrote six words and a full stop.
 
 *A district is not a person.*
 
-Then he folded it again and put it away, and it was in his coat that night and the four nights after that, and it was not evidence, and it was not a document, and there was no box in the city for a sheet of paper with four words on it and a man's hand at the bottom, and he was aware of all three of those things while he was doing it, and did it anyway, which was a new thing, and it did not feel like anything at all.
+Then he folded it again and put it away, and it was in his coat that night and the four nights after that, and it was not evidence, and it was not a document, and there was no box in the city for a sheet of paper with six words on it and a man's hand at the bottom, and he was aware of all three of those things while he was doing it, and did it anyway, which was a new thing, and it did not feel like anything at all.
 
 Behind them, on the high ground, the curtain had gone off the ridge and the sky over the low ground was the colour of the inside of a dish and was going to be that colour for another nine days.
