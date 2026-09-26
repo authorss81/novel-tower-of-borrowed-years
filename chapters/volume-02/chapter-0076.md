@@ -44,7 +44,7 @@ He put it flat and smoothed it with the side of his hand, which is not a thing y
 
 "Read me the rest of it," she said. "And read the second and third clauses as well, and I want to know what a witness is meant to be doing there."
 
-So he read it. The need, the pledge, the scope, the two witnesses and what they had signed, and the settlement, and he read the fifth box at the foot, which was a return and was the right box, and he read the assignor's column, which was on the form and was the only heading on it that was not old, and he read the counter-stamp, and the date, and the number.
+So he read it. The need, the pledge, the scope, the two witnesses and what they had signed, and the settlement, and he read the fifth box at the foot, which was a return and was the right box — it is a different form from the sheet on a tail-board in the cart yard and cut in the same five parts, and a man who has held one of them has been handed half of the other by nobody — and he read the assignor's column, which was on the form and was the only heading on it that was not old, and he read the counter-stamp, and the date, and the number.
 
 "It is a good sheet," he said. "It is better made than most. There is no lie in it, there is nothing missing out of it, and every box is the right box."
 

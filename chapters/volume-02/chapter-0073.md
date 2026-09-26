@@ -22,7 +22,7 @@ Ilma Tresch added it up.
 
 "How long have you had the cough," said Sera Holt.
 
-"Since the floods, and this winter it has not let go of me, and this week it has got into the small of my back, and I have had it since the ninth and I did not say so because the first round of doors closed on the twentieth and the second is finished and I am one of the three hundred and seventy-seven that nobody has ever asked anything, and I have been lifting sacks for eleven days with it."
+"Since the floods, and this winter it has not let go of me, and this week it has got into the small of my back, and I have had it since the ninth and I did not say so because sixty-one people put a thumb to a seal in the bad autumn and eleven of us got a line out of it in a field on the sixth, and nobody asked one of the eleven anything, and I am one of the eleven, and I have been lifting sacks for eleven days with it."
 
 She said it without any self-pity at all, which is the way people say things they have rehearsed on a walk from a field to a house.
 
@@ -74,7 +74,7 @@ Nobody asked her anything. The curtain on the wire moved in the draught.
 
 ---
 
-The woman from the top of the road came in at the fourth bell and had her sleeve mended first, because the seam had gone at the shoulder and there is a seamstress who comes on the first and the fourth and is paid out of the alms box and is not on the clinic's books at all, and the two women talked about the sleeve for about a minute and a half and it was the only ordinary thing that happened in that room all day.
+The woman from the top of the road came in at the fourth bell and had her sleeve mended first, because the seam had gone at the shoulder and his mother was in the room and there is a seamstress who comes on the first and the fourth and is paid out of the alms box and is not on the clinic's books at all, and the two women talked about the sleeve for about a minute and a half and it was the only ordinary thing that happened in that room all day.
 
 Marek sat on the bench by the wall with his hands on his knees and did not ask Tamsin Vale anything, and he noticed himself not asking her anything, and did not write that down either, and understood with some clarity that there were three things in his life he was carrying that he had decided not to put in a room, and that the reasons were two different reasons, and that one of the reasons was a rule about forms and the other one was about her and he was not going to look at which was which.
 

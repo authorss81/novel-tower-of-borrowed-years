@@ -90,7 +90,7 @@ Malnar put his head back against the press frame.
 
 They put the baskets down. The frost had gone off the terrace wall and the lane between the strips had gone the colour of a road.
 
-"Malnar," said Marek, "I am going to do a thing in about six days that I have no business doing and that nobody has asked me to do, and I am telling you about it in advance, and I am not asking you anything, and I am not going to be able to tell you afterwards either, and I would rather you heard the shape of it from me now than found out about it in a yard from a stranger.
+"Malnar," said Marek, "I am going to do a thing in ten days that I have no business doing and that nobody has asked me to do, and I am telling you about it in advance, and I am not asking you anything, and I am not going to be able to tell you afterwards either, and I would rather you heard the shape of it from me now than found out about it in a yard from a stranger.
 
 "I am going to try to hold a settlement for a few days. Not your forty-one. Those are paid and the work is done and a contract you have kept is a contract, and there is nothing in it to hold. Something else, on this ground, on the eleventh, and it will not be about the trees.
 

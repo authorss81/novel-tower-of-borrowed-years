@@ -2,7 +2,7 @@
 
 The harvest month came in cold and clear, and the low ground got four days of it, which was the best weather anybody had had since the flood year and the worst possible weather for a second sowing, because a second sowing wants a frost to break the crust and not four days of a low sun on a crust that was already made.
 
-The kept-back had to be in the ground by the last day of the growth month, which was the twentieth, and it went in on the nineteenth, in nine hundred and forty acres of it, off the forty-one sacks that came down the upland road on a hired cart in the second week, and it went in well, and nobody was pleased, because a second sowing is a thing you do because the first one failed.
+The kept-back had to be in the ground by the last day of the growth month, which was the twentieth, and it went in on the nineteenth, in nine hundred and forty acres of it, off the forty-one sacks that came down the upland road on a hired cart in the second week of the growth month, and it went in well, and nobody was pleased, because a second sowing is a thing you do because the first one failed.
 
 On the third day of the harvest month Mirren Fisk did the thing she had said in a yard on the twenty-first of the seed month that she would have to do.
 
@@ -12,7 +12,7 @@ She did it in the seed house, standing, at the second bell, with the bench behin
 
 There was one sheet of paper. It was the length of a seed sack's label and had been cut off a sack, and there was nothing at the top of it, and eleven lines on it, and each line was a household's ground and a figure, and no rule at the head and no column names and no total at the foot, and the reason for all three absences is the same reason and she said it out loud before she put the pen down.
 
-"There is no form," said Mirren Fisk. "I looked on the first of this month with a man from Bell Stair sitting in that corner and I looked again on the eighteenth on my own. There is no form in this kingdom in which a rate on a member's ground goes, and none for a member in illness, and none for a member who cannot work, and there is not going to be one, and I am not going to cut one on the back of a seed sack and pretend to the eleven people in this room that I have. The absence is not an oversight. The absence is the rule working exactly as it was cut."
+"There is no form," said Mirren Fisk. "I looked on the first of this month with a man from Bell Stair sitting in that corner and I looked again yesterday on my own, in an hour, with the door shut. There is no form in this kingdom in which a rate on a member's ground goes, and none for a member in illness, and none for a member who cannot work, and there is not going to be one, and I am not going to cut one on the back of a seed sack and pretend to the eleven people in this room that I have. The absence is not an oversight. The absence is the rule working exactly as it was cut."
 
 "Then where is it going," said a man at the back.
 
@@ -38,13 +38,13 @@ Nobody objected, which was worse than objection.
 
 Fisk had the pen in her hand and looked at him over it.
 
-"I have had a sheet with nothing at the head of it for three days," she said, "waiting for somebody to come up this road and put something at the top of it, and you have come up the road, and I am glad, and I am not going to use it."
+"I have had a sheet with nothing at the head of it since the first of this month," she said, "waiting for somebody to come up this road and put something at the top of it, and you have come up the road, and I am glad, and I am not going to use it."
 
 "I know."
 
 "You do not, and here is why. If there is a word at the top of this, then this is a thing of a kind, and a thing of a kind is a thing somebody can be asked about at a counter and answered in a form and administered, and the eleven names on it will be in a column in Bell Stair with a date against them, and the day somebody comes with a form for it is the day one of these eleven women is told something by an office about her own ground.
 
-"You told me yourself, ten days ago, at a gate on this road, why that is the thing you have been frightened of since the ninth of the seed month. I am not taking your sentence. I am telling you what it is for. It does not need somewhere to go. It needs to stay where it is, in a keeper's day book on an island, in a hand that is not yours, where it cannot be used by anybody, including you."
+"You told me yourself, a month ago, at a gate on this road, why that is the thing you have been frightened of since the ninth of the seed month. I am not taking your sentence. I am telling you what it is for. It does not need somewhere to go. It needs to stay where it is, in a keeper's day book on an island, in a hand that is not yours, where it cannot be used by anybody, including you."
 
 Marek stood in the corner of the seed house and had nothing to say to that, which has happened to him four times in six weeks and has never once been pleasant.
 
@@ -86,7 +86,7 @@ Wenna Drel was not on the sheet, and her mother was forty-one and had walked dow
 
 "That is the same sentence with the words the other way round," said Marek.
 
-"It is," said Fisk, "and I have known it since the twenty-first of last month and have been the keeper of it since the third of it. Nobody has ever asked me to write down that a girl of sixteen has been on this and I have not written it, and if somebody hands me a piece of paper tonight I will put her name at the top of it with the date, and I would like to be asked to do it by somebody who has to live in this valley after the ninth month."
+"It is," said Fisk, "and I have known it since the twenty-first of the seed month and have been the keeper of it since the third of the seed month, and there is a month between a thing being known and a keeper being able to do anything at all about it, and that month is the whole of what happened this summer. Nobody has ever asked me to write down that a girl of sixteen has been on this and I have not written it, and if somebody hands me a piece of paper tonight I will put her name at the top of it with the date, and I would like to be asked to do it by somebody who has to live in this valley after the ninth month."
 
 Nobody asked her to do it.
 
@@ -138,4 +138,4 @@ On the third day of the harvest month eleven houses in the Rainmarket low ground
 
 And the sentence he had said out loud in a room on the twentieth, which had been the whole of the answer to the only question anybody had put to him in a month, was in a book on a table on an island across the causeway, under a weight, in a keeper's hand, and it could not be used by anybody, and it was not going to stop one single thing that was going to happen in the ninth month.
 
-Marek Vale walked up the road at the seventh bell with a card in his coat he had not used and will not use, and a flat board with four ruled sheets in it, and no office, and no form, and no room, and no work, and four bells and three days of a year gone, and a sentence in a keeper's book. He was lighter than he had been in the seed month by exactly one thing, which was the belief that if he got the words right it would make a difference. He had got the words right. It had not made a difference. He had said so out loud on the twentieth, in a room, to two people and a bell and a queue, and the ninth month was four weeks off.
+Marek Vale walked up the road at the seventh bell with a card in his coat he had not used and will not use, and a flat board with four ruled sheets in it, and no office, and no form, and no room, and no work, and four bells and three days of a year gone, and a sentence in a keeper's book. He was lighter than he had been in the seed month by exactly one thing, which was the belief that if he got the words right it would make a difference. He had got the words right. It had not made a difference. He had said so out loud on the twentieth, in a room, to two people and a bell and a queue, and the ninth month was under four weeks off.
