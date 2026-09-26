@@ -1,5 +1,7 @@
 # Volume 02 Batch 0001 Outline — What the Share Signed
 
+**Reconciled to the prose, after the batch 0001 review.** The cards below were written before Chapters 51–60 and had drifted from them in about a dozen places, two of which had already reached the state files. Every drifted line has been corrected to what the chapter actually says, and **where a card and a chapter still disagree, the chapter is authoritative and this file is a record, not a source.** The corrections are: the assignment-column explanation is **Sedge's**, not Ostrowsky's (Ch 51); Ostrowsky is **nineteen years** in the levy office, not eleven; the lost promise is to his **mother**, not his brother (Ch 53); **Kade is not in Ch 55 at all** and the question in that kitchen is asked by Orleb's daughter of nineteen and answered by Ferrow in a field; the clause is **eighteen months** old and not four years; Ch 56 runs from the first bell to the sixth, not from an eighth bell, which does not exist in the day count; Ch 60 runs from the sixth bell, not the fourth; the carrier's arrears are **forty-three** and some months, not 40; **no total of recertification files finished is stated anywhere**, and the shower is not the clause's doing.
+
 Batch number: 0001
 Chapter range: 51–60
 Batch title: **What the Share Signed**
@@ -21,7 +23,7 @@ Aftermath: the tail of Chapter 60, after the copy room, four paragraphs. **Nim R
 
 **Locked instruments (from `outline/volume-02.md`, do not blur):**
 
-- **The Share's seed instrument.** Cooperative, sealed once for sixty-one members, all five parts present, **two witnesses neither of whom is paid by the Share**, borrowed **2,400** in the bad autumn of MR 411, pledged as next season's labour of eleven days each plus a third of the seed kept back, scoped to the seed house and the low ground, settled out of the harvest. **Its fourth clause recites a counterweight: the district named in the schedule bears the failure of the season favoured.** The district named in the schedule is the Rainmarket low ground. **This clause is correct, well drafted, and has been sealed for four years. No chapter in this batch may find a defect in the Share's own instrument.**
+- **The Share's seed instrument.** Cooperative, sealed once for sixty-one members, all five parts present, **two witnesses neither of whom is paid by the Share**, borrowed **2,400** in the bad autumn of MR 411, pledged as next season's labour of eleven days each plus a third of the seed kept back, scoped to the seed house and the low ground, settled out of the harvest. **Its fourth clause recites a counterweight: the district named in the schedule bears the failure of the season favoured.** The district named in the schedule is the Rainmarket low ground. **This clause is correct, well drafted, and was sealed eighteen months ago, on the ninth day of the bad autumn, MR 411. No chapter in this batch may find a defect in the Share's own instrument.**
 - **The assignment schedule.** Fifty-two lines out of sixty-one, dated, signed by the assignor, **no rate box, no name box for whoever the rate is charged to**, and the form predates the practice. Nine members have no arrears and did not sign. Total **1,916**.
 - **The bundle, or the paper.** The Share's instrument plus the fifty-two assigned claims, sold as one line at **300**, carrying Halvard Sunn's Tide Reckoning counterseal, with a stated rate and an unstated counterweight.
 - **The recertification.** A second clerk's eye, due back on the **twelfth**, which is the day the seed goes in. Twenty-two files. Marek is on the list because he is the only clerk in Bell Stair with nothing to do.
@@ -41,7 +43,7 @@ Required character changes:
 
 Required power changes:
 
-- **Ledger Sight: one panel in the whole batch, and it is in Chapter 53, spent alone on a stair landing with nobody in the room.** Sparse ink, plain language, no percentages, no verdicts, no predictions, no menus. It must show an **absence**, not a fabrication, because there is no lie in the file. Suggested content, which may be reworded: *The counterweight is named. Nothing is standing behind it.* **Cost: a small recent ordinary memory, gone.** He has agreed to meet his brother at the second bell and does not remember agreeing, and Tamsin tells him at the door and does not ask why he is standing there. **The Sight points at a thing in a field. It cannot look at a field. He has to walk out there and look, and Chapter 58 is what happens when he does.**
+- **Ledger Sight: one panel in the whole batch, and it is in Chapter 53, spent alone on a stair landing with nobody in the room.** Sparse ink, plain language, no percentages, no verdicts, no predictions, no menus. It must show an **absence**, not a fabrication, because there is no lie in the file. Suggested content, which may be reworded: *The counterweight is named. Nothing is standing behind it.* **Cost: a small recent ordinary memory, gone.** He has said he will come to his mother's door at the second bell and does not remember saying it, and Tamsin tells him at the door and does not ask why he is standing there. **The Sight points at a thing in a field. It cannot look at a field. He has to walk out there and look, and Chapter 58 is what happens when he does.**
 - **No Boundary Hold in this batch.** The two holds belong to Movements III and are on **lawful** instruments, which is the volume's whole argument. Nobody may wish for a hold, and the founding standing hold is spent and must not be mentioned as available.
 - **A panel in front of somebody is a reason to be asked questions in a room, and a room takes its answers from men who can sign.** The second cost is inherited from Volume 01 and **this batch pays it: Marek's usefulness is what keeps getting him into rooms, and it is not standing, and Neris says so in Chapter 52 before the reader has worked it out.**
 
@@ -71,7 +73,7 @@ Location/time: The levy office and the copy room, Bell Stair, **the second of th
 
 Immediate goal: Find out what he is, now that the suspension slip has come down and the letter *V.* has not gone back on the assignment column.
 
-Resistance: Nobody will tell him, and nobody is unkind about it. **Sedge** applies a rule correctly and it costs Marek a morning. **Ostrowsky**, nineteen years in the post, is the one who finally explains the column without being asked, and what he explains is that the column is where a clerk's name goes when a file is his, and Marek's name is not on it, and there is no form for a clerk who is employed and not assigned.
+Resistance: Nobody will tell him, and nobody is unkind about it. **Sedge** applies a rule correctly and it costs Marek a morning. **Sedge** is the one who explains it without being asked, and what he explains is that the column is where a clerk's name goes when a file is his, and Marek's name is not on it, and there is no form that says a clerk of the Chamber is employed and unassigned. **Ostrowsky is in the room in this chapter and says nothing about the column; he is the counterweight man of Chapter 53.**
 
 Information revealed, in this order and all of it small: **the levy office has received its first question about the reserve carry in three hundred years** — not a demand, a query, from the water office, asking the levy office to show the line and to say what it is against. Grale reads it and says what he has said in a yard, in the first person, and adds the new part: it is not a question about the money, it is a question about **whether there is a district on the line**, and a district is the only thing a question like that is for. And the second thing: **twenty-two files need a recertification before the twelfth**, because every seed instrument in the basin comes due in the same fortnight, and the fourth line on the list is the Elmsworth Seed Share's.
 
@@ -109,7 +111,7 @@ Continuity fact: The Share's witnesses are named as people: **a seed merchant's 
 
 Ending type: an obstruction and a line that lands.
 
-Next-chapter pull: The fourth clause is not the threshing share. Two clerks in Bell Stair have been sealing it for four years and neither of them has read it.
+Next-chapter pull: The fourth clause is not the threshing share. Men in Bell Stair have been sealing it since the bad autumn and not one of them has read it, and one of them will say so on the fourth.
 
 ### Chapter 0053 — What a Counterweight Is For
 
@@ -119,9 +121,9 @@ Location/time: The copy room and the stair landing, Bell Stair, **the fourth**, 
 
 Immediate goal: Find out what a counterweight is, from the only two men in Bell Stair who have to know.
 
-Resistance: **Ostrowsky** has been sealing seasonal instruments for eleven years and has never had to ask, because the question is only asked by somebody with no office. He is not hostile; he is **embarrassed**, and the embarrassment is the chapter. He tries three explanations and gets two of them slightly wrong, and the third one is right.
+Resistance: **Ostrowsky** has been sealing settlement instruments for nineteen years and has never had to ask, because the question is only asked by somebody with no office. He is not hostile; he is **embarrassed**, and the embarrassment is the chapter. He tries three explanations and gets two of them slightly wrong, and the third one is right.
 
-Information revealed, and it must be right and checkable: **a sequence loan moves the order of one narrow local event; a counterweight is the named future consequence that balances it; a counterweight may be named as a district, and a district is not a person, and there has never been a form on which a district consents.** The Share's fourth clause names the Rainmarket low ground, which is correct — it is the ground the seed is in — and the consequence of that correctness is that when the low ground's rate is charged, the cost sits on the sixty-one people who already paid. **Nothing is wrong with the clause. The clause is doing exactly what it says.** Then, alone, on the stair landing, the batch's one panel — an absence, not a fabrication. And the cost: a small recent ordinary memory, gone, and it is a promise to his brother.
+Information revealed, and it must be right and checkable: **a sequence loan moves the order of one narrow local event; a counterweight is the named future consequence that balances it; a counterweight may be named as a district, and a district is not a person, and there has never been a form on which a district consents.** The Share's fourth clause names the Rainmarket low ground, which is correct — it is the ground the seed is in — and the consequence of that correctness is that when the low ground's rate is charged, the cost sits on the sixty-one people who already paid. **Nothing is wrong with the clause. The clause is doing exactly what it says.** Then, alone, on the stair landing, the batch's one panel — an absence, not a fabrication. And the cost: a small recent ordinary memory, gone, and it is a promise to his mother at her own door, made in the other direction — he said he would come and cannot remember saying it.
 
 Action or decision: He does not tell Ostrowsky what the Sight said. He asks instead to be allowed to walk the low ground, and Ostrowsky says the clerk of the day may not, and Marek says he is not the clerk of the day, and Ostrowsky says that is not a thing that gets you a walk. He goes anyway on the ninth.
 
@@ -163,13 +165,13 @@ Next-chapter pull: The offer is being made tonight, in kitchens, on barrels, by 
 
 POV: Marek.
 
-Location/time: The Orlebs' kitchen, Rainmarket low ground, **the sixth**, from the second bell after dark, and a lane outside it.
+Location/time: The Orlebs' kitchen, Rainmarket low ground, **the sixth**, from the second bell, and a field and a lane outside it.
 
 Immediate goal: Not to be in the room. To hear about it afterwards from somebody who was.
 
-Resistance: **Marek is not in the kitchen and the chapter is not his.** Kade was in the lane, not the room, and she tells it to him on a wall at the second bell with the specific flatness of a woman who has watched a thing happen and has no instrument for it. Inside, **Ilse Ferrow** sits on a barrel, is likable, answers every question, and is not lying.
+Resistance: **Marek is not in the kitchen and the chapter is not his.** **Kade is not in this chapter.** It is **Ilse Ferrow** who tells it to him afterwards, in a neighbour's field, about an hour after the bell, at the top of her voice and on purpose, and Marek stands in the wet and cannot ask her anything. Inside, **Ilse Ferrow** sits on a barrel, is likable, answers every question, and is not lying.
 
-Information revealed: The house, the seed cost of 1,100, the paper at 300, a second-hand plough at 40, a daughter of nineteen who has to have the seed or leave. And the one hard moment, and it is a real answer: Orleb asks **who pays the other year**, and Ferrow tells him the truth, which is that the tower reads a counterweight and does not have anybody to give it to, and that a district is the name it uses when there is nobody. And Orleb signs, because his daughter needs the seed, and nobody in the kitchen is a villain and one of them is a woman with a good coat and clean hands.
+Information revealed: The house, the seed cost of 1,100, the paper at 300, a second-hand plough at 40, a daughter of nineteen who has to have the seed or leave. And the one hard moment, and it is a real answer: **Orleb's daughter of nineteen asks who pays the other year** — the only question she has asked in four years — and Ferrow tells the truth, which is that the tower reads a counterweight and does not have anybody to give it to, and that a district is the name it uses when there is nobody. **The girl of nineteen is not named in the chapter and is not Wenna Drel, who is sixteen and is in Chapter 59; do not name her without a reason.** And Orleb signs, because his daughter needs the seed, and nobody in the kitchen is a villain and one of them is a woman with a good coat and clean hands.
 
 Action or decision: **And then the floor drops out.** Iren Orleb signed the assignment in the bad autumn, eight months before the Compact had a house in Morrowfen. He is not being cheated now. He is being paid, at a discount, for a signature he gave to a district arrears he could not pay, and the chain's first link is lawful and old and was never anybody's invention.
 
@@ -177,7 +179,7 @@ Emotional change: Marek's horror has nowhere to go. He has been building a case 
 
 Power or resource change: None. The batch gains its floor: **the chain's first link is lawful, and nobody is at the start of it.**
 
-Continuity fact: Orleb's assignment is dated the bad autumn, MR 411. **The chain is nine links long and the eighth is a Tallow Gate carrier's arrears.** The Compact's house in Morrowfen is nine years old; the paper is new; the assignments are not.
+Continuity fact: Orleb's assignment is dated the fourteenth of the second month, MR 412, and Ferrow calls it eight months old in the lane, which is what the calendar gives. **The chain is nine links long and the eighth is a Tallow Gate carrier's arrears.** The Compact's house in Morrowfen is nine years old; the paper is new; the assignments are not.
 
 Ending type: moral cost, in a room with no clerk in it.
 
@@ -187,13 +189,13 @@ Next-chapter pull: On the seventh, a junior clerk with a left hand finishes chec
 
 POV: Marek.
 
-Location/time: Ondra Kelb's counting floor, the settlement desk, Bell Stair, **the seventh**, the eighth bell to the sixth.
+Location/time: Ondra Kelb's counting floor, the settlement desk, Bell Stair, **the seventh**, the first bell to the sixth.
 
 Immediate goal: Find the error in the bundle before the twelfth, because if there is an error it can be contested and if there is not then Marek is wrong about the whole of Rainmarket.
 
 Resistance: **Ondra Kelb** is the person doing the counting and Marek is not allowed to help. He is twenty-one, he has a hand-book on the wrong hand, and his own left hand does the fine work and is a nine-year-old's. He counts twice because that is the only thing he can do that other people cannot.
 
-Information revealed: **The bundle balances to the penny.** Every rate, every assignment, every date, every witness and every signature in the stack is permitted by a rule that predates the Compact. There is no false term, no omitted page, no invented reserve, no aimed chain, and nothing in it that anybody can be shown to have done wrong. **Kelb says the sentence the chapter exists for: he has been a bad clerk for a year and he is the only one in the building who could find this, because he is the only one who counts twice.** And then he says that he has been **relieved**, and that the relief is shameful, and that he is saying it out loud because there is one other person in Bell Stair who would understand what it costs to be relieved by an absence of proof.
+Information revealed: **The bundle balances to the penny.** Every rate, every assignment, every date, every witness and every signature in the stack is permitted by a rule that predates the Compact. There is no false term, no omitted page, no invented reserve, no aimed chain, and nothing in it that anybody can be shown to have done wrong. **Kelb says the sentences the chapter exists for: that eleven months ago he would have countersigned this bundle in twenty minutes and been right to, that he is not a cleverer clerk than he was but a damaged one, and that the only thing the damage bought him is that he now cannot stop looking for a false term when there is no false term.** And then he says that he has been **relieved**, and that the relief is shameful, and that he is saying it out loud because there is one other person in Bell Stair who would understand what it costs to be relieved by an absence of proof. **(He does not say the words *the only one who counts twice*; what he says is *I have been comforted by the discovery that a thing which costs people their hands and their futures is proper.* Do not put the card's paraphrase in his mouth.)**
 
 Action or decision: Marek does not argue with him, and does not comfort him, and does the second honest thing available: **he asks Kelb to say the number twice more, out loud, with a witness, so that the balance is a fact in a room and not a feeling in a man.** Kelb does. And then, from the same arithmetic and not from any file, **a name for the fourth kind**: an entry that is not a levy, a schedule, a posting or a return is an assignment, and there is no box for it because the form predates the practice.
 
@@ -229,7 +231,7 @@ Continuity fact: Pike is 51 and has been on the floor thirty years. He ends this
 
 Ending type: an alliance neither party wants.
 
-Next-chapter pull: Nine of sixty-one germination samples failed on the bench and nobody at the seed house can say why, and the answer is weather, and the weather is the fourth clause.
+Next-chapter pull: Nine of sixty-one germination samples failed on the bench and nobody at the seed house can say why, and a shower went over the ridge on the ninth and missed the low ground, **and a physician insists in Chapter 58 that nobody may join those two facts**.
 
 ### Chapter 0058 — A Shower in the Wrong Place
 
@@ -241,7 +243,7 @@ Immediate goal: Look at the thing the Sight pointed at, with his own eyes, and f
 
 Resistance: A field is twelve hours and nobody wants to be asked anything. **Kade works the way she worked Tallow Ward and Marek watches her do it and is not part of it.** **Sera Holt** is there, and the cost of a failed germination is a body's calendar and not a season's, and she is the one who says what nine failures do to a household that planned on sixty-one.
 
-Information revealed: The Share's sequence clause favoured a narrow stretch on the sowing day and **the shower went to the high ground instead.** Nine of sixty-one samples failed. **Kade finds the one household that did not take the paper, and it is the household whose ground the shower went to, and she is pleased — and then she stops being pleased,** because the man who took the paper is Iren Orleb and the shower that missed is the same shower that will be needed. The mechanism is visible in the ground, in a bench, and in one woman's face, and nobody has done anything wrong.
+Information revealed: **Two bad facts of the same nine days, and the chapter refuses to make them one.** Nine of sixty-one samples failed off the oldest kept-back stock, out of a shed shut up wet in the flood year, and a shower went over the ridge and missed the low ground. **Sera Holt says a tray of seed does not fail because a shower went over a ridge four miles off, and a man in a good chair in the ninth month will say which one it was with a figure in front of him and not with a tray.** The counterweight is not a switch. **Kade finds the one household that did not take the paper, and it is the household whose ground the shower went to, and she is pleased — and then she stops being pleased,** because the man who took the paper is Iren Orleb and the shower that missed is the same shower that will be needed. The mechanism is visible in the ground, in a bench, and in one woman's face, and nobody has done anything wrong.
 
 Action or decision: Marek asks Kade what a counterweight is called when nobody is named, and she says a sentence that reframes the volume and is **not** a version of anything said in Volume 01: *It has been called a district for three hundred years. Somebody has to be the first person who says the word out loud in a room.* He does not say the word. He writes it on a sheet that is not a form.
 
@@ -277,19 +279,19 @@ Continuity fact: **Vey's rule is applied correctly and must not be discredited i
 
 Ending type: pressure, and a restraint that costs somebody.
 
-Next-chapter pull: The seed goes in on the twelfth, and twenty-two files are due back before it does, and Marek has not done a third of them and has read every one of them twice.
+Next-chapter pull: The seed goes in on the twelfth, and twenty-two files are due back before it does, and Marek has not gone near the fourth of them since the fourth. **The batch states no total of files finished and neither may the next batch.**
 
 ### Chapter 0060 — A Copy in the Open
 
 POV: Marek.
 
-Location/time: The copy room, Bell Stair, **the eleventh**, the fourth bell to the last of the light, the night before the seed goes in.
+Location/time: The copy room, Bell Stair, **the eleventh**, the sixth bell to the last of the light, the night before the seed goes in.
 
 Immediate goal: Make a copy of the Share's instrument and the assignment schedule that somebody else can hold, because he is going to be asked to certify it in the morning and he has discovered that he does not know what the fourth clause is for.
 
 Resistance: **A man with no office may read anything and certify nothing and enter nothing.** The public register's page is the Trust's page. The duty clerk lets him read a copy out, which is not the same as entering it, and she says so, and it is the only office she has. **The other person in the room is Ondra Kelb, whose left hand is better than the hand-book and is not his, and who counts with Marek because Marek cannot trust himself to count alone.**
 
-Information revealed: The chain. **Nine links.** Fifty-two assigned claims from the low ground, then the low ground's district account, then the account's arrears bought whole by a house that cannot collect from a district, then a carrier's line at the Tallow Gate for hauling in the harvest, then a rate arrears of **40 and some months**, assigned, then the district again, and again, until the last link is a district and the second from the end is **one Tallow Gate household's arrears in a sum under fifty.** The chain is lawful at every step. **The last link is the ninth month, and the carry is due in the ninth month, and both of them end in Tallow Ward.**
+Information revealed: The chain. **Nine links.** Fifty-two assigned claims from the low ground, then the low ground's district account, then the account's arrears bought whole by a house that cannot collect from a district, then a carrier's line at the Tallow Gate for hauling in the harvest, then a rate arrears of **forty-three and some months**, assigned, then the district again, and again, until the last link is a district and the second from the end is **one Tallow Gate household's arrears in a sum under fifty.** The chain is lawful at every step. **The last link is the ninth month, and the carry is due in the ninth month, and both of them end in Tallow Ward.**
 
 Action or decision: He writes the date on the sheet and he goes home. **He does not go to Tallow Ward that night, and he says why to himself in one sentence: because he has no office, and a man with no office who turns up at a tank at midnight is a rumour, and in nine months the office will come to the tank and there will be a form for it.** **And in the morning he tells Sedge, in person, that he will not recertify the fourth file — not because it is false, and he says so, and Sedge believes him and it makes no difference — and he has never in his life told the man who gave him the work that he was not going to do it.**
 

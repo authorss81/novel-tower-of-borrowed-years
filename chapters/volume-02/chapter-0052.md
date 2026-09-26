@@ -50,7 +50,7 @@ When the room emptied Marek said, to Kade, without any preamble: "They carried i
 
 "Sixteen people were not in the room, or he had counted the door and got it wrong."
 
-"Twenty, and you counted the door, and I counted the roll twice. There is one more and he is in the loft asleep, because he is seventy-eight and it is after the fourth bell." Kade folded the sheet and put it in her bag. "And that is how it is done in every cooperative in the Red Uplands and on this low ground, and it is not a scandal, and it is not stupidity. It is a good way for forty people to agree on a rotation without paying a clerk to write down that forty people agreed on a rotation. I have watched four cooperatives do it and I have never once seen it fail."
+"Twenty, and you counted the door, and I counted the roll twice. He is in the twenty. He is in the loft asleep, because he is seventy-eight and it is after the fourth bell." Kade folded the sheet and put it in her bag. "And that is how it is done in every cooperative in the Red Uplands and on this low ground, and it is not a scandal, and it is not stupidity. It is a good way for forty people to agree on a rotation without paying a clerk to write down that forty people agreed on a rotation. I have watched four cooperatives do it and I have never once seen it fail."
 
 "It means the meeting has to be the only way a decision gets made."
 

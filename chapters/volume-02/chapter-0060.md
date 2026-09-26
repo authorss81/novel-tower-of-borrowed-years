@@ -108,15 +108,15 @@ Sedge did not say anything, and Marek found that he had been bracing for a quest
 
 "I know."
 
-"It has to be done by somebody, and it will be done by me, and I will be signing it, and I have read the fourth clause this morning, which I had not read in nineteen years." He looked at the desk. "I want you to hear the shape of what I am about to say. I am doing it because you did not want to, and not because you were right, and if this is ever looked at, the two of those are going to be in it together and I am not going to be able to separate them and neither will you."
+"It has to be done by somebody, and it will be done by me, and I will be signing it, and I have read the fourth clause this morning, which I had not read until this morning." He looked at the desk. "I want you to hear the shape of what I am about to say. I am doing it because you did not want to, and not because you were right, and if this is ever looked at, the two of those are going to be in it together and I am not going to be able to separate them and neither will you."
 
 "It should have been you that read it," Marek said. "You have read it and I have not, and that is the whole of the difference between the two of us and it is not a matter of reading."
 
-"It is a matter of reading," said Sedge. "And I have just read it, and I am going to sign it badly on purpose, because I have not been sure of anything on this hill since the sixth bell this morning and I was sure of things this morning." He picked up the file. "I have been on this hill for nineteen years and twice in that time somebody has not wanted to sign something and the thing was signed by the supervisor, and one of those was a roof in the Rill yard and the family is still in it, and the other one is not a story. You have moved it off a man with no office and put it on a man whose word will be believed. That is the whole of what you have done. Go and count your other eighteen."
+"It is a matter of reading," said Sedge. "And I have just read it, and I am going to sign it badly on purpose, because I have not been sure of anything on this hill since the sixth bell this morning and I was sure of things this morning." He picked up the file. "I have been on this hill long enough that twice in it somebody has not wanted to sign something and the thing was signed by the supervisor, and one of those was a roof in the Rill yard and the family is still in it, and the other one is not a story. You have moved it off a man with no office and put it on a man whose word will be believed. That is the whole of what you have done, and there is a list on the desk behind you with a line on it that is not done."
 
 "I know," said Marek Vale. "That is the part I am going to have to carry."
 
-"Nobody in this building will help you carry it, because there is no box for it," said Sedge, "and you have spent a month learning that, and I am not going to pretend the lesson came cheap for either of us. Go and count your other eighteen."
+"Nobody in this building will help you carry it, because there is no box for it," said Sedge, "and you have spent a month learning that, and I am not going to pretend the lesson came cheap for either of us. And when that list is finished, come and find me, because I am going to want somebody to be angry at."
 
 ---
 
@@ -132,7 +132,7 @@ Nim Rook came up at the sixth bell that evening and stood in the copy room with 
 
 "It is that you would say so," said Nim Rook. "That is the whole of it. You would have said *I have nothing* and I could have gone down the hill. Four people this month had better than a clerk's word, Mr Vale, and I would like it on the record — and there is no form, and I know there is no form, and that is what I have been thinking about on the stair."
 
-Below them, on the Tally Hall door, the Trust's notice of the fourth was still nailed up with its seal, and the duty clerk had read it out twice that day, and about nine people had stopped on the steps to hear her, and not one of them said afterwards that they had read it.
+Below them, on the Tally Hall door, the Trust's notice of the fourth was still nailed up with its seal, and the duty clerk had read it out twice that day, and about nine people had stopped on the steps to hear her where there had been thirty the week before, and not one of them said afterwards that they had read it.
 
 The public register was on the table by the window with a new page in it, and the page said what the oldest page says, and beneath the empty line it said a signature written out in full, letter by letter, and the words *written in full*, and a date, and a man's name with no office after it. Anybody who came up the hill that week could stand at that table and read it, and something over forty people had stood at that table in a month, and there is no register of who they were.
 

@@ -20,7 +20,7 @@ Then he said it again, because it was worth hearing twice, and then he sat down 
 
 Ostrowsky, who was fifty-eight and had signed nine hundred settlement countersignatures and had never in his life asked where a fourth clause went, said, "They want to know what it is against."
 
-"They know what it is against. They are the ones who named it. Three days after a board named it." Grale turned the letter round so the desk was looking at the seal. "That is a question with a word in it, and the word is *named*, and what I want to know is what happens in nine months to a line with a word in it, and there is nobody in this city I can ask, and I have not got nine months, and that is exactly how long it will be."
+"They know what it is against. They are the ones who named it. Sixteen days after a board named it." Grale turned the letter round so the desk was looking at the seal. "That is a question with a word in it, and the word is *named*, and what I want to know is what happens in nine months to a line with a word in it, and there is nobody in this city I can ask, and I have not got nine months, and that is exactly how long it will be."
 
 "Where are you going to look?"
 

@@ -42,7 +42,7 @@ Ostrowsky read it standing up, because he reads everything standing up; nineteen
 
 "And you would not write it."
 
-"I have written nothing in the margin of a settlement instrument in nineteen years," said Ostrowsky, "and I am not going to start on a Thursday afternoon for a man who is not the clerk of the day. There is no place to put it, which is the difficulty and is the whole difficulty, and it is not that nobody will read it. There are four hundred people in this basin who would read it and understand every word of it, and there is nowhere in the world to put eleven words where any of them would come across them."
+"I have written nothing in the margin of a settlement instrument in nineteen years," said Ostrowsky, "and I am not going to start on an ordinary afternoon for a man who is not the clerk of the day. There is no place to put it, which is the difficulty and is the whole difficulty, and it is not that nobody will read it. There are four hundred people in this basin who would read it and understand every word of it, and there is nowhere in the world to put twenty-two words where any of them would come across them."
 
 He looked at the file for a moment longer.
 
