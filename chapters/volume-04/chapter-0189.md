@@ -4,13 +4,13 @@ The chandler told the lane on the morning of the twenty-seventh of the fourth mo
 
 "A man came to me on the twenty-fourth with a paper," he said, "and he was not unkind about it and he was not drunk and he was not in a hurry, and he asked me what stands on the ground behind my shop.
 
-"And I have got a bin back there that has been there since the second of the first month of this year and belongs to nobody and I have asked twice who owns it and I have never been told, and I have decided to go on not knowing and I told that to nine people in this lane in the fifth month and I have thought about it every day since, which is a sentence I have never had to say in my life.
+"And I have got a bin back there that four women carried up this lane on their backs the twenty-second of the second month of this year and that has been in that corner ever since and belongs to nobody, and I have asked twice who owns it and I have never been told, and I have decided to go on not knowing and I told that to nine people in this lane on the fifth of this month and I have thought about it every day since, which is a sentence I have never had to say in my life.
 
 "And on the twenty-fourth I could not go on not knowing, because there is a piece of paper and it is in his hand and he is going to come back, and it stopped being true the moment I saw four people go into that back room and I have got a shop and a front door and forty years of a trade and I did not sleep on the twenty-fourth, and I am standing here telling the lane because I would rather they heard it from me than from him."
 
 "What did you say to him," said Drazen Topic.
 
-"I said I did not know," said the chandler. "And that was true on the twenty-fourth and it stopped being true the moment I saw four people go into that back room, and I can name three of them."
+"I said I did not know," said the chandler. "And that was true on the twenty-fourth and it stopped being true the moment I saw four people go into that back room, and that is twice this morning I have said that sentence, and I can name three of them."
 
 ---
 

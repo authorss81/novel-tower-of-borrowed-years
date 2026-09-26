@@ -10,7 +10,7 @@ Margit Sova came up the ladder on the ninth of the fourth month of MR 416 with a
 
 She put her thumb on the lease and did not open it.
 
-"I have held it two seasons," she said, "and the reason I have held it is a man of about forty came down the low-ground road on the second of the ninth month of last year and said five words to me at a window about a boundary between two market pitches, and I have not been able to use my own ground since and I do not know what that means and neither does he, and he said the same five words to somebody else in the fifth month and they did not know about each other."
+"I have held it two seasons," she said, "and the reason I have held it is a man of about forty came down the low-ground road on the second of the ninth month of last year and said five words to me at a window about a boundary between two market pitches, and I have not been able to use my own ground since and I do not know what that means and neither does he, and he said the same five words to somebody else in the fifth month of last year and they did not know about each other."
 
 Nobody said anything.
 
