@@ -10,7 +10,7 @@ Four hours a day was agreed. Nothing charged was agreed. Not being asked to sign
 
 Then somebody at the back said the thing that turned the morning.
 
-"The woman at the weighbridge," he said. "Brel. Forty-six. She cannot read and she cannot write and she has been to a water office counter twice this year with her husband and both times he has said the figure out loud for her, and he is dead since the flood year. What does she do when she is standing in front of her own line."
+"The woman at the weighbridge," he said. "Brel. Forty-six. She cannot read and she cannot write and she has been to a water office counter twice this year with her husband, and both times he stood at the counter and said the figure out loud for her before the clerk behind them got to it, and he did it in about four seconds, and he works the north road and there are weeks when he is not in this city. And there is nobody else. What does she do when she is standing in front of her own line."
 
 The yard went quiet in the way it did about four times a summer.
 

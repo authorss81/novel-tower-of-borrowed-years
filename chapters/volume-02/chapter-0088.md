@@ -30,11 +30,11 @@ It took about an hour and a half and it went in the way those things go, which i
 
 The figures came from Oren Pike's counting floor and they came in a hand, on a sheet, unsigned, because a factor who puts a number in a room wants it known that it is his, and Pike's man on the slate had written them and had not improved them.
 
-A market pays two a reading. That is the going price and it has been two for eleven years, and a man in this city counted it in a lane on the twelfth of the month and gave the count to about forty people and is not in this room.
+A market pays two a reading. That is the going price and it has been two for eleven years, and a man in this city counted it on a counting floor on the twelfth of the month and gave the count to about ninety people and is not in this room.
 
 A levy, said the same sheet, cannot carry two. It carries about four a week, which is the going rate for a person sitting in a shed four hours a day answering a stranger, and which is what the girl in Merrow's shed is paid, and which Pike said he would not pay his own daughter less than.
 
-And a season of that comes to one hundred and forty, and one hundred and forty on sixty-one households is a little over two pounds each.
+And a season of that is not a hundred and forty. A hundred and forty a season is what came the other way round, off what sixty-one households on the low ground can carry without anybody having to ask them a second question, and one hundred and forty on sixty-one households is a little over two pounds each, and the two pounds is where it started and the hundred and forty is what it comes to. The sheet says both, in the order the two figures were got in.
 
 "Then that is the answer," said Sedge. "A hundred and forty a season, out of sixty-one households. It is not a large figure."
 

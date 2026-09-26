@@ -6,7 +6,7 @@ There were forty-one lines in it. On the twenty-first of the harvest month there
 
 Forty-one lines, in forty-one hands. The reader, who was nineteen, said so out loud to the lane about six times in an hour because it was the only true thing anybody had that morning, and it was not a rule and it was not a number, it was just what a room full of people had done.
 
-The shed is eleven feet by nine and it is built for a seed bin. The counter is two trestles and a board. At the fourth bell on the fourth morning there were about twenty-two people in it and about sixty in the lane and the queue had sorted itself by nothing at all, exactly as a grain factor had said in a shed on the low-ground road a fortnight before, and the three people who had been at the front of it at the first bell were still at the front of it, and nobody could say why and nobody tried.
+The shed is eleven feet by nine and it is built for a seed bin. The counter is two trestles and a board. At the fourth bell on the fourth morning there were about twenty-two people in it and about sixty in the lane, and the queue had sorted itself by nothing at all, and that was not an accident and it was not a decision either: there are three people who have been at the front of it since the first bell and nobody in that building, the man at the board included, could have told you which three or why, because a register with no list in it cannot put anybody anywhere, and the yard had agreed that on the fourteenth of this month in about forty minutes and had put it in writing nowhere, being a yard.
 
 ---
 
@@ -18,7 +18,7 @@ Somebody on the causeway said to somebody else that the register was going to ma
 
 Marek Vale stood behind the board and read out and entered nothing.
 
-He read the first line four times in a morning, which was the fourth time in five weeks, and the person at the front of the queue on the fourth morning was a woman of about sixty with a folded paper in her hand which was the counterfoil of an assignment dated the fourteenth of the second month, and she had carried it since the bad spring, and she said, twice, that she had never been told what it was.
+He read the first line four times in a morning, which was the fourth time since the twenty-first, and the person at the front of the queue on the fourth morning was a woman of about sixty with a folded paper in her hand which was the counterfoil of an assignment dated the fourteenth of the second month, and she had carried it since the bad spring, and she said, twice, that she had never been told what it was.
 
 "You may have it read out," he said. "It is your line and you may ask as many times as you like and nothing is charged. And I can read it out and I cannot give you a paper, and I want to be exact with you about why, because a man at a water office counter will tell you the same thing in the same words and you will think I copied him.
 
@@ -48,13 +48,13 @@ The girl came at about the fifth bell, alone, and she was sixteen and she had he
 
 She stood at the trestle for a while. The collectors were busy and there were four people in front of her, and one of them was a man who was arguing about seed. Then one of the collectors looked up and saw her and stopped what she was saying, because that is what people in this basin do about a girl of sixteen who is standing at a trestle on her own.
 
-The roll was in Bessok Tan's hand, because it is always in Bessok Tan's hand, and it is a piece of oiled board with sixty-one lines on it and a line of nails at the top, and every line is a household, and her mother's line is the fourth of hers, and Wenna Drel is on that board because her mother is, and has been since the third of the seed month, and had drawn seed and filled cones every day of the sowing and had never once put a hand up in that shed in her life.
+The roll was in Bessok Tan's hand, because it is always in Bessok Tan's hand, and it is a piece of oiled board with sixty-one lines on it and a line of nails at the top, and every line is a household, and her mother's line is the fourth from the end of the board, and Wenna Drel is on that board because her mother is, and has been since the third of the seed month, and had drawn seed and filled cones every day of the sowing and had never once put a hand up in that shed in her life.
 
 "Whatever it is," said the girl, "I have got nothing, and my mother cannot do days, and the book says that is allowed, and I would like it written down that I said it here and that nobody asked me whether I minded."
 
 Nobody asked her.
 
-The cap was in a paragraph on a nail a hundred feet away and it was the correct cap, and it produced exactly what it was designed to produce, which is a member who has paid nothing and is not entered; and the roll in Bessok Tan's hand is a list of households and does not have a place for a girl of sixteen who is on it because her mother is, and there is no form in this kingdom on which anybody asks her, and the levy agreed on the twenty-fourth of this month in a hearing room in Bell Stair is a levy on a cooperative's members and not on a person, and she is not a member, and she is a person.
+The cap was in a paragraph on a nail a hundred feet away and it was the correct cap, and it produced exactly what it was designed to produce, which is a member who has paid nothing and is not entered; and the roll in Bessok Tan's hand is a list of households and does not have a place for a girl of sixteen who is on her mother's line because her mother is, and there is no form in this kingdom on which anybody asks her, and the levy agreed on the twenty-fourth of this month in a hearing room in Bell Stair is a levy on a cooperative's members and not on a person, and she is not a member, and she is a person.
 
 Bessok Tan put the board down on the trestle, which is the only time in four years he has put it down in front of a person.
 
@@ -62,15 +62,15 @@ Bessok Tan put the board down on the trestle, which is the only time in four yea
 
 The girl went and stood in the shed and did not ask anybody anything, and read nothing, and stood about four feet off the counter for about a quarter of an hour with a room of strangers in it, and then went home.
 
-Nobody followed her and nobody wrote anything down, and Teodor Lask, the reader, said afterwards that the whole of the morning went out of the room twice while she was standing in it and came back in about as strong as it had been, and that he had been in rooms for thirty years and had not seen that happen except once before, at a gate in the rains.
+Nobody followed her and nobody wrote anything down, and Teodor Lask, the reader, said afterwards that the whole of the morning went out of the room while she was standing in it and came back in about as strong as it had been, and that he had been in rooms for thirty years and had not seen that happen except once before, at a gate in the rains.
 
 ---
 
 Ilma Tresch came at about the sixth.
 
-She is forty-one and she drew one of the eleven trays in the fourth week of the seed month and filled cones and carried two sacks and did all eleven days on ground that had already failed, and she has a cough that came in with the flood water and is now in the small of her back, and a doctor wrote her out of four of the eleven days and the doctor's certificate went to the clinic board and the board entered it as a cost and the district's answer to a cost is a rate.
+She is forty-one and she drew one of the eleven trays in the fourth week of the seed month and filled cones and carried two sacks, and she did the eleven days in the growth month on ground that had already failed, and she has had a cough since the ninth of the seed month which is now in the small of her back, and a physician called Sera Holt wrote her out of four of them, and the certificate went to the clinic board and the board entered it as a cost and the district's answer to a cost is a rate.
 
-On the twenty-second of the seed month a woman who keeps a seed house wrote eleven lines on a piece of sack with nothing at the head of it, and there was no form in the kingdom in which a rate on a member's ground goes, and the piece of sack went into the back of a bench book under the date and then went home with the woman who wrote it, because a sheet with nothing at the head of it does not stay in a building.
+On the third day of the harvest month a woman who keeps a seed house wrote eleven lines on a piece of sack with nothing at the head of it, and there was no form in the kingdom in which a rate on a member's ground goes, and the piece of sack went into the back of a bench book under the date and then went home with the woman who wrote it, because a sheet with nothing at the head of it does not stay in a building.
 
 On the twenty-second of this month the Share entered it, because the keeper of a seed house may enter a line about her own paper, which is the first rule of the form and the only rule anybody has been given by anybody.
 
@@ -120,10 +120,10 @@ He put it down on the trestle at the end of the morning, flat, under the form, w
 
 They shut the door at the seventh bell because the shed is not a warm building, and the register was not going live until the ninth month, and the fourth morning was the last morning it was open to look.
 
-There was a queue in the lane. It went past the end of the building and out along the causeway, and there was no water at the Ropewalk standpipe below it, and a trestle with a box on it and a slate with no total on it, and a form with six ruled lines and forty-one entries in forty-one hands and a fifth line that nobody could say what it was for and a sixth line that was empty because there is no box in this kingdom for the days a person loses by standing in a room.
+There was a queue in the lane. It went past the end of the building and out along the causeway, and there was no water at the Ropewalk standpipe below it, and a trestle with a box on it and a slate with no total on it, and a form with six ruled lines and forty-one entries in forty-one hands and a fifth line for the hours, which is empty because the hours are nobody's paper, and a sixth line that was empty because there is no box in this kingdom for the days a person loses by standing in a room.
 
 The register kept no total, and the yard had said out loud in a yard in the seed month why, and nobody in Tallow Ward had ever once been able to find out how many people were standing in a lane outside a shed, and they were not going to be able to find out this time either, and that was the first thing the room was good at and the only one anybody had been able to pay for.
 
 And the ninth month was almost on top of them, and a cut is not a date, and the lamp had not come off the ground, and nobody can serve a notice on a yard, and a woman in a shed on the low-ground road had said out loud on the twenty-sixth of this month that there was no number in his trade and no form in this kingdom for it, and that was the last thing anybody in the basin had learned this month and it was learned in the rain to a boy of fourteen.
 
-And the lane filled up again at about the seventh bell when about twenty people who had been sent away by the crowd came back, and the reader put the lamp on, and the man with no office read out the first line of the first morning, four times, which was the fourth time in five weeks.
+And the lane filled up again at about the seventh bell when about twenty people who had been sent away by the crowd came back, and the reader put the lamp on, and the man with no office read out the first line of the first morning, four times, which was the fourth time since the twenty-first.

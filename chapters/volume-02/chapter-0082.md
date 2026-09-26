@@ -101,7 +101,23 @@ She said what it cost, because the yard had made her say what it cost, and she s
 
 They voted again at the sixth bell and it carried, and the vote was not counted out loud and nobody wrote a number on anything, and what came out of it was four lines of conditions on the back of the yard's own refusal from the nail, in two hands, and both of them of the yard, and it went back on the nail under the new sheet with a bit of string through it.
 
-Marek Vale was at the end of the yard for all of it and was asked nothing and helped with nothing and was thanked by nobody, and the reason he was not missed is four lines on a nail and about a hundred and forty hands that are not his, and he stood there and understood that this was the second time in six weeks that a rule handed to him by somebody in this yard had turned out to be a rule about him, and that he was not going to be thanked for it either time.
+---
+
+Then Kern said the thing that was not a condition, and he said it from the step with his hands behind his back and about a hundred and forty people in the yard, and Teodor Lask read it out twice, and the yard did not vote on it either time.
+
+"There is a man standing at the end of this yard," said Kern. "He has been in it five weeks and he has not written one word of any of it down and he has not asked one of you a single question, and I have watched him not do it every day and I have not decided whether that is humility or a habit he brought with him, and it does not matter, and it is the reason those four lines are on a nail in a shed with a hole in the roof and not in a building with a door.
+
+"So the yard is going to say one thing out loud. It is not a condition and it is not a favour, and there is going to be no paper of it anywhere, and if there is I would like anybody in this yard to take it off a wall.
+
+"The register is read out by Marek Vale. That is the whole of it. Four hours a day on whatever days it opens, and he reads a line in the words the person gave it in, and he stops when somebody says *that is not what I said*, and if he does not stop he is a man in a good coat and not a reader, and anybody in this yard is to say so to his face and in front of other people.
+
+"And he cannot enter one word of it. That is not our rule and it is not a thing we have done to him. It is the form, and the form was cut by a clerk on a hill who told us himself he was not sure of it, and we are not going to improve his form for him."
+
+Asked whether anybody wished to say otherwise. About nine people said nothing. About four said a thing, and one of them said *you cannot give a man a standing*, and Kern said *we can give him the four hours and the road and the words and there is nobody in this city who can take one of those three off him*, and that did not get a vote either.
+
+Marek Vale said thank you, and Sanne Droll said *do not*, and nobody thanked anybody, which was the fourth condition and was not a condition and was the oldest thing in the yard.
+
+Marek Vale was at the end of the yard for all of it and was asked nothing and helped with nothing and was thanked by nobody, and the reason he was not missed is four lines on a nail and about a hundred and forty hands that are not his, and he stood there and understood that this was the second time in six weeks that a thing handed to him by somebody in this yard had turned out to be a thing about him, and that he was not going to be thanked for it either time, and that the yard had said it out loud in the open at a tank with a hundred and forty people in it, and that meant it would stand, and that a yard which says a thing out loud cannot afterwards be asked to produce it.
 
 They put the shutter over the tank at the seventh bell because the wind had gone round to the north, and the new sheet was inside the shed on the nail with the strings on, where anybody could get at it, and the box under the four rules was still empty and would be printed empty for as long as the yard allowed the thing to exist.
 

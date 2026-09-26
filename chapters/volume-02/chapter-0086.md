@@ -90,7 +90,7 @@ Then the yard did the thing it had been doing all summer, which was to be right 
 
 "Right, then," said Aldis Kern, to about eighty people in the open at a tank. "So the rule that has just stopped us is our own. Not the office's. Ours. Written on the back of a complaint sheet on the twentieth of the rains month by somebody at this tank who is not in this yard and whose name I have not said and am not going to say, and it is the first line, and it is four words, and it is *ask the household, not the yard*.
 
-"And I wrote it. Or it was written out of my mouth, and it is mine, and it is the best thing this yard has ever said, and it has cost us the only document in this basin that nobody can be traced to, and I would like that written on the nail next to it in my own words, and I would like it read out by the boy, and I would like it read out twice, and then I would like everybody to go home."
+"And I said it. I have said it out loud at this tank twice this summer and I am not going to stand in front of eighty people and be found out having found it. I do not know who held the pen, this yard does not know who held the pen, and we are not going to find out, and that is the only reason the sentence is any good at all. It is mine and it is the best thing this yard has ever said, and it has cost us the only document in this basin that nobody can be traced to, and I would like that written on the nail next to it in my own words, and I would like it read out by the boy, and I would like it read out twice, and then I would like everybody to go home."
 
 They read it out twice. Teodor Lask read it out twice. Nobody wrote a number on anything.
 
@@ -112,7 +112,7 @@ Marek Vale stood at the shutter of a tank in Tallow Ward and did not say anythin
 
 "I will not put your name near it."
 
-"That is the first thing anybody has done for me this month and it is also the cheapest," said Neris Kade, "and I am not thanking you for either, and you are welcome, and I am going to walk down to the low ground now and look at a hundred and forty people who have been examined this season, and I have told nobody in that yard that I have said this to you and I am not going to."
+"That is the first thing anybody has done for me this month and it is also the cheapest," said Neris Kade, "and I am not thanking you for either, and you are welcome, and I am going to walk down to the low ground now and look at the women I have examined this season, of whom there are a great many and not one of them has ever asked me a question, and I have told nobody in that yard that I have said this to you and I am not going to."
 
 She went down the causeway at the pace of a woman who has a long day behind her and a longer one in front, and Marek Vale went up it, and neither of them said the rest of it, then or afterwards, and that was the end of that and it was the smallest of the four.
 

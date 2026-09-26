@@ -26,7 +26,7 @@ He was at his table on the seventeenth day of the harvest month at the second be
 
 "It cannot be read in the next street either," said Sunn, "and that is what I would like you to go and tell them, and I have watched you work it out in the time it has taken me to say it, so I am not going to insult you by saying it slower.
 
-"You are building a thing that cannot leave the room it is in. And that is correct, and I am not going to pretend otherwise, and I want it recorded that the man who could have made it travelable has told you in his own rooms that he will not, in the second year of a four-year post, in a city where there is exactly one of him."
+"You are building a thing that cannot leave the room it is in. And that is correct, and I am not going to pretend otherwise, and I want it recorded that the man who could have made it travelable has told you in his own rooms that he will not, in the fourth and last year of a four-year post, in a city where there is exactly one of him."
 
 ---
 
